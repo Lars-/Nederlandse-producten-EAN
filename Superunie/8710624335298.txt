@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624335298",
+    "name": "g'woon Soep champignon",
+    "description": "g'woon Soep champignon",
+    "manufacturer": "Struik Foods Europe N.V.",
+    "available": true,
+    "price": 1.29,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3d190000-ff27-0003-5119-08d8c13ce9de\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwDh7wjY6EDsjg.670x670.jpg",
+    "source": "Jumbo.com"
+}

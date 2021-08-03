@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624323684",
+    "name": "Zuivelmeester Halfvolle melk",
+    "description": "Zuivelmeester Halfvolle melk",
+    "manufacturer": "Friesland Campina PL Dairy",
+    "available": true,
+    "price": 0.89,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7b3b0000-ff27-0003-4f1e-08d858ad952e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwA2_QjZKkLstA.670x670.jpg",
+    "source": "Jumbo.com"
+}

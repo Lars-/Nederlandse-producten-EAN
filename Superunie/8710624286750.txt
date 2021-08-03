@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624286750",
+    "name": "g'woon hamburgers",
+    "description": "g'woon hamburger blk kip1* VV1* 280 gram",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-b438-08d6f32db63c\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwC6UwjYLfb6Pw.670x670.jpg",
+    "source": "Jumbo.com"
+}

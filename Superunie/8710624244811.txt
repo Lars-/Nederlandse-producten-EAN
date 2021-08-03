@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624244811",
+    "name": "g'woon Chocoladereep wit",
+    "description": "g'woon Witte Chocolade 100 g",
+    "manufacturer": "All Crump N.V.",
+    "available": true,
+    "price": 1.19,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/01ed0000-ff41-0003-19f0-08d525357bfd\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwDAUwjZQEN0TA.670x670.jpg",
+    "source": "Jumbo.com"
+}

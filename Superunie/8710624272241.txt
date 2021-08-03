@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624272241",
+    "name": "g'woon Oosterse wokgroente",
+    "description": "G'woon Oosterse wokgroente 600 GRM Zak",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.22,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/41db0000-ff8a-0003-4eaa-08d6283d8d02\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBOFwjYLfZaHw.670x670.jpg",
+    "source": "Jumbo.com"
+}

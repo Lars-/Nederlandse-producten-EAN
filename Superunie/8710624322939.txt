@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624322939",
+    "name": "g'woon Drop zwart wit mix",
+    "description": "g'woon Drop zwart wit mix",
+    "manufacturer": "Concorp Brands N.V.",
+    "available": true,
+    "price": 1.19,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3b020000-ff27-0003-f179-08d82d4ee577\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA2eSf-AwDgjQjYhfZxBg.670x670.jpg",
+    "source": "Jumbo.com"
+}

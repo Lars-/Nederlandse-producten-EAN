@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624272913",
+    "name": "Bio+ Tuinerwtjes",
+    "description": "Bio+ Tuinerwten diepgevroren 450gr",
+    "manufacturer": "Heveck VriesVers B.V.",
+    "available": true,
+    "price": 1.49,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/41db0000-ff8a-0003-24e3-08d6283d8a7f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCyQAjYLfZefA.670x670.jpg",
+    "source": "Jumbo.com"
+}

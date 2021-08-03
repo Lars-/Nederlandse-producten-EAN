@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624196127",
+    "name": "New Way Maandverband ultra normaal",
+    "description": "NewWay maandverband ultra normaal 16st",
+    "manufacturer": "Ontex International",
+    "available": true,
+    "price": 0.87,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/787e0270-dadd-40dd-b678-2b3bd34c0d8f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBaSAjYLfTNtQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

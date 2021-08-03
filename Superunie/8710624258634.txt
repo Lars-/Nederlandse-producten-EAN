@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624258634",
+    "name": "g'woon Pizza mozzarella",
+    "description": "g'woon Krokante Pizza Mozzarella met cherrytomaten 335gr",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.89,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/982b0000-ffdf-0003-ff3e-08d5c4951d44\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAGggjYLfWwXQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

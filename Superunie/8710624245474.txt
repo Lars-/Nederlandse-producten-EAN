@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624245474",
+    "name": "g'woon Waspoeder wit",
+    "description": "g'woon Wit Waspoeder 2,025 kg",
+    "manufacturer": "Senzora B.V.",
+    "available": true,
+    "price": 2.59,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/01ed0000-ff41-0003-5a52-08d5253593f2\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBeygjYLfVDnQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

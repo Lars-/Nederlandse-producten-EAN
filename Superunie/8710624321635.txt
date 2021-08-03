@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624321635",
+    "name": "g'woon Wasmiddel wit vloeibaar",
+    "description": "g'woon Wasmiddel wit vloeibaar",
+    "manufacturer": "Vipack B.V.",
+    "available": true,
+    "price": 2.69,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/79360000-ff27-0003-2045-08d884b38d50\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAC1KSf-AwBW3QjYmz6kiw.670x670.jpg",
+    "source": "Jumbo.com"
+}

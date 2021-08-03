@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624288297",
+    "name": "g'woon Dropmix zout",
+    "description": "G'woon Dropmix zout 400 gram",
+    "manufacturer": "Continental Candy Industries BV",
+    "available": true,
+    "price": 1.33,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-12b1-08d6ee7fd6c6\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwCxsgjYQyvqWw.670x670.jpg",
+    "source": "Jumbo.com"
+}

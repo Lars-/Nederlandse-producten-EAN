@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624333997",
+    "name": "g'woon Spritsen",
+    "description": "g'woon Spritsen",
+    "manufacturer": "Molenaar Banket B.V.",
+    "available": true,
+    "price": 1.79,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-ea65-08d8cce789ee\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwAxDAjZA8HFvw.670x670.jpg",
+    "source": "Jumbo.com"
+}

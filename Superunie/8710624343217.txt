@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624343217",
+    "name": "g'woon Cassis",
+    "description": "g'woon Cassis",
+    "manufacturer": "United Soft Drinks B.V.",
+    "available": true,
+    "price": 3.54,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/734a0000-ff27-0003-0f63-08d9243293e7\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwBNdAjZJMLgSA.670x670.jpg",
+    "source": "Jumbo.com"
+}

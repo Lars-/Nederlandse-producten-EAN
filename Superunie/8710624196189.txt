@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624196189",
+    "name": "New Way Inlegkruisjes large",
+    "description": "NewWay inlegkruisjes large 28st",
+    "manufacturer": "Ontex International",
+    "available": true,
+    "price": 1.39,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/a2a787d3-fa46-4087-9953-97a44a6519d8\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAuNgjYLfTNtQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

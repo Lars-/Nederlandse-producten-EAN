@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624344399",
+    "name": "g'woon Bronwater koolzuurvrij",
+    "description": "g'woon Bronwater koolzuurvrij",
+    "manufacturer": "Dalphin International Group",
+    "available": true,
+    "price": 0.65,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/734a0000-ff27-0003-e244-08d92f3d845e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwDRIgjZSOhPww.670x670.jpg",
+    "source": "Jumbo.com"
+}

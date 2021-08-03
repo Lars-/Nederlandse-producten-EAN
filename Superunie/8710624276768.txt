@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624276768",
+    "name": "g'woon Adult brokken in gelei met kalf & lever",
+    "description": "g'woon Adult hond brokken in gelei rund en lever 415gr",
+    "manufacturer": "Partner In Pet Food Nl B.V.",
+    "available": true,
+    "price": 0.65,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6e790000-ff4b-0003-c4c5-08d68ab63444\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwAKIwjYQ-TX3w.670x670.jpg",
+    "source": "Jumbo.com"
+}

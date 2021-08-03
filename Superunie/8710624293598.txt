@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624293598",
+    "name": "Sum & Sam Woksaus 5 spices",
+    "description": "Sum & Sam Woksaus 5-spices 175ml",
+    "manufacturer": "Inproba BV",
+    "available": true,
+    "price": 1.39,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-972c-08d756bdb1d7\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwB0eAjYLfdI6A.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624341268",
+    "name": "g'woon Mini choco mix ijsjes",
+    "description": "g'woon Mini choco mix ijsjes",
+    "manufacturer": "Heveck VriesVers B.V.",
+    "available": true,
+    "price": 1.46,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-fe26-08d8dd7c7463\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwCr_gjY_Yqmng.670x670.jpg",
+    "source": "Jumbo.com"
+}

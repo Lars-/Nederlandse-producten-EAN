@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624307004",
+    "name": "g'woon Espresso original",
+    "description": "g'woon Espresso original",
+    "manufacturer": "Delica AG",
+    "available": true,
+    "price": 7.29,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5fe10000-ff27-0003-7d3e-08d8482c882b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwCFUAjYSKuUww.670x670.jpg",
+    "source": "Jumbo.com"
+}

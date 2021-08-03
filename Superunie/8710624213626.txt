@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624213626",
+    "name": "Melkan Houdbare volle melk",
+    "description": "Melkan UHT volle weidemelk 1L",
+    "manufacturer": "Alpro Soya Nederland BV",
+    "available": true,
+    "price": 1.15,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/0f7e0000-ff41-0003-9c82-08d3fcb9fe37\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AACP7tVE7_aNEQjYgLnQfQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

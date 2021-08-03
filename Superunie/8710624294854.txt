@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624294854",
+    "name": "g'woon Siroop multi bosvruchten",
+    "description": "g'woon Multivitamine bosvruchten 750ml",
+    "manufacturer": "Burg Ter Aar B.V.",
+    "available": true,
+    "price": 1.55,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-8d1d-08d72a26090e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAB_AjYLfdRiA.670x670.jpg",
+    "source": "Jumbo.com"
+}

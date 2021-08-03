@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624265120",
+    "name": "g'woon Chips bolognese",
+    "description": "g'woon Chips Bolognese 225gr",
+    "manufacturer": "Roger & Roger N.V.",
+    "available": true,
+    "price": 0.89,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-1894-08d606a09018\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDd7gjYLfXj2Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

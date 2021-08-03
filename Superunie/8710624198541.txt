@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624198541",
+    "name": "Sum & Sam Geraspte Kokos",
+    "description": "Sum & Sam Geraspte Kokos 100gr",
+    "manufacturer": "Sum & Sam",
+    "available": true,
+    "price": 0.91,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4e3afef9-2085-4572-b9d5-5b9f59046b54\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwA8BgjYLfTWfw.670x670.jpg",
+    "source": "Jumbo.com"
+}

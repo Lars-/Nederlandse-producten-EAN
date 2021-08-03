@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624299217",
+    "name": "g'woon Yogomild",
+    "description": "g'woon Yogomild",
+    "manufacturer": "Remia N.V.",
+    "available": true,
+    "price": 1.19,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5a120000-ff27-0003-8d1b-08d771ac2699\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAcWQjYLfd4Wg.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624314057",
+    "name": "g'woon Maaltijdpita volkoren",
+    "description": "g'woon Maaltijdpita volkoren",
+    "manufacturer": "Pita-Bakkerij Cairo B.V.",
+    "available": true,
+    "price": 1.25,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3b020000-ff27-0003-6e2d-08d82d4eddf7\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDoIQjYLffUSw.670x670.jpg",
+    "source": "Jumbo.com"
+}

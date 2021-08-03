@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624286491",
+    "name": "Sum&Sam Ketjap manis",
+    "description": "Sum & Sam Ketjap Manis 500ml",
+    "manufacturer": "Inproba BV",
+    "available": true,
+    "price": 0.86,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-a085-08d724b7fd9b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBcRAjYLfb5EQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624303396",
+    "name": "Bonb\u00e9b\u00e9 Luierbroekje pants XL",
+    "description": "bonb\u00e9b\u00e9 Luierbroekjes XL 20st",
+    "manufacturer": "Ontex International",
+    "available": true,
+    "price": 5.1,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-e4af-08d7402c91ef\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDJmwjYLfelFA.670x670.jpg",
+    "source": "Jumbo.com"
+}

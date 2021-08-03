@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624196226",
+    "name": "New Way Inlegkruisjes normaal",
+    "description": "NewWay inlegkruisjes normaal 32st",
+    "manufacturer": "Ontex International",
+    "available": true,
+    "price": 1.14,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/b375542b-9355-4820-8a09-fe80f91327b9\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCK0wjYLfTNxg.670x670.jpg",
+    "source": "Jumbo.com"
+}

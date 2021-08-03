@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624239848",
+    "name": "g'woon Mini salami",
+    "description": "g'woon mini salami 4x25 gram",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.35,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/05db0000-ff41-0003-0f13-08d5042869b0\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBUhgjYLfUoCg.670x670.jpg",
+    "source": "Jumbo.com"
+}

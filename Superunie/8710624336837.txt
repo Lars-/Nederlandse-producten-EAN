@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624336837",
+    "name": "g'woon Pittige erwtensoep",
+    "description": "g'woon Pittige erwtensoep",
+    "manufacturer": "Larco Foods B.V.",
+    "available": true,
+    "price": 0.69,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6d780000-ff27-0003-f92c-08d919447351\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwCwWwjZHOcQ3w.670x670.jpg",
+    "source": "Jumbo.com"
+}

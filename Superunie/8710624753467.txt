@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624753467",
+    "name": "Prei fijn",
+    "description": "Unbranded Prei fijn 200 GRM VERPAKT",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 0.85,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2fe20000-ff41-0003-1275-08d4a6a198dc\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAAZPSf-AwCsuAjYx0-bSA.670x670.jpg",
+    "source": "Jumbo.com"
+}

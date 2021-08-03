@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624215200",
+    "name": "Paper Toiletpapier 2 laags 16 rol",
+    "description": "Paper Toiletpapier 2 laags 16 rol",
+    "manufacturer": "Wepa Papierfabriek",
+    "available": true,
+    "price": 3.19,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7b3b0000-ff27-0003-adb2-08d858ad090e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA7eyf-AwAkygjYWfUrIg.670x670.jpg",
+    "source": "Jumbo.com"
+}

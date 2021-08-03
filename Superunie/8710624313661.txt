@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624313661",
+    "name": "Derlon Wattenstaafjes",
+    "description": "Derlon Wattenstaafjes",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.69,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/505b0000-ff27-0003-fc40-08d832339461\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCbqQjYMqrfrw.670x670.jpg",
+    "source": "Jumbo.com"
+}

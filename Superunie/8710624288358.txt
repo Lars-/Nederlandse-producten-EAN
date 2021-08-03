@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624288358",
+    "name": "g'woon Gomballen",
+    "description": "g'woon Gomballen 400gr",
+    "manufacturer": "Continental Candy Industries BV",
+    "available": true,
+    "price": 2.02,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-e40a-08d6ee7fd6d0\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwDmtAjYQyvq1Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

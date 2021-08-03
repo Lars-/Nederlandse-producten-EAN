@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624321970",
+    "name": "Selezione Ristorante Gevulde gegrilde groenten",
+    "description": "Selezione Ristorante Gevulde gegrilde groenten",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 2.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/505b0000-ff27-0003-470c-08d832337f13\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA7eyf-AwBbdAjYYQewwg.670x670.jpg",
+    "source": "Jumbo.com"
+}

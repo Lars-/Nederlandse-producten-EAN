@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624297213",
+    "name": "g'woon Natuurazijn geel",
+    "description": "g'woon Natuurazijn geel 1,5L",
+    "manufacturer": "De Burg B.V.",
+    "available": true,
+    "price": 0.54,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-a8ad-08d73aac4af3\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBvGQjYLfdj6g.670x670.jpg",
+    "source": "Jumbo.com"
+}

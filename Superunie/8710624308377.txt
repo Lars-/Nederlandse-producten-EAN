@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624308377",
+    "name": "First Choice Cola regular fles 4x500ml",
+    "description": "First Choice Cola regular fles 4x500ml",
+    "manufacturer": "Refresco B.V.",
+    "available": true,
+    "price": 2.49,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4e750000-ff27-0003-396b-08d7f0230119\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCM5wjYLffDwA.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624261177",
+    "name": "g'woon Tomatenketchup",
+    "description": "g'woon Tomatenketchup 500ml",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.78,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/bac90000-ffdf-0003-6608-08d5bfee7bbe\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAArmN--AwBqqQjVxWX-Tg.670x670.jpg",
+    "source": "Jumbo.com"
+}

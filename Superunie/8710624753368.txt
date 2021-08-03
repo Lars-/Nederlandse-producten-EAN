@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624753368",
+    "name": "Coop Bieten met ui",
+    "description": "Coop Bieten met ui",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 1.99,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/9e560000-ffdf-0003-f0cc-08d5cd3693c8\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwA7HQjYz_S-jA.670x670.jpg",
+    "source": "Jumbo.com"
+}

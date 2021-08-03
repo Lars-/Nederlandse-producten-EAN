@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624288198",
+    "name": "g'woon Engelse drop",
+    "description": "G'woon Engelse drop 400 gram",
+    "manufacturer": "Continental Candy Industries BV",
+    "available": true,
+    "price": 1.06,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-929e-08d6ee7fdb3d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwBNWgjYQyvqIg.670x670.jpg",
+    "source": "Jumbo.com"
+}

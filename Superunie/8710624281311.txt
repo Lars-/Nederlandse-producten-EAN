@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624281311",
+    "name": "Bio+ Gemengde bonen",
+    "description": "BIO+ Gemengde bonen 400 g blik",
+    "manufacturer": "Bio+ Trading Company",
+    "available": true,
+    "price": 1.02,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/525e0000-ff27-0003-147f-08d6d227aac2\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAsagjYLfbT6g.670x670.jpg",
+    "source": "Jumbo.com"
+}

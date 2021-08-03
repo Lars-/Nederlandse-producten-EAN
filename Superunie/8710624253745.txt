@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624253745",
+    "name": "Daily Chef Witlof stamppot ham\/kaas",
+    "description": "daily CHEF Witlofstamppot Met Hamlapje En Kaassaus 500gr",
+    "manufacturer": "Bonfait B.V.",
+    "available": true,
+    "price": 3.75,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/d8070000-ffdf-0003-49bf-08d5a39d887f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwCO_gjZCUHgvA.670x670.jpg",
+    "source": "Jumbo.com"
+}

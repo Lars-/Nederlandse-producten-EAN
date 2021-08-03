@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624268121",
+    "name": "g'woon Notenrijst",
+    "description": "g'woon Notenrijst 275 gram",
+    "manufacturer": "Mediterranean Food Labels B.V.",
+    "available": true,
+    "price": 1.49,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/adb90000-ff55-0003-e3f9-08d64e34130d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwB6-QjYLfYY7w.670x670.jpg",
+    "source": "Jumbo.com"
+}

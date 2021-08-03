@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624344931",
+    "name": "Vismarine Zalmfakkels 2 stuks",
+    "description": "Vismarine Zalmfakkels 2 stuks",
+    "manufacturer": "Profish Food B.V.",
+    "available": true,
+    "price": 2.99,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-4748-08d8f8fec37a\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwA-0gjY_YqmqA.670x670.jpg",
+    "source": "Jumbo.com"
+}

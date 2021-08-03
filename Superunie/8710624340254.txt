@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624340254",
+    "name": "g'woon Pmd trekbandzak transparant 35L",
+    "description": "g'woon Pmd trekbandzak transparant 35L",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.34,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6d780000-ff27-0003-3276-08d91f7da236\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwBTpQjZK_avAw.670x670.jpg",
+    "source": "Jumbo.com"
+}

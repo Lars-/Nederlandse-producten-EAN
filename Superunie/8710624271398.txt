@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624271398",
+    "name": "g'woon Risotto rijst",
+    "description": "g'woon risotto rijst 400g",
+    "manufacturer": "Sillevoldt Rijst B.V.",
+    "available": true,
+    "price": 1.27,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/41db0000-ff8a-0003-ebfa-08d6283d6a7b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwB3qAjYLfZHtA.670x670.jpg",
+    "source": "Jumbo.com"
+}

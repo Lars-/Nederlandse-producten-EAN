@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624319175",
+    "name": "Vismarine Kabeljauwhaas",
+    "description": "Vismarine Kabeljauwhaas",
+    "manufacturer": "Profish Food B.V.",
+    "available": true,
+    "price": 5.99,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4e750000-ff27-0003-1a51-08d80bb03d93\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADyPCf-AwBkmAjYPasQ0w.670x670.jpg",
+    "source": "Jumbo.com"
+}

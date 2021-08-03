@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624281977",
+    "name": "Cranberries",
+    "description": "Cranberries 250gr",
+    "manufacturer": "Qualino B.V.",
+    "available": true,
+    "price": 3.65,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6e790000-ff4b-0003-43de-08d67fba6235\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwBs-QjXzO03Sg.670x670.jpg",
+    "source": "Jumbo.com"
+}

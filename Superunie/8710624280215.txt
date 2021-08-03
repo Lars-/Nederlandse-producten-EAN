@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624280215",
+    "name": "Bonb\u00e9b\u00e9 Ikke doen billenpoetsers",
+    "description": "Bonbeb\u00e9 Kids Toilet Wipes 60 Fragranced",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.89,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-824e-08d7459105e9\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwAGGQjXzO00UA.670x670.jpg",
+    "source": "Jumbo.com"
+}

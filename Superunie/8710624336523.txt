@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624336523",
+    "name": "Holland Bloemkool bio",
+    "description": "Holland Bloemkool bio",
+    "manufacturer": "Smeding Groenten en Fruit",
+    "available": true,
+    "price": 1.99,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/79360000-ff27-0003-f08a-08d88a4ec6e9\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA2eSf-AwBV3gjYir5heg.670x670.jpg",
+    "source": "Jumbo.com"
+}

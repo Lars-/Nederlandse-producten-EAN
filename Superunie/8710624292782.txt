@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624292782",
+    "name": "Melkan volle yoghurt",
+    "description": "Melkan Volle Yoghurt 1L",
+    "manufacturer": "Arla Foods B.V.",
+    "available": true,
+    "price": 1.15,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-1766-08d73534d9a2\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDtlwjYLfdBZw.670x670.jpg",
+    "source": "Jumbo.com"
+}

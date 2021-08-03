@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624277604",
+    "name": "g'woon Sultana rozijnen",
+    "description": "G'Woon rozijn sultana 375 gram",
+    "manufacturer": "Catz International B.V.",
+    "available": true,
+    "price": 1.39,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-332c-08d695ad3f8f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADyPCf-AwADJgjYOPQlsw.670x670.jpg",
+    "source": "Jumbo.com"
+}

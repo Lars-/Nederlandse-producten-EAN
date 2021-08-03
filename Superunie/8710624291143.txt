@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624291143",
+    "name": "g'woon Pepermunt",
+    "description": "g'woon Pepermunt 250gr",
+    "manufacturer": "Fortuin Dockum B.V.",
+    "available": true,
+    "price": 0.89,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-d45f-08d6ee7fdaf7\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwB1ZQjYQyvukQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

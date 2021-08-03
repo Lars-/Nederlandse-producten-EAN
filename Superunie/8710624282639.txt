@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624282639",
+    "name": "Green Appelmoes",
+    "description": "GREEN APPELMOES 720ML",
+    "manufacturer": "Coroos Conserven B.V.",
+    "available": true,
+    "price": 0.69,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-98e3-08d69b28d1ea\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwBYwwjXzO04Rg.670x670.jpg",
+    "source": "Jumbo.com"
+}

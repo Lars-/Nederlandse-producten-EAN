@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624345730",
+    "name": "First Choice Cola light",
+    "description": "First Choice Cola Light Voordeelpak 4 x 1,5 L",
+    "manufacturer": "Refresco B.V.",
+    "available": true,
+    "price": 4.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6d780000-ff27-0003-b152-08d913b72cf4\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwCyFQjZNUMPeA.670x670.jpg",
+    "source": "Jumbo.com"
+}

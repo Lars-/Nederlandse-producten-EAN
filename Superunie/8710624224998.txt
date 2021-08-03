@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624224998",
+    "name": "Bindy Zelfrijzend bakmeel",
+    "description": "Bindy Zelfrijzend bakmeel",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.9,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3d190000-ff27-0003-ce2e-08d8c13ce9df\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAAZPSf-AwDJtgjYx0-VRQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624224875",
+    "name": "Van Zoelen Ontbijtkoek ongesneden",
+    "description": "Van Zoelen Ontbijtkoek ongesneden",
+    "manufacturer": "Modderman",
+    "available": true,
+    "price": 0.69,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-235d-08d777296f75\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwDrqgjXzO0ZVA.670x670.jpg",
+    "source": "Jumbo.com"
+}

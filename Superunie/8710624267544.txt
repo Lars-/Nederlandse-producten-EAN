@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624267544",
+    "name": "g'woon Jus rundvlees",
+    "description": "g'woon jus rundvlees 18gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.3,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-00bf-08d5fb99de98\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADyPCf-AwA73AjYOPQcGg.670x670.jpg",
+    "source": "Jumbo.com"
+}

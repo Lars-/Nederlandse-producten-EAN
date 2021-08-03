@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624268084",
+    "name": "Melkan Rice drink",
+    "description": "Melkan rice drink 1 liter",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.39,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/41db0000-ff8a-0003-dcd1-08d62d32e52b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBoewjYLfYX4Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

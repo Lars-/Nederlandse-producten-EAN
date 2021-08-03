@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624291525",
+    "name": "g'woon Extra jam kersen",
+    "description": "g'woon extra jam Kers 450g pot",
+    "manufacturer": "Geurts",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-3081-08d7402c96e7\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwD_jAjY_xza9g.670x670.jpg",
+    "source": "Jumbo.com"
+}

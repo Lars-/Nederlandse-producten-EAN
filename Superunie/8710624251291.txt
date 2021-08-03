@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624251291",
+    "name": "Melkan Slagroom 35% vet",
+    "description": "melkan Slagroom 35% Vet 125ml Beker\/Kuipje",
+    "manufacturer": "A-Ware Packaging",
+    "available": true,
+    "price": 0.79,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/01ed0000-ff41-0003-6e26-08d5253584b0\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCFTAjYLfVwvA.670x670.jpg",
+    "source": "Jumbo.com"
+}

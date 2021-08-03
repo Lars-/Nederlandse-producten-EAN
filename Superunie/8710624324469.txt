@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624324469",
+    "name": "g'woon Vruchtenthee mango",
+    "description": "g'woon Mango Vruchtenthee 20 x 1,5 g",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.19,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6d780000-ff27-0003-8564-08d90e4398eb\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwCSPQjZNUMObA.670x670.jpg",
+    "source": "Jumbo.com"
+}

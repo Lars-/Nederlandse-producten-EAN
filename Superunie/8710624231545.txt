@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624231545",
+    "name": "Green Appelmoes",
+    "description": "Green appelmoes 370 ml",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.55,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-722d-08d6e29bfb75\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwAT3wjXzO0jIg.670x670.jpg",
+    "source": "Jumbo.com"
+}

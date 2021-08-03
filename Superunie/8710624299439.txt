@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624299439",
+    "name": "g'woon Currysaus topdown cube",
+    "description": "g'woon Currysaus topdown cube",
+    "manufacturer": "Remia N.V.",
+    "available": true,
+    "price": 1.34,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-4724-08d77cb85cca\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBu0QjYLfd5HQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

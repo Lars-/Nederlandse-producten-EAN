@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624257569",
+    "name": "Derlon Shampoo men iedere dag",
+    "description": "Derlon shampoo Men iedere dag 500ml",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.89,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/c6780000-ffdf-0003-a669-08d5932ac241\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCQ5wjYLfWitA.670x670.jpg",
+    "source": "Jumbo.com"
+}

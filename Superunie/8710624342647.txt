@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624342647",
+    "name": "g'woon Pijnboompitten",
+    "description": "g'woon Pijnboompitten",
+    "manufacturer": "Menken Orlando B.V.",
+    "available": true,
+    "price": 2.58,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6d780000-ff27-0003-4f9d-08d90e43ae9d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwCwGwjZKkLwyw.670x670.jpg",
+    "source": "Jumbo.com"
+}

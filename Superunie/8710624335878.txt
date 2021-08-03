@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624335878",
+    "name": "g'woon Choco ruiten",
+    "description": "g'woon Choco ruiten",
+    "manufacturer": "Daelmans Banket B.V.",
+    "available": true,
+    "price": 1.59,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-666c-08d8d736bed4\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwCE2wjZH0J4tQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

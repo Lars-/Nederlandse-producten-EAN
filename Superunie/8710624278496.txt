@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624278496",
+    "name": "Bio+ Halvarine",
+    "description": "BIO+ Halvarine 500g",
+    "manufacturer": "Smilde Foods BV",
+    "available": true,
+    "price": 2.15,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-1e54-08d6c7e79f24\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAQwwjYLfa6BQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

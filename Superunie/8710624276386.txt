@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624276386",
+    "name": "g'woon Tintelfruit witte druif citroen",
+    "description": "g'woon tintelend met druif en citroen 1,5L",
+    "manufacturer": "Refresco B.V.",
+    "available": true,
+    "price": 0.69,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6e790000-ff4b-0003-3f9b-08d68ab635cb\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBn9QjYLfaoww.670x670.jpg",
+    "source": "Jumbo.com"
+}

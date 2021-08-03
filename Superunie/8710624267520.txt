@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624267520",
+    "name": "g'woon Jus pikant",
+    "description": "g'woon jus pikant 18gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.3,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-7056-08d5fb99de93\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAwdgjYLfYMjg.670x670.jpg",
+    "source": "Jumbo.com"
+}

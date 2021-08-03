@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624221911",
+    "name": "g'woon Vruchtendrank sinaasappel & abrikoos",
+    "description": "g'woon Vruchtendrank Sinaasappel Abrikoos 1l",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.29,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/020c0000-ff41-0003-d344-08d43b0fe904\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCYfAjYLfUCeQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

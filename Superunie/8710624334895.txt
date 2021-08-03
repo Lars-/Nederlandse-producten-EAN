@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624334895",
+    "name": "g'woon Sneeuwwitjes",
+    "description": "g'woon Sneeuwwitjes",
+    "manufacturer": "Aviateur Banketbakkerijen B.V.",
+    "available": true,
+    "price": 1.59,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/29b50000-ff27-0003-87ba-08d8a04ce5e8\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwDNJQjY__YLeg.670x670.jpg",
+    "source": "Jumbo.com"
+}

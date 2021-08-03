@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624302320",
+    "name": "g'woon Spoelglans",
+    "description": "g'woon Spoelglans",
+    "manufacturer": "Vipack B.V.",
+    "available": true,
+    "price": 1.34,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5a120000-ff27-0003-b2c1-08d771ac2624\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwAKCwjZKkLp3A.670x670.jpg",
+    "source": "Jumbo.com"
+}

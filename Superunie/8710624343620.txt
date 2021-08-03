@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624343620",
+    "name": "Bio+ Kikkererwten biologisch",
+    "description": "Bio+ Kikkererwten biologisch",
+    "manufacturer": "Greenyard Prepared Belgium NV",
+    "available": true,
+    "price": 1.43,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-bd9c-08d8f8feb9de\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwDBdwjY__YOXw.670x670.jpg",
+    "source": "Jumbo.com"
+}

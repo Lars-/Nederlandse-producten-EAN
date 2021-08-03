@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624257002",
+    "name": "g'woon IJspret mixpak",
+    "description": "g'woon Waterijs Mixpak 10st",
+    "manufacturer": "Heveck VriesVers B.V.",
+    "available": true,
+    "price": 2.09,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/ddd50000-ffdf-0003-6a91-08d5b9aa78b2\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDfcQjYLfWejw.670x670.jpg",
+    "source": "Jumbo.com"
+}

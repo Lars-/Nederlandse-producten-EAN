@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624321772",
+    "name": "g'woon Wasmiddel donker vloeibaar",
+    "description": "g'woon Wasmiddel donker vloeibaar",
+    "manufacturer": "Vipack B.V.",
+    "available": true,
+    "price": 2.13,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/79360000-ff27-0003-be78-08d884b38d4e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAC1KSf-AwDbEQjYmz6lWw.670x670.jpg",
+    "source": "Jumbo.com"
+}

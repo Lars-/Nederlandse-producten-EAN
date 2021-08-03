@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624296124",
+    "name": "g'woon Mineraalwater koolzuurhoudend citroen",
+    "description": "g'woon Mineraalwater koolzuurhoudend citroen",
+    "manufacturer": "Dalphin International Group",
+    "available": true,
+    "price": 0.39,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-2336-08d79db492f5\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwAmyAjZDGaDFw.670x670.jpg",
+    "source": "Jumbo.com"
+}

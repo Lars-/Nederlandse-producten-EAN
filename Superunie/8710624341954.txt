@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624341954",
+    "name": "Sense Original bewust",
+    "description": "Sense original bewust",
+    "manufacturer": "Vandemoortele Nederland B.V.",
+    "available": true,
+    "price": 2.39,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-0670-08d8ed48db6d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwAZfwjZGcI33w.670x670.jpg",
+    "source": "Jumbo.com"
+}

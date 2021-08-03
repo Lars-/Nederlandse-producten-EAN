@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624259723",
+    "name": "Sum & Sam Kokosmelk",
+    "description": "Sum & Sam Kokosmelk 200ml",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.89,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/46b60000-ff41-0003-351a-08d582aea106\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAYjQjYLfW8_g.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624337926",
+    "name": "g'woon Creme Brulee koekjes",
+    "description": "g'woon Creme Brulee koekjes",
+    "manufacturer": "Banketbakkerij Nora B.V.",
+    "available": true,
+    "price": 1.65,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/29b50000-ff27-0003-f95a-08d8a04dbb6d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwDxzQjY__YOCg.670x670.jpg",
+    "source": "Jumbo.com"
+}

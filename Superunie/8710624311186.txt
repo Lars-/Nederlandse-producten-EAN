@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624311186",
+    "name": "Bio+ Kruiden basilicum",
+    "description": "Bio+ Kruiden basilicum",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.49,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4e750000-ff27-0003-5c82-08d7d4b6114b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADyPCf-AwDbaAjYOPQpBA.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624298869",
+    "name": "Bio+ Groene thee citroen",
+    "description": "Bio+ Groene thee citroen",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.25,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-6519-08d76122fe4e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADyPCf-AwComwjYOPQofQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

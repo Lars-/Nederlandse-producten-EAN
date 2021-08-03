@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624304447",
+    "name": "g'woon\u00a0Kampioentjes",
+    "description": "g'woon\u00a0Kampioentjes",
+    "manufacturer": "Schapendonk Dutch Bakery B.V.",
+    "available": true,
+    "price": 0.79,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4e750000-ff27-0003-3559-08d7cf338c5c\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBetwjYLfes4A.670x670.jpg",
+    "source": "Jumbo.com"
+}

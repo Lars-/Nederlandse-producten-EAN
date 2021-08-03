@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624259525",
+    "name": "g'woon Clear appel peer koolzuurvrij",
+    "description": "g'woon Clear Appel Peer 1,5l",
+    "manufacturer": "Menken Drinks B.V.",
+    "available": true,
+    "price": 1.02,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/9e560000-ffdf-0003-d52e-08d5cd366604\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCWgQjYLfW6nA.670x670.jpg",
+    "source": "Jumbo.com"
+}

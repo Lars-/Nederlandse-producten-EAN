@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624345020",
+    "name": "Vismarine Panga blok spies bacon",
+    "description": "Vismarine Panga blok spies bacon",
+    "manufacturer": "Profish Food B.V.",
+    "available": true,
+    "price": 2.99,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-4ba8-08d8f8fec352\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwAXewjY_Yqn6g.670x670.jpg",
+    "source": "Jumbo.com"
+}

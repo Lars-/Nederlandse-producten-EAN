@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624317850",
+    "name": "g'woon Ontbijtkoek naturel ongesneden",
+    "description": "g'woon Ontbijtkoek naturel ongesneden",
+    "manufacturer": "Continental Bakeries B.V.",
+    "available": true,
+    "price": 0.89,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3b020000-ff27-0003-1c5d-08d82d4ee0b3\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwABQQjYQywAjg.670x670.jpg",
+    "source": "Jumbo.com"
+}

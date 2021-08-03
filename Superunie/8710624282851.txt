@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624282851",
+    "name": "g'woon Hartige biscuit kaas tomaat",
+    "description": "g'woon Hartige biscuit kaas en tomaat 12st.",
+    "manufacturer": "Delft Bakkerijen Van B.V.",
+    "available": true,
+    "price": 1.49,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-91b6-08d6b6af392f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADyPCf-AwBcFgjYOPQmLg.670x670.jpg",
+    "source": "Jumbo.com"
+}

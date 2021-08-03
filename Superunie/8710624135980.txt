@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624135980",
+    "name": "Crevino Forest fruit",
+    "description": "Crevino forest fruit 75cl",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 2.59,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2fe3276b-1fb8-4335-9a24-523239cb5c23\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwCiCwjXzO0Naw.670x670.jpg",
+    "source": "Jumbo.com"
+}

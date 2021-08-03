@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624331818",
+    "name": "g'woon Reuze mergpijpen",
+    "description": "g'woon Reuze mergpijpen",
+    "manufacturer": "Euro P\u00e2tisserie Producties-Twello B.V.",
+    "available": true,
+    "price": 1.69,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-db07-08d8cce78a6c\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwBq8AjY6EDsKw.670x670.jpg",
+    "source": "Jumbo.com"
+}

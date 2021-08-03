@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624328290",
+    "name": "Daily Chef Lasagne verde",
+    "description": "Daily Chef Lasagne verde",
+    "manufacturer": "Smeding Groenten en Fruit",
+    "available": true,
+    "price": 3.29,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7b3b0000-ff27-0003-39a9-08d86a95532f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA2eSf-AwAPIwjYei0LvQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

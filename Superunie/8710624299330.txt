@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624299330",
+    "name": "g'woon Slasaus",
+    "description": "g'woon Slasaus 500ml",
+    "manufacturer": "Remia N.V.",
+    "available": true,
+    "price": 0.71,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-a567-08d7669a6d0b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBqvAjYLfd49Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

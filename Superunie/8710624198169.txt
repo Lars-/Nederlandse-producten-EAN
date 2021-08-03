@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624198169",
+    "name": "Sum & Sam Kroepoek sweet chili",
+    "description": "Sum & Sam Kroepoek Sweet Chili 60gr",
+    "manufacturer": "Sum & Sam",
+    "available": true,
+    "price": 0.79,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/a3adffbf-eb41-40a8-8a04-0b62c9c669cf\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAwRQjYLfTV9Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

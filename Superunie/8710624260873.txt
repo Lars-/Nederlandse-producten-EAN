@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624260873",
+    "name": "Melkan Karamel vla",
+    "description": "Melkan Karamelvla Verse 1 l Pak met punt",
+    "manufacturer": "Frieslandcampina N.V.",
+    "available": true,
+    "price": 1.15,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-486a-08d71f190c70\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDkpgjYLfXDfg.670x670.jpg",
+    "source": "Jumbo.com"
+}

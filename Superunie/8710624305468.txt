@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624305468",
+    "name": "g'woon Siroop Reine Claude",
+    "description": "g'woon Siroop Reine Claude",
+    "manufacturer": "Akom Oldenzaal B.V.",
+    "available": true,
+    "price": 1.09,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-8d9e-08d7a3487e0d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDRtAjYLfezPQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

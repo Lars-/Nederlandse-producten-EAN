@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624283476",
+    "name": "G'woon Meergranen biscuit appel",
+    "description": "G'woon Meergranenbiscuits Appel 12 st.",
+    "manufacturer": "Delft Bakkerijen Van B.V.",
+    "available": true,
+    "price": 1.09,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-1e55-08d6b139e1a7\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwCR0gjYQ-TlKQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624267803",
+    "name": "g'woon Mix voor hamkaassaus",
+    "description": "g'woon Droge mix voor Ham-Kaassaus 46g",
+    "manufacturer": "Inproba BV",
+    "available": true,
+    "price": 0.64,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-aee4-08d60131fd4f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADyPCf-AwAqGAjYPasN0g.670x670.jpg",
+    "source": "Jumbo.com"
+}

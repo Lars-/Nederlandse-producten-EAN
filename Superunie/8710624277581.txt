@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624277581",
+    "name": "g'woon Krenten",
+    "description": "G'Woon krenten 250 gram",
+    "manufacturer": "Catz International B.V.",
+    "available": true,
+    "price": 1.49,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-450b-08d695ad3f90\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADyPCf-AwDZNAjYOPQkYw.670x670.jpg",
+    "source": "Jumbo.com"
+}

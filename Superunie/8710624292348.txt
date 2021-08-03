@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624292348",
+    "name": "g'woon Munt drop suikervrij",
+    "description": "g'woon Suikervrije munt drop 100gr",
+    "manufacturer": "Astra Faam B.V.",
+    "available": true,
+    "price": 1.19,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-1977-08d6ee7fdc04\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwBq9wjXlLh_Og.670x670.jpg",
+    "source": "Jumbo.com"
+}

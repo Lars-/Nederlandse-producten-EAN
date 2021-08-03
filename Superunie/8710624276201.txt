@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624276201",
+    "name": "Vismarine Koolvisfilet",
+    "description": "Vis marine koolvisfilet 4st 400gr",
+    "manufacturer": "Heveck VriesVers B.V.",
+    "available": true,
+    "price": 1.79,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-f17f-08d695ad6eee\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAumgjYLfalMw.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624300647",
+    "name": "g'woon Luchtverfrisser continu cotton",
+    "description": "g'woon Luchtverfrisser continu cotton",
+    "manufacturer": "Benckmar B.V.",
+    "available": true,
+    "price": 1.19,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4e750000-ff27-0003-7fff-08d80bb03daf\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwClTQjYLfeECg.670x670.jpg",
+    "source": "Jumbo.com"
+}

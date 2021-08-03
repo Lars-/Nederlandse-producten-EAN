@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624330026",
+    "name": "Snackwortelen",
+    "description": "Snackwortelen",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 2.69,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4e750000-ff27-0003-75d8-08d7d4b618fe\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwDlYQjYz_S-eg.670x670.jpg",
+    "source": "Jumbo.com"
+}

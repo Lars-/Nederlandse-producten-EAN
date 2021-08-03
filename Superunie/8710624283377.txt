@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624283377",
+    "name": "Bonb\u00e9b\u00e9 Pouch appel-mango",
+    "description": "Bonb\u00e9b\u00e9 appel mango pouch 90gr 6mnd",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.85,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-4b34-08d6f32dade1\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBtDAjYLfbbxw.670x670.jpg",
+    "source": "Jumbo.com"
+}

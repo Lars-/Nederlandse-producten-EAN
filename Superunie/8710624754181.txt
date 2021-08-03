@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624754181",
+    "name": "Rucola slamelange",
+    "description": "Unbranded Rucola sla melange 150 GRM VERPAKT",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 2.19,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2fe20000-ff41-0003-711d-08d4a6a18ace\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAAZPSf-AwBMewjYx0-fVA.670x670.jpg",
+    "source": "Jumbo.com"
+}

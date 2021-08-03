@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624271510",
+    "name": "g'woon Olijvenmix gezouten",
+    "description": "g'woon Olijvenmix gezouten 200gr",
+    "manufacturer": "Snack Connection B.V.",
+    "available": true,
+    "price": 2.29,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/03e50000-ff8a-0003-0dcf-08d63da6f638\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwC1YAjYLfZHWQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

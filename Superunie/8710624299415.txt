@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624299415",
+    "name": "g'woon Fritessaus halfvol",
+    "description": "g'woon Fritessaus halfvol",
+    "manufacturer": "Remia N.V.",
+    "available": true,
+    "price": 1.18,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-c1bd-08d782338601\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDQ8AjYLfd49g.670x670.jpg",
+    "source": "Jumbo.com"
+}

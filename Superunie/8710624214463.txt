@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624214463",
+    "name": "g'woon Roomboter croissants",
+    "description": "g'woon Roomboter Croissants 4st",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3ef90000-ff41-0003-cb88-08d3af354f97\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADyPCf-AwDfVgjYOPQa9w.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624338060",
+    "name": "g'woon Granola zaden en noten",
+    "description": "g'woon Granola zaden en noten",
+    "manufacturer": "Mulder Natuurvoeding B.V.",
+    "available": true,
+    "price": 1.74,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-850e-08d8dd7ac46d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwDlQAjY_xzfCA.670x670.jpg",
+    "source": "Jumbo.com"
+}

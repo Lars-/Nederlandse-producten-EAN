@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624279318",
+    "name": "g'woon double chocolate chip cookies",
+    "description": "g'woon double chocolate chip cookies 200 gram",
+    "manufacturer": "Banketbakkerij Merba B.V.",
+    "available": true,
+    "price": 1.29,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-d942-08d6b139df69\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwA9PQjYQyvZbw.670x670.jpg",
+    "source": "Jumbo.com"
+}

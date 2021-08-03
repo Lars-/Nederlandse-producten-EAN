@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624326456",
+    "name": "Sum & Sam Mix voor bami speciaal",
+    "description": "Sum & Sam Mix voor bami speciaal",
+    "manufacturer": "Inproba BV",
+    "available": true,
+    "price": 0.59,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/79360000-ff27-0003-6598-08d88fc50e03\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA2eSf-AwA57wjYlb9mXg.670x670.jpg",
+    "source": "Jumbo.com"
+}

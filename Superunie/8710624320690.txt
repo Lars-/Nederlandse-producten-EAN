@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624320690",
+    "name": "Vismarine Msc Roze zalm",
+    "description": "Vismarine Msc Roze zalm",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 2.69,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/79360000-ff27-0003-dc25-08d88fc50dfc\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AACP7tVE7_ZXGAjYnFjJIA.670x670.jpg",
+    "source": "Jumbo.com"
+}

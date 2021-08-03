@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624286538",
+    "name": "g'woon Digestive melk",
+    "description": "g'woon DIGESTIVE MILK CHOCOLATE BISCUITS 300gr wikkel",
+    "manufacturer": "Pally Holland B.V.",
+    "available": true,
+    "price": 0.88,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/526c0000-ff27-0003-5af2-08d6dd32ffee\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwB1fAjYQyvlbg.670x670.jpg",
+    "source": "Jumbo.com"
+}

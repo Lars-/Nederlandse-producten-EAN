@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624320195",
+    "name": "Zalmburger Bio+ 2 stuks",
+    "description": "Zalmburger Bio+ 2 stuks",
+    "manufacturer": "Profish Food B.V.",
+    "available": true,
+    "price": 3.19,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-3b93-08d8cce78df4\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwAVUwjY_YqhhA.670x670.jpg",
+    "source": "Jumbo.com"
+}

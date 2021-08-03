@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624320577",
+    "name": "Vismarine Tonijn groente pikant",
+    "description": "Vismarine Tonijn groente pikant",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.79,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/79360000-ff27-0003-e870-08d8953e465b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAC1KSf-AwB-tgjYmz6khw.670x670.jpg",
+    "source": "Jumbo.com"
+}

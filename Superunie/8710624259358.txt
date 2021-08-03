@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624259358",
+    "name": "g'woon Mini frites",
+    "description": "g'woon Mini Frites Bg 1000gr",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.13,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/9d860000-ffdf-0003-1ab9-08d599719bc7\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCaHwjYLfW3tg.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624240172",
+    "name": "g'woon Bak & braad olijfolie",
+    "description": "g'woon Bak & Braad Olijf 400ml",
+    "manufacturer": "Remia N.V.",
+    "available": true,
+    "price": 1.15,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/0db40000-ff41-0003-2dca-08d4f3a180a3\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwD07AjYLfUy-A.670x670.jpg",
+    "source": "Jumbo.com"
+}

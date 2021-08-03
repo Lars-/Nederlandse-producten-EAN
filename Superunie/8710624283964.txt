@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624283964",
+    "name": "Melkan Karnemelk",
+    "description": "Melkan Karnemelk Verse 1 l Pak met punt",
+    "manufacturer": "Frieslandcampina N.V.",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-1450-08d6b6af4970\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBaigjYLfbf-w.670x670.jpg",
+    "source": "Jumbo.com"
+}

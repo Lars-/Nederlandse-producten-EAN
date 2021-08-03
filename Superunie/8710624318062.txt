@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624318062",
+    "name": "Vismarine Tonijnmoot in water",
+    "description": "Vismarine Tonijnmoot in water",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 2.39,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/29b50000-ff27-0003-0295-08d8b0bd95e7\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwCitAjY1L9lhw.670x670.jpg",
+    "source": "Jumbo.com"
+}

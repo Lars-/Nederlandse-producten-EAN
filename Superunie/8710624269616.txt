@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624269616",
+    "name": "Daily Chef Macaroni ham kaas",
+    "description": "Daily Chef Macaroni ham-kaas 450 gram",
+    "manufacturer": "Bonfait B.V.",
+    "available": true,
+    "price": 3.29,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/41db0000-ff8a-0003-078a-08d6283d76e3\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwCZUgjY_Yqegg.670x670.jpg",
+    "source": "Jumbo.com"
+}

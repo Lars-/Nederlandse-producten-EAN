@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624313708",
+    "name": "Coop Maaltijdsalade kip",
+    "description": "Coop Maaltijdsalade kip",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 2.99,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4e750000-ff27-0003-3a37-08d7f59e7162\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAAZPSf-AwBDRgjYx0-XIQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

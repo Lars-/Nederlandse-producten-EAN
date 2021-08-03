@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624294830",
+    "name": "Bio+ Biologische rinse appelstroop",
+    "description": "Bio+ Rinse appelstroop",
+    "manufacturer": "Frumarco B.V.",
+    "available": true,
+    "price": 3.15,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-9446-08d7c9be0da7\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCeSQjYLfdTUQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

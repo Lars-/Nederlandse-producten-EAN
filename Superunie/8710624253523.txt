@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624253523",
+    "name": "Daily Chef Rode biet speklap",
+    "description": "Daily Chef Rode biet speklap",
+    "manufacturer": "Smeding Groenten en Fruit",
+    "available": true,
+    "price": 4.39,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6d780000-ff27-0003-02e9-08d91945a2d9\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwB6ygjZHnlP3w.670x670.jpg",
+    "source": "Jumbo.com"
+}

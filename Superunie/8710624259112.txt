@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624259112",
+    "name": "g'woon Yoghurtijs kersen",
+    "description": "g'woon Mini Oval Yoghurt Kers 200ml",
+    "manufacturer": "Heveck VriesVers B.V.",
+    "available": true,
+    "price": 1.02,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/ddd50000-ffdf-0003-e01d-08d5b9aa8123\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDfJwjYLfW2kA.670x670.jpg",
+    "source": "Jumbo.com"
+}

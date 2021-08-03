@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624298982",
+    "name": "g'woon Fruitspread abrikoos",
+    "description": "g'woon fruitspread abrikoos 310gr",
+    "manufacturer": "Geurts",
+    "available": true,
+    "price": 1.84,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-036c-08d75142be86\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwAbFgjZKkLpjA.670x670.jpg",
+    "source": "Jumbo.com"
+}

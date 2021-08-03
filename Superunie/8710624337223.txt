@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624337223",
+    "name": "Melkan Chocolademousse",
+    "description": "Melkan Chocolademousse",
+    "manufacturer": "Konings-Zuivel B.V.",
+    "available": true,
+    "price": 0.71,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-c708-08d8e2ea9a15\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwBfrAjY__YMVQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

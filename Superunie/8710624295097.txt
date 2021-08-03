@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624295097",
+    "name": "g'woon Mini worstenbrood",
+    "description": "g'woon Mini worstenbrood",
+    "manufacturer": "Schapendonk Dutch Bakery B.V.",
+    "available": true,
+    "price": 1.65,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-e5d0-08d77cb85cee\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwAh_QjXtCcLLQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624186876",
+    "name": "Melkan Cr\u00e9me br\u00fblee",
+    "description": "melkan Verwentoetjes Cr\u00e8me Br\u00fbl\u00e9e 2x100gr",
+    "manufacturer": "Konings-Zuivel B.V.",
+    "available": true,
+    "price": 1.49,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6d06bffb-d15c-4100-8d47-379d9dc3dc57\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADyPCf-AwBbqgjYOPQaZg.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624292447",
+    "name": "Melkan Vruchtenyoghurt perzik 0% vet",
+    "description": "Melkan Vruchtenyoghurt perzik 0% vet",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.29,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4e750000-ff27-0003-2b55-08d7fb324fab\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAi0gjYLfc_XA.670x670.jpg",
+    "source": "Jumbo.com"
+}

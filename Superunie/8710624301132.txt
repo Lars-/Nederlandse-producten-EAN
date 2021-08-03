@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624301132",
+    "name": "Bandero Taco mix",
+    "description": "Bandero Taco mix",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.47,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-b41a-08d7669a6d39\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBe7AjYLfeNCA.670x670.jpg",
+    "source": "Jumbo.com"
+}

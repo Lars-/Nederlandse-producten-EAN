@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624280192",
+    "name": "Bonb\u00e9b\u00e9 Toeten boeners",
+    "description": "Bonbeb\u00e9 Hands & Face Wipes 40 Fragranced",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.19,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-7463-08d745910651\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwD-NgjXzO0y4w.670x670.jpg",
+    "source": "Jumbo.com"
+}

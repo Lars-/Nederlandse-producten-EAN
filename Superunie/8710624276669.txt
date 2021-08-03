@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624276669",
+    "name": "g'woon Brokjes in gelei met kip & kalkoen",
+    "description": "g'woon brokjes in gelei Kip & Kalkoen Kat - 405g",
+    "manufacturer": "Partner In Pet Food Nl B.V.",
+    "available": true,
+    "price": 0.4,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/d30c0000-ff76-0003-10bd-08d66bfe66bf\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwCOTgjYQyvZLg.670x670.jpg",
+    "source": "Jumbo.com"
+}

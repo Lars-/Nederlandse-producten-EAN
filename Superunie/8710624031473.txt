@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624031473",
+    "name": "Slammers Energy drink blik 24 x 25 cl",
+    "description": null,
+    "manufacturer": "Refresco B.V.",
+    "available": true,
+    "price": 9.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/b27c1617-df9f-4b12-81b3-a53c08978a46\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAC5rVX-AwCAhwjWWtBlKA.670x670.jpg",
+    "source": "Jumbo.com"
+}

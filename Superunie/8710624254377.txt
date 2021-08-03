@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624254377",
+    "name": "Derlon Handzeep met pomp hygi\u00ebne",
+    "description": "Derlon handzeep hygiene en zacht met pomp 500ml",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.89,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/24450000-ff41-0003-b979-08d567204cbc\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBoOgjYLfWC9Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

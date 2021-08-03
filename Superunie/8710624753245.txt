@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624753245",
+    "name": "Bami nasi groenten",
+    "description": "Bami- Nasi Groenten 400gr Verpakt",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 1.33,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/1ecd0000-ff41-0003-df16-08d4961f7228\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwBDYQjYz_S-cQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624338084",
+    "name": "g'woon Muesli fruit en noten",
+    "description": "g'woon Muesli fruit en noten",
+    "manufacturer": "Mulder Natuurvoeding B.V.",
+    "available": true,
+    "price": 1.67,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-7b1b-08d8ed48cd93\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwCFLgjY80FD5Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

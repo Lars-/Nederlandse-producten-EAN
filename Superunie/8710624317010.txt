@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624317010",
+    "name": "Melkan Houdbare melk 0% vet",
+    "description": "Melkan Houdbare melk 0% vet",
+    "manufacturer": "Globemilk B.V.",
+    "available": true,
+    "price": 5.15,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3cf20000-ff27-0003-9b67-08d837a7d5cb\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwAJWwjY-wqn3A.670x670.jpg",
+    "source": "Jumbo.com"
+}

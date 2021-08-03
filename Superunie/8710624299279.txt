@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624299279",
+    "name": "g'woon Dressing naturel",
+    "description": "g'woon Dressing naturel",
+    "manufacturer": "Remia N.V.",
+    "available": true,
+    "price": 0.86,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-0db4-08d782338609\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBc8AjYLfd4aw.670x670.jpg",
+    "source": "Jumbo.com"
+}

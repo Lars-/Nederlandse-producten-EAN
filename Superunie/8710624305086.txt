@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624305086",
+    "name": "Daily Chef Bami goreng",
+    "description": "Daily Chef Bami goreng",
+    "manufacturer": "Smeding Groenten en Fruit",
+    "available": true,
+    "price": 5.29,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-8b01-08d7c9be18da\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBXrgjYLfeuFQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

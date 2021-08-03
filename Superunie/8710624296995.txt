@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624296995",
+    "name": "g'woon Piccalilly",
+    "description": "g'woon Zoetzure piccalilly 330gr",
+    "manufacturer": "Kesbeke Fijne Tafelzuren B.V.",
+    "available": true,
+    "price": 0.65,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-75cd-08d709299f1b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAUngjYLfdjSg.670x670.jpg",
+    "source": "Jumbo.com"
+}

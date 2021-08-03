@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624291860",
+    "name": "g'woon Beschuit naturel",
+    "description": "g'woon beschuit naturel 125g",
+    "manufacturer": "Continental Bakeries B.V.",
+    "available": true,
+    "price": 0.35,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-9599-08d6fe2745cc\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDcxAjYLfcz0g.670x670.jpg",
+    "source": "Jumbo.com"
+}

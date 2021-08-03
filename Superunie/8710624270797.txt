@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624270797",
+    "name": "Daily Chef Bami goreng",
+    "description": "Daily Chef Bami Goreng 350gr",
+    "manufacturer": "Padi Food Service B.V.",
+    "available": true,
+    "price": 3.37,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/f4d20000-ff88-0003-9782-08d6329f3da2\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAkjQjYLfY-MQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

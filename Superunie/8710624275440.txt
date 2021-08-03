@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624275440",
+    "name": "Vismarine Visfrietjes",
+    "description": "Vismarine Visfrietjes",
+    "manufacturer": "Heveck VriesVers B.V.",
+    "available": true,
+    "price": 2.05,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-7984-08d7935a8716\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAeoQjYLfaVxQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

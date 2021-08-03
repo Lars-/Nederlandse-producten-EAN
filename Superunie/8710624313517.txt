@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624313517",
+    "name": "g'woon Bospaddestoelen soep",
+    "description": "g'woon Bospaddestoelen soep",
+    "manufacturer": "Four Seasons Food B.V.",
+    "available": true,
+    "price": 1.89,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3b020000-ff27-0003-4a9f-08d82d4ee0b6\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADyPCf-AwCKHgjYPasPlg.670x670.jpg",
+    "source": "Jumbo.com"
+}

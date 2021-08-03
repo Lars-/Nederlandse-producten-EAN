@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624199821",
+    "name": "Sum & Sam Sambal oelek",
+    "description": "Sum & Sam Sambal oelek",
+    "manufacturer": "Inproba BV",
+    "available": true,
+    "price": 0.61,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/79360000-ff27-0003-f39d-08d87a6467fd\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA2eSf-AwACdgjYevYkRg.670x670.jpg",
+    "source": "Jumbo.com"
+}

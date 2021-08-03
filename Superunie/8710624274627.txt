@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624274627",
+    "name": "g'woon Wortelen extra fijn",
+    "description": "g'woon WORTELEN EXTRA FIJN 370 ML Pot",
+    "manufacturer": "Baltussen Konservenfabriek B.V.",
+    "available": true,
+    "price": 0.79,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/adb90000-ff55-0003-78a2-08d653932949\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwB8HQjYLfZ8lg.670x670.jpg",
+    "source": "Jumbo.com"
+}

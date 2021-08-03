@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624295110",
+    "name": "g'woon Mini saucijzenbroodjes",
+    "description": "g'woon Mini saucijzenbroodjes",
+    "manufacturer": "Schapendonk Dutch Bakery B.V.",
+    "available": true,
+    "price": 1.9,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-36bc-08d7ae30382d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwCCuQjXtCcLKg.670x670.jpg",
+    "source": "Jumbo.com"
+}

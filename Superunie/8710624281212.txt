@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624281212",
+    "name": "g'woon Lange vingers",
+    "description": "g'woon Lange Vingers 175gr",
+    "manufacturer": "Jeurgens Biscuitfabriek B.V.",
+    "available": true,
+    "price": 0.64,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-04f2-08d6b6af3933\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwA5DAjYQyvbAQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

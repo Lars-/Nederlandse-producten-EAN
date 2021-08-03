@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624130916",
+    "name": "Slammers Energy drink suikervrij blik 24 x 250 ml",
+    "description": "Slammers Energy Refreshing Powerdrink Sugar Free 24 x 250 ml",
+    "manufacturer": "Refresco B.V.",
+    "available": true,
+    "price": 10.08,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-4878-08d7669a7217\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwBbVQjZQEN0CA.670x670.jpg",
+    "source": "Jumbo.com"
+}

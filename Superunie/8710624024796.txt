@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624024796",
+    "name": "Quino Pindakaas",
+    "description": "Quino Pindakaas",
+    "manufacturer": "Peeters Produkten B.V.",
+    "available": true,
+    "price": 1.74,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/49cd90f7-13cb-43c1-ac1c-040fc0c56c4b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwBYvgjY_xza7g.670x670.jpg",
+    "source": "Jumbo.com"
+}

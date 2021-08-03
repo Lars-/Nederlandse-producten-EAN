@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624254452",
+    "name": "g'woon Bouillonblokjes rund",
+    "description": "g'woon Bouillon blokjes rund 12x10gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.5,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/9e560000-ffdf-0003-de0b-08d5cd367ffe\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCUkgjYLfWEWQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

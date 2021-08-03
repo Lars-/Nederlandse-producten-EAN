@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624347987",
+    "name": "Slaschotel boeren",
+    "description": "Slaschotel boeren",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 3.39,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/734a0000-ff27-0003-4802-08d92f3dadf3\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwCIrAjZL8Lrgw.670x670.jpg",
+    "source": "Jumbo.com"
+}

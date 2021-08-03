@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624195984",
+    "name": "New Way maandverband maxi nacht 10 stuks",
+    "description": "NewWay maandverband maxi nacht 10st",
+    "manufacturer": "Ontex International",
+    "available": true,
+    "price": 1.15,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/b52f6807-f8e6-4e72-b600-152f5d714590\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAESQjYLfTPkA.670x670.jpg",
+    "source": "Jumbo.com"
+}

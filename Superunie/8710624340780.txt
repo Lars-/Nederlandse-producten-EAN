@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624340780",
+    "name": "g'woon Spaghetti volkoren",
+    "description": "g'woon Spaghetti volkoren",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.12,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-306a-08d8e2ea697d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwDejQjZDsH3Cg.670x670.jpg",
+    "source": "Jumbo.com"
+}

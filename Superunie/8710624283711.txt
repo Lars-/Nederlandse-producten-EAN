@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624283711",
+    "name": "g'woon Bakkers speculaas",
+    "description": "g'woon Bakkersspeculaas 400gr",
+    "manufacturer": "Hellema-Hallum B.V.",
+    "available": true,
+    "price": 0.81,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-cffb-08d6ac4a01d1\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwAMoQjYQ-TluQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

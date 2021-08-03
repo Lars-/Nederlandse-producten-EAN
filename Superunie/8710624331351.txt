@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624331351",
+    "name": "g'woon Zeeuwse rondjes",
+    "description": "g'woon Zeeuwse rondjes",
+    "manufacturer": "Euro P\u00e2tisserie Producties-Twello B.V.",
+    "available": true,
+    "price": 1.15,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-0224-08d8cce78a79\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwDufwjY_YqiiQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

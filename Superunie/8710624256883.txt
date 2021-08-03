@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624256883",
+    "name": "Melkan Kwark bosvruchten halfvol",
+    "description": "melkan Haflvolle Kwark Bosvruchten Weidemelk 450gr Beker\/Kuipje",
+    "manufacturer": "Konings-Zuivel B.V.",
+    "available": true,
+    "price": 1.45,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/bac90000-ffdf-0003-6a60-08d5bfee9768\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAiigjYLfWbFQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

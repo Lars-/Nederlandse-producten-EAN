@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624260576",
+    "name": "g'woon Ma\u00efswafel 6 x 4 stuks",
+    "description": "g'woon Maiswafel Portie 6x4 150gr",
+    "manufacturer": "Continental Bakeries B.V.",
+    "available": true,
+    "price": 1.02,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-fa83-08d5f6b995a1\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADyPCf-AwAu4gjYOPQbvA.670x670.jpg",
+    "source": "Jumbo.com"
+}

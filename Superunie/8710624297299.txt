@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624297299",
+    "name": "g'woon Zakdoekjes 4 laags lotion",
+    "description": "g'woon zakdoekjes lotion 4 laags 10x10 stuks",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.89,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-1085-08d7402c969d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCadwjYLfdueg.670x670.jpg",
+    "source": "Jumbo.com"
+}

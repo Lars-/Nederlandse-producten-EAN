@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624267926",
+    "name": "g'woon Mix voor peper roomsaus",
+    "description": "g'woon Droge mix voor Peper-Roomsaus 30g",
+    "manufacturer": "Inproba BV",
+    "available": true,
+    "price": 0.66,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/62160000-5d4a-0015-fe56-08d61cb4fb95\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCVnQjYLfYUcA.670x670.jpg",
+    "source": "Jumbo.com"
+}

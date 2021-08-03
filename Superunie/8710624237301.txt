@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624237301",
+    "name": "g'woon Balsamico di Modena",
+    "description": "g'woon azijn balsamico di Modena 250ml",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 2.79,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/31fb0000-ff41-0003-191a-08d4cd145f5e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDWhgjYLfUpxA.670x670.jpg",
+    "source": "Jumbo.com"
+}

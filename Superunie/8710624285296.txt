@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624285296",
+    "name": "Melkan Jong belegen 48+ komijn kaas stuk",
+    "description": "Melkan Gouda Jong Belegen Komijn 48+ 450gr",
+    "manufacturer": "Frieslandcampina N.V.",
+    "available": true,
+    "price": 5.44,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-157f-08d6e29cd2b3\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwALhAjYLfbzLA.670x670.jpg",
+    "source": "Jumbo.com"
+}

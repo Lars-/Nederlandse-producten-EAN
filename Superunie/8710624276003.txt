@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624276003",
+    "name": "g'woon Rode kool met appel",
+    "description": "g'woon RODE KOOL MET APPEL 340G Pot",
+    "manufacturer": "Baltussen Konservenfabriek B.V.",
+    "available": true,
+    "price": 0.55,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/adb90000-ff55-0003-d166-08d653932acf\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCKXAjYLfagfg.670x670.jpg",
+    "source": "Jumbo.com"
+}

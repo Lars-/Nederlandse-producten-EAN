@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624258351",
+    "name": "g'woon Hondensnacks mergkoekjes",
+    "description": "g'woon Mergkoekjes 500gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.89,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/ddd50000-ffdf-0003-e176-08d5b42658f6\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwC0hAjYQ-TWuA.670x670.jpg",
+    "source": "Jumbo.com"
+}

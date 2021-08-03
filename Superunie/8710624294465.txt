@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624294465",
+    "name": "g'woon Groene pesto multipack",
+    "description": "g'woon Groene Pesto 2x90gr",
+    "manufacturer": "Greenyard Prepared Belgium NV",
+    "available": true,
+    "price": 1.89,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-b389-08d6e29bfb63\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAnMAjYLfdReQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624285036",
+    "name": "Melkan Blokjes oud 48+",
+    "description": "Melkan Kaas 48+ Gouda Oud WGM Kaasblokjes 200g",
+    "manufacturer": "Vergeer Holland",
+    "available": true,
+    "price": 2.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-1417-08d6f8b051ee\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAkTwjYLfbs_Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

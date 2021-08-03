@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624268879",
+    "name": "g'woon Penne rigate",
+    "description": "g'woon penne rigate 500gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.61,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/41db0000-ff8a-0003-03a6-08d6221fc388\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwB6YgjYLfYk9w.670x670.jpg",
+    "source": "Jumbo.com"
+}

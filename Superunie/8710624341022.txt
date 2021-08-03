@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624341022",
+    "name": "g'woon Mega choco's amandel",
+    "description": "g'woon Mega choco's amandel",
+    "manufacturer": "Heveck VriesVers B.V.",
+    "available": true,
+    "price": 1.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-fa61-08d8dd7c7c9b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwAOQAjZKkLwTw.670x670.jpg",
+    "source": "Jumbo.com"
+}

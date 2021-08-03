@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624280178",
+    "name": "Bonb\u00e9b\u00e9 Babydoekjes sensitive",
+    "description": "Bonbeb\u00e9 Baby Wipes 63 Fragrance Free",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.87,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-e1d7-08d745910651\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwBjGQjXzO0yzw.670x670.jpg",
+    "source": "Jumbo.com"
+}

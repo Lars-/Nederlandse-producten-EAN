@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624272128",
+    "name": "g'woon Spinazie \u00e0 la cr\u00e8me",
+    "description": "G'woon Gehakte spinazie \u00e0 la cr\u00e8me, diepvries 750 GRM Doos",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 0.93,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/41db0000-ff8a-0003-5b10-08d6283d8cbe\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBf_gjYLfZaHg.670x670.jpg",
+    "source": "Jumbo.com"
+}

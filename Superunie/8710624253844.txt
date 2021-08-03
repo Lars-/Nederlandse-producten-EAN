@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624253844",
+    "name": "Daily Chef Zuurkool met rookworst",
+    "description": "Daily Chef Zuurkool met rookworst",
+    "manufacturer": "Bonfait B.V.",
+    "available": true,
+    "price": 3.29,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/e39c0000-ffdf-0003-4ac9-08d5a929cbae\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwARqQjZMIwfAg.670x670.jpg",
+    "source": "Jumbo.com"
+}

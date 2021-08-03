@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624295776",
+    "name": "g'woon Aardappelpuree \u00e0 la minute",
+    "description": "g'woon Aardappel puree \u00e0 la minute naturel 3x60gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.02,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-8230-08d71f190d21\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwB1WgjYLfdaBg.670x670.jpg",
+    "source": "Jumbo.com"
+}

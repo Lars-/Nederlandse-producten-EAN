@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624348120",
+    "name": "g'woon Oven mini snacks",
+    "description": "g'woon Oven Minisnacks 16 x 20 g",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 2.89,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6d780000-ff27-0003-e29f-08d91f7da98b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwDa9QjZQEN4_A.670x670.jpg",
+    "source": "Jumbo.com"
+}

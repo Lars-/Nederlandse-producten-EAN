@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624260590",
+    "name": "g'woon Ontbijtkoek parelkandij ongesneden",
+    "description": "g'woon Parelkandijkoek Ongesneden 450gr",
+    "manufacturer": "Continental Bakeries B.V.",
+    "available": true,
+    "price": 0.96,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/e5e60000-ff55-0003-f7df-08d5da98e18e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwAsEwjYQyvXgA.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624216443",
+    "name": "Melkan Verse slagroom",
+    "description": "Melkan Verse slagroom 500ml",
+    "manufacturer": "A-Ware Packaging",
+    "available": true,
+    "price": 1.99,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-10bd-08d6fe273a87\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDtRwjYLfTwaQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

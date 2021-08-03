@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624284718",
+    "name": "Melkan Extra belegen 48+ kaas plakken",
+    "description": "Melkan Kaas 48+ Gouda Extra belegen WGM Planetproof Plakken 190g",
+    "manufacturer": "Vergeer Holland",
+    "available": true,
+    "price": 2.65,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5a120000-ff27-0003-93a0-08d771ac2784\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwAsWgjZNtVb6A.670x670.jpg",
+    "source": "Jumbo.com"
+}

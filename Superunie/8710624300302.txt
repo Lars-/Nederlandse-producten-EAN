@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624300302",
+    "name": "Krieltjes voordeelverpakking",
+    "description": "Superunie Unbranded krieltjes 600gr",
+    "manufacturer": "Smeding Groenten en Fruit",
+    "available": true,
+    "price": 1.02,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-e405-08d756bdc361\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwBmFwjY6EDpiw.670x670.jpg",
+    "source": "Jumbo.com"
+}

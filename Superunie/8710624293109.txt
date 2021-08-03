@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624293109",
+    "name": "g'woon Augurken partysticks",
+    "description": "g'woon Partysticks zoetzuur 670gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-1260-08d6f8b04566\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDr2wjYLfdF2A.670x670.jpg",
+    "source": "Jumbo.com"
+}

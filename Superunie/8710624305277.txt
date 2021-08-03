@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624305277",
+    "name": "Bio+ Passata",
+    "description": "Bio+ Passata",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.85,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4e750000-ff27-0003-04e5-08d7d4b5de5b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCyGgjYLfeyeA.670x670.jpg",
+    "source": "Jumbo.com"
+}

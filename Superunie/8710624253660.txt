@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624253660",
+    "name": "Daily Chef Wortel, erwt & kip",
+    "description": "daily CHEF Worteltjes En Erwtjes Met Kipfilet En Krieltjes 500gr",
+    "manufacturer": "Bonfait B.V.",
+    "available": true,
+    "price": 4.19,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/d8070000-ffdf-0003-63e8-08d5a39d8846\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwBRggjZCUHfGw.670x670.jpg",
+    "source": "Jumbo.com"
+}

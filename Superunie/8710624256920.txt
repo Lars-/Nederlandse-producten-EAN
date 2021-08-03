@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624256920",
+    "name": "Melkan Magere Franse kwark",
+    "description": "melkan Magere Franse Kwark Weidemelk 1000gr Beker\/Kuipje",
+    "manufacturer": "Konings-Zuivel B.V.",
+    "available": true,
+    "price": 1.59,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/9d860000-ffdf-0003-b0d8-08d59e1df04b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAAZPSf-AwDY2QjYtr_AYg.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624291563",
+    "name": "g'woon Extra jam rode vruchten",
+    "description": "g'woon extra jam Rode vruchten 450g pot",
+    "manufacturer": "Geurts",
+    "available": true,
+    "price": 0.97,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-b35d-08d73aac4b06\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwCoeQjY_xza6g.670x670.jpg",
+    "source": "Jumbo.com"
+}

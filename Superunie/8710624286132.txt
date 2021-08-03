@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624286132",
+    "name": "g'woon Airfryer friet",
+    "description": "g'woon Airfryer friet",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 2.24,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/734a0000-ff27-0003-546f-08d92432b171\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwAQAgjZJMLZaw.670x670.jpg",
+    "source": "Jumbo.com"
+}

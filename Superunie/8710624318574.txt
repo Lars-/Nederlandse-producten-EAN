@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624318574",
+    "name": "Daily Chef Sauscomponent babi pangang",
+    "description": "Daily Chef Sauscomponent babi pangang",
+    "manufacturer": "Smeding Groenten en Fruit",
+    "available": true,
+    "price": 4.01,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5fe10000-ff27-0003-1e81-08d8482cf34e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAD9gCf-AwDqLgjYU6vrug.670x670.jpg",
+    "source": "Jumbo.com"
+}

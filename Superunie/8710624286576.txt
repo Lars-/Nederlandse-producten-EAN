@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624286576",
+    "name": "g'woon Mueslireep appel krenten",
+    "description": "G'woon mueslireep appel krenten 6-pak",
+    "manufacturer": "Ravensbergen B.V.",
+    "available": true,
+    "price": 1.43,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-ed01-08d6bc2229b2\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwDH8AjYQyvmng.670x670.jpg",
+    "source": "Jumbo.com"
+}

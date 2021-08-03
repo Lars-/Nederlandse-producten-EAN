@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624314217",
+    "name": "Vismarine Garnalen gepaneerd",
+    "description": "Vismarine Garnalen gepaneerd",
+    "manufacturer": "Profish Food B.V.",
+    "available": true,
+    "price": 3.75,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3d190000-ff27-0003-5d1a-08d8c13d7a95\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAAZPSf-AwAzqAjYxBsoVw.670x670.jpg",
+    "source": "Jumbo.com"
+}

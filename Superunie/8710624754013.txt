@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624754013",
+    "name": "Wokgroenten Thaise stijl",
+    "description": "Daily Fresh Thaise Roerbakgroenten 400gr Verpakt",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 1.89,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/1ecd0000-ff41-0003-4e7d-08d4961f6af5\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAAZPSf-AwDvsQjYx0-eFg.670x670.jpg",
+    "source": "Jumbo.com"
+}

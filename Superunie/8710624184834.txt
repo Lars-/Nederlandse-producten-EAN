@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624184834",
+    "name": "Hacienda Malbec",
+    "description": "Hacienda reserve malbec 75cl",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 4.39,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/da47ae32-6506-4a31-8f2b-b02da281aafa\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwBwhwjXzO0Swg.670x670.jpg",
+    "source": "Jumbo.com"
+}

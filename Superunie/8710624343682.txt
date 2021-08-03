@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624343682",
+    "name": "Bio+ Zwarte bonen biologisch",
+    "description": "Bio+ Zwarte bonen biologisch",
+    "manufacturer": "Greenyard Prepared Belgium NV",
+    "available": true,
+    "price": 1.02,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-ae37-08d8f8feba0d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwAEgAjY__YOYw.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624316464",
+    "name": "g'woon Premium reepje rund kat",
+    "description": "g'woon Premium reepje rund kat",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.79,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3b020000-ff27-0003-07fa-08d82d4eec53\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwBuXwjYSKuVOA.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624237073",
+    "name": "g'woon Slaolie",
+    "description": "g'woon slaolie van koolzaad 1Ltr",
+    "manufacturer": "Houweling Filling Industries B.V.",
+    "available": true,
+    "price": 1.45,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/0db40000-ff41-0003-4344-08d4ee14be47\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAGqQjYLfUmFw.670x670.jpg",
+    "source": "Jumbo.com"
+}

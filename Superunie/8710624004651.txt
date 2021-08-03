@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624004651",
+    "name": "Schoof Witte pistolets",
+    "description": "SCHOOF Voorgebakken Witte Pistolets 6st",
+    "manufacturer": "Bakkersland BV",
+    "available": true,
+    "price": 0.45,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7835ae16-1736-4df2-b7fd-42ec44751adc\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwBBKwjXzOz9JQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624304904",
+    "name": "Sum & Sam Boemboe sajoer boontjes",
+    "description": "Sum & Sam Boemboe sajoer boontjes",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.8,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4e750000-ff27-0003-0200-08d7eb6b1c97\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwA-awjYLfetsg.670x670.jpg",
+    "source": "Jumbo.com"
+}

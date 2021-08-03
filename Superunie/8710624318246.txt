@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624318246",
+    "name": "g'woon Brok premium senior hond",
+    "description": "g'woon Brok premium senior hond",
+    "manufacturer": "Partner In Pet Food Nl B.V.",
+    "available": true,
+    "price": 5.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/505b0000-ff27-0003-93cc-08d832339276\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwBpowjYSKuWsw.670x670.jpg",
+    "source": "Jumbo.com"
+}

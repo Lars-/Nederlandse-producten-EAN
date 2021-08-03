@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624291907",
+    "name": "g'woon Cranberrysap classic",
+    "description": "g'woon Cranberrydrank classic 1L",
+    "manufacturer": "Refresco B.V.",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-4d08-08d6f8b04b8b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAkcwjYLfcz2A.670x670.jpg",
+    "source": "Jumbo.com"
+}

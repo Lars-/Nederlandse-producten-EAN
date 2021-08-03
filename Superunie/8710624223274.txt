@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624223274",
+    "name": "g'woon Multivitamine geel fruit",
+    "description": "g'woon Multivitamine Geel Fruit 1,5l",
+    "manufacturer": "Menken Drinks B.V.",
+    "available": true,
+    "price": 1.55,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/20820000-ff41-0003-c20d-08d4608dbb73\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCjQQjYLfUGsw.670x670.jpg",
+    "source": "Jumbo.com"
+}

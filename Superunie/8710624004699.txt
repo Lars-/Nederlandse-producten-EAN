@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624004699",
+    "name": "Tuinder Zilveruitjes met zoetstof",
+    "description": "Tuinders Glorie zilveruitjes met zoetstof zoetzuur 320 g",
+    "manufacturer": "Tuinderij Vers BV",
+    "available": true,
+    "price": 0.59,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-37fb-08d6f8b04579\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwAi1AjXzOz9XA.670x670.jpg",
+    "source": "Jumbo.com"
+}

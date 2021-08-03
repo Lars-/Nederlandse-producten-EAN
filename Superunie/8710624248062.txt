@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624248062",
+    "name": "g'woon Siroop grenadine",
+    "description": "g'woon Siroop 80% Fruit Grenadine 750ml Fles",
+    "manufacturer": "Burg Ter Aar B.V.",
+    "available": true,
+    "price": 2.29,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/42d40000-ff41-0003-3f2e-08d57d2b49b7\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwCxKAjZFEITZw.670x670.jpg",
+    "source": "Jumbo.com"
+}

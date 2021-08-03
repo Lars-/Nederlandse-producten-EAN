@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624316129",
+    "name": "g'woon Toiletpapier verzorgend",
+    "description": "g'woon Toiletpapier verzorgend",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7b3b0000-ff27-0003-94ab-08d86446d447\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA7eyf-AwC1SAjYb-XHkQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

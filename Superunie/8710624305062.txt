@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624305062",
+    "name": "Daily Chef Nasi goreng",
+    "description": "Daily Chef Nasi goreng",
+    "manufacturer": "Smeding Groenten en Fruit",
+    "available": true,
+    "price": 5.29,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-4573-08d7c9be196d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBgnAjYLfetyA.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624314286",
+    "name": "Thaise wokgroenten",
+    "description": "Thaise wokgroenten",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 1.69,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4e750000-ff27-0003-9099-08d7d4b617b4\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwDCkgjYz_S-cA.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624294335",
+    "name": "g'woon Mini grissini rozemarijn",
+    "description": "G'woon Mini-grissini rozemarijn 150 gram",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.59,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-6604-08d72fac0da3\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCQlwjYLfdNng.670x670.jpg",
+    "source": "Jumbo.com"
+}

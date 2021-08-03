@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624341169",
+    "name": "g'woon Mini fruit ijsjes",
+    "description": "g'woon Mini fruit ijsjes",
+    "manufacturer": "Heveck VriesVers B.V.",
+    "available": true,
+    "price": 2.09,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-5bb0-08d8dd7c746a\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwCZ0QjZJx4dHw.670x670.jpg",
+    "source": "Jumbo.com"
+}

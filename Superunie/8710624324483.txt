@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624324483",
+    "name": "g'woon Turkse thee appel vanille",
+    "description": "g'woon Appel Vanille Smaak Turkse Stijl 20 x 1,5 g",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.33,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-bf06-08d8e861905e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwD0nAjY7cETbA.670x670.jpg",
+    "source": "Jumbo.com"
+}

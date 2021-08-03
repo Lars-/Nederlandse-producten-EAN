@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624290580",
+    "name": "Bonb\u00e9b\u00e9 M0804 Couscous linzen",
+    "description": "bonb\u00e9b\u00e9 Couscous linzen courgette M0804 200gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-8873-08d73534c7d3\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBYVQjYLfckqg.670x670.jpg",
+    "source": "Jumbo.com"
+}

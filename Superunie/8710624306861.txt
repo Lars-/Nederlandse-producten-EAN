@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624306861",
+    "name": "g'woon Dg cups latte macchiato",
+    "description": "g'woon Dg cups latte macchiato",
+    "manufacturer": "UCC Coffee Benelux B.V.",
+    "available": true,
+    "price": 3.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3b020000-ff27-0003-6b72-08d828a415f7\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwChzAjYQyv1jg.670x670.jpg",
+    "source": "Jumbo.com"
+}

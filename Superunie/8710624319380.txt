@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624319380",
+    "name": "Vismarine Pangasiusfilet citroen\/dille",
+    "description": "Vismarine Pangasiusfilet citroen\/dille",
+    "manufacturer": "Profish Food B.V.",
+    "available": true,
+    "price": 4.92,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3b020000-ff27-0003-3455-08d82d4f484a\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADyPCf-AwB2CAjYPasSug.670x670.jpg",
+    "source": "Jumbo.com"
+}

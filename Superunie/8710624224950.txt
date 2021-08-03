@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624224950",
+    "name": "Laarmans Tarwebloem",
+    "description": "Laarmans Tarwebloem",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.38,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/29b50000-ff27-0003-56c6-08d8a5d3da9e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAC1KSf-AwD4GwjYpwgTMw.670x670.jpg",
+    "source": "Jumbo.com"
+}

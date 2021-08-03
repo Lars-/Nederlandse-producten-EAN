@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624256524",
+    "name": "Verberghe Leverworst 1 ster",
+    "description": "VERBERGHE Leverworst Beter Leven 1* 500gr Recht",
+    "manufacturer": "Maasland Vleeswaren B.V.",
+    "available": true,
+    "price": 0.89,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-8986-08d6c7e7b9df\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwB2JgjXzO0kJw.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624253868",
+    "name": "Daily Chef Spinazie stamppot met hamburger & mosterdjus",
+    "description": "daily CHEF Spinaziestamppot Met Hamburger En Mosterdjus 500gr",
+    "manufacturer": "Bonfait B.V.",
+    "available": true,
+    "price": 3.69,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/d22b0000-ffdf-0003-e682-08d5ae9ca39e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwDxQgjZCUHg-A.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624313784",
+    "name": "Maaltijdsalade mozzara\/tomaat",
+    "description": "Maaltijdsalade mozzara\/tomaat",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 4.19,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/79360000-ff27-0003-7b96-08d88016e296\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA2eSf-AwBBfQjYhfZxKg.670x670.jpg",
+    "source": "Jumbo.com"
+}

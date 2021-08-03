@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624274207",
+    "name": "Bio+ Natuurazijn",
+    "description": "Bio+ natuurazijn 1l fles",
+    "manufacturer": "Bio+ Trading Company",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/41db0000-ff8a-0003-63a7-08d6221fc361\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwC29AjYLfZxrw.670x670.jpg",
+    "source": "Jumbo.com"
+}

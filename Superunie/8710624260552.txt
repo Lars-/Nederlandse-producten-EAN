@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624260552",
+    "name": "g'woon Rijstwafel 6 x 6 stuks",
+    "description": "g'woon Rijstwafel Portie 6x6x250gr",
+    "manufacturer": "Continental Bakeries B.V.",
+    "available": true,
+    "price": 1.02,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-302d-08d5f6b99591\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADyPCf-AwAKLgjYOPQbUw.670x670.jpg",
+    "source": "Jumbo.com"
+}

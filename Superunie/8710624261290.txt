@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624261290",
+    "name": "g'woon Luchtige crackers volkoren",
+    "description": "g'woon Luchtige Cracker Volkoren 250grm",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.78,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/bac90000-ffdf-0003-8492-08d5bfee9573\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAArmN--AwBySQjVxWYFHw.670x670.jpg",
+    "source": "Jumbo.com"
+}

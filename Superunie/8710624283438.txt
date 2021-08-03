@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624283438",
+    "name": "g'woon Margarine",
+    "description": "G'WOON Margarine 250G",
+    "manufacturer": "Vandemoortele Nederland B.V.",
+    "available": true,
+    "price": 0.55,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-f723-08d6bc223577\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwA7jwjZHOcPVg.670x670.jpg",
+    "source": "Jumbo.com"
+}

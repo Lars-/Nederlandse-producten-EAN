@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624321871",
+    "name": "g'woon Wasmiddel vloeibaar sinaasappel bloesem",
+    "description": "g'woon Wasmiddel vloeibaar sinaasappel bloesem",
+    "manufacturer": "Vipack B.V.",
+    "available": true,
+    "price": 2.89,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/79360000-ff27-0003-2d62-08d88016e2e1\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwA3zQjZKkLrUQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

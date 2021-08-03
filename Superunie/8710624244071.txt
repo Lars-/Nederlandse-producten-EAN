@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624244071",
+    "name": "Melkan Houdbare slagroom",
+    "description": "melkan Houdbare slagroom 35% vet 200ml",
+    "manufacturer": "Inexco B.V.",
+    "available": true,
+    "price": 0.81,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/135b0000-ff41-0003-8920-08d51fc085af\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDz5AjYLfUzJw.670x670.jpg",
+    "source": "Jumbo.com"
+}

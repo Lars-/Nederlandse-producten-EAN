@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624330064",
+    "name": "g'woon Tropische vruchten",
+    "description": "g'woon Tropische vruchten",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.77,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/79360000-ff27-0003-2130-08d8743210c9\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA2eSf-AwAZTQjYhfZ69w.670x670.jpg",
+    "source": "Jumbo.com"
+}

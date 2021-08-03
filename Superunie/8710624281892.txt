@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624281892",
+    "name": "Abrikozen zonder pit",
+    "description": "Abrikozen 250gr",
+    "manufacturer": "Qualino B.V.",
+    "available": true,
+    "price": 2.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6e790000-ff4b-0003-d059-08d67fba65e0\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwBYdwjXzO03Dg.670x670.jpg",
+    "source": "Jumbo.com"
+}

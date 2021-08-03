@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624273132",
+    "name": "g'woon Trekbandzakken hoog 30l",
+    "description": "g\u2019woon hoge trekbandzakken 30L 20 st.",
+    "manufacturer": "Pack-It B.V.",
+    "available": true,
+    "price": 1.79,
+    "minimumAmount": 1,
+    "maximumAmount": 10,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-406e-08d6b6af4c5a\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDpoAjYLfZiFQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

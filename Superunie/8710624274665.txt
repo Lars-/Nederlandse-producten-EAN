@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624274665",
+    "name": "Vismarine Lekkerbekje",
+    "description": "Vis Marine Lekkerbekjes 300 g Doos",
+    "manufacturer": "Heveck VriesVers B.V.",
+    "available": true,
+    "price": 2.05,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-989b-08d69b28d603\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwDQHgjZGcI0fw.670x670.jpg",
+    "source": "Jumbo.com"
+}

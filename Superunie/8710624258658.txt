@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624258658",
+    "name": "g'woon Pizza salami",
+    "description": "g'woon krokante Pizza Salami met Edammer kaas en mozzarella 320gr",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/982b0000-ffdf-0003-d9d0-08d5c4951d20\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDYxgjYLfWwXA.670x670.jpg",
+    "source": "Jumbo.com"
+}

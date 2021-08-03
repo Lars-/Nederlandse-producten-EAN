@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624274580",
+    "name": "g'woon Doperwten met wortelen",
+    "description": "g'woon Doperwten met wortelen zeer fijn 370ml",
+    "manufacturer": "Coroos Conserven B.V.",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/adb90000-ff55-0003-ddcd-08d648a9b0da\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAIyQjYLfZ6ng.670x670.jpg",
+    "source": "Jumbo.com"
+}

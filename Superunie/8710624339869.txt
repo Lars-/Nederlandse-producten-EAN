@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624339869",
+    "name": "g'woon Clear peach",
+    "description": "g'woon Clear Perzik 1,5 L",
+    "manufacturer": "Refresco B.V.",
+    "available": true,
+    "price": 0.62,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/734a0000-ff27-0003-1b40-08d929ba3930\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwBPwgjZQEN2cg.670x670.jpg",
+    "source": "Jumbo.com"
+}

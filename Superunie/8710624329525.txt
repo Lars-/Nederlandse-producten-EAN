@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624329525",
+    "name": "Melkan Haverdrink",
+    "description": "Melkan Haverdrink",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.79,
+    "minimumAmount": 1,
+    "maximumAmount": 10,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7b3b0000-ff27-0003-8a8e-08d86446edd0\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AACP7tVE7_YmjwjYgLncRg.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624268510",
+    "name": "g'woon Ontbijtkoek minder suiker gesneden",
+    "description": "g'woon Ontbijtkoek Minder Suiker Gesneden 350gr",
+    "manufacturer": "Continental Bakeries B.V.",
+    "available": true,
+    "price": 1.47,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/b3420000-ffdf-0003-f085-08d5d5207334\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwAqWgjYQ-TXdQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

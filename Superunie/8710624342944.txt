@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624342944",
+    "name": "g'woon Yoghurt biscuit bosvruchten",
+    "description": "g'woon Yoghurt biscuit bosvruchten",
+    "manufacturer": "Hellema-Hallum B.V.",
+    "available": true,
+    "price": 1.09,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6d780000-ff27-0003-3724-08d90e45a62b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABNs_FGWP43mwjZGf5qpA.670x670.jpg",
+    "source": "Jumbo.com"
+}

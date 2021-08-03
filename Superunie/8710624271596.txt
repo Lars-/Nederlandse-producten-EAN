@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624271596",
+    "name": "g'woon Chocolade pinda's",
+    "description": "g'woon Chocoladepinda's 200gr",
+    "manufacturer": "Snack Connection B.V.",
+    "available": true,
+    "price": 1.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/03e50000-ff8a-0003-9a2c-08d63da6fd76\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCSLAjYLfZQRA.670x670.jpg",
+    "source": "Jumbo.com"
+}

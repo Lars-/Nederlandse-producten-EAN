@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624265168",
+    "name": "g'woon Ribbelchips naturel",
+    "description": "g'woon Ribbelchips Naturel 215gr Zak",
+    "manufacturer": "Roger & Roger N.V.",
+    "available": true,
+    "price": 0.85,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/e5e60000-ff55-0003-1343-08d5eb24e3f6\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwA-HwjYLfXkOQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

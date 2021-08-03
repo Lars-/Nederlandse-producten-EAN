@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624317836",
+    "name": "g'woon Ontbijtkoek volkoren gesneden",
+    "description": "g'woon Ontbijtkoek volkoren gesneden",
+    "manufacturer": "Continental Bakeries B.V.",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/505b0000-ff27-0003-f7de-08d832337888\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwA4HgjYQywAbg.670x670.jpg",
+    "source": "Jumbo.com"
+}

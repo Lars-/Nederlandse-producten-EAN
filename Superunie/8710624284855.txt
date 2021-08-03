@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624284855",
+    "name": "Melkan Belegen 48+ kaas geraspt",
+    "description": "Melkan Kaas 48+ Belegen WGM Geraspt 175g",
+    "manufacturer": "Vergeer Holland",
+    "available": true,
+    "price": 2.49,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-269a-08d6f32db7aa\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBtVgjYLfbrfQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

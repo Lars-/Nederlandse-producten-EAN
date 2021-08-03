@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624291105",
+    "name": "g'woon Kaneelpoeder gemalen",
+    "description": "G'woon Kaneel gemalen 52 gram",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.13,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-ac29-08d7141e5d7d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAEZQjYLfct6Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

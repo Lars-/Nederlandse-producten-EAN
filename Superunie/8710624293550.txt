@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624293550",
+    "name": "Sum & Sam Woksaus sweet chilli",
+    "description": "Sum & Sam Woksaus Sweet Chili 175ml",
+    "manufacturer": "Inproba BV",
+    "available": true,
+    "price": 1.39,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-2975-08d73aac525f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBQoAjYLfdIpA.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624275464",
+    "name": "g'woon Rabarbercompote",
+    "description": "g'woon Rabarbercompote 360gr",
+    "manufacturer": "Materne Industries ",
+    "available": true,
+    "price": 1.09,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/adb90000-ff55-0003-54a4-08d64e34141b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDaVgjYLfaWJQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

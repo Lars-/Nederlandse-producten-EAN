@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624331856",
+    "name": "g'woon Zebra spritsen",
+    "description": "g'woon Zebra spritsen",
+    "manufacturer": "Molenaar Banket B.V.",
+    "available": true,
+    "price": 1.39,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-6359-08d8cce789a7\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwDdWAjZA8HFbA.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624284237",
+    "name": "Melkan Belegen 30+ kaas plakken",
+    "description": "Melkan Kaas 30+ Belegen WGM Plakken 175g",
+    "manufacturer": "Vergeer Holland",
+    "available": true,
+    "price": 2.44,
+    "minimumAmount": 1,
+    "maximumAmount": 10,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-087d-08d6f32db788\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwD--QjYLfbkXA.670x670.jpg",
+    "source": "Jumbo.com"
+}

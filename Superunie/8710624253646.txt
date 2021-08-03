@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624253646",
+    "name": "Daily Chef Stoofpeer runderlap",
+    "description": "daily CHEF Stoofperen Met Runderlapje En Aardappelpuree 500gr",
+    "manufacturer": "Bonfait B.V.",
+    "available": true,
+    "price": 3.99,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/d8070000-ffdf-0003-9995-08d5a39d876e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwB4ZAjZCUHfEw.670x670.jpg",
+    "source": "Jumbo.com"
+}

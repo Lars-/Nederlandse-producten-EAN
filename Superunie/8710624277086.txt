@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624277086",
+    "name": "g'woon Baguettes wit",
+    "description": "G'WOON BAGUETTES WIT 2X150G",
+    "manufacturer": "Schapendonk Dutch Bakery B.V.",
+    "available": true,
+    "price": 0.91,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6e790000-ff4b-0003-1314-08d68ab635ff\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBAjAjYLfaybA.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624323776",
+    "name": "g'woon Latte macchiat",
+    "description": "g'woon Latte macchiat",
+    "manufacturer": "Prinsen B.V.",
+    "available": true,
+    "price": 2.19,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/29b50000-ff27-0003-f7a3-08d89ac05c20\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAC1KSf-AwD3UAjYoYghdQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

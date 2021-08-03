@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624335199",
+    "name": "g'woon Sneeuwwafels",
+    "description": "g'woon Sneeuwwafels",
+    "manufacturer": "De Banketgroep B.V.",
+    "available": true,
+    "price": 0.76,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/29b50000-ff27-0003-dad8-08d8a04da483\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwB3fgjY7cEUDg.670x670.jpg",
+    "source": "Jumbo.com"
+}

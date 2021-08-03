@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624335854",
+    "name": "g'woon Stroopwafels mini",
+    "description": "g'woon Mini Stroopwafels 300 g",
+    "manufacturer": "Daelmans Banket B.V.",
+    "available": true,
+    "price": 1.89,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-70ff-08d8cce78a45\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwDctQjZNUMPCA.670x670.jpg",
+    "source": "Jumbo.com"
+}

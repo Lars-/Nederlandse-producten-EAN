@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624110581",
+    "name": "SeaLord Port white",
+    "description": "Sea Lord Port white 750ml",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 5.69,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/96889d6d-6a59-45cb-a590-7aa1804564c3\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAACCRCsQgJ1HgjW40inqw.670x670.jpg",
+    "source": "Jumbo.com"
+}

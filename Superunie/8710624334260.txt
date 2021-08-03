@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624334260",
+    "name": "g'woon Roomboter carree's",
+    "description": "g'woon Roomboter carree's",
+    "manufacturer": "Aviateur Banketbakkerijen B.V.",
+    "available": true,
+    "price": 1.19,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/29b50000-ff27-0003-0cc5-08d8a04ce626\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwDYNwjY_Yqj0Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

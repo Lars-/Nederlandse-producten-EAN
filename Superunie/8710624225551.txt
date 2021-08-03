@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624225551",
+    "name": "g'woon Koffiepads regular",
+    "description": "g'woon Koffiepads Regular Roast 252gr Stazak",
+    "manufacturer": "Beyers Koffie N.V.",
+    "available": true,
+    "price": 2.95,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2fe20000-ff41-0003-0087-08d4acdf2e85\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwCENAjYQyvG_w.670x670.jpg",
+    "source": "Jumbo.com"
+}

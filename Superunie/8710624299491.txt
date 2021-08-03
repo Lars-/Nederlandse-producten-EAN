@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624299491",
+    "name": "g'woon Knoflooksaus",
+    "description": "g'woon Knoflooksaus 300ml",
+    "manufacturer": "Remia N.V.",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-9a20-08d7669a6c5d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwA3EQjYLfd5Pg.670x670.jpg",
+    "source": "Jumbo.com"
+}

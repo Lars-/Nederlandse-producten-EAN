@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624275648",
+    "name": "g'woon Bruine bonen",
+    "description": "g'woon Bruine bonen 400gr",
+    "manufacturer": "Greenyard Prepared Belgium NV",
+    "available": true,
+    "price": 0.69,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6e790000-ff4b-0003-804c-08d68ab62d45\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBXmQjYLfaYxg.670x670.jpg",
+    "source": "Jumbo.com"
+}

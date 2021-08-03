@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624266929",
+    "name": "Melkan Kookroom 20% vet",
+    "description": "melkan Kookroom 20% vet 250ml",
+    "manufacturer": "Inexco B.V.",
+    "available": true,
+    "price": 0.64,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-19b1-08d60131e25f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwD3RwjYLfYDCA.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624280376",
+    "name": "Bonbebe Luiers 6 extra large",
+    "description": "Bonbebe 6 extra large luiers 15+kg 27st.",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 5.84,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-463e-08d74b2e2010\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCxXwjYLfbL4w.670x670.jpg",
+    "source": "Jumbo.com"
+}

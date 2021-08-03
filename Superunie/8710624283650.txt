@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624283650",
+    "name": "g'woon Fruitreep bosvruchten",
+    "description": "g'woon Fruitreep Bosvruchten 162gr",
+    "manufacturer": "Hellema-Hallum B.V.",
+    "available": true,
+    "price": 1.35,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-75e1-08d6ac4a0850\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwAJcAjYQ-TlnA.670x670.jpg",
+    "source": "Jumbo.com"
+}

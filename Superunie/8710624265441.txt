@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624265441",
+    "name": "g'woon Langoortjes",
+    "description": "g'woon Langoortjes 75gr Zak",
+    "manufacturer": "Intersnack Nederland B.V.",
+    "available": true,
+    "price": 0.47,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/e5e60000-ff55-0003-8408-08d5eb24e587\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDaCAjYLfXvmA.670x670.jpg",
+    "source": "Jumbo.com"
+}

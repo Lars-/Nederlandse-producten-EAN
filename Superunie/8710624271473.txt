@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624271473",
+    "name": "g'woon Thaise mix",
+    "description": "g'woon thaise mix 225 gram",
+    "manufacturer": "Menken Orlando B.V.",
+    "available": true,
+    "price": 1.84,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/f4d20000-ff88-0003-ea87-08d638291d06\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwB6dwjYLfZG_g.670x670.jpg",
+    "source": "Jumbo.com"
+}

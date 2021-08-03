@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624245139",
+    "name": "g'woon Kerriesoep",
+    "description": "g'woon Kerriesoep 1-Kops Soep 3x17gr Doosje",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.59,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/9e560000-ffdf-0003-82cd-08d5cd367fda\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwC7egjYLfU9Tg.670x670.jpg",
+    "source": "Jumbo.com"
+}

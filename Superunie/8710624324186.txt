@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624324186",
+    "name": "Bio + Gerookte zalm biologisch",
+    "description": "Bio+ Biologische Gerookte Zalm 100 g",
+    "manufacturer": "Profish Food B.V.",
+    "available": true,
+    "price": 4.8,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6d780000-ff27-0003-351b-08d9032aee91\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwCALwjZNUMOIQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

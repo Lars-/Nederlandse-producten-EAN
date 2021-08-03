@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624317898",
+    "name": "Daily Chef Tagliatelle naturel voordeel",
+    "description": "Daily Chef Tagliatelle naturel voordeel",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 2.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-8e06-08d8f8febdbe\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwC83wjY_Yqgqg.670x670.jpg",
+    "source": "Jumbo.com"
+}

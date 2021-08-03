@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624283292",
+    "name": "g'woon Bloemenhoning cr\u00e8me",
+    "description": "g'woon van bezige bijtjes cr\u00e8me bloemenhoning zacht smeerbaar 500g",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 2.19,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-2328-08d6b6af5074\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwA7cQjYLfbagw.670x670.jpg",
+    "source": "Jumbo.com"
+}

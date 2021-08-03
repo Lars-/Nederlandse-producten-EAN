@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624292744",
+    "name": "Melkan Halfvolle milde yoghurt",
+    "description": "Melkan Halfvolle Milde Yoghurt 1L",
+    "manufacturer": "Arla Foods B.V.",
+    "available": true,
+    "price": 1.09,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-3785-08d73aac4ca4\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwD5gwjYLfdBXg.670x670.jpg",
+    "source": "Jumbo.com"
+}

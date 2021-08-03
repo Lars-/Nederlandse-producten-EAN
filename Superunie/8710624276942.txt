@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624276942",
+    "name": "g'woon Baguettes rustiek meergranen",
+    "description": "GW DESEM BAGRUSTIEK MEERGR 250GX12X60",
+    "manufacturer": "Schapendonk Dutch Bakery B.V.",
+    "available": true,
+    "price": 1.65,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6e790000-ff4b-0003-7aec-08d68ab63641\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwC7gwjYLfasEw.670x670.jpg",
+    "source": "Jumbo.com"
+}

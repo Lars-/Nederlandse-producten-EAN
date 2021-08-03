@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624345204",
+    "name": "G'Woon Rijstwafels chocolade",
+    "description": "G'Woon Rijstwafels chocolade",
+    "manufacturer": "Continental Bakeries B.V.",
+    "available": true,
+    "price": 0.95,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": null,
+    "source": "Jumbo.com"
+}

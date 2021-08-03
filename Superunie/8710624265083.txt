@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624265083",
+    "name": "g'woon Chips naturel",
+    "description": "g'woon Chips Naturel 225gr Zak",
+    "manufacturer": "Roger & Roger N.V.",
+    "available": true,
+    "price": 0.8,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/e5e60000-ff55-0003-058c-08d5eb24e3cd\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAWbgjYLfXjxA.670x670.jpg",
+    "source": "Jumbo.com"
+}

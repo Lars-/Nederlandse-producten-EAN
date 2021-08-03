@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624275907",
+    "name": "g'woon Kidneybonen",
+    "description": "g'woon Kidneybonen 400gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.66,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-0e5d-08d6f32db397\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBMWQjYLfaeuA.670x670.jpg",
+    "source": "Jumbo.com"
+}

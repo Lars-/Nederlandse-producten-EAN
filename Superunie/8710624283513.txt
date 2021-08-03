@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624283513",
+    "name": "g'woon fruitbiscuit bosvruchten",
+    "description": "g'woon Fruitbiscuit Bosvruchten 218gr",
+    "manufacturer": "Hellema-Hallum B.V.",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-b04b-08d6ac4a0808\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwDvzQjYQyvkig.670x670.jpg",
+    "source": "Jumbo.com"
+}

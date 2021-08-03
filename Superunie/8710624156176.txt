@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624156176",
+    "name": "Ok\u20ac Limonadesiroop sinaasappel",
+    "description": "Ok\u20ac Limonadesiroop Sinaasappel 1l",
+    "manufacturer": "Ok\u00e2\u0082\u00ac",
+    "available": true,
+    "price": 0.79,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/f6587d57-fe49-403e-a45c-14f225898b3d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwA1LgjYLfS9wQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

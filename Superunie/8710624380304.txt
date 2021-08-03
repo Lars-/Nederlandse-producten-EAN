@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624380304",
+    "name": "Zwanenberg Knakworstjes",
+    "description": "Brabant Knakworstjes 270gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.79,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4a370000-ff41-0003-dade-08d3a714e94b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwDjPwjXzO1IQw.670x670.jpg",
+    "source": "Jumbo.com"
+}

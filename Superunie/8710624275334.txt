@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624275334",
+    "name": "g'woon Tomatenpuree dubbel geconcentreerd",
+    "description": "g'woon tomatenpuree dubbel geconcentreerd 140gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.49,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f960000-ff76-0003-5962-08d664257d34\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDoUAjYLfaVkA.670x670.jpg",
+    "source": "Jumbo.com"
+}

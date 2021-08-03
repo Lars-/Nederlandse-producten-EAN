@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624274825",
+    "name": "g'woon Passata rustica basil",
+    "description": "g'woon passata Rustica met Basilicum 690gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.39,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-26b7-08d6ac4a1d37\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwC1xwjYLfaGGw.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624266653",
+    "name": "g'woon Glasdoekjes",
+    "description": "g'woon Glasdoekjes 20st",
+    "manufacturer": "Eurofour B.V.",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-913c-08d5f6b9990d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDDBgjYLfX6Ig.670x670.jpg",
+    "source": "Jumbo.com"
+}

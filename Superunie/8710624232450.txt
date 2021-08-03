@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624232450",
+    "name": "g'woon Tomatensap",
+    "description": "g'woon Tomatensap 1l",
+    "manufacturer": "Menken Drinks B.V.",
+    "available": true,
+    "price": 0.85,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/467b0000-ff41-0003-56a6-08d486572d88\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAeyAjYLfUUFg.670x670.jpg",
+    "source": "Jumbo.com"
+}

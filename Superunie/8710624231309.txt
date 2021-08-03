@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624231309",
+    "name": "Slagerskwaliteit Baconreepjes",
+    "description": "Slagers KWALITEIT Baconreepjes Beter Leven 150gr",
+    "manufacturer": "Zandvliet Vleeswaren B.V.",
+    "available": true,
+    "price": 2.79,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/20820000-ff41-0003-91bc-08d4608dc85a\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwA2PwjXzO0bag.670x670.jpg",
+    "source": "Jumbo.com"
+}

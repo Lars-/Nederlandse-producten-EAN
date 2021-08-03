@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624301866",
+    "name": "Coop Biologische tartaartjes",
+    "description": "Coop Biologische tartaartjes",
+    "manufacturer": "Promessa",
+    "available": true,
+    "price": 3.79,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-70f8-08d782337e4a\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDH-AjYLfeWfw.670x670.jpg",
+    "source": "Jumbo.com"
+}

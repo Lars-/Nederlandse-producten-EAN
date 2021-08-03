@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624293383",
+    "name": "g'woon Choco crunch",
+    "description": "g'woon choco en crunch 150gr",
+    "manufacturer": "Choco Support B.V.",
+    "available": true,
+    "price": 1.33,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-d6ea-08d6e8cd3c62\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwAfDAjYQyvyXw.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624125745",
+    "name": "Zuydpunt Cabernet sauvignon shiraz",
+    "description": "Zuydpunt cabernet sauvignon shiraz 75cl",
+    "manufacturer": "Zuydpunt",
+    "available": true,
+    "price": 4.39,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7fcfbf84-bd51-4634-85ff-701d45eb6f9a\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/1WGm4hGH20ypal90QRDhng.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624296896",
+    "name": "g'woon Toiletpapier 3-laags",
+    "description": "g'woon Toiletpapier 3-laags",
+    "manufacturer": "Wepa Papierfabriek",
+    "available": true,
+    "price": 4.69,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-bf7b-08d7983bbf4b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAAZPSf-AwBs1QjYtr_AqA.670x670.jpg",
+    "source": "Jumbo.com"
+}

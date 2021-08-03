@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624237493",
+    "name": "g'woon Vaatwastabletten",
+    "description": "g'woon Classic\u00a0Vaatwastabletten 50 Stuks 700 g",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 2.49,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/0db40000-ff41-0003-2d12-08d4f3a18b97\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAQewjYLfUn0A.670x670.jpg",
+    "source": "Jumbo.com"
+}

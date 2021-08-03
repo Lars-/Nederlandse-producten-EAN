@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624219857",
+    "name": "g'woon Halvajam framboos",
+    "description": "g'woon Halva Jam Framboos 320gr Pot",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.39,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/0f7e0000-ff41-0003-614d-08d3fcba801f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwAjVwjZKkLnsQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

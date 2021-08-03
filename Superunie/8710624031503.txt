@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624031503",
+    "name": "Flaminco",
+    "description": "Flaminco Zoete Rode Wijn 75cl Fles",
+    "manufacturer": "Siebrand Groep B.V.",
+    "available": true,
+    "price": 2.59,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/044175ad-1697-45ea-ba97-e42d67e5722a\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwAUzAjXzOz_1w.670x670.jpg",
+    "source": "Jumbo.com"
+}

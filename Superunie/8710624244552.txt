@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624244552",
+    "name": "g'woon Chocoladereep extra puur 85%",
+    "description": "g'woon Extra Pure Chocolade 85% Cacao 100 g",
+    "manufacturer": "All Crump N.V.",
+    "available": true,
+    "price": 1.39,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/022d0000-ff41-0003-0fdd-08d525357c75\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwBL9gjZNUMLsA.670x670.jpg",
+    "source": "Jumbo.com"
+}

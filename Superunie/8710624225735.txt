@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624225735",
+    "name": "g'woon Koffiepads extra dark",
+    "description": "g'woon Koffiepads extra dark",
+    "manufacturer": "Beyers Koffie N.V.",
+    "available": true,
+    "price": 4.59,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3b020000-ff27-0003-df4c-08d828a415d9\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwDCiwjYQyvKdg.670x670.jpg",
+    "source": "Jumbo.com"
+}

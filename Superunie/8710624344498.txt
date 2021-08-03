@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624344498",
+    "name": "g'woon Mineraalwater framboos koolzuurhoudend",
+    "description": "g'woon Mineraalwater framboos koolzuurhoudend",
+    "manufacturer": "Dalphin International Group",
+    "available": true,
+    "price": 0.39,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/734a0000-ff27-0003-5fe8-08d929ba3b76\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwD7LgjZKkLxrw.670x670.jpg",
+    "source": "Jumbo.com"
+}

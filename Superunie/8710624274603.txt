@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624274603",
+    "name": "g'woon Jonge kapucijners",
+    "description": "g'woon JONGE KAPUCIJNERS 370 ML Pot",
+    "manufacturer": "Baltussen Konservenfabriek B.V.",
+    "available": true,
+    "price": 1.09,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6e790000-ff4b-0003-6cb9-08d67491e845\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBt_AjYLfZ8lw.670x670.jpg",
+    "source": "Jumbo.com"
+}

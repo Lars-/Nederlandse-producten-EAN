@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624340728",
+    "name": "g'woon Mini Cornets unicorn",
+    "description": "g'woon Mini Cornets unicorn",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-b842-08d8d736c534\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwD_7gjY_Yqmdg.670x670.jpg",
+    "source": "Jumbo.com"
+}

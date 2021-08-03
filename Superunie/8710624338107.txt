@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624338107",
+    "name": "g'woon Muesli noten en zaden",
+    "description": "g'woon Muesli noten en zaden",
+    "manufacturer": "Mulder Natuurvoeding B.V.",
+    "available": true,
+    "price": 2.3,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-c56e-08d8dd7ac46d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwBdbQjY_xze-g.670x670.jpg",
+    "source": "Jumbo.com"
+}

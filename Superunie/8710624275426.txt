@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624275426",
+    "name": "g'woon Toiletreiniger eco",
+    "description": "g'woon Ecolabel Toilet Reiniger 750 ml",
+    "manufacturer": "Mc Bride\/Grada B.V.",
+    "available": true,
+    "price": 1.45,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-e66c-08d70ea7f424\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAp_wjYLfaVPw.670x670.jpg",
+    "source": "Jumbo.com"
+}

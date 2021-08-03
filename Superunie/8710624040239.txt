@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624040239",
+    "name": "Flix lucifers 10 st.",
+    "description": "Flix Veiligheidslucifers 10 Stuks",
+    "manufacturer": "De Jong & Partners Venlo B.V.",
+    "available": true,
+    "price": 0.27,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/1287bf33-d2e4-4a00-82b3-11f2ca1c8966\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAAJpK-trerg6wjYthLYZw.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624332310",
+    "name": "Daily Chef Gnocchi met kaas",
+    "description": "Daily Chef Gnocchi met kaas",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.99,
+    "minimumAmount": 1,
+    "maximumAmount": 10,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/734a0000-ff27-0003-9ee8-08d92f3d94c7\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwCSDAjZL8Lo1g.670x670.jpg",
+    "source": "Jumbo.com"
+}

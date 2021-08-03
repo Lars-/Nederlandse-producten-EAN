@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624239800",
+    "name": "g'woon Luncheon meat",
+    "description": "g'woon Luncheon meat",
+    "manufacturer": "Zwanenberg Food Group B.V.",
+    "available": true,
+    "price": 1.85,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-7289-08d8ed48cda9\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwCjJQjY8Bx-EQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

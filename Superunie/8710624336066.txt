@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624336066",
+    "name": "g'woon Rozijnen stercakejes",
+    "description": "g'woon Rozijnen stercakejes",
+    "manufacturer": "Van Dijk Bakkerij  B.V.",
+    "available": true,
+    "price": 1.78,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/29b50000-ff27-0003-4965-08d8b0bd95f2\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwBENAjZA8HF4g.670x670.jpg",
+    "source": "Jumbo.com"
+}

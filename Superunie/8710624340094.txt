@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624340094",
+    "name": "g'woon Diepvrieszakje 3 liter",
+    "description": "g'woon Diepvrieszakje 3 liter",
+    "manufacturer": "ITS B.V.",
+    "available": true,
+    "price": 1.49,
+    "minimumAmount": 1,
+    "maximumAmount": 10,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/734a0000-ff27-0003-d3ad-08d92f3d81f6\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwBmSwjZSOhNiw.670x670.jpg",
+    "source": "Jumbo.com"
+}

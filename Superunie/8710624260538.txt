@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624260538",
+    "name": "g'woon Ontbijtcrackers volkoren tarwe 6 x 3 stuks",
+    "description": "g'woon Crackers Volkoren 315gr",
+    "manufacturer": "Bolletje B.V.",
+    "available": true,
+    "price": 1.74,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/bac90000-ffdf-0003-1084-08d5bfee9441\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDEDAjYLfXD4g.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624334222",
+    "name": "g'woon Roomboter midi gevulde koeken",
+    "description": "g'woon Roomboter midi gevulde koeken",
+    "manufacturer": "Aviateur Banketbakkerijen B.V.",
+    "available": true,
+    "price": 1.04,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/29b50000-ff27-0003-36a3-08d8a04d3bf7\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwA6GQjY_YqjxQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

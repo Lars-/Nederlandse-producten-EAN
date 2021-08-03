@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624341060",
+    "name": "g'woon Cornets aardbei slagroom",
+    "description": "g'woon Cornets aardbei slagroom",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.79,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-3715-08d8cce78e31\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwBq8gjZKkLwcg.670x670.jpg",
+    "source": "Jumbo.com"
+}

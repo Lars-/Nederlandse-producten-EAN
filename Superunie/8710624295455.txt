@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624295455",
+    "name": "Bio+ Halfvolle melk",
+    "description": "Bio+ Halfvolle melk 500ml",
+    "manufacturer": "Vecozuivel BV",
+    "available": true,
+    "price": 0.69,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-c4b8-08d7402c915a\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwA13AjYLfdZGA.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624345402",
+    "name": "g'woon Iso lemon sportdrank",
+    "description": "g'woon Isotone Sportdrank Citroensmaak 500 ml",
+    "manufacturer": "Refresco B.V.",
+    "available": true,
+    "price": 0.49,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/734a0000-ff27-0003-aba0-08d924329801\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwBHowjZQEN3Rw.670x670.jpg",
+    "source": "Jumbo.com"
+}

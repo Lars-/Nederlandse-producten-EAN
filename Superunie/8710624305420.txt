@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624305420",
+    "name": "g'woon Siroop Sinaasappel",
+    "description": "g'woon Siroop Sinaasappel",
+    "manufacturer": "Akom Oldenzaal B.V.",
+    "available": true,
+    "price": 0.79,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-b367-08d7a3487e40\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAItwjYLfezCQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

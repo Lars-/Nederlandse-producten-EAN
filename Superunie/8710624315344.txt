@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624315344",
+    "name": "Supers Dikke bleek",
+    "description": "Supers Dikke bleek",
+    "manufacturer": "LODA NV",
+    "available": true,
+    "price": 0.44,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3b020000-ff27-0003-67ac-08d82d4f3329\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADyPCf-AwDKQgjYOPQp0Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

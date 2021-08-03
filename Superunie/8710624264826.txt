@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624264826",
+    "name": "g'woon Toiletblok forest  vloeibaar",
+    "description": "g'woon Dennen Vloeibaar Toiletblok 55 ml",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.14,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/9e560000-ffdf-0003-588a-08d5cd368127\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDvxQjYLfXh4g.670x670.jpg",
+    "source": "Jumbo.com"
+}

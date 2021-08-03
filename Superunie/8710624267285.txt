@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624267285",
+    "name": "g'woon Havermoutvlokken",
+    "description": "g'woon Havermoutvlokken 500gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.66,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-f24b-08d5fb99de6d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCpwwjYLfYDDw.670x670.jpg",
+    "source": "Jumbo.com"
+}

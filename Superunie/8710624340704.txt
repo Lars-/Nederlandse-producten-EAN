@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624340704",
+    "name": "g'woon Mini cornets vanille choco 12 stuks",
+    "description": "g'woon Mini cornets vanille choco 12 stuks",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 2.17,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3d190000-ff27-0003-0de5-08d8bc620db9\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwBdTAjZBuY_jA.670x670.jpg",
+    "source": "Jumbo.com"
+}

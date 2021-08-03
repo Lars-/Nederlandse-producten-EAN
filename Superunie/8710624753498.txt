@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624753498",
+    "name": "Snijbonen",
+    "description": "Unbranded Snijbonen 200 GRM VERPAKT",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 1.79,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2fe20000-ff41-0003-7916-08d4a6a19463\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwA-SQjY2VK9fQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

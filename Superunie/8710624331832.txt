@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624331832",
+    "name": "g'woon Roze timbola's",
+    "description": "g'woon Roze timbola's",
+    "manufacturer": "Euro P\u00e2tisserie Producties-Twello B.V.",
+    "available": true,
+    "price": 1.89,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-a86c-08d8cce78a68\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwC48wjZA8HFMw.670x670.jpg",
+    "source": "Jumbo.com"
+}

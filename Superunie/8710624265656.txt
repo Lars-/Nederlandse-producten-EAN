@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624265656",
+    "name": "g'woon Onion rings",
+    "description": "g'woon Uiringen 125gr Zak",
+    "manufacturer": "Intersnack Nederland B.V.",
+    "available": true,
+    "price": 0.71,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/e5e60000-ff55-0003-768d-08d5eb24e3f6\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDePwjYLfXwag.670x670.jpg",
+    "source": "Jumbo.com"
+}

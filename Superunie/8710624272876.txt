@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624272876",
+    "name": "Bio+ Gesneden bladspinazie",
+    "description": "Bio+ Gesneden bladspinazie, diepgevroren 450gr",
+    "manufacturer": "Heveck VriesVers B.V.",
+    "available": true,
+    "price": 1.49,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/41db0000-ff8a-0003-79f7-08d6283d8a85\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBKSQjYLfZecA.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624280611",
+    "name": "g'woon Espresso",
+    "description": "g'woon Espresso sticks 25st.",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 2.05,
+    "minimumAmount": 1,
+    "maximumAmount": 10,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-a57c-08d6c7e7a3ab\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA7eyf-AwD3qwjYbyyhcw.670x670.jpg",
+    "source": "Jumbo.com"
+}

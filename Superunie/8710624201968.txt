@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624201968",
+    "name": "Sum & Sam Woknoedels",
+    "description": "Sum & Sam Woknoedels 248 gr",
+    "manufacturer": "Sum & Sam",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/1836d7e8-7d62-4a28-8a6d-de1d020d5d5e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDDUwjYLfTgAQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

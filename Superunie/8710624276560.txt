@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624276560",
+    "name": "Green Maiskorrels",
+    "description": "Green Ma\u00efskorrels 300gr",
+    "manufacturer": "Bonduelle Nederland B.V.",
+    "available": true,
+    "price": 0.75,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-65bd-08d72a2608ac\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA2eSf-AwCcoAjYei0FMw.670x670.jpg",
+    "source": "Jumbo.com"
+}

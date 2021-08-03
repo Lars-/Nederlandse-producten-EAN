@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624283551",
+    "name": "Vivera Tofu bio plus",
+    "description": "Vivera Vleesvervanger BIO+ Biologische Tofu 450 GRM TRAY",
+    "manufacturer": "Enkco Foodgroup",
+    "available": true,
+    "price": 1.59,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-594b-08d71f1914ca\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwA09QjZKkLn8g.670x670.jpg",
+    "source": "Jumbo.com"
+}

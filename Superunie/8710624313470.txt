@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624313470",
+    "name": "g'woon Groentensoep met linzen",
+    "description": "g'woon Groentensoep met linzen",
+    "manufacturer": "Greenyard Prepared Belgium NV",
+    "available": true,
+    "price": 1.9,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/79360000-ff27-0003-89d2-08d87431f868\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA2eSf-AwBsUAjYei0H_Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624302726",
+    "name": "Hollandse garnalen",
+    "description": "Hollandse garnalen",
+    "manufacturer": "Profish Food B.V.",
+    "available": true,
+    "price": 4.79,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-e20f-08d78d31f74f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADyPCf-AwCG8AjYOPQong.670x670.jpg",
+    "source": "Jumbo.com"
+}

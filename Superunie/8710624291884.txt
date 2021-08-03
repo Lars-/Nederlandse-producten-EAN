@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624291884",
+    "name": "g'woon Beschuit volkoren",
+    "description": "g'woon beschuit volkoren 125g",
+    "manufacturer": "Continental Bakeries B.V.",
+    "available": true,
+    "price": 0.41,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-e04f-08d6fe27455b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDEKQjYLfcz3A.670x670.jpg",
+    "source": "Jumbo.com"
+}

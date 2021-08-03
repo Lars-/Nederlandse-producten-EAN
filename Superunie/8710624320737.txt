@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624320737",
+    "name": "Vismarine Msc Sardines in olijfolie",
+    "description": "Vismarine Msc Sardines in olijfolie",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.49,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/79360000-ff27-0003-17b8-08d88fc50e00\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAC1KSf-AwBxQgjYoYgZ7w.670x670.jpg",
+    "source": "Jumbo.com"
+}

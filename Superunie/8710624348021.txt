@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624348021",
+    "name": "Slaschotel Italiaans",
+    "description": "Slaschotel Italiaans",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 3.16,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/734a0000-ff27-0003-bb46-08d92f3dade1\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwA9QgjZL8Lr5A.670x670.jpg",
+    "source": "Jumbo.com"
+}

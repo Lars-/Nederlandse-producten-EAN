@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624255671",
+    "name": "OK\u20ac\u00a0Saksische duo bol leverworst",
+    "description": "Saksische Leverworst Naturel Duo Bol 1* Beter Leven 300gr",
+    "manufacturer": "Groot Conserven B.V.",
+    "available": true,
+    "price": 0.49,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-41c7-08d6ac4a5320\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB1Tif-AwCv9QjX4Cisew.670x670.jpg",
+    "source": "Jumbo.com"
+}

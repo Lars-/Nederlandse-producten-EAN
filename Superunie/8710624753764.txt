@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624753764",
+    "name": "Uien gesnipperd",
+    "description": "Daily Fresh Snipperuien 150gr Verpakt",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 1.39,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/1ecd0000-ff41-0003-869e-08d4961f729e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAAZPSf-AwBFwAjYx0-crA.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624251697",
+    "name": "Verse frites",
+    "description": "UNBRANDED Verse frites 700gr",
+    "manufacturer": "Smeding Groenten en Fruit",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/207e0000-ff41-0003-a91e-08d4f9148f4e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwDOgAjY6EDpNA.670x670.jpg",
+    "source": "Jumbo.com"
+}

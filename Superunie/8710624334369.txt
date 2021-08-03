@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624334369",
+    "name": "g'woon Eierkoeken chocolade",
+    "description": "g'woon Eierkoeken chocolade",
+    "manufacturer": "Aviateur Banketbakkerijen B.V.",
+    "available": true,
+    "price": 1.49,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/29b50000-ff27-0003-d571-08d8a04d8093\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwCqOQjZGf4ABg.670x670.jpg",
+    "source": "Jumbo.com"
+}

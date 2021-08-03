@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624278854",
+    "name": "Bio+ Doperwten en wortelen",
+    "description": "BIO+ DOPERWTEN EN WORTELEN EXTRA FIJN 370 ML Pot",
+    "manufacturer": "Baltussen Konservenfabriek B.V.",
+    "available": true,
+    "price": 1.45,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6e790000-ff4b-0003-30db-08d67fba5609\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwD3OAjYLfa9gg.670x670.jpg",
+    "source": "Jumbo.com"
+}

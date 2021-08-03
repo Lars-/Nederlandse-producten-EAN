@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624300425",
+    "name": "Aardappelschijfjes",
+    "description": "Superunie Unbranded aardappelschijfjes 200gr",
+    "manufacturer": "Smeding Groenten en Fruit",
+    "available": true,
+    "price": 0.69,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-99ad-08d756bdc469\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwDnBgjY80FCAw.670x670.jpg",
+    "source": "Jumbo.com"
+}

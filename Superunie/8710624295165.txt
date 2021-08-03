@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624295165",
+    "name": "g'woon Kaassnacks mini",
+    "description": "g'woon Kaassnacks mini",
+    "manufacturer": "Schapendonk Dutch Bakery B.V.",
+    "available": true,
+    "price": 1.85,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4e750000-ff27-0003-f1bb-08d7e083c22e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDaTAjYLfdTtQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

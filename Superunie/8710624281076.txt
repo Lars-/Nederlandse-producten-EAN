@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624281076",
+    "name": "Bananen bio",
+    "description": "Biologische bananen",
+    "manufacturer": "Coop",
+    "available": true,
+    "price": 1.89,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/b3420000-ffdf-0003-5684-08d5d52082ff\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwA-mwjZNUMMrQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

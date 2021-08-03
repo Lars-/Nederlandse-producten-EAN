@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624343507",
+    "name": "g'woon Crispy Witte Chocolade 200 g",
+    "description": "g'woon Tablet wit crispy chocolade",
+    "manufacturer": "Droste B.V.",
+    "available": true,
+    "price": 1.49,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6d780000-ff27-0003-4ffa-08d913b7df87\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwA-UQjZFEIWGg.670x670.jpg",
+    "source": "Jumbo.com"
+}

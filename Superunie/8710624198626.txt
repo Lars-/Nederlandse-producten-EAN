@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624198626",
+    "name": "Sum & Sam Oosterse Wokolie",
+    "description": "Sum & Sam Wokolie 500ml",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 3.49,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/c2d4585f-0933-4c9a-9ab8-7fdd353394d3\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwD_FAjYLfTWJQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

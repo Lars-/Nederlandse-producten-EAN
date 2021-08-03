@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624289898",
+    "name": "g'woon Zwarte bonen",
+    "description": "g'woon Zwarte bonen 400gr",
+    "manufacturer": "Greenyard Prepared Belgium NV",
+    "available": true,
+    "price": 1.19,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-b686-08d70929a515\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAACwjYLfcYjw.670x670.jpg",
+    "source": "Jumbo.com"
+}

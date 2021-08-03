@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624296711",
+    "name": "g'woon Kattenbakvulling 6 liter",
+    "description": "g'woon Kattenbakvulling ultra klontvormend 6 liter",
+    "manufacturer": "Zijderlaan Retail Services BV",
+    "available": true,
+    "price": 2.89,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-9e36-08d73534d516\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwDdswjYQyvzzg.670x670.jpg",
+    "source": "Jumbo.com"
+}

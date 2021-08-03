@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624219000",
+    "name": "g'woon Pindakaas",
+    "description": "g'woon Pindakaas 210gr Pot",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.13,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/0f7e0000-ff41-0003-366e-08d3fcba80c1\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDFHgjYLfT10Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

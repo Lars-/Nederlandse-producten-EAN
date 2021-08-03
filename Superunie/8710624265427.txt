@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624265427",
+    "name": "g'woon Kaaswafelbolletjes",
+    "description": "g'woon kaaswafelbolletjes 100gr",
+    "manufacturer": "De Kroes Toeleveringsbedrijven B.V.",
+    "available": true,
+    "price": 0.89,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-ff23-08d5f6b995cc\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCSEgjYLfXtzA.670x670.jpg",
+    "source": "Jumbo.com"
+}

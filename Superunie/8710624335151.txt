@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624335151",
+    "name": "g'woon Roomboter boterkoek reepjes",
+    "description": "g'woon Roomboter boterkoek reepjes",
+    "manufacturer": "De Banketgroep B.V.",
+    "available": true,
+    "price": 1.03,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/29b50000-ff27-0003-bb6c-08d8a04d5039\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwCOfgjZKkLtwA.670x670.jpg",
+    "source": "Jumbo.com"
+}

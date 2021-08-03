@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624292485",
+    "name": "Melkan Vruchtenyoghurt bosvruchten 0% vet",
+    "description": "Melkan Vruchtenyoghurt bosvruchten 0% vet",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.35,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4e750000-ff27-0003-f109-08d7fb3252b1\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBVFwjYLfc7XQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

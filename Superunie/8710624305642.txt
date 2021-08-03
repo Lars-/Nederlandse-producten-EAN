@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624305642",
+    "name": "Bio+ Kruimige aardappel biologisch",
+    "description": "Bio+ Kruimige aardappel biologisch",
+    "manufacturer": "Van Kampen",
+    "available": true,
+    "price": 1.89,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-6451-08d8f8febd8f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwCNigjY_YqgdA.670x670.jpg",
+    "source": "Jumbo.com"
+}

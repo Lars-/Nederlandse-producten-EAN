@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624291587",
+    "name": "g'woon Extra jam frambozen",
+    "description": "g'woon extra jam Framboos 450g pot",
+    "manufacturer": "Geurts",
+    "available": true,
+    "price": 1.45,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-39cd-08d74b2e2b38\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwDeIgjY_Yqf5w.670x670.jpg",
+    "source": "Jumbo.com"
+}

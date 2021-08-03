@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624035877",
+    "name": "Slagerskwaliteit Leverworst 1 ster",
+    "description": "Slagers KWALITEIT Leverworst Beter Leven 1* 500gr",
+    "manufacturer": "Maasland Vleeswaren B.V.",
+    "available": true,
+    "price": 1.59,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4aad335b-d990-4b26-b97e-5b0ddcd786ca\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwDU9AjXzOz_0g.670x670.jpg",
+    "source": "Jumbo.com"
+}

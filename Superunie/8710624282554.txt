@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624282554",
+    "name": "g'woon Appelcompote met stukken",
+    "description": "G'woon Appel compote met stukken 360g",
+    "manufacturer": "Greenyard Prepared Belgium NV",
+    "available": true,
+    "price": 0.89,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f960000-ff76-0003-124c-08d664253c30\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCZlgjYLfbaAw.670x670.jpg",
+    "source": "Jumbo.com"
+}

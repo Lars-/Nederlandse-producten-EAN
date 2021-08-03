@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624335977",
+    "name": "g'woon Party cakes",
+    "description": "g'woon Party cakes",
+    "manufacturer": "Aviateur Banketbakkerijen B.V.",
+    "available": true,
+    "price": 2.19,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-0053-08d8cce78a00\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwAuMgjY_YqlzQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

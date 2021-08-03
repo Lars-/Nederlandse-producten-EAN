@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624283315",
+    "name": "g'woon Acacia honing",
+    "description": "je proeft g'woon acacia milde zoete voorjaarshoning 350g",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 2.29,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-afb6-08d6c1a8396f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCdAgjYLfbaig.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624340391",
+    "name": "g'woon Verhoudfolie 3in1 15M",
+    "description": "g'woon Verhoudfolie 3in1 15M",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.95,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-e140-08d8e861b47d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwAA0QjY_YqmBw.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624257422",
+    "name": "Derlon Wattenschijfjes maxi duo",
+    "description": "Derlon wattenschijfjes maxi duo 50st",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.85,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/c6780000-ffdf-0003-5312-08d5932ac04b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBrPgjYLfWh_g.670x670.jpg",
+    "source": "Jumbo.com"
+}

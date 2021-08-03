@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624266417",
+    "name": "g'woon Ribbelchips sour cream & onion",
+    "description": "g'woon Ribbelchips Sour Cream Chili 215gr Zak",
+    "manufacturer": "Roger & Roger N.V.",
+    "available": true,
+    "price": 0.85,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/e5e60000-ff55-0003-86e7-08d5eb24de5f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBzRQjYLfX3lA.670x670.jpg",
+    "source": "Jumbo.com"
+}

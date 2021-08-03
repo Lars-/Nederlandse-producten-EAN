@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624244699",
+    "name": "g'woon Chocoladereep melk",
+    "description": "g'woon Chocoladereep Melk Fairtrade 180gr",
+    "manufacturer": "All Crump N.V.",
+    "available": true,
+    "price": 1.7,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/022d0000-ff41-0003-5be8-08d525357dfc\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwD9OAjYQyvR_w.670x670.jpg",
+    "source": "Jumbo.com"
+}

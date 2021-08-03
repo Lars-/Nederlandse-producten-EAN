@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624265342",
+    "name": "g'woon Kaasbiscuits",
+    "description": "g'woon Kaasbiscuits 100gr",
+    "manufacturer": "De Kroes Toeleveringsbedrijven B.V.",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-c0f5-08d5f6b99660\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwC-oAjY1L9i4g.670x670.jpg",
+    "source": "Jumbo.com"
+}

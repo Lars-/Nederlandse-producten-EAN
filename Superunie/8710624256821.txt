@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624256821",
+    "name": "Melkan Halfvolle kwark perzik",
+    "description": "melkan Halfvolle Kwark Perzik 450gr",
+    "manufacturer": "Konings-Zuivel B.V.",
+    "available": true,
+    "price": 1.45,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afd70000-ff55-0003-dc1e-08d5e0bd804c\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBmfAjYLfWa_g.670x670.jpg",
+    "source": "Jumbo.com"
+}

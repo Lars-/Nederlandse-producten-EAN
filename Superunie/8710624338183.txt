@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624338183",
+    "name": "g'woon Muesli krokant appel",
+    "description": "g'woon Muesli krokant appel",
+    "manufacturer": "Mulder Natuurvoeding B.V.",
+    "available": true,
+    "price": 1.74,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-2477-08d8cce7880f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwAeQQjY3UCbQg.670x670.jpg",
+    "source": "Jumbo.com"
+}

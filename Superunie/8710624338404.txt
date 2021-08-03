@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624338404",
+    "name": "g'woon Snelfilter cafe\u00efnevrij",
+    "description": "g'woon Snelfilter cafe\u00efnevrij",
+    "manufacturer": "UCC Coffee Benelux B.V.",
+    "available": true,
+    "price": 5.39,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-f420-08d8ed48cd91\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwD3KwjZA8HGaw.670x670.jpg",
+    "source": "Jumbo.com"
+}

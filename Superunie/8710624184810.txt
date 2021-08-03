@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624184810",
+    "name": "Hacienda Chardonnay",
+    "description": "Hacienda don molina chardonnay 75 cl",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 4.39,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3fee0ee7-5545-4642-bf98-4b8fca90f583\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwBC0AjXzO0SsQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

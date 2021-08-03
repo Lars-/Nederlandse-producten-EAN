@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624329587",
+    "name": "g'woon High energy sportdrank",
+    "description": "g'woon High energy sportdrank",
+    "manufacturer": "Refresco B.V.",
+    "available": true,
+    "price": 0.49,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/79360000-ff27-0003-e400-08d88016eb83\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAC1KSf-AwCq-wjYmz6l6g.670x670.jpg",
+    "source": "Jumbo.com"
+}

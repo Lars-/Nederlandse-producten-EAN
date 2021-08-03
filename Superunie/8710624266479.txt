@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624266479",
+    "name": "g'woon Tortilla chips sweet chili",
+    "description": "g'woon Tortilla Chips Sweet Chili 165gr Zak",
+    "manufacturer": "Roger & Roger N.V.",
+    "available": true,
+    "price": 1.09,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/e5e60000-ff55-0003-264b-08d5eb24e527\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCYwQjYLfX3_g.670x670.jpg",
+    "source": "Jumbo.com"
+}

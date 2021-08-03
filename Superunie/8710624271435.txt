@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624271435",
+    "name": "g'woon Luchtige rijstcrackers",
+    "description": "g'woon luchtige rijstcrackers 175 gram",
+    "manufacturer": "Menken Orlando B.V.",
+    "available": true,
+    "price": 1.69,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/f4d20000-ff88-0003-4394-08d638291d0d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBKCgjYLfZHlw.670x670.jpg",
+    "source": "Jumbo.com"
+}

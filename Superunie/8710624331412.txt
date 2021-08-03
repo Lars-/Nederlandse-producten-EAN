@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624331412",
+    "name": "g'woon Hazelnoot zandkoeken",
+    "description": "g'woon Hazelnoot zandkoeken",
+    "manufacturer": "Euro P\u00e2tisserie Producties-Twello B.V.",
+    "available": true,
+    "price": 1.79,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-593a-08d8cce78a3b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwDEFQjY7cETtQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

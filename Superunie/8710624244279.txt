@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624244279",
+    "name": "g'woon Cocktailworstjes",
+    "description": "g'woon Cocktailworstjes 400gr",
+    "manufacturer": "Zwanenberg Food Group B.V.",
+    "available": true,
+    "price": 1.95,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/207e0000-ff41-0003-167f-08d4f914ae31\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAneAjYLfU6Qw.670x670.jpg",
+    "source": "Jumbo.com"
+}

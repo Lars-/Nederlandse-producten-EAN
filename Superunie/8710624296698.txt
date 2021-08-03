@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624296698",
+    "name": "g'woon Kattenbakvulling 10 liter",
+    "description": "g'woon Kattenbakvulling sterk absorberend 10L",
+    "manufacturer": "Zijderlaan Retail Services BV",
+    "available": true,
+    "price": 2.85,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-569f-08d73534d5ad\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwBACwjYQyvzsw.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624292263",
+    "name": "Melkan Chocolade vla",
+    "description": "Melkan vla chocolade 1 l pak met punt",
+    "manufacturer": "Frieslandcampina N.V.",
+    "available": true,
+    "price": 1.39,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-f8f9-08d70ea7f5e6\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCV2gjYLfc7WA.670x670.jpg",
+    "source": "Jumbo.com"
+}

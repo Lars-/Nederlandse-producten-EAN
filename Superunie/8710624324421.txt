@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624324421",
+    "name": "g'woon Vruchtenthee bosvruchten",
+    "description": "g'woon Vruchtenthee",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.19,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4ca80000-ff27-0003-9a5c-08d8b638453e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwBP4gjY3UCZnw.670x670.jpg",
+    "source": "Jumbo.com"
+}

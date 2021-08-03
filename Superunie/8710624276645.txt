@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624276645",
+    "name": "g'woon Brokjes in gelei met kalf & lever",
+    "description": "g'woon Brokjes in gelei rund & lever kat 405gr",
+    "manufacturer": "Partner In Pet Food Nl B.V.",
+    "available": true,
+    "price": 0.4,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-9212-08d695ad49cb\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwBu2AjYQ-TXfA.670x670.jpg",
+    "source": "Jumbo.com"
+}

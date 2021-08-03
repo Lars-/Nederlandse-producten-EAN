@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624281557",
+    "name": "Roerbakgroenten Mexicaanse stijl",
+    "description": "Mexicaanse roerbakgroenten",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 2.29,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/03e50000-ff8a-0003-f584-08d6432ad967\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AQASOSf-AwDzmAjYz_S-bw.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624281199",
+    "name": "g'woon Caf\u00e9 noir",
+    "description": "g'woon Caf\u00e9 Noir 200gr",
+    "manufacturer": "Delft Bakkerijen Van B.V.",
+    "available": true,
+    "price": 0.75,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-2e95-08d6ac4a07a4\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwActwjYQ-TgZw.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624265793",
+    "name": "g'woon Popcorn zoet",
+    "description": "g'woon Popcorn Zoet 175gr Zak",
+    "manufacturer": "Intersnack Nederland B.V.",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/e5e60000-ff55-0003-ddbc-08d5eb24e56d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAAZPSf-AwBLkQjYtr_AaA.670x670.jpg",
+    "source": "Jumbo.com"
+}

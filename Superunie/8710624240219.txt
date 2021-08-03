@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624240219",
+    "name": "g'woon Frituurvet",
+    "description": "g'woon Frituurvet 4x250gr Doos",
+    "manufacturer": "Vandemoortele Nederland B.V.",
+    "available": true,
+    "price": 2.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/135b0000-ff41-0003-d94a-08d51a21af84\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBxygjYLfUx9A.670x670.jpg",
+    "source": "Jumbo.com"
+}

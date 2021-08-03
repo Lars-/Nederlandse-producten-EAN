@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624318598",
+    "name": "Daily Chef Nasi babi pangang",
+    "description": "Daily Chef Nasi babi pangang",
+    "manufacturer": "Smeding Groenten en Fruit",
+    "available": true,
+    "price": 4.29,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4e750000-ff27-0003-212d-08d7f59e6711\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwC_MQjYLffUng.670x670.jpg",
+    "source": "Jumbo.com"
+}

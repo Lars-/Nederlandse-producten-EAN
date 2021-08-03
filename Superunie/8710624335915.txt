@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624335915",
+    "name": "g'woon Bakkers makronen",
+    "description": "g'woon Bakkers makronen",
+    "manufacturer": "Daelmans Banket B.V.",
+    "available": true,
+    "price": 1.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-0dc6-08d8cce78a41\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwAAbwjZKkLuYA.670x670.jpg",
+    "source": "Jumbo.com"
+}

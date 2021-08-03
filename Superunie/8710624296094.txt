@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624296094",
+    "name": "g'woon Saucijzenbrood",
+    "description": "GW SAUCIJZENBR VARK BLK* 4X70G",
+    "manufacturer": "Schapendonk Dutch Bakery B.V.",
+    "available": true,
+    "price": 1.75,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-307e-08d756bda655\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwA0IQjXtCcLKA.670x670.jpg",
+    "source": "Jumbo.com"
+}

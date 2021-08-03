@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624345228",
+    "name": "Van Zoelen Rijstwafels yoghurt",
+    "description": "Van Zoelen Rijstwafels yoghurt",
+    "manufacturer": "Continental Bakeries B.V.",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 10,
+    "image": null,
+    "source": "Jumbo.com"
+}

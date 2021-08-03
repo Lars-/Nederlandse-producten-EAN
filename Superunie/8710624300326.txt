@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624300326",
+    "name": "McCain Bistro minikrieltjes",
+    "description": "SU BISTRO MINIKRIELTJES 450G",
+    "manufacturer": "H.J. Heinz B.V.",
+    "available": true,
+    "price": 0.77,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-aef6-08d756bdc4d9\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwBmfQjY6EDpqA.670x670.jpg",
+    "source": "Jumbo.com"
+}

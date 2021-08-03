@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624278151",
+    "name": "g'woon Vlaaifruit kersen",
+    "description": "G'woon Taart & Vlaaifruit kersen 430g",
+    "manufacturer": "Greenyard Prepared Belgium NV",
+    "available": true,
+    "price": 1.39,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6e790000-ff4b-0003-8b06-08d68ab628ae\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBAdwjYLfa2Fg.670x670.jpg",
+    "source": "Jumbo.com"
+}

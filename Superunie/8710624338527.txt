@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624338527",
+    "name": "g'woon Filterkoffie rood duopack",
+    "description": "g'woon Filterkoffie rood duopack",
+    "manufacturer": "UCC Coffee Benelux B.V.",
+    "available": true,
+    "price": 9.29,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-49ff-08d8e2ea697e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwDbgwjY_Yql9g.670x670.jpg",
+    "source": "Jumbo.com"
+}

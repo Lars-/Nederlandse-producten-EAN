@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624264987",
+    "name": "g'woon Runderragout",
+    "description": "g'woon Runderragout 400gr",
+    "manufacturer": "Larco Foods B.V.",
+    "available": true,
+    "price": 1.39,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-54a7-08d5f6b98d30\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwB51QjYLfXjKQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

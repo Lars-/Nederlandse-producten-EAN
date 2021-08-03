@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624245382",
+    "name": "g'woon Soepstengels naturel",
+    "description": "g'woon Soepstengels Naturel 125gr",
+    "manufacturer": "Bedo Import",
+    "available": true,
+    "price": 0.49,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/9e560000-ffdf-0003-8286-08d5cd3646ac\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABCs9--AwDLPgjV0tPlgw.670x670.jpg",
+    "source": "Jumbo.com"
+}

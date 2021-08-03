@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624294915",
+    "name": "Surimi sticks",
+    "description": "Vis Marine MSC Surimi sticks 200 gram",
+    "manufacturer": "Profish Food B.V.",
+    "available": true,
+    "price": 1.29,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-f3ce-08d72a261299\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAAZPSf-AwC6AwjYtr_AbQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

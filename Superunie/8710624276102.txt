@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624276102",
+    "name": "Sperziebonen",
+    "description": "Unbranded Sperziebonen 400 GRM VERPAKT",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 2.09,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/41db0000-ff8a-0003-fdab-08d6221fcd43\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwAl8gjY6Qn0YA.670x670.jpg",
+    "source": "Jumbo.com"
+}

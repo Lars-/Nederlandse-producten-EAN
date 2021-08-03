@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624339296",
+    "name": "g'woon Ijsthee zero koolzuurvrij",
+    "description": "g'woon Ijsthee zero koolzuurvrij",
+    "manufacturer": "Refresco B.V.",
+    "available": true,
+    "price": 0.95,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6d780000-ff27-0003-2708-08d8fdb50b20\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwDeZwjZEV4_Kg.670x670.jpg",
+    "source": "Jumbo.com"
+}

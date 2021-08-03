@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624333973",
+    "name": "g'woon Chocolade galetten",
+    "description": "g'woon Chocolade galetten",
+    "manufacturer": "Aron N.v.",
+    "available": true,
+    "price": 1.89,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/29b50000-ff27-0003-04d4-08d8b0bd95e7\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwAlqQjZEV478Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

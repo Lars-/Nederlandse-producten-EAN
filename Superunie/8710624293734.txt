@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624293734",
+    "name": "Melkan roomboter ongezouten",
+    "description": "Melkan Ongezouten Roomboter 225gr",
+    "manufacturer": "LaBan Foods",
+    "available": true,
+    "price": 2.15,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-9ad6-08d70ea7f65f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDBQAjYLfdKgg.670x670.jpg",
+    "source": "Jumbo.com"
+}

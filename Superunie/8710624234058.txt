@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624234058",
+    "name": "g'woon Olijfolie mild",
+    "description": "g'woon Olijfolie mild",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 4.89,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4e750000-ff27-0003-ca34-08d7fb324bab\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBKoAjYLrz7yw.670x670.jpg",
+    "source": "Jumbo.com"
+}

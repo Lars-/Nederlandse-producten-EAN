@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624333096",
+    "name": "g'woon Lunetta Spritsen",
+    "description": "g'woon Lunetta Spritsen",
+    "manufacturer": "Banketbakkerij Merba B.V.",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/29b50000-ff27-0003-7561-08d8a04dba8a\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwAM7wjY6EDsJA.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624318345",
+    "name": "g'woon Knijpfruit appel-aardbei",
+    "description": "g'woon Knijpfruit appel-aardbei",
+    "manufacturer": "Coroos Conserven B.V.",
+    "available": true,
+    "price": 1.65,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/505b0000-ff27-0003-eb0d-08d832338690\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA7eyf-AwDTdQjYYQevmw.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624311995",
+    "name": "g'woon Culinair vloeibare margarine",
+    "description": "g'woon Culinair vloeibare margarine",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.49,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4e750000-ff27-0003-4d37-08d7eb6b22ff\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwBzigjZKkLqFw.670x670.jpg",
+    "source": "Jumbo.com"
+}

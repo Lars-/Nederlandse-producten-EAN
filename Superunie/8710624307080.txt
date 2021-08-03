@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624307080",
+    "name": "g'woon Koffiebonen cafe\u00efnevrij",
+    "description": "g'woon Koffiebonen cafe\u00efnevrij",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 5.39,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3b020000-ff27-0003-527f-08d828a42b3a\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwAZfgjYQyv4Ag.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624296834",
+    "name": "g'woon Multivitamine rood fruit pakje 6 x 20 cl",
+    "description": "g'woon Multivitamine rood fruit 6x200ml",
+    "manufacturer": "Refresco B.V.",
+    "available": true,
+    "price": 1.43,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-fa7b-08d74b2e2635\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAbDQjYLfdi2g.670x670.jpg",
+    "source": "Jumbo.com"
+}

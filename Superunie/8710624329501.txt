@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624329501",
+    "name": "New Way Maandverband super nacht",
+    "description": "New Way Maandverband super nacht",
+    "manufacturer": "Ontex International",
+    "available": true,
+    "price": 1.25,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-f836-08d8ed48e79c\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwCZwAjY_Yqh7Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

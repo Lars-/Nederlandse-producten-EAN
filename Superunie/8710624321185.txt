@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624321185",
+    "name": "g'woon Kindermix",
+    "description": "g'woon Kindermix",
+    "manufacturer": "Astra Faam B.V.",
+    "available": true,
+    "price": 1.84,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/505b0000-ff27-0003-b0c3-08d8323387bc\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwC_ywjZKkLrZg.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624247980",
+    "name": "g'woon Siroop framboos",
+    "description": "g'woon Framboos Vruchtensiroop 750 ml",
+    "manufacturer": "Burg Ter Aar B.V.",
+    "available": true,
+    "price": 2.19,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/c6780000-ffdf-0003-3a2c-08d5932aac60\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwCPqwjZQEN2IA.670x670.jpg",
+    "source": "Jumbo.com"
+}

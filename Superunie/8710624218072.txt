@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624218072",
+    "name": "g'woon Hagelslag puur",
+    "description": "g'woon Pure Hagelslag UTZ 400gr",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.69,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/0f7e0000-ff41-0003-6aa3-08d3fcba7ebc\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAACDQALQgJ24QjWvys8fQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

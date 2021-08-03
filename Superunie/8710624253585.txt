@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624253585",
+    "name": "Daily Chef Cordon bleu met spinazie en puree",
+    "description": "daily CHEF Spinazie Met Cordon Bleu En Aardappelpuree 500gr",
+    "manufacturer": "Bonfait B.V.",
+    "available": true,
+    "price": 3.69,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/e39c0000-ffdf-0003-4369-08d5a929cb99\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwDANgjZCUHe8g.670x670.jpg",
+    "source": "Jumbo.com"
+}

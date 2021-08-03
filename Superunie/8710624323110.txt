@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624323110",
+    "name": "g'woon Roomijs brownie karamel",
+    "description": "g'woon Roomijs brownie karamel",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 2.29,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-e2c1-08d8cce78e27\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwBxbAjZBuY_ig.670x670.jpg",
+    "source": "Jumbo.com"
+}

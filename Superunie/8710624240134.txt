@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624240134",
+    "name": "g'woon Bak & braad",
+    "description": "g'woon Bak & Braad 400ml",
+    "manufacturer": "Remia N.V.",
+    "available": true,
+    "price": 0.95,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/0db40000-ff41-0003-4780-08d4f3a18080\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCysgjYLfUySA.670x670.jpg",
+    "source": "Jumbo.com"
+}

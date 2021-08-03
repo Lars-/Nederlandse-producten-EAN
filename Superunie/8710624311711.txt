@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624311711",
+    "name": "Bio+ Biologische havermout fijn",
+    "description": "Bio+ Havermout fijn",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4e750000-ff27-0003-991e-08d7d4b5f40f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBghwjYLffKBw.670x670.jpg",
+    "source": "Jumbo.com"
+}

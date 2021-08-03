@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624273279",
+    "name": "g'woon Containerzakken 240 liter",
+    "description": "g\u2019woon containerzakken 240L 10 st.",
+    "manufacturer": "Pack-It B.V.",
+    "available": true,
+    "price": 1.75,
+    "minimumAmount": 1,
+    "maximumAmount": 10,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-1637-08d6903597db\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwArOQjYLfZjjg.670x670.jpg",
+    "source": "Jumbo.com"
+}

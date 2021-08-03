@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624258955",
+    "name": "g'woon\u00a0Hollandse klassiekers",
+    "description": "g'woon\u00a0Hollandse klassiekers",
+    "manufacturer": "Heveck VriesVers B.V.",
+    "available": true,
+    "price": 1.69,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4e750000-ff27-0003-af9c-08d7da2bb060\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDh2gjYLfW2PA.670x670.jpg",
+    "source": "Jumbo.com"
+}

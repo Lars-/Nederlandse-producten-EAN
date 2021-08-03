@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624200343",
+    "name": "Sum & Sam Boemboe groene curry",
+    "description": "Sum & Sam Boemboe voor Groene Curry 100g",
+    "manufacturer": "Sum & Sam",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/174c66a0-3633-4281-9fc4-f2b1a061b55d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADsFEH-AwAVbAjTyopClQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

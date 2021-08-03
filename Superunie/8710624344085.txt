@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624344085",
+    "name": "g'woon Wasverzachter morgenfris",
+    "description": "g'woon Wasverzachter morgenfris",
+    "manufacturer": "Vipack B.V.",
+    "available": true,
+    "price": 1.79,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6d780000-ff27-0003-8c27-08d91f7d9fdf\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwDwJwjZKkLxpw.670x670.jpg",
+    "source": "Jumbo.com"
+}

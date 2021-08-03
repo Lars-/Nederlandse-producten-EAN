@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624257507",
+    "name": "Derlon Shampoo 1 in 1",
+    "description": "Derlon shampoo 2in1 500ml",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.65,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/c6780000-ffdf-0003-6f86-08d5932ac0ae\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDHGwjYLfWlEg.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624323837",
+    "name": "g'woon Cappuccino",
+    "description": "g'woon Cappuccino",
+    "manufacturer": "Prinsen B.V.",
+    "available": true,
+    "price": 1.6,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/79360000-ff27-0003-773a-08d884b3a477\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA2eSf-AwBCuwjYir5eyw.670x670.jpg",
+    "source": "Jumbo.com"
+}

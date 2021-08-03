@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624265403",
+    "name": "g'woon Kaaswafel blokjes",
+    "description": "g'woon Kaaswafelblokjes 100gr",
+    "manufacturer": "De Kroes Toeleveringsbedrijven B.V.",
+    "available": true,
+    "price": 1.75,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/f4d20000-ff88-0003-fedd-08d638291d09\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBanwjYLfXrIg.670x670.jpg",
+    "source": "Jumbo.com"
+}

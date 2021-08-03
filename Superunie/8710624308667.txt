@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624308667",
+    "name": "Sum & Sam Kroepoek vegetarisch",
+    "description": "Sum & Sam Kroepoek vegetarisch",
+    "manufacturer": "Intersnack Nederland B.V.",
+    "available": true,
+    "price": 0.89,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4e750000-ff27-0003-86ad-08d806f8c5b1\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAu-AjYLffF6g.670x670.jpg",
+    "source": "Jumbo.com"
+}

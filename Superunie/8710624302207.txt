@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624302207",
+    "name": "g'woon Bouillon kip",
+    "description": "g'woon Bouillon kip",
+    "manufacturer": "Larco Foods B.V.",
+    "available": true,
+    "price": 1.49,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-554c-08d787a38be4\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwDJ1wjZKkLpng.670x670.jpg",
+    "source": "Jumbo.com"
+}

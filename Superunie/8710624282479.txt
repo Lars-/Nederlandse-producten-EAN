@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624282479",
+    "name": "g'woon Appelmoes extra cups",
+    "description": "G'WOON APPELMOES 2X6X100G",
+    "manufacturer": "Coroos Conserven B.V.",
+    "available": true,
+    "price": 1.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6e790000-ff4b-0003-8b91-08d68ab625d6\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCoaAjYLfbV3g.670x670.jpg",
+    "source": "Jumbo.com"
+}

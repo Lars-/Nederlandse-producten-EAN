@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624248024",
+    "name": "g'woon Siroop sinaasappel",
+    "description": "g'woon Siroop 80% Fruit Sinaasappel 750ml Fles",
+    "manufacturer": "Burg Ter Aar B.V.",
+    "available": true,
+    "price": 2.29,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/42d40000-ff41-0003-ccda-08d57d2b49b5\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwCsUwjZKkLnuQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

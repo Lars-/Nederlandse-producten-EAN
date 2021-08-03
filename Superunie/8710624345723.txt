@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624345723",
+    "name": "First Choice Cola light",
+    "description": "First Choice Cola light",
+    "manufacturer": "Refresco B.V.",
+    "available": true,
+    "price": 1.49,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6d780000-ff27-0003-b7af-08d913b73e03\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwAu6QjZKkLyfg.670x670.jpg",
+    "source": "Jumbo.com"
+}

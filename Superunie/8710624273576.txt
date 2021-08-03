@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624273576",
+    "name": "Green Wortelen fijn",
+    "description": "Green Wortelen fijn 680gr",
+    "manufacturer": "Greenyard Prepared Belgium NV",
+    "available": true,
+    "price": 0.85,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-80d4-08d72fac0a1a\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA7eyf-AwAn4wjYbyyhXg.670x670.jpg",
+    "source": "Jumbo.com"
+}

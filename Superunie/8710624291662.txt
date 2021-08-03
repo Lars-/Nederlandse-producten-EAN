@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624291662",
+    "name": "Newway Tampons normaal",
+    "description": "New Way tampons normaal 32 st.",
+    "manufacturer": "Ontex International",
+    "available": true,
+    "price": 1.29,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-7ada-08d724b7f911\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwA5CgjYLfc0hw.670x670.jpg",
+    "source": "Jumbo.com"
+}

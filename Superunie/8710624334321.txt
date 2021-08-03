@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624334321",
+    "name": "g'woon Roomboter mini appelkoeken",
+    "description": "g'woon Roomboter mini appelkoeken",
+    "manufacturer": "Aviateur Banketbakkerijen B.V.",
+    "available": true,
+    "price": 1.04,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/29b50000-ff27-0003-fe3c-08d8a04d5809\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwCUEgjY__YLbQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

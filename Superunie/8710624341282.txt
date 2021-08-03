@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624341282",
+    "name": "g'woon Choco sticks",
+    "description": "g'woon Choco sticks",
+    "manufacturer": "Heveck VriesVers B.V.",
+    "available": true,
+    "price": 1.12,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-214b-08d8dd7c8544\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwA3rgjZBuY_jQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

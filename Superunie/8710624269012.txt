@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624269012",
+    "name": "g'woon Macaroni",
+    "description": "g'woon macaroni 500gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.49,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/41db0000-ff8a-0003-7b3c-08d6221fc39c\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBFYgjYLfYqgw.670x670.jpg",
+    "source": "Jumbo.com"
+}

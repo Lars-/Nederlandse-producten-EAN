@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624289652",
+    "name": "g'woon Dessertsaus aardbeien",
+    "description": "g'woon dessertsaus aardbei 260g fles",
+    "manufacturer": "Geurts",
+    "available": true,
+    "price": 1.29,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/526c0000-ff27-0003-7798-08d6dd330249\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwAUmgjYQyvs0Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

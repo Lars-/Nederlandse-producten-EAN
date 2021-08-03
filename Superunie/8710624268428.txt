@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624268428",
+    "name": "g'woon Basmati rijst builtjes",
+    "description": "BASMATI RIJST BUILTJES",
+    "manufacturer": "Sillevoldt Rijst B.V.",
+    "available": true,
+    "price": 1.45,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-8c14-08d6ac4a1ba7\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAgvgjYLfYhjA.670x670.jpg",
+    "source": "Jumbo.com"
+}

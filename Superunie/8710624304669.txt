@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624304669",
+    "name": "Bandero Taco schelpen",
+    "description": "Bandero Taco schelpen",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.45,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-757d-08d7669a6d3d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCNQgjYLfesqg.670x670.jpg",
+    "source": "Jumbo.com"
+}

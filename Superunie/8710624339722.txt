@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624339722",
+    "name": "MelkanGeitenkaas naturel",
+    "description": "MelkanGeitenkaas naturel",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.79,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6d780000-ff27-0003-9e4c-08d90e4602f6\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwBLfAjZJlTqWg.670x670.jpg",
+    "source": "Jumbo.com"
+}

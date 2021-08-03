@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624331399",
+    "name": "g'woon Koekjes mix",
+    "description": "g'woon Koekjes mix",
+    "manufacturer": "Euro P\u00e2tisserie Producties-Twello B.V.",
+    "available": true,
+    "price": 1.59,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-93e4-08d8cce78a39\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwB8AAjY_YqiiQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

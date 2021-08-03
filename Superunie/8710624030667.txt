@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624030667",
+    "name": "Slammers Energy drink blik",
+    "description": "Slammers Energy Refreshing Powerdrink with Taurin & Caffeine 250 ml",
+    "manufacturer": "Menken Drinks B.V.",
+    "available": true,
+    "price": 0.45,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f9e4c2a-0d25-4198-bf82-38d8b0bda564\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwBo2AjZNUMLhw.670x670.jpg",
+    "source": "Jumbo.com"
+}

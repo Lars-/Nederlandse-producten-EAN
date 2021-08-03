@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624255749",
+    "name": "g'woon squeeze mixpak",
+    "description": "g'woon Squeeze Mixpak 6st",
+    "manufacturer": "Heveck VriesVers B.V.",
+    "available": true,
+    "price": 2.34,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/ddd50000-ffdf-0003-1b4d-08d5b9aa7930\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAuwgjYLfWYEA.670x670.jpg",
+    "source": "Jumbo.com"
+}

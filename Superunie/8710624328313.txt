@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624328313",
+    "name": "g'woon Hot chocolate",
+    "description": "g'woon Hot chocolate",
+    "manufacturer": "Prinsen B.V.",
+    "available": true,
+    "price": 2.05,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7b3b0000-ff27-0003-8873-08d858aced15\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AACP7tVE7_YkZQjYgLnXLg.670x670.jpg",
+    "source": "Jumbo.com"
+}

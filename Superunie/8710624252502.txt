@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624252502",
+    "name": "Vismarine Gerookte makreelflakes",
+    "description": "Vis Marine Gerookte Makreelflakes 200 gram",
+    "manufacturer": "Profish Food B.V.",
+    "available": true,
+    "price": 5.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/e5e60000-ff55-0003-8f6e-08d5f0ac2aa4\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA7eyf-AwDzYgjYaax9Cg.670x670.jpg",
+    "source": "Jumbo.com"
+}

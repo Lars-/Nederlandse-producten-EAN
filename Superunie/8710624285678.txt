@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624285678",
+    "name": "g'woon Luchtige crackers naturel",
+    "description": "g'woon Luchtige Crackers Naturel 250gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.78,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-e903-08d6b6af5076\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCdNgjYLfbz9Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

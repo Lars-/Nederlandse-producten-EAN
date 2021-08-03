@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624231187",
+    "name": "g'woon Roodmerk koffie grove snelfiltermaling",
+    "description": "g'woon Roodmerkgrove Maling 250gr",
+    "manufacturer": "UCC Coffee Benelux B.V.",
+    "available": true,
+    "price": 2.89,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2fe20000-ff41-0003-d94e-08d4acdf321f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwDKdAjYQ-TNnA.670x670.jpg",
+    "source": "Jumbo.com"
+}

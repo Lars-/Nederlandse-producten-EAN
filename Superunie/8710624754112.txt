@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624754112",
+    "name": "IJsbergsla naturel voordeelverpakking",
+    "description": "Unbranded IJsbergsla 400 GRM VERPAKT",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 1.89,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2fe20000-ff41-0003-67b5-08d4a6a19906\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAAZPSf-AwDDjwjYx0-fSQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

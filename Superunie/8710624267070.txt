@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624267070",
+    "name": "g'woon Mandarijnen op siroop",
+    "description": "g'woon mandarijnen op siroop 310gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.89,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-4841-08d606a08f34\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwADYwjYLfYCjQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

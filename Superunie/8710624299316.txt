@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624299316",
+    "name": "g'woon Sladressing 1000 islands",
+    "description": "g'woon Sladressing 1000 islands",
+    "manufacturer": "Remia N.V.",
+    "available": true,
+    "price": 1.09,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-b385-08d79db49622\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwChVgjYLfd47g.670x670.jpg",
+    "source": "Jumbo.com"
+}

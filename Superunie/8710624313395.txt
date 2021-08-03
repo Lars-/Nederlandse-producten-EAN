@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624313395",
+    "name": "g'woon Erwtensoep met rookworst",
+    "description": "g'woon Erwtensoep met rookworst",
+    "manufacturer": "Four Seasons Food B.V.",
+    "available": true,
+    "price": 1.75,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/80fd0000-ff27-0003-2250-08d853302971\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA7eyf-AwBNxgjYWfUr0g.670x670.jpg",
+    "source": "Jumbo.com"
+}

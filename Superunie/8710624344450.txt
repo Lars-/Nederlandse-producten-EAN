@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624344450",
+    "name": "g'woon Mineraalwater bosbes koolzuurhoudend",
+    "description": "g'woon Mineraalwater bosbes koolzuurhoudend",
+    "manufacturer": "Dalphin International Group",
+    "available": true,
+    "price": 0.39,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/734a0000-ff27-0003-53ed-08d92f3d927a\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwBBYAjZL8LrTg.670x670.jpg",
+    "source": "Jumbo.com"
+}

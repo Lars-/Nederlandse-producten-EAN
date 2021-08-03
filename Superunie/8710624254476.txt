@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624254476",
+    "name": "g'woon Bouillon blokjes vis",
+    "description": "g'woon Bouillon blokjes vis 8x10gr",
+    "manufacturer": "Inproba BV",
+    "available": true,
+    "price": 0.86,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/d06e0000-ffdf-0003-459c-08d5d071ca8d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwB1dgjYLfWE-A.670x670.jpg",
+    "source": "Jumbo.com"
+}

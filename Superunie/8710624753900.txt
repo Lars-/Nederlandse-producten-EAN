@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624753900",
+    "name": "Chinese roerbakgroenten",
+    "description": "Daily Fresh Chinese Roerbakgroenten 250gr Verpakt",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 1.69,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/1ecd0000-ff41-0003-6e69-08d4961f66f5\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwCETAjYz_TE6g.670x670.jpg",
+    "source": "Jumbo.com"
+}

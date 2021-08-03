@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624337261",
+    "name": "Melkan Tiramisu",
+    "description": "Melkan Tiramisu",
+    "manufacturer": "Konings-Zuivel B.V.",
+    "available": true,
+    "price": 0.89,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-eb4a-08d8e861e84a\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwDwIQjY__YN2w.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624331375",
+    "name": "g'woon Krakelingen",
+    "description": "g'woon Krakelingen",
+    "manufacturer": "Euro P\u00e2tisserie Producties-Twello B.V.",
+    "available": true,
+    "price": 0.89,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-7c7b-08d8cce78a38\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwAc6QjY7cETqg.670x670.jpg",
+    "source": "Jumbo.com"
+}

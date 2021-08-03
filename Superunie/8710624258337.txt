@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624258337",
+    "name": "g'woon Hondensnacks kluiven",
+    "description": "g'woon Mini kluiven 500gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/ddd50000-ffdf-0003-e8b9-08d5b42658ff\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwBs6wjYQyvWhQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

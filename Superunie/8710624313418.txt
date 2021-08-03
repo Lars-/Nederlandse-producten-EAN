@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624313418",
+    "name": "g'woon Hollandse tomatensoep",
+    "description": "g'woon Hollandse tomatensoep",
+    "manufacturer": "Four Seasons Food B.V.",
+    "available": true,
+    "price": 1.75,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3b020000-ff27-0003-2b4c-08d82d4ee0a1\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADyPCf-AwBfhgjYPasPfA.670x670.jpg",
+    "source": "Jumbo.com"
+}

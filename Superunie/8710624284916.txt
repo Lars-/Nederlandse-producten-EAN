@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624284916",
+    "name": "Melkan Geraspte kaas belegen 48+ voordeel",
+    "description": "Melkan Geraspte kaas belegen 48+ voordeel",
+    "manufacturer": "Vergeer Holland",
+    "available": true,
+    "price": 3.59,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4e750000-ff27-0003-4eb7-08d811263ad6\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBAWQjYLfbr5Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

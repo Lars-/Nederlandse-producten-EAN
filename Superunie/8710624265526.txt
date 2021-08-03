@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624265526",
+    "name": "g'woon Chips ham kaas",
+    "description": "g'woon Ham Kaas 120gr",
+    "manufacturer": "Intersnack Nederland B.V.",
+    "available": true,
+    "price": 0.71,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/e5e60000-ff55-0003-27e6-08d5eb24e5f6\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBE7gjYLfXuPA.670x670.jpg",
+    "source": "Jumbo.com"
+}

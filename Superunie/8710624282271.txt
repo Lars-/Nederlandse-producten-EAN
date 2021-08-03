@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624282271",
+    "name": "Tutti frutti",
+    "description": "Gewelde Tutti Frutti 250 g",
+    "manufacturer": "Qualino B.V.",
+    "available": true,
+    "price": 2.55,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6e790000-ff4b-0003-0dc4-08d67fba6a88\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwDxAwjZRcPKYA.670x670.jpg",
+    "source": "Jumbo.com"
+}

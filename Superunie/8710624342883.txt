@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624342883",
+    "name": "g'woon Tablet wit chocolade",
+    "description": "g'woon Tablet wit chocolade",
+    "manufacturer": "Droste B.V.",
+    "available": true,
+    "price": 0.53,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6d780000-ff27-0003-0a12-08d90e45ceb2\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwBAhQjZHOcTXw.670x670.jpg",
+    "source": "Jumbo.com"
+}

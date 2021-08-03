@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624331337",
+    "name": "g'woon Jan hagel",
+    "description": "g'woon Jan hagel",
+    "manufacturer": "Euro P\u00e2tisserie Producties-Twello B.V.",
+    "available": true,
+    "price": 2.06,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-13cf-08d8cce78a80\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwBJUwjY_YqiNw.670x670.jpg",
+    "source": "Jumbo.com"
+}

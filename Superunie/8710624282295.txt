@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624282295",
+    "name": "Vijgen",
+    "description": "Vijgen 250gr",
+    "manufacturer": "Qualino B.V.",
+    "available": true,
+    "price": 3.49,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6e790000-ff4b-0003-83aa-08d67fba6bf5\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwDMHAjXzO04Gw.670x670.jpg",
+    "source": "Jumbo.com"
+}

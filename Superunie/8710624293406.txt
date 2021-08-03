@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624293406",
+    "name": "g'woon Choco pinda's",
+    "description": "g'woon Choco en pinda 250gr",
+    "manufacturer": "Choco Support B.V.",
+    "available": true,
+    "price": 0.89,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-4330-08d6e8cd3d30\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwAGRwjZJx4dGQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624271336",
+    "name": "g'woon Party toast naturel",
+    "description": "g'woon Party Toast naturel 150gr",
+    "manufacturer": "Continental Bakeries B.V.",
+    "available": true,
+    "price": 1.02,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/03e50000-ff8a-0003-efdb-08d63da6f636\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwA8ugjYLfZF2A.670x670.jpg",
+    "source": "Jumbo.com"
+}

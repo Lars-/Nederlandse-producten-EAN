@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624282493",
+    "name": "g'woon Appelmoes zonder toegevoegde suikers",
+    "description": "G'WOON APPELMOES ZONDER TOEGEVOEGD SUIKER 4X100G",
+    "manufacturer": "Coroos Conserven B.V.",
+    "available": true,
+    "price": 0.72,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6e790000-ff4b-0003-3e5d-08d68ab625db\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwB03AjYLfbUdA.670x670.jpg",
+    "source": "Jumbo.com"
+}

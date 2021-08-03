@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624288792",
+    "name": "Bonb\u00e9b\u00e9 Fruithapje appel bosbes peer banaan",
+    "description": "Bonb\u00e9b\u00e9 appel bosbes peer banaan 7708 - F0603 potje 200 g",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-2644-08d6fe273ecb\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwA65QjYLfcPVA.670x670.jpg",
+    "source": "Jumbo.com"
+}

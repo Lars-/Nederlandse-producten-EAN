@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624259587",
+    "name": "g'woon Clear granaatappel aca\u00ef koolzuurvrij",
+    "description": "g'woon Clear Pommegranaat Aca\u00ef 1,5l",
+    "manufacturer": "Menken Drinks B.V.",
+    "available": true,
+    "price": 0.91,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/9e560000-ffdf-0003-9633-08d5cd3666a8\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBkeQjYLfW70Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

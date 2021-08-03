@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624306694",
+    "name": "g'woon Cups ristretto",
+    "description": "g'woon Cups ristretto",
+    "manufacturer": "UCC Coffee Benelux B.V.",
+    "available": true,
+    "price": 2.72,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3b020000-ff27-0003-6c36-08d828a433fd\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwBHFQjYQyv1iQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

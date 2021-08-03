@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624308193",
+    "name": "First Choice Cola regular blik 4x250ml",
+    "description": "First Choice Cola regular blik 4x250ml",
+    "manufacturer": "Refresco B.V.",
+    "available": true,
+    "price": 1.56,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/79360000-ff27-0003-5263-08d884b3a667\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA2eSf-AwBiQgjYir5cKA.670x670.jpg",
+    "source": "Jumbo.com"
+}

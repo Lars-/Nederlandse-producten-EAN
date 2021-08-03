@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624275822",
+    "name": "g'woon Rode kidneybonen",
+    "description": "G'woon Rode Kidney bonen 200g",
+    "manufacturer": "Greenyard Prepared Belgium NV",
+    "available": true,
+    "price": 0.59,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f960000-ff76-0003-9f89-08d664254cc5\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBSWgjYLfaeQg.670x670.jpg",
+    "source": "Jumbo.com"
+}

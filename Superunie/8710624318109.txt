@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624318109",
+    "name": "Vismarine Tonijnstuk in olijfolie",
+    "description": "Vismarine Tonijnstuk in olijfolie",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/29b50000-ff27-0003-ea09-08d8b0bd95e1\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAAZPSf-AwDITQjYtr_AqQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

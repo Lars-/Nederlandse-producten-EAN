@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624255190",
+    "name": "g'woon Variatie vlees adult",
+    "description": "g'woon Variatie Vlees Adult 12x100g",
+    "manufacturer": "Partner In Pet Food Nl B.V.",
+    "available": true,
+    "price": 2.89,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/9e560000-ffdf-0003-76f5-08d5cd366e9e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwA46AjYQ-TTwQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

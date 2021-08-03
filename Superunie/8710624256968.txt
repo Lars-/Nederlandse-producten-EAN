@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624256968",
+    "name": "Melkan Volle kwark",
+    "description": "melkan Romige Volle Kwark 500gr",
+    "manufacturer": "Konings-Zuivel B.V.",
+    "available": true,
+    "price": 1.29,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/9d860000-ffdf-0003-7ef2-08d59e1df026\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCUPAjYLfWd8w.670x670.jpg",
+    "source": "Jumbo.com"
+}

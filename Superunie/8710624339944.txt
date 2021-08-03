@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624339944",
+    "name": "Melkan Koffieroom",
+    "description": "Melkan Koffieroom",
+    "manufacturer": "Frieslandcampina N.V.",
+    "available": true,
+    "price": 0.5,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": null,
+    "source": "Jumbo.com"
+}

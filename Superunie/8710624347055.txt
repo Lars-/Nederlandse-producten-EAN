@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624347055",
+    "name": "Banderos Taco schelpen",
+    "description": "Banderos Taco Schelpen 12 x 12,5 g",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.45,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6d780000-ff27-0003-0d24-08d91945cf9a\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwBlswjZNUMQYQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

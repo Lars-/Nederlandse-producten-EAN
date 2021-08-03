@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624753320",
+    "name": "Andijvie fijn voordeelverpakking",
+    "description": "Unbranded Andijvie fijn 500 GRM VERPAKT",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 2.29,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2fe20000-ff41-0003-70dc-08d4a6a1946d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwDYVgjYz_S-jg.670x670.jpg",
+    "source": "Jumbo.com"
+}

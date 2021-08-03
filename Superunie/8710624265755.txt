@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624265755",
+    "name": "g'woon Knibbels",
+    "description": "g'woon Knibbels 12x108gr",
+    "manufacturer": "The Impulse Factory",
+    "available": true,
+    "price": 0.77,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/e5e60000-ff55-0003-61ba-08d5eb24de6e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCghQjYLfXzCw.670x670.jpg",
+    "source": "Jumbo.com"
+}

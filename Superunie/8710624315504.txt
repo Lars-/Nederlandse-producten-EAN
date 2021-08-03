@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624315504",
+    "name": "g'woon Dentalsticks hond mini",
+    "description": "g'woon Dentalsticks hond mini",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.19,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7b3b0000-ff27-0003-4647-08d86ead8d6e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwDMeQjZGf4Bnw.670x670.jpg",
+    "source": "Jumbo.com"
+}

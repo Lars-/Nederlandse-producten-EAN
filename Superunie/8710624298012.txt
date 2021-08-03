@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624298012",
+    "name": "Melkan Slagroom spuitbus",
+    "description": "Melkan slagroom 250gr vol & romig",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.09,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-09e9-08d756bda66f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAFqQjYLfdvFA.670x670.jpg",
+    "source": "Jumbo.com"
+}

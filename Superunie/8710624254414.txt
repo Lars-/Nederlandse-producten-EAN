@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624254414",
+    "name": "g'woon Bouillonblokjes groenten",
+    "description": "g'woon Bouillon blokjes groenten 12x10gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.5,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/9e560000-ffdf-0003-230f-08d5cd36802d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwC4_gjYLfWEWw.670x670.jpg",
+    "source": "Jumbo.com"
+}

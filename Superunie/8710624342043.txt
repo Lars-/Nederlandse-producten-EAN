@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624342043",
+    "name": "Sense Bakken bewust light vloeibaar boter",
+    "description": "Sense Bakken bewust light vloeibaar boter",
+    "manufacturer": "Remia N.V.",
+    "available": true,
+    "price": 1.49,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-1813-08d8ed48cda1\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwBubQjZKkLwrA.670x670.jpg",
+    "source": "Jumbo.com"
+}

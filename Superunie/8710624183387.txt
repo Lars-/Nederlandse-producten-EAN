@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624183387",
+    "name": "Surango Multivitamine flesje 300 ml",
+    "description": "Surango Multivitamine flesje 300 ml",
+    "manufacturer": "Refresco B.V.",
+    "available": true,
+    "price": 2.05,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/b0f07e43-dfad-45c3-a93c-671b5175e99f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwDv_wjXhF_IHg.670x670.jpg",
+    "source": "Jumbo.com"
+}

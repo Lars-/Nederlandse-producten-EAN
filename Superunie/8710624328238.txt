@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624328238",
+    "name": "Daily Chef Lasagne Bolognese",
+    "description": "Daily Chef Lasagne Bolognese",
+    "manufacturer": "Smeding Groenten en Fruit",
+    "available": true,
+    "price": 3.39,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7b3b0000-ff27-0003-e120-08d86a9552f1\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA2eSf-AwAPbQjYei0Lbg.670x670.jpg",
+    "source": "Jumbo.com"
+}

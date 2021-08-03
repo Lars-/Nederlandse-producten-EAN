@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624753962",
+    "name": "Roerbakgroenten Italiaanse stijl",
+    "description": "Unbranded Italiaanse roerbakgroenten 400 GRM VERPAKT",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 1.89,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/1ecd0000-ff41-0003-c7bc-08d4961f6aac\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAAZPSf-AwBJGgjYx0-eDg.670x670.jpg",
+    "source": "Jumbo.com"
+}

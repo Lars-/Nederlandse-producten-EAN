@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624299453",
+    "name": "g'woon Mayonaise",
+    "description": "g'woon Mayonaise",
+    "manufacturer": "Remia N.V.",
+    "available": true,
+    "price": 1.45,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-f9ac-08d77cb85cfc\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwD3WgjYLfd5PQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

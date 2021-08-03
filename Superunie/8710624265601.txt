@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624265601",
+    "name": "g'woon Uitdeel snack mix",
+    "description": "g'woon mixpak 15 stuks",
+    "manufacturer": "Intersnack Nederland B.V.",
+    "available": true,
+    "price": 2.81,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/e5e60000-ff55-0003-7d9f-08d5eb24e5e3\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBeaAjYLfXwYw.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624340964",
+    "name": "Melkan Chocolademelk vol",
+    "description": "Melkan Chocolademelk vol",
+    "manufacturer": "Inexco B.V.",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": null,
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624267308",
+    "name": "g'woon Pastasaus tradizionale",
+    "description": "g'woon Pastasaus traditionale met tomaat, ui en kruiden 490g",
+    "manufacturer": "Greenyard Prepared Belgium NV",
+    "available": true,
+    "price": 2.19,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-71d9-08d6013187b8\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBXmwjYLfYI-w.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624247126",
+    "name": "g'woon goulash kroketten",
+    "description": "g'woon Goulash Kroketten 2* Beter Leven 4x70gr",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.74,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/d22b0000-ffdf-0003-94e0-08d5ae9cb3f6\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAzPgjYLfVc6Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

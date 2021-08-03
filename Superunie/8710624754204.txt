@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624754204",
+    "name": "Gemengde slamelange",
+    "description": "Unbranded Gemengde sla melange 125 GRM VERPAKT",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 1.66,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2fe20000-ff41-0003-404c-08d4a6a1986d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAAZPSf-AwCi3AjYx0-fbA.670x670.jpg",
+    "source": "Jumbo.com"
+}

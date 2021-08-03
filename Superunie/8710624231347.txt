@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624231347",
+    "name": "Slagerskwaliteit Hamreepjes",
+    "description": "Hamreepjes Slagerskwaliteit",
+    "manufacturer": "Zandvliet Vleeswaren B.V.",
+    "available": true,
+    "price": 2.69,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/20820000-ff41-0003-f88a-08d4608dc73d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwCKCwjXzO0bcQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

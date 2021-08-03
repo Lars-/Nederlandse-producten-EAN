@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624753474",
+    "name": "Prei grof",
+    "description": "Unbranded Prei grof 400 GRM VERPAKT",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 1.69,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/62160000-5d4a-0015-285f-08d61cb50fcd\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwAPlAjYz_S-iw.670x670.jpg",
+    "source": "Jumbo.com"
+}

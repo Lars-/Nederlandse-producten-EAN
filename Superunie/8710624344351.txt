@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624344351",
+    "name": "g'woon Bronwater licht koolzuurhoudend",
+    "description": "g'woon Bronwater licht koolzuurhoudend",
+    "manufacturer": "Dalphin International Group",
+    "available": true,
+    "price": 2.29,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/734a0000-ff27-0003-3757-08d9354ded39\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwBxSQjZNgw0Lg.670x670.jpg",
+    "source": "Jumbo.com"
+}

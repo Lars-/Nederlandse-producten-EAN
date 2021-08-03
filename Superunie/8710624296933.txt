@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624296933",
+    "name": "g'woon Keukenpapier d\u00e9cor 2 rollen 3 laags",
+    "description": "g'woon Keukenpapier d\u00e9cor 2 rollen 3 laags",
+    "manufacturer": "Wepa Papierfabriek",
+    "available": true,
+    "price": 1.89,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-28e2-08d777296c57\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwD5iwjYLfdjeA.670x670.jpg",
+    "source": "Jumbo.com"
+}

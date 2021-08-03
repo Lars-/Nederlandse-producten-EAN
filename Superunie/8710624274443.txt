@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624274443",
+    "name": "g'woon Sperziebonen gebroken",
+    "description": "G'woon Sperziebonen gebroken, fijn 180g",
+    "manufacturer": "Greenyard Prepared Belgium NV",
+    "available": true,
+    "price": 0.45,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/adb90000-ff55-0003-fe61-08d653932a46\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBfsQjYLfZ2KA.670x670.jpg",
+    "source": "Jumbo.com"
+}

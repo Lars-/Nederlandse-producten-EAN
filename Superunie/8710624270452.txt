@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624270452",
+    "name": "g'woon Pinda's gezouten klein",
+    "description": "g'woon Pinda's gezouten 235gr",
+    "manufacturer": "Snack Connection B.V.",
+    "available": true,
+    "price": 0.84,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/03e50000-ff8a-0003-42b5-08d63da6fca9\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDUyAjYLfY6rw.670x670.jpg",
+    "source": "Jumbo.com"
+}

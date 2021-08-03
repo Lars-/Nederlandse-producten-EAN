@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624319502",
+    "name": "Vismarine Kabeljauwburgers",
+    "description": "Vismarine Kabeljauwburgers",
+    "manufacturer": "Profish Food B.V.",
+    "available": true,
+    "price": 2.29,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3b020000-ff27-0003-d835-08d82d4f4888\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADyPCf-AwACRwjYPasSxg.670x670.jpg",
+    "source": "Jumbo.com"
+}

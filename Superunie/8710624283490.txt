@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624283490",
+    "name": "g'woon fruitbiscuit appel",
+    "description": "g'woon Fruitbiscuit Appel 218gr",
+    "manufacturer": "Hellema-Hallum B.V.",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-ab1e-08d6ac4a0807\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwBD_QjYQyvkhw.670x670.jpg",
+    "source": "Jumbo.com"
+}

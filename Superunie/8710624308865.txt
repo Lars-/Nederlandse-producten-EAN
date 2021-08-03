@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624308865",
+    "name": "g'woon Pat\u00e9 adult kalf\/lever kat",
+    "description": "g'woon Pat\u00e9 adult kalf\/lever kat",
+    "manufacturer": "Partner In Pet Food Nl B.V.",
+    "available": true,
+    "price": 0.59,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3b020000-ff27-0003-c1fa-08d828a484b9\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwDXbQjYQyv6gQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624263294",
+    "name": "Derlon Scheerschuim",
+    "description": "Derlon Scheerschuim 250ml",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/9e560000-ffdf-0003-2911-08d5cd367a68\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwB8OgjYLfXU4Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

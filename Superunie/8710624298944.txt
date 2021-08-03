@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624298944",
+    "name": "Bio+ Fruitspread bosvruchten",
+    "description": "Bio+ fruitspread bosvruchten 250gr",
+    "manufacturer": "Geurts",
+    "available": true,
+    "price": 2.55,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-6664-08d76122fe07\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwD0rAjYLfdyDw.670x670.jpg",
+    "source": "Jumbo.com"
+}

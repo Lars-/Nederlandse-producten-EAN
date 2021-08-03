@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624265946",
+    "name": "g'woon Fruitcocktail lichte siroop",
+    "description": "g'woon Fruitcocktail lichte siroop",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.85,
+    "minimumAmount": 1,
+    "maximumAmount": 10,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/f4d20000-ff88-0003-9ec7-08d638291eb3\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwB8UgjYLfX20A.670x670.jpg",
+    "source": "Jumbo.com"
+}

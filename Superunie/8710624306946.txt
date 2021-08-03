@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624306946",
+    "name": "g'woon Dg cups cappuccino xl",
+    "description": "g'woon Dg cups cappuccino xl",
+    "manufacturer": "UCC Coffee Benelux B.V.",
+    "available": true,
+    "price": 6.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3b020000-ff27-0003-07fb-08d828a42b2e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwDfCgjYQyv31w.670x670.jpg",
+    "source": "Jumbo.com"
+}

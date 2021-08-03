@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624345761",
+    "name": "First Choice Cola no sugar",
+    "description": "First Choice Cola Zero Sugar Voordeelpak 4 x 1,5 L",
+    "manufacturer": "Refresco B.V.",
+    "available": true,
+    "price": 4.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6d780000-ff27-0003-0ed3-08d913b72cef\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwC4FwjZNUMPeA.670x670.jpg",
+    "source": "Jumbo.com"
+}

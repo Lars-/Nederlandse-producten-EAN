@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624327064",
+    "name": "Vismarine Gerookte Noorse zalm",
+    "description": "Vismarine Gerookte Noorse zalm",
+    "manufacturer": "Profish Food B.V.",
+    "available": true,
+    "price": 6.99,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7b3b0000-ff27-0003-c3e6-08d86ead7c68\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA2eSf-AwD3zgjYdKzLkQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

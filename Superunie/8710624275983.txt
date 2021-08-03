@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624275983",
+    "name": "g'woon Rode bieten met ui",
+    "description": "g'woon RODE BIETEN MET UI 340G Pot",
+    "manufacturer": "Baltussen Konservenfabriek B.V.",
+    "available": true,
+    "price": 0.59,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/adb90000-ff55-0003-6ead-08d653932a65\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCoIwjYLfagQw.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624279059",
+    "name": "Quino Boterhamkorrels mix",
+    "description": "Quino Boterhamkorrels mix",
+    "manufacturer": "Delicia B.V.",
+    "available": true,
+    "price": 0.94,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-79a1-08d79db49ae6\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwAdbwjXzO0xUw.670x670.jpg",
+    "source": "Jumbo.com"
+}

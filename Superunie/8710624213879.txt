@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624213879",
+    "name": "g'woon Toiletpapier katoen 4 rollen 3 laags",
+    "description": "g'woon toiletpapier katoen parfum 3 laags 4 rollen",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 2.79,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/0f7e0000-ff41-0003-247c-08d3fcb9d8e8\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBZugjYLfTpnw.670x670.jpg",
+    "source": "Jumbo.com"
+}

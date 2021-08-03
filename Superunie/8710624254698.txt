@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624254698",
+    "name": "g'woon Roomijs slagroom",
+    "description": "g'woon Slagroom Roomijs 1l",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 2.39,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/9d860000-ffdf-0003-01ab-08d59e1dc18e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDJ3gjYLfWF8g.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624313128",
+    "name": "g'woon Varkenssat\u00e9 zakje",
+    "description": "g'woon Varkenssat\u00e9 zakje",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.19,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-df54-08d7ae30393e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwA8WAjYLffT8Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

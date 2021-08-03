@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624259464",
+    "name": "Kwini Vanille ijs",
+    "description": "ijs vanille 1000 ml",
+    "manufacturer": "Heveck VriesVers B.V.",
+    "available": true,
+    "price": 1.35,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-9d56-08d6b6af47c4\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwDIOQjXzO0m1A.670x670.jpg",
+    "source": "Jumbo.com"
+}

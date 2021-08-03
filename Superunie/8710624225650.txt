@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624225650",
+    "name": "g'woon Koffiepads mild",
+    "description": "g'woon Koffiepads Mild Roast 252gr Stazak",
+    "manufacturer": "Beyers Koffie N.V.",
+    "available": true,
+    "price": 2.95,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2fe20000-ff41-0003-8c18-08d4acdf2feb\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwAwGgjYQ-TEqA.670x670.jpg",
+    "source": "Jumbo.com"
+}

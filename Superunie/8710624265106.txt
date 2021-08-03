@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624265106",
+    "name": "g'woon Chips paprika",
+    "description": "g'woon Chips Paprika 225gr Zak",
+    "manufacturer": "Roger & Roger N.V.",
+    "available": true,
+    "price": 0.8,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/e5e60000-ff55-0003-8749-08d5eb24dec4\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAqewjYLfXjhg.670x670.jpg",
+    "source": "Jumbo.com"
+}

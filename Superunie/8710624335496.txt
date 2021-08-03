@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624335496",
+    "name": "g'woon Tomatensoep",
+    "description": "g'woon Tomatensoep",
+    "manufacturer": "Struik Foods Europe N.V.",
+    "available": true,
+    "price": 1.11,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-60d9-08d8d73686e3\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwABaQjY6EDslg.670x670.jpg",
+    "source": "Jumbo.com"
+}

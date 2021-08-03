@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624244217",
+    "name": "g'woon Knakworst in blik",
+    "description": "g'woon Knakworsten 400gr",
+    "manufacturer": "Zwanenberg Food Group B.V.",
+    "available": true,
+    "price": 0.95,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/05db0000-ff41-0003-0bd3-08d504286a48\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwB8owjYLfU3tQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

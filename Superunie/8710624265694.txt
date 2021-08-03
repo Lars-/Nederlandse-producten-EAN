@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624265694",
+    "name": "g'woon Streetmix kruidig",
+    "description": "g'woon streetmix kruidig 100gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.87,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-7b2c-08d606a0904f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCnQgjYLfXvSg.670x670.jpg",
+    "source": "Jumbo.com"
+}

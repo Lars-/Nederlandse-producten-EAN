@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624267742",
+    "name": "g'woon Mix voor champignonsaus",
+    "description": "g'woon Droge mix voor Champignonsaus 40g",
+    "manufacturer": "Inproba BV",
+    "available": true,
+    "price": 0.39,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-7385-08d60131fe62\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADyPCf-AwBq-wjYPasNnA.670x670.jpg",
+    "source": "Jumbo.com"
+}

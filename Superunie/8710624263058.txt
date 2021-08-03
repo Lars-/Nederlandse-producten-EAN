@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624263058",
+    "name": "Melkan Zeezoutboter",
+    "description": "Melkan Zeezoutboter 100gr",
+    "manufacturer": "LaBan Foods",
+    "available": true,
+    "price": 1.39,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-8361-08d606a0bee0\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDibAjYLfXTog.670x670.jpg",
+    "source": "Jumbo.com"
+}

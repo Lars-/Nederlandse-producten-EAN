@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624300715",
+    "name": "Stamppotaardappelen",
+    "description": "UNBRANDED Voorgekookte stamppotaardappelen 1000gr",
+    "manufacturer": "Smeding Groenten en Fruit",
+    "available": true,
+    "price": 1.39,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-f3f3-08d756bdc388\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwBhiAjY6EDp2g.670x670.jpg",
+    "source": "Jumbo.com"
+}

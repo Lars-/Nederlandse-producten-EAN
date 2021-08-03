@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624262471",
+    "name": "g'woon Crackers volkoren",
+    "description": "g'woon Ambachtelijke Volkorencrackers 200gr",
+    "manufacturer": "Van Den Berg - Bergbanket B.V.",
+    "available": true,
+    "price": 2.09,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/bac90000-ffdf-0003-fa6f-08d5bfee9410\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCzeQjYLfXQDA.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624329365",
+    "name": "g'woon Italiaanse Roerbakgroenten",
+    "description": "g'woon Italiaanse Roerbakgroenten",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.64,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7b3b0000-ff27-0003-78f2-08d864469ebb\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA2eSf-AwBLtAjYei0OTw.670x670.jpg",
+    "source": "Jumbo.com"
+}

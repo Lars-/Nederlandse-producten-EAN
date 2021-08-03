@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624319236",
+    "name": "Vismarine Pangasius filet",
+    "description": "Vismarine Pangasius filet",
+    "manufacturer": "Profish Food B.V.",
+    "available": true,
+    "price": 2.29,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-4d69-08d8cce78de4\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwAjXgjYzYk_1w.670x670.jpg",
+    "source": "Jumbo.com"
+}

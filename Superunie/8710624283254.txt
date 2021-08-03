@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624283254",
+    "name": "g'woon Bloemenhoning helder",
+    "description": "zacht en g'woon lekker zoet heldere bloemenhoning 350g",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.79,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-cc60-08d6c1a83908\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwA9WgjYLfbghA.670x670.jpg",
+    "source": "Jumbo.com"
+}

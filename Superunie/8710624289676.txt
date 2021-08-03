@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624289676",
+    "name": "g'woon Dessertsaus chocolade",
+    "description": "g'woon dessertsaus choco 260g fles",
+    "manufacturer": "Geurts",
+    "available": true,
+    "price": 1.29,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/526c0000-ff27-0003-71ce-08d6dd330326\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwBXugjYQyvtTA.670x670.jpg",
+    "source": "Jumbo.com"
+}

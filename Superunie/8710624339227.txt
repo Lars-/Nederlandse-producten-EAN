@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624339227",
+    "name": "Vismarine Wilde zalmfilet",
+    "description": "Vismarine Wilde zalmfilet",
+    "manufacturer": "Heveck VriesVers B.V.",
+    "available": true,
+    "price": 5.27,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-f588-08d8f2c37ccd\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwCV_gjZGcI2Tw.670x670.jpg",
+    "source": "Jumbo.com"
+}

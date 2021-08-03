@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624183363",
+    "name": "Surango Sinaasappelsap flesje 300 ml",
+    "description": "Surango Sinaasappelsap flesje 300 ml",
+    "manufacturer": "Refresco B.V.",
+    "available": true,
+    "price": 2.05,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/a92a550b-bce1-401d-ad8a-0f086e6dfd9a\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwB0LQjXhF_AWA.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624320614",
+    "name": "Vismarine Haring in tomatensaus",
+    "description": "Vismarine Haring in tomatensaus",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.59,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/79360000-ff27-0003-6b21-08d88fc50e06\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAC1KSf-AwDxrwjYoYgWsQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

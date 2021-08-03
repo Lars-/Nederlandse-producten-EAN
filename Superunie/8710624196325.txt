@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624196325",
+    "name": "New way discreet ultra mini 28 stuks",
+    "description": "NewWay discreet ultra mini 28st",
+    "manufacturer": "Ontex International",
+    "available": true,
+    "price": 2.09,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/1ec579ee-c721-4c93-b7f8-ec39b12c7ca5\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAAFwjYLfTNxw.670x670.jpg",
+    "source": "Jumbo.com"
+}

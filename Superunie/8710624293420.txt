@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624293420",
+    "name": "g'woon Choco hazelnoot",
+    "description": "g'woon Choco en hazelnoot 200gr",
+    "manufacturer": "Choco Support B.V.",
+    "available": true,
+    "price": 1.47,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-5148-08d6fe2746c0\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADyPCf-AwA23AjYOPQnoA.670x670.jpg",
+    "source": "Jumbo.com"
+}

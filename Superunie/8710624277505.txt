@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624277505",
+    "name": "g'woon Hagelslag mix",
+    "description": "g'woon Hagelslag mix 400gr",
+    "manufacturer": "Delicia B.V.",
+    "available": true,
+    "price": 1.59,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-ca8e-08d6ee7fdc4f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBI2AjYLfaz_A.670x670.jpg",
+    "source": "Jumbo.com"
+}

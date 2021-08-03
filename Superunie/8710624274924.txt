@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624274924",
+    "name": "Vismarine Fruit de mer",
+    "description": "Vis Marine Fruit De Mer gekookt 300gr",
+    "manufacturer": "Heveck VriesVers B.V.",
+    "available": true,
+    "price": 3.73,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/525e0000-ff27-0003-d3ca-08d6d7a073ec\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCCagjYLfaGOg.670x670.jpg",
+    "source": "Jumbo.com"
+}

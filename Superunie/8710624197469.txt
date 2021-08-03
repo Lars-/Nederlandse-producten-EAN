@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624197469",
+    "name": "Sum & Sam Kroepoek naturel",
+    "description": "Sum & Sam Naturel plakken kroepoek 60gr",
+    "manufacturer": "Sum & Sam",
+    "available": true,
+    "price": 0.71,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2a3c6657-15de-4a84-8768-58d4da0b7ae3\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCpyAjYLfTQdQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

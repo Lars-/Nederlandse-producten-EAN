@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624330385",
+    "name": "Waspeen biologisch",
+    "description": "Waspeen biologisch",
+    "manufacturer": "Jansen-Dongen",
+    "available": true,
+    "price": 1,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5fe10000-ff27-0003-7082-08d84db11c69\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA2eSf-AwAcKgjYh5mMgg.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624262495",
+    "name": "g'woon Crackers kaas",
+    "description": "g'woon Ambachtelijke Kaascrackers 200gr",
+    "manufacturer": "Van Den Berg - Bergbanket B.V.",
+    "available": true,
+    "price": 1.76,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/bac90000-ffdf-0003-75aa-08d5bfee9415\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDwYwjYLfXQDA.670x670.jpg",
+    "source": "Jumbo.com"
+}

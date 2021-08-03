@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624279394",
+    "name": "g'woon Volkoren biscuit",
+    "description": "g'woon Volkoren Biscuit 300gr",
+    "manufacturer": "Pally Holland B.V.",
+    "available": true,
+    "price": 0.62,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-7b29-08d6ac4a01d2\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwDmjwjYQ-TcFQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

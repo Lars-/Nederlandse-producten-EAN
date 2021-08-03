@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624335793",
+    "name": "g'woon Stroopwafels karamel",
+    "description": "g'woon Stroopwafels karamel",
+    "manufacturer": "De Banketgroep B.V.",
+    "available": true,
+    "price": 1.81,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/29b50000-ff27-0003-ff97-08d8a04d96ba\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwCPSQjZEV478w.670x670.jpg",
+    "source": "Jumbo.com"
+}

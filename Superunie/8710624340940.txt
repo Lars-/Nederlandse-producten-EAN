@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624340940",
+    "name": "Melkan Chocolademelk halfvol",
+    "description": "Melkan Chocolademelk halfvol",
+    "manufacturer": "Inexco B.V.",
+    "available": true,
+    "price": 0.89,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-1032-08d8d73686dd\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwDMUAjY_xzfLQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

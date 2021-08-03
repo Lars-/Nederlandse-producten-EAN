@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624303822",
+    "name": "Vismarine Zalmfilet 2 x 125 gram",
+    "description": "Vismarine Zalmfilet 2 x 125 gram",
+    "manufacturer": "Heveck VriesVers B.V.",
+    "available": true,
+    "price": 4.69,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4e750000-ff27-0003-c069-08d7f59e66fd\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwCz1AjY18CHUA.670x670.jpg",
+    "source": "Jumbo.com"
+}

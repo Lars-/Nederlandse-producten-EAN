@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624294311",
+    "name": "g'woon Pico's volkoren",
+    "description": "G'woon Picos volkoren 150 gram",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 10,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-f868-08d72fac0d05\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwB1YAjYLfdMxw.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624268732",
+    "name": "g'woon Volkoren macaroni",
+    "description": "G'WOON Volkoren Macaroni",
+    "manufacturer": "Soubry Nederland B.V.",
+    "available": true,
+    "price": 0.69,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/adb90000-ff55-0003-7b89-08d65393299f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwD_8AjYLfYj8Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

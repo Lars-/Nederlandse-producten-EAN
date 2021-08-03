@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624275945",
+    "name": "g'woon Rode bieten gesneden",
+    "description": "g'woon RODE BIETEN 340G Pot",
+    "manufacturer": "Baltussen Konservenfabriek B.V.",
+    "available": true,
+    "price": 0.75,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/adb90000-ff55-0003-bc3d-08d653932934\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAwNAjYLfafHQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

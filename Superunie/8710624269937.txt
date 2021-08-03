@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624269937",
+    "name": "g'woon Kalkreiniger",
+    "description": "g'woon Kalkreiniger 750 ml",
+    "manufacturer": "Mc Bride\/Grada B.V.",
+    "available": true,
+    "price": 1.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-6325-08d690359604\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAu_QjYLfY2xg.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624270612",
+    "name": "g'woon Katjang pedis",
+    "description": "g'woon Katjang pedis 200gr",
+    "manufacturer": "Snack Connection B.V.",
+    "available": true,
+    "price": 0.95,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/03e50000-ff8a-0003-f268-08d63da6fc5d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDYfAjYLfY76A.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624259921",
+    "name": "g'woon Rijstwafels BBQ",
+    "description": "g'woon Rijstwafels met Barbecue Smaak 12 Stuks 145 g",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.43,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/bac90000-ffdf-0003-0832-08d5bfee945f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwCVvQjZRcPKMw.670x670.jpg",
+    "source": "Jumbo.com"
+}

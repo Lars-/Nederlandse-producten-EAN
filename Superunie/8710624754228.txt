@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624754228",
+    "name": "Veldsla",
+    "description": "Unbranded Veldsla 75 GRM VERPAKT",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 1,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2fe20000-ff41-0003-3926-08d4a6a18d61\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwC3mAjYz_TE-g.670x670.jpg",
+    "source": "Jumbo.com"
+}

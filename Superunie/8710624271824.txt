@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624271824",
+    "name": "Melkan Soja drink original",
+    "description": "Melkan Soja drink naturel gezoet 1L",
+    "manufacturer": "Alpro Soya Nederland BV",
+    "available": true,
+    "price": 0.88,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-646a-08d61734b37a\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwACMAjYLfZSLQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

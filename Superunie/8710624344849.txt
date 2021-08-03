@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624344849",
+    "name": "Vismarine Koolvis smoked bell pepper",
+    "description": "Vismarine Koolvis smoked bell pepper",
+    "manufacturer": "Profish Food B.V.",
+    "available": true,
+    "price": 2.49,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6d780000-ff27-0003-a4bb-08d8fdb4fc27\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwD2AAjY-kGIZg.670x670.jpg",
+    "source": "Jumbo.com"
+}

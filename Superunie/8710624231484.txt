@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624231484",
+    "name": "Green Appelmoes",
+    "description": "Green Appelmoes",
+    "manufacturer": "Greenyard Prepared Belgium NV",
+    "available": true,
+    "price": 0.66,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/29b50000-ff27-0003-613a-08d8a5d3da91\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAC1KSf-AwAyUgjYpwgTJw.670x670.jpg",
+    "source": "Jumbo.com"
+}

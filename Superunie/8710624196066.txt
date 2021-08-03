@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624196066",
+    "name": "New Way Maandverband nacht ultra",
+    "description": "NewWay maandverband ultra nacht vleugels 10st",
+    "manufacturer": "Ontex International",
+    "available": true,
+    "price": 1.09,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/bac90000-ffdf-0003-264f-08d5bfee978a\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDh0AjYLfTNsw.670x670.jpg",
+    "source": "Jumbo.com"
+}

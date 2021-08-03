@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624284879",
+    "name": "Melkan Oude 48+ kaas geraspt",
+    "description": "Melkan Kaas 48+ Oud WGM Geraspt 175g",
+    "manufacturer": "Vergeer Holland",
+    "available": true,
+    "price": 2.35,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-3884-08d6f32db7a8\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBxKwjYLfbsAQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

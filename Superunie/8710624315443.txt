@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624315443",
+    "name": "g'woon Kauwstick kat kip",
+    "description": "g'woon Kauwstick kat kip",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.19,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/505b0000-ff27-0003-8f9c-08d83233922d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA2eSf-AwBwDQjYei0IhQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

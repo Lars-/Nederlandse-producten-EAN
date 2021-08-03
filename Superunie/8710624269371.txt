@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624269371",
+    "name": "Melkan Drinkyoghurt aardbei",
+    "description": "melkan Drinkyoghurt aardbei 6x200ml",
+    "manufacturer": "Inexco B.V.",
+    "available": true,
+    "price": 1.53,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/f4d20000-ff88-0003-2b74-08d6329f3736\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAw9AjYLfYtaw.670x670.jpg",
+    "source": "Jumbo.com"
+}

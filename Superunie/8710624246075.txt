@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624246075",
+    "name": "g'woon IJsthee groen koolzuurvrij",
+    "description": "g'woon Ijsthee Groen 1500ml",
+    "manufacturer": "Menken Drinks B.V.",
+    "available": true,
+    "price": 0.79,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/24450000-ff41-0003-a939-08d56cb886fb\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwA8lQjYLfVJ7w.670x670.jpg",
+    "source": "Jumbo.com"
+}

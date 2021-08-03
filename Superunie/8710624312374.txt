@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624312374",
+    "name": "g'woon\u00a0Knackebrood sesam",
+    "description": "g'woon\u00a0Knackebrood sesam",
+    "manufacturer": "Bolletje B.V.",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4e750000-ff27-0003-9195-08d7cf338caf\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCujgjYLffPlQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

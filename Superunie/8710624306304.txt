@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624306304",
+    "name": "Coop Bami nasi groenten",
+    "description": "Coop Bami nasi groenten",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 1.29,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-a154-08d7c9be1513\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwApswjYz_S-dw.670x670.jpg",
+    "source": "Jumbo.com"
+}

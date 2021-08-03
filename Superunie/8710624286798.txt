@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624286798",
+    "name": "g'woon Rundvlees kroketten",
+    "description": "GWOON KROKET BLK2* 280 gram",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.55,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-4314-08d6ee7fdc34\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDsawjYLfb6bA.670x670.jpg",
+    "source": "Jumbo.com"
+}

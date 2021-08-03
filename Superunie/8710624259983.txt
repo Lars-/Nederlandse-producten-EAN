@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624259983",
+    "name": "g'woon Mini twirls mixpack",
+    "description": "g'woon mini twirls mixpack 8 stuks",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 2.05,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/9d860000-ffdf-0003-baf1-08d599719c07\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwC40AjYLfXAdA.670x670.jpg",
+    "source": "Jumbo.com"
+}

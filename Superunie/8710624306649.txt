@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624306649",
+    "name": "g'woon Cups lungo forte",
+    "description": "g'woon Cups lungo forte",
+    "manufacturer": "UCC Coffee Benelux B.V.",
+    "available": true,
+    "price": 2.72,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3b020000-ff27-0003-f091-08d828a41600\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwAUgAjYQyv1jw.670x670.jpg",
+    "source": "Jumbo.com"
+}

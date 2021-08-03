@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624326616",
+    "name": "g'woon Maaltijdpita's",
+    "description": "g'woon Pitabroodjes",
+    "manufacturer": "Pita-Bakkerij Cairo B.V.",
+    "available": true,
+    "price": 0.9,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/79360000-ff27-0003-d452-08d884b38d47\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwBHuwjZKkLtGw.670x670.jpg",
+    "source": "Jumbo.com"
+}

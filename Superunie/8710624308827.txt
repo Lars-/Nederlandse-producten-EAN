@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624308827",
+    "name": "g'woon Kattenmousse zalm",
+    "description": "g'woon Kattenmousse zalm",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.49,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3b020000-ff27-0003-81e8-08d828a484cc\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwB8xgjYQyv5zQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

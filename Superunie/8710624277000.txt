@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624277000",
+    "name": "g'woon Pistolet rustiek spelt",
+    "description": "GW DESEM PISTO RUSTIEK SPELT 4X75GX12X50",
+    "manufacturer": "Schapendonk Dutch Bakery B.V.",
+    "available": true,
+    "price": 1.94,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6e790000-ff4b-0003-533b-08d68527a06f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwD78gjYLfaxEQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

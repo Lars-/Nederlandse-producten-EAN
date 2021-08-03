@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624270018",
+    "name": "g'woon Allesreiniger hygiene",
+    "description": "g'woon Allesreiniger 750 ml",
+    "manufacturer": "Mc Bride\/Grada B.V.",
+    "available": true,
+    "price": 1.79,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-e183-08d70ea7f414\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwDyywjZA8HE3w.670x670.jpg",
+    "source": "Jumbo.com"
+}

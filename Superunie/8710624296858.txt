@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624296858",
+    "name": "g'woon Nectar perzik sinaasappel",
+    "description": "g'woon Vruchtendrank perzik sinaasappel 1L",
+    "manufacturer": "Refresco B.V.",
+    "available": true,
+    "price": 1.19,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-8bbc-08d74b2e25d4\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAJDgjYLfdjWg.670x670.jpg",
+    "source": "Jumbo.com"
+}

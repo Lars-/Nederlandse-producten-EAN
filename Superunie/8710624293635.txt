@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624293635",
+    "name": "Sum & Sam Woksaus knoflook koriander",
+    "description": "Sum & Sam Woksaus knoflook koriander",
+    "manufacturer": "Inproba BV",
+    "available": true,
+    "price": 1.39,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-a9ee-08d79db49b95\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDVLwjYLfdJUw.670x670.jpg",
+    "source": "Jumbo.com"
+}

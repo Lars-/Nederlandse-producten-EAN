@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624299231",
+    "name": "g'woon Honing mosterd dressing",
+    "description": "g'woon Honing mosterd dressing",
+    "manufacturer": "Remia N.V.",
+    "available": true,
+    "price": 1.09,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-7da3-08d78d31fa80\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBgZwjYLfd47Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

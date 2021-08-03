@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624263157",
+    "name": "Zappie Bosvruchten",
+    "description": "g'woon Zappie Bosvruchten 1,5l",
+    "manufacturer": "Menken Drinks B.V.",
+    "available": true,
+    "price": 0.79,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/a9d70000-ffdf-0003-56ab-08d5ca2a14ec\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCUGwjYLfXUmQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

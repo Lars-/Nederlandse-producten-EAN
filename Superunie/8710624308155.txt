@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624308155",
+    "name": "First Choice Cola zero blik",
+    "description": "First Choice Cola zero blik",
+    "manufacturer": "Refresco B.V.",
+    "available": true,
+    "price": 0.35,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4e750000-ff27-0003-5848-08d7eb6b22ac\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDvxwjYLffAog.670x670.jpg",
+    "source": "Jumbo.com"
+}

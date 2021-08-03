@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624329280",
+    "name": "Melkan Cr\u00e8me fra\u00eeche",
+    "description": "Melkan Cr\u00e8me fra\u00eeche",
+    "manufacturer": "Konings-Zuivel B.V.",
+    "available": true,
+    "price": 1.19,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/79360000-ff27-0003-6fca-08d880171428\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA2eSf-AwCpbwjYlb_FDg.670x670.jpg",
+    "source": "Jumbo.com"
+}

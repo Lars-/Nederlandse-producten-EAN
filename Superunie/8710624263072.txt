@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624263072",
+    "name": "Melkan Kruidenboter",
+    "description": "Melkan Kruidenboter 100gr",
+    "manufacturer": "LaBan Foods",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-bda7-08d606a0beef\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAz2QjYLfXTqA.670x670.jpg",
+    "source": "Jumbo.com"
+}

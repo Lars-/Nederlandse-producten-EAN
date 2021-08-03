@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624225575",
+    "name": "g'woon Koffiepads dark",
+    "description": "g'woon Koffiepads Dark Roast 252gr Stazak",
+    "manufacturer": "Beyers Koffie N.V.",
+    "available": true,
+    "price": 2.95,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2fe20000-ff41-0003-0289-08d4acdf2ee9\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwANNgjYQyvJ_Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

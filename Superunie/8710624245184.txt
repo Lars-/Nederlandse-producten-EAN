@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624245184",
+    "name": "g'woon Tomatensoep",
+    "description": "g'woon Tomatensoep 1-Kops Soep 3x19gr Doosje",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.4,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/9e560000-ffdf-0003-4afe-08d5cd367fa4\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAc1wjYLfU_WA.670x670.jpg",
+    "source": "Jumbo.com"
+}

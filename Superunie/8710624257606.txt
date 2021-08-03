@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624257606",
+    "name": "Derlon Cremespoeling oil&care",
+    "description": "Derlon cremespoeling oil&care 500ml",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.19,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/9e560000-ffdf-0003-b00b-08d5cd367a21\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDbGQjYLfWmNA.670x670.jpg",
+    "source": "Jumbo.com"
+}

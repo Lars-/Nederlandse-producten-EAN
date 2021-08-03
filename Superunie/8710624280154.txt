@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624280154",
+    "name": "Bonb\u00e9b\u00e9 Lotion billendoekjes",
+    "description": "Bonbeb\u00e9 Baby Wipes 72 Fragranced",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-ab25-08d74591061d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwB67QjXzO0ylA.670x670.jpg",
+    "source": "Jumbo.com"
+}

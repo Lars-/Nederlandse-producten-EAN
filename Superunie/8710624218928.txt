@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624218928",
+    "name": "G'woon Pindakaas",
+    "description": "g'woon Pindakaas 850gr Pot",
+    "manufacturer": "Intersnack Nederland B.V.",
+    "available": true,
+    "price": 4.24,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-5918-08d6b139ec94\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwB-bQjYLfT2PA.670x670.jpg",
+    "source": "Jumbo.com"
+}

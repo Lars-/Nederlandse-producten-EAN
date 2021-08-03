@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624282998",
+    "name": "G'woon Fourre duo vanille",
+    "description": "g'woon Biscuits duo vanille 500gr",
+    "manufacturer": "De Banketgroep B.V.",
+    "available": true,
+    "price": 0.95,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-e813-08d6b139e317\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwD2NgjYQ-TkmA.670x670.jpg",
+    "source": "Jumbo.com"
+}

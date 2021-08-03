@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624254254",
+    "name": "Derlon Cr\u00e8medouche amandel",
+    "description": "Derlon cremedouche amandel 500ml",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.49,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/c6780000-ffdf-0003-17ab-08d5932ac0a3\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCf-QjYLfWBnA.670x670.jpg",
+    "source": "Jumbo.com"
+}

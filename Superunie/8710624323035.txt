@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624323035",
+    "name": "g'woon Roomijs banana split",
+    "description": "g'woon Roomijs banana split",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 2.77,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-c816-08d8ed49028a\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwAVdgjY_YqhkQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

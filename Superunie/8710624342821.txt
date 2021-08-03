@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624342821",
+    "name": "g'woon Tablet Melk chocolade",
+    "description": "g'woon Tablet Melk chocolade",
+    "manufacturer": "Droste B.V.",
+    "available": true,
+    "price": 0.48,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6d780000-ff27-0003-925b-08d90e45ceae\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwBlJgjZHOcTQA.670x670.jpg",
+    "source": "Jumbo.com"
+}

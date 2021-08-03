@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624313432",
+    "name": "g'woon Italiaanse tomatensoep",
+    "description": "g'woon Italiaanse tomatensoep",
+    "manufacturer": "Greenyard Prepared Belgium NV",
+    "available": true,
+    "price": 1.74,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/80fd0000-ff27-0003-3a85-08d8533029fe\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA7eyf-AwC7FwjYYQeuIA.670x670.jpg",
+    "source": "Jumbo.com"
+}

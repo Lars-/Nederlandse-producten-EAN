@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624345600",
+    "name": "First Choice Cola regular",
+    "description": "First Choice Cola Regular 0,5 L",
+    "manufacturer": "Refresco B.V.",
+    "available": true,
+    "price": 0.79,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/734a0000-ff27-0003-ac19-08d9243293e6\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwBxUAjZRcPOVg.670x670.jpg",
+    "source": "Jumbo.com"
+}

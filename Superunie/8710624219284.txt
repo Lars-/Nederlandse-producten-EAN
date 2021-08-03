@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624219284",
+    "name": "g'woon Vruchtenhagelslag",
+    "description": "g'woon Vruchten Hagel 400gr",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 0.89,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/0f7e0000-ff41-0003-a593-08d3fcba835e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAACDQALQgL7awjWvz2tXg.670x670.jpg",
+    "source": "Jumbo.com"
+}

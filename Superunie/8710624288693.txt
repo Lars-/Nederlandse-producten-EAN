@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624288693",
+    "name": "Bonb\u00e9b\u00e9 Fruithapje appel",
+    "description": "Bonb\u00e9b\u00e9 appel 7702 - F0403 potje 125 g",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.79,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-8b3c-08d6fe273e51\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBwFAjYLfcJmg.670x670.jpg",
+    "source": "Jumbo.com"
+}

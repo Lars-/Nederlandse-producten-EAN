@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624334017",
+    "name": "g'woon Roze koeken",
+    "description": "g'woon Roze koeken",
+    "manufacturer": "Koninklijke Peijnenburg B.V.",
+    "available": true,
+    "price": 0.69,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-c4dd-08d8cce78a6f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwCC9wjY_YqjPQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624287856",
+    "name": "Bio+ Chocoladereep extra puur 70%",
+    "description": "BIO+ chocoladereep puur 70%cacao ft mb 100g",
+    "manufacturer": "All Crump N.V.",
+    "available": true,
+    "price": 1.49,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-7465-08d71f191427\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwB1swjYQyvndw.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624254957",
+    "name": "g'woon fruitijsjes bosvruchten",
+    "description": "g'woon Fruitijsjes Bosvruchten 12x50ml",
+    "manufacturer": "Heveck VriesVers B.V.",
+    "available": true,
+    "price": 1.69,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/ddd50000-ffdf-0003-88ee-08d5b9aa7913\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBIFQjYLfWLYg.670x670.jpg",
+    "source": "Jumbo.com"
+}

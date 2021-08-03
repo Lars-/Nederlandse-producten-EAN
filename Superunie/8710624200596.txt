@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624200596",
+    "name": "Sum & Sam Sweet Chilisaus",
+    "description": "Sum & Sam Sweet Chilisaus 500ml",
+    "manufacturer": "Sum & Sam",
+    "available": true,
+    "price": 0.64,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/447a956c-0be0-4be5-a38d-116c4b9c666b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBp7AjYLfTaaQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

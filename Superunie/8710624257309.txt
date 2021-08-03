@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624257309",
+    "name": "Sum & Sam Cassave hot",
+    "description": "Sum & Sam Hot Cassave 60gr Zak",
+    "manufacturer": "Intersnack Nederland B.V.",
+    "available": true,
+    "price": 0.79,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-c9ac-08d5f6b99fb6\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwC-IAjYLfWfvA.670x670.jpg",
+    "source": "Jumbo.com"
+}

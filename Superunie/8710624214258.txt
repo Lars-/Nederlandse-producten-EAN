@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624214258",
+    "name": "Melkan Volle koffiemelk",
+    "description": "Melkan volle koffiemelk 7,5% 471ml",
+    "manufacturer": "Alpro Soya Nederland BV",
+    "available": true,
+    "price": 0.78,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/0f7e0000-ff41-0003-7b9a-08d3fcba3d86\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwAg1gjZH0J4ng.670x670.jpg",
+    "source": "Jumbo.com"
+}

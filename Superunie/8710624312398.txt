@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624312398",
+    "name": "g'woon\u00a0Knackebrood volkoren",
+    "description": "g'woon\u00a0Knackebrood volkoren",
+    "manufacturer": "Bolletje B.V.",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4e750000-ff27-0003-ea21-08d7cf338ccf\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwClygjYLffRHg.670x670.jpg",
+    "source": "Jumbo.com"
+}

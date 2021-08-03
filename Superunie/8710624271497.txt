@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624271497",
+    "name": "g'woon Macadamiamix gezouten",
+    "description": "g'woon Macadamiamix Gezouten 200 g",
+    "manufacturer": "Snack Connection B.V.",
+    "available": true,
+    "price": 2.39,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/03e50000-ff8a-0003-7234-08d63da6f634\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwBZxgjZNUMMrA.670x670.jpg",
+    "source": "Jumbo.com"
+}

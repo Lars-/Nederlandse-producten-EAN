@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624323912",
+    "name": "Vismarine Gerookte zalmfilet",
+    "description": "Vismarine Gerookte zalmfilet",
+    "manufacturer": "Profish Food B.V.",
+    "available": true,
+    "price": 4.89,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-253e-08d8cce78df9\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwDIBwjYzYk_6A.670x670.jpg",
+    "source": "Jumbo.com"
+}

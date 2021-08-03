@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624030773",
+    "name": "Que Mas Cabernet merlot",
+    "description": "Que Mas Cabernet Merlot",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 2.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/72fc3d0b-3918-4e7b-94c4-a3252f829fd5\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/gAhRbbSFA0GhsFLzzn6XhQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

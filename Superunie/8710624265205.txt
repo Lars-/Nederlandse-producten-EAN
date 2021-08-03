@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624265205",
+    "name": "g'woon Ribbelchips bolognese",
+    "description": "g'woon Ribbelchips Bolognese 215gr",
+    "manufacturer": "Roger & Roger N.V.",
+    "available": true,
+    "price": 0.85,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-b70a-08d606a0901b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAD9gCf-AwCfOQjYU6vrcA.670x670.jpg",
+    "source": "Jumbo.com"
+}

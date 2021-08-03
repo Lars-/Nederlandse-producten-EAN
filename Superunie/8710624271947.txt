@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624271947",
+    "name": "g'woon Boerenkool",
+    "description": "G'woon Boerenkool, diepvries 450 GRM Doos",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 0.5,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/41db0000-ff8a-0003-03aa-08d6283d8b44\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwC4RAjYLfZUiA.670x670.jpg",
+    "source": "Jumbo.com"
+}

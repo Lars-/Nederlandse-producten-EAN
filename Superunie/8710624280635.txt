@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624280635",
+    "name": "g'woon Oploskoffie cafeinevrij",
+    "description": "g'woon oploskoffie Cafeinevrij 100gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 3.1,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-de9d-08d6bc22255c\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwAyDwjYQ-TfLA.670x670.jpg",
+    "source": "Jumbo.com"
+}

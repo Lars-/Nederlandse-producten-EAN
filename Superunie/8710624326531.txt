@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624326531",
+    "name": "Sum & Sam Mix voor nasi goreng",
+    "description": "Sum & Sam Mix voor nasi goreng",
+    "manufacturer": "Inproba BV",
+    "available": true,
+    "price": 0.59,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/79360000-ff27-0003-9c0a-08d88fc50e13\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA2eSf-AwCRaQjYlb9-4Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

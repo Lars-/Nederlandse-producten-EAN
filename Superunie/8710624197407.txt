@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624197407",
+    "name": "Sum & Sam Kroepoek",
+    "description": "Sum & Sam Naturel kroepoek 60gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.89,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/06c4bcc3-a1ca-41de-8bd7-f8feea94a41e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDXCAjYLfTNxg.670x670.jpg",
+    "source": "Jumbo.com"
+}

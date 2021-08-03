@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624270810",
+    "name": "Daily Chef Mihoen goreng",
+    "description": "Daily Chef Mihoen Goreng 350gr",
+    "manufacturer": "Padi Food Service B.V.",
+    "available": true,
+    "price": 3.49,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/f4d20000-ff88-0003-a326-08d6329f3fca\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBMGAjYLfY-XQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

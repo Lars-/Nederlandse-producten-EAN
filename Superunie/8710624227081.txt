@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624227081",
+    "name": "g'woon Vlaamse frites",
+    "description": "g'woon voorgebakken Vlaamse frites 750 gr",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.19,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/22930000-ff41-0003-33ad-08d476963c09\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBgUgjYLfUPpA.670x670.jpg",
+    "source": "Jumbo.com"
+}

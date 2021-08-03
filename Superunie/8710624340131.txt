@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624340131",
+    "name": "g'woon Hersluitbare vershoudzak 3L",
+    "description": "g'woon Hersluitbare Vershoudzakjes Groot 3 Liter 30 Stuks",
+    "manufacturer": "ITS B.V.",
+    "available": true,
+    "price": 1.49,
+    "minimumAmount": 1,
+    "maximumAmount": 10,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6d780000-ff27-0003-ff82-08d91f7da189\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwDNgAjZQEN2lQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624324544",
+    "name": "g'woon Munt thee",
+    "description": "g'woon Munt 20 x 1,5 g",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.32,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/734a0000-ff27-0003-0108-08d9354d7e5a\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwCttAjZOsMw0A.670x670.jpg",
+    "source": "Jumbo.com"
+}

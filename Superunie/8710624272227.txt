@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624272227",
+    "name": "g'woon Italiaanse wokgroente",
+    "description": "G'woon Italiaanse wokgroente 600 GRM Zak",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.22,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/41db0000-ff8a-0003-47e7-08d6283d8d3e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwC3oQjYLfZZQw.670x670.jpg",
+    "source": "Jumbo.com"
+}

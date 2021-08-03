@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624267780",
+    "name": "g'woon Mix voor groentesaus",
+    "description": "g'woon Droge mix voor Saus voor over Groente 150gr",
+    "manufacturer": "Inproba BV",
+    "available": true,
+    "price": 0.87,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-56ec-08d60131fcb7\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBwOQjYLfYThw.670x670.jpg",
+    "source": "Jumbo.com"
+}

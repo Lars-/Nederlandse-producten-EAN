@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624201609",
+    "name": "Sum & Sam Sat\u00e9 marinade",
+    "description": "Sum & Sam Marinade Sat\u00e9 38 gr",
+    "manufacturer": "Sum & Sam",
+    "available": true,
+    "price": 0.61,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/27e7a915-5d5c-4d59-ac99-fb4ad8bca25e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCNUQjYLfTfBw.670x670.jpg",
+    "source": "Jumbo.com"
+}

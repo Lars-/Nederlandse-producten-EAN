@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624223885",
+    "name": "g'woon Gekleurde hagelslag met jammies",
+    "description": "g'woon Gekleurde Hagelslag Met Jammies UTZ 400gr",
+    "manufacturer": "Delicia B.V.",
+    "available": true,
+    "price": 1.79,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/0db40000-ff41-0003-d028-08d4ee14c863\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAUFQjYLfUHUw.670x670.jpg",
+    "source": "Jumbo.com"
+}

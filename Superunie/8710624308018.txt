@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624308018",
+    "name": "g'woon Slagroomijs wafels",
+    "description": "g'woon Slagroomijs wafels",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 2.39,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-e55f-08d7ae3038b6\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBBUwjYLfe6Gw.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624343385",
+    "name": "g'woon Tablet puur caf\u00e9 noir chocolade",
+    "description": "g'woon Tablet puur caf\u00e9 noir chocolade",
+    "manufacturer": "Natra Chocolate Belgium NV",
+    "available": true,
+    "price": 1.49,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6d780000-ff27-0003-919a-08d90e45c79a\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwDTrwjZKkLxrw.670x670.jpg",
+    "source": "Jumbo.com"
+}

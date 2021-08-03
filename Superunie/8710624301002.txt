@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624301002",
+    "name": "Bio+ Geraspte kaas",
+    "description": "Bio+ Geraspte kaas",
+    "manufacturer": "Zijerveld",
+    "available": true,
+    "price": 3.35,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-806e-08d76122fe17\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCWnAjYLfeNNw.670x670.jpg",
+    "source": "Jumbo.com"
+}

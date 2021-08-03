@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624299538",
+    "name": "g'woon Ravigottesaus",
+    "description": "g'woon Ravigottesaus 300ml",
+    "manufacturer": "Remia N.V.",
+    "available": true,
+    "price": 1.19,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-a195-08d7669a6d2e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDz2QjYLfeCcQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

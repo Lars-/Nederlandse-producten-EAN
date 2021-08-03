@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624316242",
+    "name": "g'woon Pate kat met zalm",
+    "description": "g'woon Pate kat met zalm",
+    "manufacturer": "Teeling Petfood B.V.",
+    "available": true,
+    "price": 0.25,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3b020000-ff27-0003-6eef-08d82d4ef072\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwANrgjYQyv9iA.670x670.jpg",
+    "source": "Jumbo.com"
+}

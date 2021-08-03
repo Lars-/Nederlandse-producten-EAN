@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624754068",
+    "name": "IJsbergsla melange",
+    "description": "Unbranded IJsbergsla melange 100 GRM VERPAKT",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2fe20000-ff41-0003-30e4-08d4a6a1995a\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAAZPSf-AwB_4wjYx0-eNQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624267988",
+    "name": "g'woon Minicrackers olijf & oregano",
+    "description": "Gwoon Mini Crackers Olijf en Oregano 250 gram",
+    "manufacturer": "Ambtman Jr. Import Export B.V.",
+    "available": true,
+    "price": 1.02,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/f4d20000-ff88-0003-7345-08d638291efa\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAlOgjYLfYXdQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

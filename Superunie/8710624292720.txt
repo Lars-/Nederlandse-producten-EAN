@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624292720",
+    "name": "Melkan Magere yoghurt",
+    "description": "Melkan Magere Yoghurt 1L",
+    "manufacturer": "Arla Foods B.V.",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-58c3-08d73aac4d0f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAU-gjYLfc85g.670x670.jpg",
+    "source": "Jumbo.com"
+}

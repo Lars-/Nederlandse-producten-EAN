@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624263096",
+    "name": "Melkan Knoflookboter",
+    "description": "Melkan Knoflookboter 100gr",
+    "manufacturer": "LaBan Foods",
+    "available": true,
+    "price": 1.39,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-07d2-08d606a0beef\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBnWQjYLfXUEA.670x670.jpg",
+    "source": "Jumbo.com"
+}

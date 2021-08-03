@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624226534",
+    "name": "Landhof Koffiecreamer",
+    "description": "Landhof koffie creamer 400 gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-23a2-08d703a97555\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwCTdgjXzO0aKA.670x670.jpg",
+    "source": "Jumbo.com"
+}

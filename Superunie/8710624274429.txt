@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624274429",
+    "name": "g'woon Snijbonen met witte bonen",
+    "description": "g'woon Gesneden sperziebonen met witte bonen 680gr",
+    "manufacturer": "Greenyard Prepared Belgium NV",
+    "available": true,
+    "price": 1.29,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6e790000-ff4b-0003-c4f4-08d67491e867\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAWTwjYLfZ2JQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

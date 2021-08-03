@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624267704",
+    "name": "g'woon Mix voor macaroni & spaghetti",
+    "description": "g'woon Kruidenmix voor Macaroni Spaghetti 40gr",
+    "manufacturer": "Inproba BV",
+    "available": true,
+    "price": 0.71,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-4fd6-08d60131e279\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADyPCf-AwAdWQjYOPQgzg.670x670.jpg",
+    "source": "Jumbo.com"
+}

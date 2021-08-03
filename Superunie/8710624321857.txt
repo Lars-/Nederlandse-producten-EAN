@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624321857",
+    "name": "g'woon Wasmiddel kleur geconcentreerd",
+    "description": "g'woon Wasmiddel kleur geconcentreerd",
+    "manufacturer": "Vipack B.V.",
+    "available": true,
+    "price": 2.75,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/79360000-ff27-0003-7339-08d88016e2d0\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwD-YQjY__YKrQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

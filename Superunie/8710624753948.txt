@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624753948",
+    "name": "Roerbakgroenten fijn",
+    "description": "Unbranded Fijne roerbakgroenten 400 GRM VERPAKT",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 2.49,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/1ecd0000-ff41-0003-ca3f-08d4961f796d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAAZPSf-AwDKHQjYx0-d6A.670x670.jpg",
+    "source": "Jumbo.com"
+}

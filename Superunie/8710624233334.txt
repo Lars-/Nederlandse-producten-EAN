@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624233334",
+    "name": "Melkan Melk lactosevrij",
+    "description": "Melkan houdbare lactose vrije halfvolle melk 1L",
+    "manufacturer": "Inexco B.V.",
+    "available": true,
+    "price": 1.19,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/d22b0000-ffdf-0003-acda-08d5ae9cd827\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwD8iQjYLfUUFQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

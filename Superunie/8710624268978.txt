@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624268978",
+    "name": "g'woon Pipe rigate",
+    "description": "g'woon pipe rigate 500gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/41db0000-ff8a-0003-2883-08d6221fc38e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBdFQjYLfYqgg.670x670.jpg",
+    "source": "Jumbo.com"
+}

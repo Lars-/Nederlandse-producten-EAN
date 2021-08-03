@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624283926",
+    "name": "Melkan Volle melk",
+    "description": "Melkan Melk Verse Volle 1 l Pak met punt",
+    "manufacturer": "Frieslandcampina N.V.",
+    "available": true,
+    "price": 1.19,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-e65c-08d6b6af4912\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBhNQjYLfbf3w.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624313494",
+    "name": "g'woon Romige tomatensoep",
+    "description": "g'woon Romige tomatensoep",
+    "manufacturer": "Four Seasons Food B.V.",
+    "available": true,
+    "price": 1.79,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/80fd0000-ff27-0003-b4a9-08d8533029f9\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA7eyf-AwD7iAjYWfUr6A.670x670.jpg",
+    "source": "Jumbo.com"
+}

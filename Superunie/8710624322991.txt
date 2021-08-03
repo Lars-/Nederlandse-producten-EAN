@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624322991",
+    "name": "Bio+ Sperziebonen",
+    "description": "Bio+ Sperziebonen",
+    "manufacturer": "Coroos Conserven B.V.",
+    "available": true,
+    "price": 1.09,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-43d9-08d8e8619062\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwB2SAjZDsH2IA.670x670.jpg",
+    "source": "Jumbo.com"
+}

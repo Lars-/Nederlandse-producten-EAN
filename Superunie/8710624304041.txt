@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624304041",
+    "name": "Bio+ Cherry tomaten biologisch",
+    "description": "Bio+ Cherry tomaten biologisch",
+    "manufacturer": "Metro Cash & Carry Nederland B.V.",
+    "available": true,
+    "price": 1.69,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/79360000-ff27-0003-4571-08d8866815bf\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwCfSgjY-kGEWw.670x670.jpg",
+    "source": "Jumbo.com"
+}

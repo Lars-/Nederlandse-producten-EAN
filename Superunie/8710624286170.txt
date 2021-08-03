@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624286170",
+    "name": "Melkan Halfvolle melk",
+    "description": "Halfvolle melk 500ml PP",
+    "manufacturer": "Vecozuivel BV",
+    "available": true,
+    "price": 0.69,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-816c-08d7141e6090\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDN5AjYLfb40g.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624223298",
+    "name": "g'woon Multivitamine geel fruit pak 6 x 20 cl",
+    "description": "g'woon Multivitamine Geel Fruit 6x 0,2l",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.49,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2be40000-ff41-0003-f06f-08d41e8d561e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwA3NwjYLfUGig.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624294212",
+    "name": "g'woon Tapenade zwarte olijf",
+    "description": "g'woon Tapenade zwarte olijf",
+    "manufacturer": "Glas best",
+    "available": true,
+    "price": 1.92,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7b3b0000-ff27-0003-18f8-08d85e3e9854\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA7eyf-AwDntAjYXqwg3Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

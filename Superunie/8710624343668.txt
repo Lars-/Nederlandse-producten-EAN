@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624343668",
+    "name": "Bio+ Rode kidneybonen",
+    "description": "Bio+ Rode Kidneybonen 400 g",
+    "manufacturer": "Greenyard Prepared Belgium NV",
+    "available": true,
+    "price": 1.54,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-295c-08d8e861905f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwAlKAjY7cEVxg.670x670.jpg",
+    "source": "Jumbo.com"
+}

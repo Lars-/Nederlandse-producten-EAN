@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624286736",
+    "name": "g'woon Mini snacks",
+    "description": "g'woon mini snacks blk (kip VV RV)1* 648 gram",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 2.19,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-04b7-08d6f8b05985\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAFiwjYLfb6Eg.670x670.jpg",
+    "source": "Jumbo.com"
+}

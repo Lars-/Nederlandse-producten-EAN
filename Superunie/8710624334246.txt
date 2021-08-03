@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624334246",
+    "name": "g'woon Roomboter kano's",
+    "description": "g'woon Roomboter kano's",
+    "manufacturer": "Aviateur Banketbakkerijen B.V.",
+    "available": true,
+    "price": 1.31,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/29b50000-ff27-0003-d9cb-08d8a04d3bff\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwBeVwjZA8HFxw.670x670.jpg",
+    "source": "Jumbo.com"
+}

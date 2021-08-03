@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624313906",
+    "name": "Coop Maaltijdsalade kip sweet chili",
+    "description": "Coop Maaltijdsalade kip sweet chili",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 4.69,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4e750000-ff27-0003-949a-08d7f59e7180\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAAZPSf-AwDmHQjYx0-Y0g.670x670.jpg",
+    "source": "Jumbo.com"
+}

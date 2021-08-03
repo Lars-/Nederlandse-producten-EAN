@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624340339",
+    "name": "g'woon Sanitairzakken 10 liter",
+    "description": "g'woon Sanitairzakken 10 liter",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.89,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6d780000-ff27-0003-31f6-08d90e4497c9\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwBlCQjZHOcRmg.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624330040",
+    "name": "g'woon Mangostukjes",
+    "description": "g'woon Mangostukjes",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.69,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/79360000-ff27-0003-2a59-08d874320fe8\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA2eSf-AwAHmQjYhfZ6xw.670x670.jpg",
+    "source": "Jumbo.com"
+}

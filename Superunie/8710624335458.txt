@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624335458",
+    "name": "g'woon Chinese tomatensoep",
+    "description": "g'woon Chinese tomatensoep",
+    "manufacturer": "Struik Foods Europe N.V.",
+    "available": true,
+    "price": 1.49,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-3656-08d8d1f806c9\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwDungjY3ud02Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624316105",
+    "name": "g'woon Paneermeel kruiden",
+    "description": "g'woon Paneermeel kruiden",
+    "manufacturer": "Van der Meulen Hallum B.V.",
+    "available": true,
+    "price": 0.49,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/505b0000-ff27-0003-e47a-08d832339d2d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwCsLQjYQyv9Aw.670x670.jpg",
+    "source": "Jumbo.com"
+}

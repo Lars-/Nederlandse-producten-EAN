@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624337162",
+    "name": "g'woon Gezeefde tomaten",
+    "description": "g'woon Gezeefde tomaten",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.59,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6d780000-ff27-0003-731f-08d913b68df5\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwBhAQjZFEIUJg.670x670.jpg",
+    "source": "Jumbo.com"
+}

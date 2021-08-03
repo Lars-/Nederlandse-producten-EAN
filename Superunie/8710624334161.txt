@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624334161",
+    "name": "g'woon Roomboter custardcakejes",
+    "description": "g'woon Roomboter custardcakejes",
+    "manufacturer": "Aviateur Banketbakkerijen B.V.",
+    "available": true,
+    "price": 1.19,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/29b50000-ff27-0003-732e-08d8a04d0373\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwBRyAjZCUHhjA.670x670.jpg",
+    "source": "Jumbo.com"
+}

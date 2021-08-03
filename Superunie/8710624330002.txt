@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624330002",
+    "name": "g'woon Blauwe Bessen",
+    "description": "g'woon Blauwe Bessen",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.89,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/79360000-ff27-0003-33ec-08d874320bb8\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAAZPSf-AwCl6AjYtr_C1w.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624273798",
+    "name": "Daily Chef Poffertjes",
+    "description": "Daily Chef poffertjes 50 stuks",
+    "manufacturer": "Cerelia Netherlands B.V.",
+    "available": true,
+    "price": 2.39,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/adb90000-ff55-0003-0459-08d65ea9b473\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDqhgjYLrz7wQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

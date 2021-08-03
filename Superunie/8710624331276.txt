@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624331276",
+    "name": "Melkan Magere milde kwark",
+    "description": "Melkan Magere milde kwark",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/79360000-ff27-0003-4892-08d88017137c\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA2eSf-AwBBYgjYlb_o0g.670x670.jpg",
+    "source": "Jumbo.com"
+}

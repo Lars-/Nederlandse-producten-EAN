@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624311063",
+    "name": "Daily Chef Lasagne met groente",
+    "description": "Daily Chef Lasagne met groente",
+    "manufacturer": "Smeding Groenten en Fruit",
+    "available": true,
+    "price": 3.29,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3b020000-ff27-0003-22a6-08d82d4ec63f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA2eSf-AwCQ3QjYei0Hng.670x670.jpg",
+    "source": "Jumbo.com"
+}

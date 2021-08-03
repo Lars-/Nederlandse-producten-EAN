@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624346836",
+    "name": "Rucola",
+    "description": "Rucola",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 1.59,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-7758-08d8f8fec146\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwDCAwjY-kGIYA.670x670.jpg",
+    "source": "Jumbo.com"
+}

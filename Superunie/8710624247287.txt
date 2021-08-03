@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624247287",
+    "name": "g'woon oven chicken wings",
+    "description": "g'woon Oven Chickenwings 1* Beter Leven 500gr",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 3.59,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/d22b0000-ffdf-0003-1e7d-08d5ae9cb765\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwA1sQjYLfVczw.670x670.jpg",
+    "source": "Jumbo.com"
+}

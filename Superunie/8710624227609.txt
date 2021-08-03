@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624227609",
+    "name": "Melkan Houdbare karnemelk",
+    "description": "Melkan houdbare karnemelk weidemelk 1L",
+    "manufacturer": "Inexco B.V.",
+    "available": true,
+    "price": 1.02,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/31af0000-ff41-0003-20a8-08d4dd8e8d13\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCoqwjYLfUQQw.670x670.jpg",
+    "source": "Jumbo.com"
+}

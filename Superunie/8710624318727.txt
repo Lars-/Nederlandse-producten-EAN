@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624318727",
+    "name": "Vismarine Zalmfilet zonder huid",
+    "description": "Vismarine Zalmfilet zonder huid",
+    "manufacturer": "Profish Food B.V.",
+    "available": true,
+    "price": 6.88,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3b020000-ff27-0003-8640-08d82d4f427d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADyPCf-AwDsLwjYPasQPw.670x670.jpg",
+    "source": "Jumbo.com"
+}

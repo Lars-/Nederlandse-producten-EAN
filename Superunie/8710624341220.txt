@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624341220",
+    "name": "g'woon Mega choco's melk karamel",
+    "description": "g'woon Mega choco's melk karamel",
+    "manufacturer": "Heveck VriesVers B.V.",
+    "available": true,
+    "price": 2.79,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-a5f8-08d8dd7c7ee0\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwCk1QjZBuY_ig.670x670.jpg",
+    "source": "Jumbo.com"
+}

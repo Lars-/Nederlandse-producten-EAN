@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624292201",
+    "name": "Melkan Drinkyoghurt mango-passievrucht",
+    "description": "Melkan Drinkyoghurt 0% Mango Passievrucht 1000 ml Pak met punt",
+    "manufacturer": "Frieslandcampina N.V.",
+    "available": true,
+    "price": 0.89,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-fe00-08d7141e6083\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBmuAjYLfc6zA.670x670.jpg",
+    "source": "Jumbo.com"
+}

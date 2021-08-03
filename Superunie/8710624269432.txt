@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624269432",
+    "name": "Melkan Drinkyoghurt framboos",
+    "description": "Melkan Drinkyoghurt framboos 1L",
+    "manufacturer": "Inexco B.V.",
+    "available": true,
+    "price": 0.76,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/03e50000-ff8a-0003-533a-08d63da6f565\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBKLwjYLfYwrw.670x670.jpg",
+    "source": "Jumbo.com"
+}

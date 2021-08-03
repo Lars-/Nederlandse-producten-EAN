@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624329341",
+    "name": "g'woon Hollandse Roerbakgroenten",
+    "description": "g'woon Hollandse Roerbakgroenten",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.69,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7b3b0000-ff27-0003-b728-08d864469ea3\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA2eSf-AwCccAjYei0OMg.670x670.jpg",
+    "source": "Jumbo.com"
+}

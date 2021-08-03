@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624277048",
+    "name": "g'woon Italiaanse bollen",
+    "description": "G'woon Italiaanse bollen 2x100g",
+    "manufacturer": "Schapendonk Dutch Bakery B.V.",
+    "available": true,
+    "price": 0.95,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6e790000-ff4b-0003-2573-08d68ab63651\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBX7gjYLfa3tA.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624342920",
+    "name": "g'woon Yoghurt biscuit aardbei",
+    "description": "g'woon Yoghurt Biscuits Aardbeiensmaak 5 x 2 Stuks 182 g",
+    "manufacturer": "Hellema-Hallum B.V.",
+    "available": true,
+    "price": 1.09,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/734a0000-ff27-0003-fc79-08d9354dfdb3\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwD88gjZOsMxag.670x670.jpg",
+    "source": "Jumbo.com"
+}

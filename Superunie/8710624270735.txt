@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624270735",
+    "name": "Bio+ Biologische houdbare halfvolle melk",
+    "description": "Bio+ Biologische halfvolle melk 1,5% 1L",
+    "manufacturer": "Heveck VriesVers B.V.",
+    "available": true,
+    "price": 1.05,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/f4d20000-ff88-0003-656f-08d6382dadce\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAljgjYLfY8xA.670x670.jpg",
+    "source": "Jumbo.com"
+}

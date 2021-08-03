@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624256760",
+    "name": "g'woon Hondenvoer zachte brokken adult",
+    "description": "g'woon Adult zachte brokken hond 1,5kg",
+    "manufacturer": "Partner In Pet Food Nl B.V.",
+    "available": true,
+    "price": 2.74,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/ddd50000-ffdf-0003-537e-08d5b4265704\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwBWXwjYQyvWhQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

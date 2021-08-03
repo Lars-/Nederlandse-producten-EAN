@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624335533",
+    "name": "Vismarine Kabeljauw",
+    "description": "Vismarine Kabeljauw",
+    "manufacturer": "Heveck VriesVers B.V.",
+    "available": true,
+    "price": 4.76,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/29b50000-ff27-0003-a243-08d8ab293998\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwCURQjZKkLuTg.670x670.jpg",
+    "source": "Jumbo.com"
+}

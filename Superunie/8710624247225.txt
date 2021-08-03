@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624247225",
+    "name": "g'woon Oven kaassouffl\u00e9s",
+    "description": "g'woon Oven Kaassouffl\u00e9s 4x70gr",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 2.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/d22b0000-ffdf-0003-b901-08d5ae9cb7ff\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDFGAjYLfVcpQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

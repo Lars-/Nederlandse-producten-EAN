@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624296810",
+    "name": "g'woon Multivitamine rood fruit",
+    "description": "g'woon Multivitamine rood fruit 1,5L",
+    "manufacturer": "Refresco B.V.",
+    "available": true,
+    "price": 1.39,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-70f4-08d74b2e2623\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBihwjYLfdi4A.670x670.jpg",
+    "source": "Jumbo.com"
+}

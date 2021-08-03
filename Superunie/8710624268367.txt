@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624268367",
+    "name": "g'woon Basmati rijst",
+    "description": "g'woon basmati rijst 1000g",
+    "manufacturer": "Sillevoldt Rijst B.V.",
+    "available": true,
+    "price": 2.49,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/41db0000-ff8a-0003-0b37-08d6283d68f5\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDoTgjYLfYg4g.670x670.jpg",
+    "source": "Jumbo.com"
+}

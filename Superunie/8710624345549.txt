@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624345549",
+    "name": "BanderosTortilla wraps original voordeel",
+    "description": "BanderosTortilla wraps original voordeel",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.79,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6d780000-ff27-0003-609a-08d91945ee4e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwCycgjZSOhP3A.670x670.jpg",
+    "source": "Jumbo.com"
+}

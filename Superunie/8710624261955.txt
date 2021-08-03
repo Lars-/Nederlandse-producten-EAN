@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624261955",
+    "name": "Derlon Wegwerpscheermesjes vrouw",
+    "description": "Derlon wegwerpscheermesjes vrouw 5st",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.24,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-b1a5-08d5f6b9ac9b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwABXQjYLfXPKw.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624296735",
+    "name": "g'woon Kattenbakvulling hygiene",
+    "description": "g'woon Kattenbakvulling ultra hygiene 6 liter",
+    "manufacturer": "Zijderlaan Retail Services BV",
+    "available": true,
+    "price": 3.99,
+    "minimumAmount": 1,
+    "maximumAmount": 10,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-ad19-08d73534d592\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwA5JwjYQyvz7g.670x670.jpg",
+    "source": "Jumbo.com"
+}

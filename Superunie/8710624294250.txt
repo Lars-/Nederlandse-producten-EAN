@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624294250",
+    "name": "g'woon Aioli",
+    "description": "g'woon Aioli",
+    "manufacturer": "Glas best",
+    "available": true,
+    "price": 1.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7b3b0000-ff27-0003-f41f-08d85e3e9855\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA7eyf-AwDcXQjYXqwg-A.670x670.jpg",
+    "source": "Jumbo.com"
+}

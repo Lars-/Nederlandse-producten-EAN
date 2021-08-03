@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624339845",
+    "name": "g'woon Clear lemon",
+    "description": "g'woon Clear Citroen 1,5 L",
+    "manufacturer": "Refresco B.V.",
+    "available": true,
+    "price": 0.62,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/734a0000-ff27-0003-62a0-08d9354dd540\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwBSsgjZRcPKhA.670x670.jpg",
+    "source": "Jumbo.com"
+}

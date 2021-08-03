@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624333270",
+    "name": "g'woon Kokos kransen",
+    "description": "g'woon Kokos kransen",
+    "manufacturer": "Daelmans Banket B.V.",
+    "available": true,
+    "price": 0.92,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": null,
+    "source": "Jumbo.com"
+}

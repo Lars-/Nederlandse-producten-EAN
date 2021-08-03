@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624275273",
+    "name": "g'woon Gepelde tomaten op sap",
+    "description": "g'woon Gepelde tomaten 400gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.49,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f960000-ff76-0003-600d-08d6642596e2\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwD6aQjYLfaQiA.670x670.jpg",
+    "source": "Jumbo.com"
+}

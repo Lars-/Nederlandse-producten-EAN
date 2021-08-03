@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624513993",
+    "name": "Melkan zure room",
+    "description": "melkan Zure Room 125gr",
+    "manufacturer": "Konings-Zuivel B.V.",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/b5164253-a46d-4947-aee2-e254e0dbadf0\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDWjAjYLffcQQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

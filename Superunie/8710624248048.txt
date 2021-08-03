@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624248048",
+    "name": "g'woon Siroop cassis",
+    "description": "g'woon Siroop 80% Fruit Cassis 750ml Fles",
+    "manufacturer": "Burg Ter Aar B.V.",
+    "available": true,
+    "price": 2.19,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/42d40000-ff41-0003-8e51-08d57d2b49cd\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwABPAjZFEITZg.670x670.jpg",
+    "source": "Jumbo.com"
+}

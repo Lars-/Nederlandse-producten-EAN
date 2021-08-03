@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624294052",
+    "name": "Bio+ Ma\u00efswafels met zeezout",
+    "description": "Bio+ maiswafels met zeezout 107gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.54,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-2a50-08d7199e87a5\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwAN0gjZSOhNHw.670x670.jpg",
+    "source": "Jumbo.com"
+}

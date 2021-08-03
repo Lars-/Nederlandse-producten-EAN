@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624295431",
+    "name": "Bio+ Magere yoghurt",
+    "description": "Bio+ Magere yoghurt 1L",
+    "manufacturer": "Vecozuivel BV",
+    "available": true,
+    "price": 1.09,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-467b-08d75142be42\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAcqgjYLfdS1Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

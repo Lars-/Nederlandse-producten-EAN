@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624323646",
+    "name": "Zuivelmeester Magere yoghurt",
+    "description": "Zuivelmeester Magere yoghurt",
+    "manufacturer": "Friesland Campina PL Dairy",
+    "available": true,
+    "price": 0.85,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7b3b0000-ff27-0003-9554-08d858ad9939\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwDjWwjZKkLsFA.670x670.jpg",
+    "source": "Jumbo.com"
+}

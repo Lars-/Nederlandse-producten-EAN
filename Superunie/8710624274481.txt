@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624274481",
+    "name": "g'woon Tuinbonen extra fijn",
+    "description": "g'woon Tuinbonen extra fijn 340g",
+    "manufacturer": "Greenyard Prepared Belgium NV",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6e790000-ff4b-0003-c524-08d67491e7c9\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBZ7gjYLfZ3MQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

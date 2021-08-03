@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624264741",
+    "name": "g'woon Toiletblok powerball ocean",
+    "description": "g'woon Oceaan WC Blokken 100 g",
+    "manufacturer": "Benckmar B.V.",
+    "available": true,
+    "price": 1.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-31ee-08d5f6b98e9d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBXvwjYLfXcqg.670x670.jpg",
+    "source": "Jumbo.com"
+}

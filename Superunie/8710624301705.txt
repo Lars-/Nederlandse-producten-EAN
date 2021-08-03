@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624301705",
+    "name": "Biologisch rundergehakt mager",
+    "description": "Coop Biologisch gehakt mager",
+    "manufacturer": "Promessa",
+    "available": true,
+    "price": 3.99,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-8f39-08d782337d85\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDwoAjYLfeWHg.670x670.jpg",
+    "source": "Jumbo.com"
+}

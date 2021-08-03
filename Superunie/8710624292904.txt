@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624292904",
+    "name": "g'woon Augurken fijn zoetzuur",
+    "description": "g'woon Augurken fijn zoetzuur 330gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-425b-08d6f32db389\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCArwjYLfdCAg.670x670.jpg",
+    "source": "Jumbo.com"
+}

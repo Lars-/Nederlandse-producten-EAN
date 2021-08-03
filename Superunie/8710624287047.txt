@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624287047",
+    "name": "Witte champignons",
+    "description": "Coop - middel 400g",
+    "manufacturer": "Fresh Mushroom Europe",
+    "available": true,
+    "price": 1.49,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3ef90000-ff41-0003-969f-08d3b0b4ede4\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwANOAjXjm81bQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

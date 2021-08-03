@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624322847",
+    "name": "Vismarine Roze garnalen",
+    "description": "Vismarine Roze garnalen",
+    "manufacturer": "Profish Food B.V.",
+    "available": true,
+    "price": 2.69,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3b020000-ff27-0003-73b8-08d82d4f490b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADyPCf-AwAgcQjYOPQqGQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

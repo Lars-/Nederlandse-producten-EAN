@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624318611",
+    "name": "Daily Chef Nasi sat\u00e9 ajam",
+    "description": "Daily Chef Nasi sat\u00e9 ajam",
+    "manufacturer": "Smeding Groenten en Fruit",
+    "available": true,
+    "price": 4.29,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4e750000-ff27-0003-d4c5-08d7f59e6690\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBQOgjYLrz7wg.670x670.jpg",
+    "source": "Jumbo.com"
+}

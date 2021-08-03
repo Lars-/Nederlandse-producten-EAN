@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624251192",
+    "name": "Aardappelpartjes in schil",
+    "description": "UNBRANDED Aardappelpartjes naturel met schil 450gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.89,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/207e0001-ff41-0003-14b3-08d4f9148fbe\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwAIkAjY6EDokA.670x670.jpg",
+    "source": "Jumbo.com"
+}

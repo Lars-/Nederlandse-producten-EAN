@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624355913",
+    "name": "Vismarine Kabeljauwfilet",
+    "description": "Vismarine Kabeljauwfilet",
+    "manufacturer": "Profish Food B.V.",
+    "available": true,
+    "price": 5.01,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/734a0000-ff27-0003-0e49-08d94abf08e5\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwDA7QjZTNYaww.670x670.jpg",
+    "source": "Jumbo.com"
+}

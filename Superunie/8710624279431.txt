@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624279431",
+    "name": "Daily chef Vers pizzadeeg",
+    "description": "Daily Chef Pizzadeeg 385 gram",
+    "manufacturer": "Cerelia Netherlands B.V.",
+    "available": true,
+    "price": 1.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-2410-08d690359183\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwApDgjYLrz9cQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

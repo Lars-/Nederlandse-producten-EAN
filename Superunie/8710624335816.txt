@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624335816",
+    "name": "g'woon Stroopwafel Honing",
+    "description": "g'woon Stroopwafel Honing",
+    "manufacturer": "De Banketgroep B.V.",
+    "available": true,
+    "price": 2.29,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/29b50000-ff27-0003-b52a-08d8a04dab53\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwAQLwjY7cEVPA.670x670.jpg",
+    "source": "Jumbo.com"
+}

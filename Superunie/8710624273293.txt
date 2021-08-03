@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624273293",
+    "name": "g'woon Biologische containerzakken 240 liter",
+    "description": "g\u2019woon bio containerzakken 240L 3 st.",
+    "manufacturer": "Pack-It B.V.",
+    "available": true,
+    "price": 2.29,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-2d64-08d690359804\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBL1QjYLfZljw.670x670.jpg",
+    "source": "Jumbo.com"
+}

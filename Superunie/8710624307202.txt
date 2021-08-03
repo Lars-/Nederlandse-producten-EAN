@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624307202",
+    "name": "g'woon Koffiebonen rood",
+    "description": "g'woon Koffiebonen rood",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 8.79,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3b020000-ff27-0003-b7f6-08d828a414fd\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwBo8AjYQyv4Sg.670x670.jpg",
+    "source": "Jumbo.com"
+}

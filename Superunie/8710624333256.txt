@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624333256",
+    "name": "g'woon Gangmakers",
+    "description": "g'woon Gangmakers",
+    "manufacturer": "Daelmans Banket B.V.",
+    "available": true,
+    "price": 1.19,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": null,
+    "source": "Jumbo.com"
+}

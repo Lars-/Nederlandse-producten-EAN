@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624285050",
+    "name": "Melkan Blokjes extra belegen",
+    "description": "Melkan Kaas 30+ Pikant WGM Kaasblokjes 200g",
+    "manufacturer": "Vergeer Holland",
+    "available": true,
+    "price": 3.09,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-ad6e-08d6f8b05455\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAcLwjYLfbt9A.670x670.jpg",
+    "source": "Jumbo.com"
+}

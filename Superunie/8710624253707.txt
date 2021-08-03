@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624253707",
+    "name": "Daily Chef Andijvie stamppot met slavink",
+    "description": "daily CHEF Andijviestamppot Met Slavink 500gr",
+    "manufacturer": "Bonfait B.V.",
+    "available": true,
+    "price": 3.59,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/d22b0000-ffdf-0003-b32b-08d5ae9cb34a\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwAi2gjZCUHfOA.670x670.jpg",
+    "source": "Jumbo.com"
+}

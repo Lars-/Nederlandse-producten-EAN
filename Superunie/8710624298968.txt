@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624298968",
+    "name": "g'woon Fruitspread aardbei",
+    "description": "g'woon fruitspread aardbei 310gr",
+    "manufacturer": "Geurts",
+    "available": true,
+    "price": 1.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-73a3-08d75142be81\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwAviQjZSOhNTg.670x670.jpg",
+    "source": "Jumbo.com"
+}

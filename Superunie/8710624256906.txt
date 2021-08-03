@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624256906",
+    "name": "Melkan Magere Franse kwark",
+    "description": "melkan Magere franse kwark 500gr",
+    "manufacturer": "Konings-Zuivel B.V.",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/9d860000-ffdf-0003-d2a8-08d59e1de4b4\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAwrAjYLfWb6w.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624268305",
+    "name": "g'woon Zilvervlies rijst",
+    "description": "g'woon magnetron Zilvervliesrijst 300g",
+    "manufacturer": "Sillevoldt Rijst B.V.",
+    "available": true,
+    "price": 1.25,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/41db0000-ff8a-0003-453a-08d6283d6922\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBAuwjYLfYd4g.670x670.jpg",
+    "source": "Jumbo.com"
+}

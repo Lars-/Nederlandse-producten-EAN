@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624266615",
+    "name": "g'woon Allesreinigerdoekjes",
+    "description": "g'woon allesreinigerdoekjes 30st",
+    "manufacturer": "Eurofour B.V.",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-2255-08d5f6b99958\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDXpwjYLfX4rQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

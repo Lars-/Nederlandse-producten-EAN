@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624335250",
+    "name": "g'woon Bruine bonensoep",
+    "description": "g'woon Bruine bonensoep",
+    "manufacturer": "Struik Foods Europe N.V.",
+    "available": true,
+    "price": 1.35,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3d190000-ff27-0003-5ed6-08d8bc62043e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAAZPSf-AwC6FwjYvQixGg.670x670.jpg",
+    "source": "Jumbo.com"
+}

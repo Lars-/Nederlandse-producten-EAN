@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624247669",
+    "name": "g'woon Vietnamese loempia",
+    "description": "g'woon Vietnamese Loempia 1* Beter Leven 6st",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.75,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/c6780000-ffdf-0003-18eb-08d58da29e74\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBH-gjYLfViLA.670x670.jpg",
+    "source": "Jumbo.com"
+}

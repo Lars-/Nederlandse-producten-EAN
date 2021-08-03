@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624307127",
+    "name": "g'woon Espressobonen extra dark",
+    "description": "g'woon Espressobonen extra dark",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 9.29,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3b020000-ff27-0003-67a2-08d828a433f1\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwDcNQjYQyv4Gg.670x670.jpg",
+    "source": "Jumbo.com"
+}

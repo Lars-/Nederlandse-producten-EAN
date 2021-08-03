@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624292027",
+    "name": "Derlon Bad & Douche magnolia olie",
+    "description": "Derlon bad & douche magnolia en olie 1L",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.39,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-5734-08d74b2e2425\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBeeAjYLfc0Yw.670x670.jpg",
+    "source": "Jumbo.com"
+}

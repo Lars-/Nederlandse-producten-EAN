@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624303587",
+    "name": "g'woon Afwasmiddel extra zacht",
+    "description": "g'woon Extra Zacht Geconcentreerd Afwasmiddel 500 ml",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.79,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-4ad2-08d7c9be2b2d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDLTwjYLfendw.670x670.jpg",
+    "source": "Jumbo.com"
+}

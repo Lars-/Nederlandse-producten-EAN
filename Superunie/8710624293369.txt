@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624293369",
+    "name": "g'woon Zeevruchten",
+    "description": "g'woon Chocolade zeevruchten 250gr",
+    "manufacturer": "All Crump N.V.",
+    "available": true,
+    "price": 1.84,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-220a-08d72a260a0e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwBI7QjYQyvyPQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

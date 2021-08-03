@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624274283",
+    "name": "g'woon Doperwten en wortelen",
+    "description": "g'woon Doperwten en wortelen extra fijn 180g",
+    "manufacturer": "Greenyard Prepared Belgium NV",
+    "available": true,
+    "price": 0.69,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/adb90000-ff55-0003-2860-08d653932acc\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwD3tQjYLfZzEg.670x670.jpg",
+    "source": "Jumbo.com"
+}

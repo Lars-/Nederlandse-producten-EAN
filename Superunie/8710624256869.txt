@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624256869",
+    "name": "Melkan Halfvolle kwark aardbei",
+    "description": "melkan Halfvolle Kwark Aardbei Weidemelk 450gr Beker\/Kuipje",
+    "manufacturer": "Konings-Zuivel B.V.",
+    "available": true,
+    "price": 1.45,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/bac90000-ffdf-0003-22f0-08d5bfee9753\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwA8iwjYTiuqVg.670x670.jpg",
+    "source": "Jumbo.com"
+}

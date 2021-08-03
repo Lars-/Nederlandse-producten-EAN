@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624268770",
+    "name": "g'woon Fijne mie nestjes",
+    "description": "G'WOON Fijne Mie",
+    "manufacturer": "Soubry Nederland B.V.",
+    "available": true,
+    "price": 0.84,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/adb90000-ff55-0003-bb2b-08d653932a33\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwA4rQjYLfYj8g.670x670.jpg",
+    "source": "Jumbo.com"
+}

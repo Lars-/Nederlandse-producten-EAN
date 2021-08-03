@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624347666",
+    "name": "g'woon Oven frikandellen",
+    "description": "g'woon Oven Frikandellen 5 x 70 g",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.49,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6d780000-ff27-0003-a96a-08d91f7da96f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwB_JgjZNUMQfA.670x670.jpg",
+    "source": "Jumbo.com"
+}

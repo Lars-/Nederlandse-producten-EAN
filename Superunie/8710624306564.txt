@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624306564",
+    "name": "g'woon Cups lungo cafe\u00efnevrij",
+    "description": "g'woon Cups lungo cafe\u00efnevrij",
+    "manufacturer": "UCC Coffee Benelux B.V.",
+    "available": true,
+    "price": 1.49,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3b020000-ff27-0003-2467-08d828a415c5\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AACP7tVE7_bXFwjYgLsa0g.670x670.jpg",
+    "source": "Jumbo.com"
+}

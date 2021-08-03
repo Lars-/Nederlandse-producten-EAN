@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624330194",
+    "name": "Green Doperwten zeer fijn",
+    "description": "Green Doperwten zeer fijn",
+    "manufacturer": "Greenyard Prepared Belgium NV",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7b3b0000-ff27-0003-8f49-08d86a956809\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA7eyf-AwDMywjYb-XHqw.670x670.jpg",
+    "source": "Jumbo.com"
+}

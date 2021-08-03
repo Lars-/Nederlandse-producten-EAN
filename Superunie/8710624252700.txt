@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624252700",
+    "name": "Casa Italiana Tomaten heel gepeld in sap",
+    "description": "Casa Italiana Tomaten heel gepeld in sap",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.45,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4e750000-ff27-0003-dd7a-08d8112635af\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB1Tif-AwCR_QjYFyoqOw.670x670.jpg",
+    "source": "Jumbo.com"
+}

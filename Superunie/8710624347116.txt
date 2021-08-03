@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624347116",
+    "name": "g'woon Mini loempia groente",
+    "description": "g'woon Mini Loempia's Groente 15 x 20 g",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.24,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6d780000-ff27-0003-c5d9-08d91f7daa7c\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwAISAjZNUMQZg.670x670.jpg",
+    "source": "Jumbo.com"
+}

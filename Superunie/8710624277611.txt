@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624277611",
+    "name": "g'woon Tutti frutti",
+    "description": "G'Woon tutti frutti 375 gram",
+    "manufacturer": "Catz International B.V.",
+    "available": true,
+    "price": 1.79,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-c241-08d695ad42b6\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADyPCf-AwDPtwjYOPQlsg.670x670.jpg",
+    "source": "Jumbo.com"
+}

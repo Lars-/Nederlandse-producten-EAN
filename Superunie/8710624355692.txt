@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624355692",
+    "name": "Vismarine Kibbeling gebakken",
+    "description": "Vismarine Kibbeling gebakken",
+    "manufacturer": "Profish Food B.V.",
+    "available": true,
+    "price": 3.3,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": null,
+    "source": "Jumbo.com"
+}

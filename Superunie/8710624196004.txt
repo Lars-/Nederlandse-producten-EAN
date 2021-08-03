@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624196004",
+    "name": "New Way Maxi normal 18",
+    "description": "NewWay maandverband maxi normaal 18st",
+    "manufacturer": "Ontex International",
+    "available": true,
+    "price": 1.19,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/9b3d402e-bced-467b-bc88-dd7165f18ddf\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAAZPSf-AwAbrwjYtr9-rw.670x670.jpg",
+    "source": "Jumbo.com"
+}

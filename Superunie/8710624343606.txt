@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624343606",
+    "name": "Bio+ Gemengde bonen",
+    "description": "Bio+ Gemengde Bonen 400 g",
+    "manufacturer": "Greenyard Prepared Belgium NV",
+    "available": true,
+    "price": 1.02,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-b8d2-08d8e8619065\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwBhvwjY7cEVng.670x670.jpg",
+    "source": "Jumbo.com"
+}

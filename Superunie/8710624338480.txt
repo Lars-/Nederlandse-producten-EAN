@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624338480",
+    "name": "g'woon Snelfilter koffie rood",
+    "description": "g'woon Snelfilter koffie rood",
+    "manufacturer": "UCC Coffee Benelux B.V.",
+    "available": true,
+    "price": 5.19,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-487d-08d8ed48cd92\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwCkiQjY_YqmCg.670x670.jpg",
+    "source": "Jumbo.com"
+}

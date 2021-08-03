@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624290566",
+    "name": "Bonb\u00e9b\u00e9 M0801 Lasagne courgette kaas",
+    "description": "bonb\u00e9b\u00e9 Lasagne groenten parmezaanse kaas M0801 200gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-0fdc-08d73534c74f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAa9AjYLfckFA.670x670.jpg",
+    "source": "Jumbo.com"
+}

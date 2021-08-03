@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624261870",
+    "name": "g'woon Soep croutons naturel",
+    "description": "g'woon soep croutons naturel 150gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.98,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afd70000-ff55-0003-964b-08d5e597bc43\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwD2IAjYLfXNJA.670x670.jpg",
+    "source": "Jumbo.com"
+}

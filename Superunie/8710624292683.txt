@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624292683",
+    "name": "Melkan Blanke vla",
+    "description": "Melkan Blanke Vla 1L",
+    "manufacturer": "Arla Foods B.V.",
+    "available": true,
+    "price": 0.79,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-1468-08d73aac4ccb\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBLbwjYLfc87A.670x670.jpg",
+    "source": "Jumbo.com"
+}

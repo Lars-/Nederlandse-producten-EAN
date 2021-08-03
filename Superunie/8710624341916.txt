@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624341916",
+    "name": "Sense Original bewust light  575 gram",
+    "description": "Sense Original bewust light  575 gram",
+    "manufacturer": "Vandemoortele Nederland B.V.",
+    "available": true,
+    "price": 2.39,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-2093-08d8ed48db87\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwC_KgjZGcI3SQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624260750",
+    "name": "g'woon Kruidkoekrepen",
+    "description": "g'woon Kruidkoekrepen 5x350gr",
+    "manufacturer": "Continental Bakeries B.V.",
+    "available": true,
+    "price": 1.22,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/9e560000-ffdf-0003-1183-08d5cd3651b9\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwD9MQjYQyvYXQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

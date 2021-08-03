@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624224332",
+    "name": "Superschoon Afwasmiddel",
+    "description": "Superschoon Afwasmiddel 1 L",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.16,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-1bda-08d703a97aa2\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwAtDAjXzO0ZFg.670x670.jpg",
+    "source": "Jumbo.com"
+}

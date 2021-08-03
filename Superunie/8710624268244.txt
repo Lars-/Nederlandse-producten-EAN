@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624268244",
+    "name": "g'woon Zilvervliesrijst",
+    "description": "g'woon Zilvervliesrijst 400 gram",
+    "manufacturer": "Mediterranean Food Labels B.V.",
+    "available": true,
+    "price": 0.75,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/adb90000-ff55-0003-b2d0-08d6539329d1\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA2eSf-AwA4sQjYhfZvWA.670x670.jpg",
+    "source": "Jumbo.com"
+}

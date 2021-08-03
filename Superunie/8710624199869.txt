@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624199869",
+    "name": "Sum & Sam Sambal Badjak",
+    "description": "Sum & Sam Sambal Badjak 200 gr",
+    "manufacturer": "Sum & Sam",
+    "available": true,
+    "price": 1.29,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7d7a2f52-c4a5-4c14-9fc1-ec5d6bc23a78\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADsFEH-AwD_ugjTyoowig.670x670.jpg",
+    "source": "Jumbo.com"
+}

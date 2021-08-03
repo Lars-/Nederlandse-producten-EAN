@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624274221",
+    "name": "g'woon Kersen zonder pit op siroop",
+    "description": "g'woon Kersen zonder pit op siroop 340g",
+    "manufacturer": "Greenyard Prepared Belgium NV",
+    "available": true,
+    "price": 0.96,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/62160000-5d4a-0015-1965-08d61cb5035e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAcUgjYLfZxuQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

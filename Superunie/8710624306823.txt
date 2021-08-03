@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624306823",
+    "name": "g'woon\u00a0Dolce Gusto cups caf\u00e9 au lait",
+    "description": "g'woon\u00a0Dulce Gusto cups caf\u00e9 au lait",
+    "manufacturer": "UCC Coffee Benelux B.V.",
+    "available": true,
+    "price": 3.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4e750000-ff27-0003-ed76-08d7cf338b1b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwClKwjYQyv1lA.670x670.jpg",
+    "source": "Jumbo.com"
+}

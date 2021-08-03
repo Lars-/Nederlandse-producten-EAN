@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624265465",
+    "name": "g'woon Krulchips naturel",
+    "description": "g'woon Krulchips naturel 110gr",
+    "manufacturer": "Intersnack Nederland B.V.",
+    "available": true,
+    "price": 0.69,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/e5e60000-ff55-0003-a2fa-08d5eb24e57a\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAeMwjYLfXuUQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

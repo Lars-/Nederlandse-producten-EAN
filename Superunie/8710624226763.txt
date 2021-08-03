@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624226763",
+    "name": "Paco Snelfilterkoffie rood",
+    "description": "Paco Snelfilterkoffie rood",
+    "manufacturer": "UCC Coffee Benelux B.V.",
+    "available": true,
+    "price": 1.89,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4e750000-ff27-0003-aaa8-08d7d4b5d608\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB1Tif-AwD3swjX23HK7w.670x670.jpg",
+    "source": "Jumbo.com"
+}

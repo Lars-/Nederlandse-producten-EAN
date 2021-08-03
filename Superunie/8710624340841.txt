@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624340841",
+    "name": "Vismarine Cocktail garnalen",
+    "description": "Vismarine Cocktail garnalen",
+    "manufacturer": "Heveck VriesVers B.V.",
+    "available": true,
+    "price": 6.12,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-e60b-08d8f2c37c5a\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwC3kgjZBuY_iw.670x670.jpg",
+    "source": "Jumbo.com"
+}

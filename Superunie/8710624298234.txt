@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624298234",
+    "name": "g'woon Slagroomijs banana split",
+    "description": "g'woon roomijs banana split 900ml",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 2.77,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-a7c5-08d74b2e28d9\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAiHwjYLfdvEA.670x670.jpg",
+    "source": "Jumbo.com"
+}

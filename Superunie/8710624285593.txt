@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624285593",
+    "name": "Surango Multivitamine",
+    "description": "Surango Multivitamine 1,5L PK",
+    "manufacturer": "Riedel Bv",
+    "available": true,
+    "price": 1.19,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-18c1-08d6c7e7b8bc\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwDDxQjXzO0-sg.670x670.jpg",
+    "source": "Jumbo.com"
+}

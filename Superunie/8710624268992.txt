@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624268992",
+    "name": "g'woon Mini penne volkoren",
+    "description": "g'woon Mini penne volkoren 500gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-ada6-08d6ac4a1cea\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCMXgjYLfYqgg.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624323622",
+    "name": "Zuivelmeester Volle yoghurt",
+    "description": "Zuivelmeester Volle yoghurt",
+    "manufacturer": "Friesland Campina PL Dairy",
+    "available": true,
+    "price": 0.95,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7b3b0000-ff27-0003-b9ad-08d858ad9703\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwDo1gjZKkLriw.670x670.jpg",
+    "source": "Jumbo.com"
+}

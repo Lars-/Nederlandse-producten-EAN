@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624264789",
+    "name": "g'woon Stortbakblok",
+    "description": "g'woon Oceaan Stortbakblokken 2 x 50 g",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.05,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/9e560000-ffdf-0003-5031-08d5cd368537\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCjnAjYLfXesw.670x670.jpg",
+    "source": "Jumbo.com"
+}

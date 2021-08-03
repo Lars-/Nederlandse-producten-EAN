@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624217990",
+    "name": "g'woon Hagelslag melk",
+    "description": "g'woon Melk Hagelslag UTZ 400gr",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.69,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/0f7e0000-ff41-0003-9ed9-08d3fcba7ce4\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCTGQjYLfTyiA.670x670.jpg",
+    "source": "Jumbo.com"
+}

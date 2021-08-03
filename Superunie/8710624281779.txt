@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624281779",
+    "name": "g'woon Sinaasappel vanille ijsjes",
+    "description": "g'woon 10 Sinas Vanille IJsjes",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-dca7-08d6b6af4656\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCQ4AjYLfbT5w.670x670.jpg",
+    "source": "Jumbo.com"
+}

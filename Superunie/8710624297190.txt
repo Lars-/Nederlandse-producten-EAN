@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624297190",
+    "name": "g'woon Natuurazijn wit",
+    "description": "g'woon Natuurazijn wit 1,5L",
+    "manufacturer": "De Burg B.V.",
+    "available": true,
+    "price": 0.54,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-abe4-08d73aac4aba\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCJSwjYLfdj9Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

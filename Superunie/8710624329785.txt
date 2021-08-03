@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624329785",
+    "name": "g'woon Bokkenpootjes",
+    "description": "g'woon Bokkenpootjes 200 g",
+    "manufacturer": "Aviateur Banketbakkerijen B.V.",
+    "available": true,
+    "price": 1.29,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/29b50000-ff27-0003-52a0-08d8a04d2b78\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwDiDgjZNUMPBg.670x670.jpg",
+    "source": "Jumbo.com"
+}

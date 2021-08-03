@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624267940",
+    "name": "g'woon Brosse breker",
+    "description": "g'woon Brosse brekers 125gr",
+    "manufacturer": "Intersnack Nederland B.V.",
+    "available": true,
+    "price": 0.95,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6e790000-ff4b-0003-676e-08d67491e739\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBZZgjYLfYU_g.670x670.jpg",
+    "source": "Jumbo.com"
+}

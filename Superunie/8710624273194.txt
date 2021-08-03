@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624273194",
+    "name": "g'woon Biologische pedaalemmerzakken 20 liter",
+    "description": "g\u2019woon bio pedaalemmerzakken 20L 10 st.",
+    "manufacturer": "Pack-It B.V.",
+    "available": true,
+    "price": 1.49,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-5eff-08d69035988b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDlQAjYLfZjEw.670x670.jpg",
+    "source": "Jumbo.com"
+}

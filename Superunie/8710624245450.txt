@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624245450",
+    "name": "g'woon soepballetjes",
+    "description": "g'woon Soepballetjes Beter Leven 1* 200gr Blik",
+    "manufacturer": "Zwanenberg Food Group B.V.",
+    "available": true,
+    "price": 0.85,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/d06e0000-ffdf-0003-c4d3-08d5d071e6af\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDRdgjYLfVCng.670x670.jpg",
+    "source": "Jumbo.com"
+}

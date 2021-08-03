@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624293796",
+    "name": "g'woon Ijsthee koolzuurhoudend",
+    "description": "g'woon Ijsthee koolzuurhoudend",
+    "manufacturer": "Refresco B.V.",
+    "available": true,
+    "price": 0.55,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5a120000-ff27-0003-ed00-08d771ac25d5\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDrfAjYLfdMvQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

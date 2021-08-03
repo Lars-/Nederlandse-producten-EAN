@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624333171",
+    "name": "g'woon Koffie wafels",
+    "description": "g'woon Koffie wafels",
+    "manufacturer": "Helwa Wafelbakkerij B.V.",
+    "available": true,
+    "price": 1.16,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-aef9-08d8cce78a85\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwCOaAjY80FDOA.670x670.jpg",
+    "source": "Jumbo.com"
+}

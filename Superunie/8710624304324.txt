@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624304324",
+    "name": "Wortelen bio",
+    "description": "Wortelen bio",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 1.49,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4e750000-ff27-0003-72e9-08d7d4b61900\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA2eSf-AwDQiwjYdj8U9w.670x670.jpg",
+    "source": "Jumbo.com"
+}

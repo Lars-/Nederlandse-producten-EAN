@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624267841",
+    "name": "g'woon Mix voor kerriesaus",
+    "description": "g'woon Droge mix voor Kerrie saus 12x28g",
+    "manufacturer": "Inproba BV",
+    "available": true,
+    "price": 0.64,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-f5e7-08d60131ec2b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwAOrwjYSKuTiQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624200787",
+    "name": "Melkan Halfvolle koffiemelk cups",
+    "description": "melkan Koffiemelk 4% 10x7,5gr Multi-Pack",
+    "manufacturer": "Frieslandcampina N.V.",
+    "available": true,
+    "price": 0.38,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/b8023b24-64c6-4d22-b94e-e4b52e530dfa\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwDZjgjYQyvFOw.670x670.jpg",
+    "source": "Jumbo.com"
+}

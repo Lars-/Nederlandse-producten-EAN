@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624276461",
+    "name": "g'woon Halve perziken op siroop",
+    "description": "g'woon halve perziken op siroop 410 g blik",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.11,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/62160000-5d4a-0015-31e5-08d61cb50410\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwC5LgjYLfaqdg.670x670.jpg",
+    "source": "Jumbo.com"
+}

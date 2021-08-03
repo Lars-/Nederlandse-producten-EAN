@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624299842",
+    "name": "Bandero Mexican style dipsaus",
+    "description": "Bandero Mexican style dipsaus",
+    "manufacturer": "Greenyard Prepared Belgium NV",
+    "available": true,
+    "price": 1.09,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-e63d-08d7669a6d3a\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAcGwjYLfeDGA.670x670.jpg",
+    "source": "Jumbo.com"
+}

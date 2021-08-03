@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624265717",
+    "name": "g'woon zoute sticks",
+    "description": "g'woon zoute sticks 250gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.46,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-8e10-08d5f6b9b0d6\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDNqAjYLfXvTw.670x670.jpg",
+    "source": "Jumbo.com"
+}

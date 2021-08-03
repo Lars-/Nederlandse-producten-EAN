@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624247966",
+    "name": "g'woon Siroop aardbei",
+    "description": "g'woon Siroop 80% Fruit Aardbei 750ml Fles",
+    "manufacturer": "Burg Ter Aar B.V.",
+    "available": true,
+    "price": 2.19,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/c6780000-ffdf-0003-2eda-08d5932aab58\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwCs8QjZFEITSg.670x670.jpg",
+    "source": "Jumbo.com"
+}

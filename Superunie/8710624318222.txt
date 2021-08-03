@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624318222",
+    "name": "g'woon Brok premium adult hond",
+    "description": "g'woon Brok premium adult hond",
+    "manufacturer": "Partner In Pet Food Nl B.V.",
+    "available": true,
+    "price": 5.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/505b0000-ff27-0003-6ffc-08d832339215\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwAalAjYSKuWkw.670x670.jpg",
+    "source": "Jumbo.com"
+}

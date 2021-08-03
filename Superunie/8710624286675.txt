@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624286675",
+    "name": "g'woon Oven bamischijven",
+    "description": "g'woon bamischijf oven 4 st.",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 3.19,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-c2b2-08d70ea7f382\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCB0QjYLfb5Rg.670x670.jpg",
+    "source": "Jumbo.com"
+}

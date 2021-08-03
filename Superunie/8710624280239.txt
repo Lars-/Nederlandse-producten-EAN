@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624280239",
+    "name": "Bonb\u00e9b\u00e9 Babydoekjes 0% sensitive",
+    "description": "Bonbeb\u00e9",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.9,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-4fce-08d74591066e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwATngjXzO00mA.670x670.jpg",
+    "source": "Jumbo.com"
+}

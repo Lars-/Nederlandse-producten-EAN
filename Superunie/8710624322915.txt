@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624322915",
+    "name": "Melkan Plantaardige topping soja",
+    "description": "Melkan Plantaardige topping soja",
+    "manufacturer": "Bieze Food Group BV",
+    "available": true,
+    "price": 1.59,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7b3b0000-ff27-0003-66c1-08d864470013\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA2eSf-AwA1rgjYlb8pGA.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624753757",
+    "name": "Uienringen",
+    "description": "Unbranded Uien ringen 300 GRM VERPAKT",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 1.99,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/1ecd0000-ff41-0003-c170-08d4961f781e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwABUAjYz_TE3w.670x670.jpg",
+    "source": "Jumbo.com"
+}

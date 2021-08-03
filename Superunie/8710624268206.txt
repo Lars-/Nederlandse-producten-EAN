@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624268206",
+    "name": "g'woon Snelkookrijst",
+    "description": "g'woon Witte rijst 1000 gram",
+    "manufacturer": "Mediterranean Food Labels B.V.",
+    "available": true,
+    "price": 1.35,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/03e50000-ff8a-0003-55a3-08d63da6f589\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA2eSf-AwDBdwjYhfZvXg.670x670.jpg",
+    "source": "Jumbo.com"
+}

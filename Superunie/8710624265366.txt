@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624265366",
+    "name": "g'woon Kaaskoekjes assorti",
+    "description": "g'woon Kaaskoekjes Assorti 100gr",
+    "manufacturer": "De Kroes Toeleveringsbedrijven B.V.",
+    "available": true,
+    "price": 1.49,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/f4d20000-ff88-0003-0730-08d638291e93\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCiMAjYLfXujg.670x670.jpg",
+    "source": "Jumbo.com"
+}

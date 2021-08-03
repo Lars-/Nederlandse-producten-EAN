@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624345365",
+    "name": "g'woon Koffie dark XXL espressobonen",
+    "description": "g'woon Koffie dark XXL espressobonen",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 9.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": null,
+    "source": "Jumbo.com"
+}

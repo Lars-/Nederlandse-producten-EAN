@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624293222",
+    "name": "Bio+ Penne volkoren",
+    "description": "Bio+ Penne volkoren 500gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.89,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-7bb8-08d73534c317\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwBJ_AjZSOhNOg.670x670.jpg",
+    "source": "Jumbo.com"
+}

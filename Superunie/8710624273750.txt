@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624273750",
+    "name": "g'woon Sperziebonen heel",
+    "description": "g'woon Sperziebonen heel 800g",
+    "manufacturer": "Greenyard Prepared Belgium NV",
+    "available": true,
+    "price": 1.39,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f960000-ff76-0003-5527-08d664253e04\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwB1ywjYLfZqew.670x670.jpg",
+    "source": "Jumbo.com"
+}

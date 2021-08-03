@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624222253",
+    "name": "g'woon Water & fruit bosvruchten",
+    "description": "g'woon Water En Fruit Bosvruchten 1,5l",
+    "manufacturer": "Menken Drinks B.V.",
+    "available": true,
+    "price": 1.29,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/005f0000-ff41-0003-d211-08d486573447\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBNeQjYLfUDVQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

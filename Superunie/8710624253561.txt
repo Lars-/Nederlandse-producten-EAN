@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624253561",
+    "name": "Daily Chef Sperziebonen slavink en aardappelen",
+    "description": "daily CHEF Sperziebonen Met Slavink En Krieltjes 500gr",
+    "manufacturer": "Bonfait B.V.",
+    "available": true,
+    "price": 4.62,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/e39c0000-ffdf-0003-9b2e-08d5a929cbee\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwBkSgjZCUHe0g.670x670.jpg",
+    "source": "Jumbo.com"
+}

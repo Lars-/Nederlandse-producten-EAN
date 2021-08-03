@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624347406",
+    "name": "g'woon Maishoorntjes nacho cheese",
+    "description": "g'woon Ma\u00efshoorntjes Nacho Cheese 150 g",
+    "manufacturer": "Intersnack Nederland B.V.",
+    "available": true,
+    "price": 0.96,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/734a0000-ff27-0003-2220-08d92f3d9482\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwBKGwjZQEN4uw.670x670.jpg",
+    "source": "Jumbo.com"
+}

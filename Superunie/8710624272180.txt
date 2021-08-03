@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624272180",
+    "name": "g'woon Spinazie fijn gehakt",
+    "description": "G'woon Gehakte spinazie, diepvries 750 GRM Doos",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 0.83,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/41db0000-ff8a-0003-7f5f-08d6283d8cf3\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAKxAjYLfZZOQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

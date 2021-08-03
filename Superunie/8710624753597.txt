@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624753597",
+    "name": "Geschrapte worteltjes",
+    "description": "Unbranded Geschrapte worteltjes 300 GRM VERPAKT",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 1,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2fe20000-ff41-0003-d604-08d4a6a19931\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwCP_gjYz_S-iA.670x670.jpg",
+    "source": "Jumbo.com"
+}

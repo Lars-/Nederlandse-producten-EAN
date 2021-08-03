@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624291983",
+    "name": "g'woon Groentjes",
+    "description": "g'woon Groentjes 400gr",
+    "manufacturer": "Continental Candy Industries BV",
+    "available": true,
+    "price": 2.47,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-f396-08d6e8cd3aeb\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwC9pgjYQyvwIw.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624253783",
+    "name": "Daily Chef Hutspot met runderlap",
+    "description": "daily CHEF Hutspot Met Runderlapje 500gr",
+    "manufacturer": "Bonfait B.V.",
+    "available": true,
+    "price": 3.75,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/e39c0000-ffdf-0003-a631-08d5a929cbf3\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwDpuwjZCUHg3Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

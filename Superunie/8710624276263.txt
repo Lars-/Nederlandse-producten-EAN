@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624276263",
+    "name": "Bio+ Zalmfilet",
+    "description": "Bio+ Zalmfilet op huid 2x100gr",
+    "manufacturer": "Heveck VriesVers B.V.",
+    "available": true,
+    "price": 4.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-034e-08d72a2603cf\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwB-iQjYLfamMA.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624319328",
+    "name": "Vismarine Pangasiusfilet tomaat\/thijm",
+    "description": "Vismarine Pangasiusfilet tomaat\/thijm",
+    "manufacturer": "Profish Food B.V.",
+    "available": true,
+    "price": 5.1,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3b020000-ff27-0003-3ccd-08d82d4f488b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADyPCf-AwCzDwjYPasQ3w.670x670.jpg",
+    "source": "Jumbo.com"
+}

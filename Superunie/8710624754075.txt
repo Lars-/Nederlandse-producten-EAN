@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624754075",
+    "name": "IJsbergsla melange",
+    "description": "Unbranded Gemengde ijsbergsla 200 GRM VERPAKT",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 1.19,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2fe20000-ff41-0003-000c-08d4a6a19821\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAAZPSf-AwAopgjYx0-eNw.670x670.jpg",
+    "source": "Jumbo.com"
+}

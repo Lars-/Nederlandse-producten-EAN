@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624343330",
+    "name": "g'woon Sinas",
+    "description": "g'woon Sinas",
+    "manufacturer": "United Soft Drinks B.V.",
+    "available": true,
+    "price": 1.65,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/734a0000-ff27-0003-7ee2-08d9354df26f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwAfJgjZNtVcAg.670x670.jpg",
+    "source": "Jumbo.com"
+}

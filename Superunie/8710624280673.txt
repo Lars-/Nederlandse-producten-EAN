@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624280673",
+    "name": "g'woon Oploskoffie",
+    "description": "g'woon Oploskoffie Roodmerk 200gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 2.29,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-6410-08d6c7e7a386\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwCcVwjYQ-TgLg.670x670.jpg",
+    "source": "Jumbo.com"
+}

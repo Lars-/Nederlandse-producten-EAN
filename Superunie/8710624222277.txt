@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624222277",
+    "name": "g'woon Appelsap pak 6 x 20 cl",
+    "description": "g'woon Appelsap 6x0,2l",
+    "manufacturer": "Menken Drinks B.V.",
+    "available": true,
+    "price": 1.08,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/20820000-ff41-0003-0b75-08d4608dbb29\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCDHAjYLfUEIA.670x670.jpg",
+    "source": "Jumbo.com"
+}

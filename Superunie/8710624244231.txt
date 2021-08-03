@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624244231",
+    "name": "g'woon Knakworsten mager",
+    "description": "g'woon Magere Knakworsten 400gr",
+    "manufacturer": "Zwanenberg Food Group B.V.",
+    "available": true,
+    "price": 1.09,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/207e0000-ff41-0003-5321-08d4f914ad6a\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwC3oQjYLfU4Dw.670x670.jpg",
+    "source": "Jumbo.com"
+}

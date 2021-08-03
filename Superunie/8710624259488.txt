@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624259488",
+    "name": "Kwini Vanille aardbei ijs",
+    "description": "Kwini Vanille aardbei ijs",
+    "manufacturer": "Heveck VriesVers B.V.",
+    "available": true,
+    "price": 1.35,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-e647-08d76c400ca8\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwAmCQjXzO0nBQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

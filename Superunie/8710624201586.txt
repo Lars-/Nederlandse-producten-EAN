@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624201586",
+    "name": "Sum & Sam Indonesische Sat\u00e9saus mix",
+    "description": "Sum & Sam Mix voor Sat\u00e9saus 68 gr",
+    "manufacturer": "Inproba BV",
+    "available": true,
+    "price": 0.54,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/e9442ab1-7a5d-4216-b595-213a253a30cb\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBo5gjYLfTg-A.670x670.jpg",
+    "source": "Jumbo.com"
+}

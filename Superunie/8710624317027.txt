@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624317027",
+    "name": "Melkan Houdbare melk halfvol",
+    "description": "Melkan Houdbare melk halfvol",
+    "manufacturer": "Globemilk B.V.",
+    "available": true,
+    "price": 5.89,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3cf20000-ff27-0003-659f-08d837a7d5c5\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA57sc3R366GwjZNwxepQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

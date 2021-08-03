@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624336035",
+    "name": "g'woon Brownie cakejes",
+    "description": "g'woon Brownie cakejes",
+    "manufacturer": "Aviateur Banketbakkerijen B.V.",
+    "available": true,
+    "price": 1.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6d780000-ff27-0003-5915-08d90e45aa1f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwCScAjZDsH23w.670x670.jpg",
+    "source": "Jumbo.com"
+}

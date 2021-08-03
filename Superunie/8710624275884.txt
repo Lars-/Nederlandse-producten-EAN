@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624275884",
+    "name": "g'woon Linzen",
+    "description": "g'woon Linzen",
+    "manufacturer": "Coroos Conserven B.V.",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6e790000-ff4b-0003-0d97-08d67491e851\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBEJgjYLfafKA.670x670.jpg",
+    "source": "Jumbo.com"
+}

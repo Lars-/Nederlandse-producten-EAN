@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624200572",
+    "name": "Sum & Sam Mihoen",
+    "description": "Sum & Sam Mihoen 250gr",
+    "manufacturer": "Sum & Sam",
+    "available": true,
+    "price": 0.91,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3cd90992-b026-4d13-bf86-9990615bb097\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAX-gjYLfTaZg.670x670.jpg",
+    "source": "Jumbo.com"
+}

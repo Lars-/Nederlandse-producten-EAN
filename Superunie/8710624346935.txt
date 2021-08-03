@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624346935",
+    "name": "g'woon Pandanrijst",
+    "description": "g'woon Plakkerige Rijst Voordeel 1000 g",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 2.19,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6d780000-ff27-0003-eddb-08d9032a2443\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwDisQjZNUMQYA.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624291181",
+    "name": "g'woon Vruchtenhartjes",
+    "description": "g'woon Vruchtenhartjes 300gr",
+    "manufacturer": "Fortuin Dockum B.V.",
+    "available": true,
+    "price": 0.83,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-423d-08d6ee7fd723\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwAHPAjYQyvvxQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

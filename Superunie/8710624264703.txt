@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624264703",
+    "name": "g'woon Toiletblok navul lavendel",
+    "description": "g'woon Lavendel Toiletblok 2 x 40 g",
+    "manufacturer": "Benckmar B.V.",
+    "available": true,
+    "price": 1.04,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afd70000-ff55-0003-ea91-08d5e0bda9e9\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCpbAjYLfXc7w.670x670.jpg",
+    "source": "Jumbo.com"
+}

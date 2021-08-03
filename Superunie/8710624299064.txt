@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624299064",
+    "name": "Melkan Perzik abrikoos drank",
+    "description": "Melkan Perzik abrikoos drank",
+    "manufacturer": "Vecozuivel BV",
+    "available": true,
+    "price": 0.79,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-e85b-08d7ae304041\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDxIQjYLfd3hQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

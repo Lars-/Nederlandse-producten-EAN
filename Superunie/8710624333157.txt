@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624333157",
+    "name": "g'woon Java wafels",
+    "description": "g'woon Java wafels",
+    "manufacturer": "Helwa Wafelbakkerij B.V.",
+    "available": true,
+    "price": 0.89,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-393d-08d8cce78a7f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwB3vwjY_YqjNg.670x670.jpg",
+    "source": "Jumbo.com"
+}

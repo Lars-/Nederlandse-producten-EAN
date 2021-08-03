@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624234102",
+    "name": "g'woon Olijfolie extra vierge",
+    "description": "g'woon olijfolie extra vierge 500ml",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 2.79,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/0db40000-ff41-0003-db4d-08d4ee14be58\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBAhAjYLfUb9w.670x670.jpg",
+    "source": "Jumbo.com"
+}

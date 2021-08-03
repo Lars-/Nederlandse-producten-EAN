@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624333119",
+    "name": "g'woon Advocaat Spritsen",
+    "description": "g'woon Advocaat Spritsen",
+    "manufacturer": "Banketbakkerij Merba B.V.",
+    "available": true,
+    "price": 1.29,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/29b50000-ff27-0003-ae4d-08d8a04dbb6d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwBqzQjY7cET4Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

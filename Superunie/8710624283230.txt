@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624283230",
+    "name": "g'woon Kandijkoeken",
+    "description": "G'woon kandijsuikerkoek flowpack 260 Gram",
+    "manufacturer": "Continental Bakeries B.V.",
+    "available": true,
+    "price": 0.79,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-77ea-08d6ac4a01a0\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwB0-AjYQ-TlCg.670x670.jpg",
+    "source": "Jumbo.com"
+}

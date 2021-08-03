@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624306984",
+    "name": "g'woon Espresso intens",
+    "description": "g'woon Espresso intens",
+    "manufacturer": "Delica AG",
+    "available": true,
+    "price": 7.29,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5fe10000-ff27-0003-734e-08d8482c880c\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwCqUgjYSKuUhQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

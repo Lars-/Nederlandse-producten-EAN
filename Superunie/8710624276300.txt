@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624276300",
+    "name": "g'woon Tintelfruit appel bosvruchten 6 x 20 cl",
+    "description": "g'woon tintelend met appel en bosvruchten 6x200ml",
+    "manufacturer": "Refresco B.V.",
+    "available": true,
+    "price": 1.05,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6e790000-ff4b-0003-4c05-08d6852799f6\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCL_QjYLfancQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

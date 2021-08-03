@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624297978",
+    "name": "g'woon IJsstam vanillesmaak",
+    "description": "g'woon IJsstam vanillesmaak",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.29,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7b3b0000-ff27-0003-34ba-08d85e3f266e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA7eyf-AwB7FAjYXqwhvA.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624304263",
+    "name": "Bio+ Rucola biologisch",
+    "description": "Bio+ Rucola biologisch",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 1.25,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-4ad5-08d8f8fec144\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwBiVAjY-kGEXA.670x670.jpg",
+    "source": "Jumbo.com"
+}

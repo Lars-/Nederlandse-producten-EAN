@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624284572",
+    "name": "Melkan Jong belegen 48+ komijn kaas plakken",
+    "description": "Melkan Kaas 48+ met komijn Gouda Jong belegen WGM Plakken 190g",
+    "manufacturer": "Vergeer Holland",
+    "available": true,
+    "price": 2.14,
+    "minimumAmount": 1,
+    "maximumAmount": 10,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-2d5c-08d703a9756e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwB-MAjYLfbmPg.670x670.jpg",
+    "source": "Jumbo.com"
+}

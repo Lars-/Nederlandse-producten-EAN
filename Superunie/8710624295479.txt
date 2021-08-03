@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624295479",
+    "name": "Bio+ Biologische roomboter",
+    "description": "Bio+ Roomboter ongezouten 250gr",
+    "manufacturer": "Vecozuivel BV",
+    "available": true,
+    "price": 2.55,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-3209-08d756bdb442\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBMXgjYLfdZIg.670x670.jpg",
+    "source": "Jumbo.com"
+}

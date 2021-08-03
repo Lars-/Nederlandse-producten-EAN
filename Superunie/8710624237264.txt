@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624237264",
+    "name": "g'woon Rode wijnazijn",
+    "description": "g'woon rode wijnazijn 250ml",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.94,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/31fb0000-ff41-0003-ae73-08d4cd145f51\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCWpQjYLfUmhA.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624231644",
+    "name": "Melkan Koffieroom",
+    "description": "Melkan koffie room weidemelk 187gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.15,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2fe20000-ff41-0003-615b-08d4acdf2b49\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwD1nQjYQ-TOMw.670x670.jpg",
+    "source": "Jumbo.com"
+}

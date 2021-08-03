@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624334383",
+    "name": "g'woon Pindakoeken",
+    "description": "g'woon Pindakoeken",
+    "manufacturer": "Hellema-Hallum B.V.",
+    "available": true,
+    "price": 1.19,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3d190000-ff27-0003-c4cb-08d8bc62040c\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwDCOwjY_YqjyQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

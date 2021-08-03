@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624284336",
+    "name": "Melkan Jong belegen geitenkaas plakken",
+    "description": "Melkan Kaas Geitenkaas Plakken 150g",
+    "manufacturer": "Vergeer Holland",
+    "available": true,
+    "price": 2.64,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-6a70-08d6f32db7fb\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDwvwjYLfbmag.670x670.jpg",
+    "source": "Jumbo.com"
+}

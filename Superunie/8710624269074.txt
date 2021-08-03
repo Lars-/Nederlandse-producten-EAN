@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624269074",
+    "name": "g'woon Ananasschijven op siroop",
+    "description": "g'woon Ananasschijven op siroop",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.49,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-aa8f-08d606a08f41\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwD1XgjYLfYqvw.670x670.jpg",
+    "source": "Jumbo.com"
+}

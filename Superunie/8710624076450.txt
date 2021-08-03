@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624076450",
+    "name": "Qu\u00e9 Mas Sauvignon blanc",
+    "description": "Que Mas Sauvignon Blanc",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 2.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/8d872693-db02-4d68-b619-d426369adb34\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwC5wAjXzO0CMw.670x670.jpg",
+    "source": "Jumbo.com"
+}

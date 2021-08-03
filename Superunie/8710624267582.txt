@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624267582",
+    "name": "g'woon Jus naturel",
+    "description": "g'woon jus naturel 3 x 29 gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.71,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-50f0-08d5fb99de9e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCN1wjYLfYMjw.670x670.jpg",
+    "source": "Jumbo.com"
+}

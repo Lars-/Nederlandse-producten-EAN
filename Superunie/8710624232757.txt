@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624232757",
+    "name": "Slagerskwaliteit Kipreepjes",
+    "description": "Slagers KWALITEIT Kipreepjes Beter Leven",
+    "manufacturer": "Zandvliet Vleeswaren B.V.",
+    "available": true,
+    "price": 1.94,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/20820000-ff41-0003-f661-08d4608dc8a3\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwD_gAjXzO0jlg.670x670.jpg",
+    "source": "Jumbo.com"
+}

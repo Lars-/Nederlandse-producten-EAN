@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624335717",
+    "name": "g'woon Stroopwafel minder suiker",
+    "description": "g'woon Stroopwafel minder suiker",
+    "manufacturer": "De Banketgroep B.V.",
+    "available": true,
+    "price": 2.09,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/29b50000-ff27-0003-eeae-08d8a04daaca\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwAs_gjY__YMTw.670x670.jpg",
+    "source": "Jumbo.com"
+}

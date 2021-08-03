@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624247201",
+    "name": "g'woon oven mini loempia's",
+    "description": "g'woon Oven Mini Loempia's 15x20gr",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.24,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/d22b0000-ffdf-0003-f021-08d5ae9cb6b9\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDcoQjYLfVcoQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

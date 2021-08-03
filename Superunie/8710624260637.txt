@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624260637",
+    "name": "g'woon Gemberkoek ongesneden",
+    "description": "g'woon Gemberkoek Ongesneden 475gr",
+    "manufacturer": "Continental Bakeries B.V.",
+    "available": true,
+    "price": 1.01,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/9e560000-ffdf-0003-9500-08d5cd3651f5\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwCJ7QjYQyvXeg.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624241155",
+    "name": "g'woon Bockworsten 4 stuks",
+    "description": "g'woon bockworst 4 st.",
+    "manufacturer": "Zwanenberg Food Group B.V.",
+    "available": true,
+    "price": 1.75,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/05db0000-ff41-0003-0c64-08d50428697a\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCX6gjYLfUzFw.670x670.jpg",
+    "source": "Jumbo.com"
+}

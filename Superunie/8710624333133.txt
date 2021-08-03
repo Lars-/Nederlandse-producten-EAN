@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624333133",
+    "name": "g'woon Romboter kletsmajoors",
+    "description": "g'woon Romboter kletsmajoors",
+    "manufacturer": "Banketbakkerij Merba B.V.",
+    "available": true,
+    "price": 1.69,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/29b50000-ff27-0003-a496-08d8a04dba8a\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwAMPgjY6EDsTg.670x670.jpg",
+    "source": "Jumbo.com"
+}

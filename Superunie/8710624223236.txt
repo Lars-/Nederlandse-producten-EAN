@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624223236",
+    "name": "g'woon Sandwich spread naturel",
+    "description": "g'woon Groentespread Sandwich Salade Naturel 515gr",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.49,
+    "minimumAmount": 1,
+    "maximumAmount": 10,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/0f7e0000-ff41-0003-1ff2-08d3fcba820e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwA5tAjYLfUGmA.670x670.jpg",
+    "source": "Jumbo.com"
+}

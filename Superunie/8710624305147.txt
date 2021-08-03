@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624305147",
+    "name": "g'woon Waldkornbol 2 stuks",
+    "description": "g'woon Waldkornbol 2 stuks",
+    "manufacturer": "Schapendonk Dutch Bakery B.V.",
+    "available": true,
+    "price": 1.09,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-c37f-08d7b3a27877\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBT1gjYLfexig.670x670.jpg",
+    "source": "Jumbo.com"
+}

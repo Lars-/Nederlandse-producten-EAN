@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624264963",
+    "name": "g'woon Champignonragout",
+    "description": "g'woon Champignonragout 400gr",
+    "manufacturer": "Larco Foods B.V.",
+    "available": true,
+    "price": 1.35,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-2672-08d5f6b9a000\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAyUwjYLfXjKA.670x670.jpg",
+    "source": "Jumbo.com"
+}

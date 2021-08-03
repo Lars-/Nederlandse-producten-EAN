@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624267865",
+    "name": "g'woon Mix voor roomsaus",
+    "description": "g'woon Droge mix voor Roomsaus 12x46g",
+    "manufacturer": "Inproba BV",
+    "available": true,
+    "price": 0.64,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-9f81-08d60131fd59\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBhZwjYLfYTcw.670x670.jpg",
+    "source": "Jumbo.com"
+}

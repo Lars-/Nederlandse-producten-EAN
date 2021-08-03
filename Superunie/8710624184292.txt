@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624184292",
+    "name": "Landhof Houdbare volle melk",
+    "description": "Landhof volle melk 1 liter",
+    "manufacturer": "LANDHOF EIEREN B.V.",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/182aec87-41ad-4f3d-b429-52b06267a6ed\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwCzmAjXzO0Q7Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

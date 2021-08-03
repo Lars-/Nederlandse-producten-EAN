@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624248185",
+    "name": "g'woon Siroop bosvruchten 0%",
+    "description": "g'woon Siroop 80% Fruit 0% Suiker Toegevoegd Bosvruchten 750ml Fles",
+    "manufacturer": "Burg Ter Aar B.V.",
+    "available": true,
+    "price": 2.29,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afd70000-ff55-0003-eedf-08d5e0bda93b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwCbtwjZFEIT5A.670x670.jpg",
+    "source": "Jumbo.com"
+}

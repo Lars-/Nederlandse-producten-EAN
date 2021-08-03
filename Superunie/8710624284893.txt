@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624284893",
+    "name": "Melkan Geraspte kaas jong belegen 48+ voordeel",
+    "description": "Melkan Geraspte kaas jong belegen 48+ voordeel",
+    "manufacturer": "Vergeer Holland",
+    "available": true,
+    "price": 3.49,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-613f-08d8e2ea9c9e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwCMYAjY44n3Fg.670x670.jpg",
+    "source": "Jumbo.com"
+}

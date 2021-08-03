@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624288310",
+    "name": "g'woon Honing drop",
+    "description": "g'woon Honing drop 400gr",
+    "manufacturer": "Continental Candy Industries BV",
+    "available": true,
+    "price": 1.32,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-43da-08d6ee7fdc04\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwC5XQjYQyvqfw.670x670.jpg",
+    "source": "Jumbo.com"
+}

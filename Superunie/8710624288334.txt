@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624288334",
+    "name": "g'woon Munt drop",
+    "description": "g'woon Munt drop 400gr",
+    "manufacturer": "Continental Candy Industries BV",
+    "available": true,
+    "price": 1.27,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-30a5-08d6ee7fdb44\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwB-lQjYQyvqig.670x670.jpg",
+    "source": "Jumbo.com"
+}

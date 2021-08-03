@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624331436",
+    "name": "g'woon Amandel tongen",
+    "description": "g'woon Amandel tongen",
+    "manufacturer": "Euro P\u00e2tisserie Producties-Twello B.V.",
+    "available": true,
+    "price": 1.79,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-05d6-08d8cce78a49\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwAJwgjY_Yqijg.670x670.jpg",
+    "source": "Jumbo.com"
+}

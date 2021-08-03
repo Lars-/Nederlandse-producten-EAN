@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624255404",
+    "name": "g'woon regenboogijsjes",
+    "description": "g'woon Regenboogijsjes 8st",
+    "manufacturer": "Heveck VriesVers B.V.",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/ddd50000-ffdf-0003-96a1-08d5b9aa792c\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwC03gjYLfWOtQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

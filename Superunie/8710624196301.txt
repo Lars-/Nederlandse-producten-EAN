@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624196301",
+    "name": "New way discreet mini 20 stuks",
+    "description": "NewWay discreet mini 20st",
+    "manufacturer": "Ontex International",
+    "available": true,
+    "price": 2.49,
+    "minimumAmount": 1,
+    "maximumAmount": 10,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6df7d1c7-a9ac-430b-bf1d-a47f6ccfe81c\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwBv1gjXzO0TlQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

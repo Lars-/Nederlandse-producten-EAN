@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624234294",
+    "name": "g'woon Aardappelpartjes",
+    "description": "g'woon voorgebakken aardappelpartjes 600 gr",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 0.74,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/11310000-ff41-0003-7456-08d4d80fdba3\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDnNwjYLfUcFw.670x670.jpg",
+    "source": "Jumbo.com"
+}

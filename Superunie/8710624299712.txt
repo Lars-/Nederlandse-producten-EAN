@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624299712",
+    "name": "g'woon Schuurmiddel citroen",
+    "description": "g'woon Schuurmiddel Citroen 750 ml",
+    "manufacturer": "Mc Bride\/Grada B.V.",
+    "available": true,
+    "price": 0.68,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-5b1d-08d74b2e2a21\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAiRQjYLfeChg.670x670.jpg",
+    "source": "Jumbo.com"
+}

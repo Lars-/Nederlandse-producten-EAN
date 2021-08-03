@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624256326",
+    "name": "g'woon Kattenvoer brokjes met rund",
+    "description": "g'woon adult droge brokjes met rund 2kg",
+    "manufacturer": "Partner In Pet Food Nl B.V.",
+    "available": true,
+    "price": 2.29,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/a3870000-ffdf-0003-7917-08d58da29f36\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwA_KAjYQyvU3g.670x670.jpg",
+    "source": "Jumbo.com"
+}

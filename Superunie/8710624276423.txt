@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624276423",
+    "name": "g'woon Tintelfruit sinaasappel mandarijn",
+    "description": "g'woon tintelend met mandarijn en sinaasappel 1,5L",
+    "manufacturer": "Refresco B.V.",
+    "available": true,
+    "price": 0.69,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6e790000-ff4b-0003-81b5-08d67fba60ec\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAmbgjYLfasPA.670x670.jpg",
+    "source": "Jumbo.com"
+}

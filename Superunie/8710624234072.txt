@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624234072",
+    "name": "g'woon Olijfolie traditioneel",
+    "description": "g'woon olijfolie traditioneel 500ml",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 3.59,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/0db40000-ff41-0003-e817-08d4ee14be2a\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBlGAjYLfUb9w.670x670.jpg",
+    "source": "Jumbo.com"
+}

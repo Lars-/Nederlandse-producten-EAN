@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624273354",
+    "name": "g'woon Aluminiumfolie 30 meter",
+    "description": "Aluminiumfolie g'woon 30m",
+    "manufacturer": "ITS B.V.",
+    "available": true,
+    "price": 1.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-10b0-08d69035950b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBKyAjYLfZkYg.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624296971",
+    "name": "g'woon Keukenpapier 3-laags decor",
+    "description": "g'woon Keukenpapier 3-laags decor",
+    "manufacturer": "Wepa Papierfabriek",
+    "available": true,
+    "price": 3.5,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-ddf8-08d7b3a28586\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCsgAjYLfdjYg.670x670.jpg",
+    "source": "Jumbo.com"
+}

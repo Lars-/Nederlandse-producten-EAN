@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624329242",
+    "name": "g'woon Strooi speculaas",
+    "description": "g'woon Strooi speculaas",
+    "manufacturer": "Bolletje B.V.",
+    "available": true,
+    "price": 1.08,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5fe10000-ff27-0003-dd05-08d8482c9996\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA2eSf-AwB4TQjYei0MaQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

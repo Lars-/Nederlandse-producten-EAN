@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624514013",
+    "name": "Melkan demi cr\u00e8me fra\u00eeche",
+    "description": "melkan Demi Cr\u00e8me Fra\u00eeche 125ml",
+    "manufacturer": "Konings-Zuivel B.V.",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/f0e88650-d7ff-4682-bc0d-2d31ce027c03\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBC8QjYLffcFg.670x670.jpg",
+    "source": "Jumbo.com"
+}

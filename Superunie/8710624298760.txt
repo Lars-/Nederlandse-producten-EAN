@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624298760",
+    "name": "Melkan Magere kwark aardbei framboos",
+    "description": "melkan Magere Kwark 0% vet Aardbei Framboos 500gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.35,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-98a5-08d745910104\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDLkAjYLfdwfA.670x670.jpg",
+    "source": "Jumbo.com"
+}

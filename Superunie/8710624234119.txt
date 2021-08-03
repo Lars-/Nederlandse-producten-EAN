@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624234119",
+    "name": "g'woon Olijfolie extra vierge",
+    "description": "g'woon Olijfolie extra vierge",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 4.89,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-f592-08d7ae303842\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwC4hQjYLrz7xA.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624540920",
+    "name": "Tuinder Augurken middel",
+    "description": "Tuinders Glorie Augurken zoetzuur middel",
+    "manufacturer": "Tuinderij Vers BV",
+    "available": true,
+    "price": 0.85,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-e229-08d6f8b0455f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABJNyf-AwDJWQjXA4Hgww.670x670.jpg",
+    "source": "Jumbo.com"
+}

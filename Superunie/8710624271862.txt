@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624271862",
+    "name": "g'woon Rode kool met appeltjes",
+    "description": "G'woon Rode kool met appel, diepvries 450 GRM Doos",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 0.79,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/41db0000-ff8a-0003-9ce8-08d6283d8cd9\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwArPgjYLfZTog.670x670.jpg",
+    "source": "Jumbo.com"
+}

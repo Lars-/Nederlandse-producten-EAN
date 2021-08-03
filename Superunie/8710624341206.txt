@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624341206",
+    "name": "g'woon Slagroomijs bekers",
+    "description": "g'woon Slagroomijs bekers",
+    "manufacturer": "Heveck VriesVers B.V.",
+    "available": true,
+    "price": 1.65,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-f506-08d8dd7c7edd\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwDrGAjZHOcS-w.670x670.jpg",
+    "source": "Jumbo.com"
+}

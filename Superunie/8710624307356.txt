@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624307356",
+    "name": "Melkan Vanille vla",
+    "description": "Melkan Vanille vla",
+    "manufacturer": "Frieslandcampina N.V.",
+    "available": true,
+    "price": 0.79,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": null,
+    "source": "Jumbo.com"
+}

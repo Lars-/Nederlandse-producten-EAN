@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624198527",
+    "name": "Sum & Sam Satesaus Javaans",
+    "description": "Sum & Sam Pot Javaans 292gr",
+    "manufacturer": "Sum & Sam",
+    "available": true,
+    "price": 1.74,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/c049f23f-abe3-40a2-bb0f-a926ff65ef5f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwBHSQjY6EDl2Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

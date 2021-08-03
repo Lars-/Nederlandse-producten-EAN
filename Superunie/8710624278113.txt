@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624278113",
+    "name": "g'woon Kikkererwten",
+    "description": "g'woon Kikkererwten 200gr",
+    "manufacturer": "Greenyard Prepared Belgium NV",
+    "available": true,
+    "price": 0.69,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-75af-08d6c7e7a7ee\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDGYQjYLfa4Gg.670x670.jpg",
+    "source": "Jumbo.com"
+}

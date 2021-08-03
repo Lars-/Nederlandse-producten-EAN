@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624303884",
+    "name": "g'woon Honing ringetjes",
+    "description": "g'woon Honing ringetjes",
+    "manufacturer": "Mulder Natuurvoeding B.V.",
+    "available": true,
+    "price": 1.42,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-e2d5-08d7a348cfaf\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDYcwjYLfesZw.670x670.jpg",
+    "source": "Jumbo.com"
+}

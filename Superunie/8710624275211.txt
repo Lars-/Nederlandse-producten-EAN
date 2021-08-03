@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624275211",
+    "name": "g'woon Tomatenblokjes in tomatensap",
+    "description": "g'woon Tomatenblokjes 400gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.49,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f960000-ff76-0003-5e3a-08d6642596da\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBAqQjYLfaQig.670x670.jpg",
+    "source": "Jumbo.com"
+}

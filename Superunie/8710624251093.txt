@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624251093",
+    "name": "Bourgondische minikrieltjes",
+    "description": "UNBRANDED Bourgondische minikrieltjes 450gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/207e0000-ff41-0003-039b-08d4f9148f70\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwDy-QjY6EDnUw.670x670.jpg",
+    "source": "Jumbo.com"
+}

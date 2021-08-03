@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624257101",
+    "name": "g'woon Leverpastei",
+    "description": "g'woon Leverpastei 3x56gr",
+    "manufacturer": "Struik Foods Europe N.V.",
+    "available": true,
+    "price": 0.8,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/9e560000-ffdf-0003-c393-08d5cd36791b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwA-KAjYLfWekQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

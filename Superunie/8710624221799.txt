@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624221799",
+    "name": "g'woon Multivruchten mild",
+    "description": "g'woon Milde Multivruchtensap 1,5l",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.74,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/020c0000-ff41-0003-04d4-08d43b0fe753\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDOQAjYLfUChw.670x670.jpg",
+    "source": "Jumbo.com"
+}

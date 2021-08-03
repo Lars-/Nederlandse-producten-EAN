@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624269357",
+    "name": "Melkan Drinkyoghurt perzik",
+    "description": "Melkan drinkyoghurt perzik edge sd 6x200ml",
+    "manufacturer": "Inexco B.V.",
+    "available": true,
+    "price": 1.53,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/f4d20000-ff88-0003-a73f-08d6329f385f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCgoAjYLfYq1w.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624312985",
+    "name": "Champignons kastanje",
+    "description": "Champignons kastanje",
+    "manufacturer": "Verhoeckx Paddenstoelen B.V.",
+    "available": true,
+    "price": 1.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4e750000-ff27-0003-e32b-08d7fb325672\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAACOyf-AwBrUwjYH87EtQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

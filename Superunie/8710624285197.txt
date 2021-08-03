@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624285197",
+    "name": "Melkan Jonge 48+ kaas stuk",
+    "description": "Melkan Gouda Jong 48+ 520gr",
+    "manufacturer": "Frieslandcampina N.V.",
+    "available": true,
+    "price": 5.52,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-96ea-08d6f32db815\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCo6AjYLfbwlA.670x670.jpg",
+    "source": "Jumbo.com"
+}

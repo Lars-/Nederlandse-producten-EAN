@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624306328",
+    "name": "Coop Macaroni spaghetti groenten",
+    "description": "Coop Macaroni spaghetti groenten",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 1.29,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-ff3c-08d7c9be1726\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwBdJgjYz_S-eQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

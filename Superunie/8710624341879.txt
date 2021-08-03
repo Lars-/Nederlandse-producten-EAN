@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624341879",
+    "name": "g'woon Sat\u00e9saus kant en klaar",
+    "description": "g'woon Sat\u00e9saus kant en klaar",
+    "manufacturer": "Remia N.V.",
+    "available": true,
+    "price": 1.53,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-8ba2-08d8dd7b26de\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwCuRAjZCUHjog.670x670.jpg",
+    "source": "Jumbo.com"
+}

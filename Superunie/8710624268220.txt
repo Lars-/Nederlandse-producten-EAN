@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624268220",
+    "name": "g'woon Witte rijst builtjes",
+    "description": "g'woon Witte rijst builen 300 gram",
+    "manufacturer": "Mediterranean Food Labels B.V.",
+    "available": true,
+    "price": 1.09,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/adb90000-ff55-0003-53a6-08d65ea9b658\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA2eSf-AwDYlgjYhfZvVw.670x670.jpg",
+    "source": "Jumbo.com"
+}

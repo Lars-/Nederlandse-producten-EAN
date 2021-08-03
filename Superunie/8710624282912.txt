@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624282912",
+    "name": "g'woon Melkbiscuit",
+    "description": "g'woon Melkbiscuit 245gr",
+    "manufacturer": "Hellema-Hallum B.V.",
+    "available": true,
+    "price": 1.29,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-a0b4-08d6ac4a07f6\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwD3-gjYQ-Timg.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624288396",
+    "name": "g'woon Tum tum uitdeelzakjes",
+    "description": "g'woon Tum Tum uitdeel 10x30gr",
+    "manufacturer": "Continental Candy Industries BV",
+    "available": true,
+    "price": 1.35,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-ff09-08d6ee7fd694\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwBrxwjYQyvrKg.670x670.jpg",
+    "source": "Jumbo.com"
+}

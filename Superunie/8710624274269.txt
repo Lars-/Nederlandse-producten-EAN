@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624274269",
+    "name": "g'woon Bladspinazie",
+    "description": "g'woon Bladspinazie gesneden 330g",
+    "manufacturer": "Greenyard Prepared Belgium NV",
+    "available": true,
+    "price": 0.77,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/adb90000-ff55-0003-0b79-08d653932945\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAckgjYLfZyIQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

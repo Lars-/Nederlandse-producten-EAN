@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624316327",
+    "name": "g'woon Pate rund gevogelte hond",
+    "description": "g'woon Pate rund gevogelte hond",
+    "manufacturer": "Teeling Petfood B.V.",
+    "available": true,
+    "price": 0.59,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3b020000-ff27-0003-7b27-08d82d4ef40b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwBSDwjYQyv-iA.670x670.jpg",
+    "source": "Jumbo.com"
+}

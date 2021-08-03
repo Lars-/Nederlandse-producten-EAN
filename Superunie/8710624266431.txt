@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624266431",
+    "name": "g'woon Tortilla chips nacho cheese",
+    "description": "g'woon Tortilla Chips Nacho Cheese 165gr Zak",
+    "manufacturer": "Roger & Roger N.V.",
+    "available": true,
+    "price": 1.09,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/e5e60000-ff55-0003-91c5-08d5eb24e42f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCfHwjYLfX3jg.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624329969",
+    "name": "g'woon Frambozen",
+    "description": "g'woon Frambozen",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.89,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/79360000-ff27-0003-be56-08d874320bad\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAAZPSf-AwDV0wjYtr_B2A.670x670.jpg",
+    "source": "Jumbo.com"
+}

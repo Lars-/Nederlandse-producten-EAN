@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624338626",
+    "name": "g'woon Arachideolie",
+    "description": "g'woon Arachideolie",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 4.09,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-accd-08d8d1f806c6\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwB4sAjY6EDt4Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

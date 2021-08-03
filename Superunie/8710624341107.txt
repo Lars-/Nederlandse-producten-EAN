@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624341107",
+    "name": "g'woon Regenboog ijsjes",
+    "description": "g'woon Regenboog ijsjes",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.65,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-fa16-08d8d736d234\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwAe9wjY_YqmjA.670x670.jpg",
+    "source": "Jumbo.com"
+}

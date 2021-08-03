@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624275136",
+    "name": "Bio+ Pompoenbroodjes",
+    "description": "Bio+ Pompoenbroodjes",
+    "manufacturer": "Pandriks Bake Off B.V",
+    "available": true,
+    "price": 1.89,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6e790000-ff4b-0003-39b5-08d67491dd5b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCFCQjYLfaGpw.670x670.jpg",
+    "source": "Jumbo.com"
+}

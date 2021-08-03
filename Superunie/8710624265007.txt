@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624265007",
+    "name": "g'woon Kalfsragout",
+    "description": "g'woon Kalfsragout 400gr",
+    "manufacturer": "Larco Foods B.V.",
+    "available": true,
+    "price": 1.39,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-50e7-08d5f6b98e24\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBvnQjYLfXjiQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

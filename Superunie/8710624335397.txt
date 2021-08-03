@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624335397",
+    "name": "g'woon Groentesoep beter leven",
+    "description": "g'woon Groentesoep beter leven",
+    "manufacturer": "Struik Foods Europe N.V.",
+    "available": true,
+    "price": 0.75,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-47c7-08d8d1f806c9\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwDgwgjY3ud0ow.670x670.jpg",
+    "source": "Jumbo.com"
+}

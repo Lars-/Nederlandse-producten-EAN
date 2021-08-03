@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624272005",
+    "name": "g'woon Spruiten",
+    "description": "G'woon Spruiten, diepvries 450 GRM Doos",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 0.89,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/41db0000-ff8a-0003-7ae0-08d6283d8bfb\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBzqwjYLfZV3A.670x670.jpg",
+    "source": "Jumbo.com"
+}

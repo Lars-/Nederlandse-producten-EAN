@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624338268",
+    "name": "g'woon Krokant muesli rozijn",
+    "description": "g'woon Krokant muesli rozijn",
+    "manufacturer": "Mulder Natuurvoeding B.V.",
+    "available": true,
+    "price": 1.74,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-dc8c-08d8dd7ac46f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwAGRgjY_xzfDg.670x670.jpg",
+    "source": "Jumbo.com"
+}

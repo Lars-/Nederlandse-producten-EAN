@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624291747",
+    "name": "g'woon figuurschuim",
+    "description": "g'woon Figuurschuim 300gr",
+    "manufacturer": "Concorp Brands N.V.",
+    "available": true,
+    "price": 1.43,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-337b-08d6f8b051c7\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwDmrwjYQyvv8A.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624326395",
+    "name": "Melkan Houdbare halfvolle melk",
+    "description": "Melkan Houdbare halfvolle melk",
+    "manufacturer": "Inexco B.V.",
+    "available": true,
+    "price": 0.69,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/505b0000-ff27-0003-8033-08d83233992e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA7eyf-AwDbmQjYWfUskg.670x670.jpg",
+    "source": "Jumbo.com"
+}

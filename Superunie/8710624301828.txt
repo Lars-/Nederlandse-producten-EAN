@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624301828",
+    "name": "Coop Biologische slagerburgers",
+    "description": "Coop Biologische slagerburgers",
+    "manufacturer": "Promessa",
+    "available": true,
+    "price": 3,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-8bf2-08d782337e46\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwD0RwjYLfeWQw.670x670.jpg",
+    "source": "Jumbo.com"
+}

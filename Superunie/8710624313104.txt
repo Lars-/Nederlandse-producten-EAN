@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624313104",
+    "name": "g'woon Kipsat\u00e9 bakje",
+    "description": "g'woon Kipsat\u00e9 bakje",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 0.79,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-6eb4-08d7ae3037a4\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDwgwjYLffSmA.670x670.jpg",
+    "source": "Jumbo.com"
+}

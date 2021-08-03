@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624256401",
+    "name": "g'woon Premium adult zalm",
+    "description": "g'woon Premium Adult Zalm 800gr",
+    "manufacturer": "Partner In Pet Food Nl B.V.",
+    "available": true,
+    "price": 3.39,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/9e560000-ffdf-0003-8214-08d5cd3670d6\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwBUvgjYQ-TUUA.670x670.jpg",
+    "source": "Jumbo.com"
+}

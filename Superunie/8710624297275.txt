@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624297275",
+    "name": "g'woon Tissues 3-laags 100 stuks",
+    "description": "g'woon tissues 3 laags 100 st.",
+    "manufacturer": "Wepa Papierfabriek",
+    "available": true,
+    "price": 1.35,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-f0cf-08d73aac4b00\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBkoAjYLfdk6Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

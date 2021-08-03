@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624313371",
+    "name": "g'woon Champignonsoep in zak",
+    "description": "g'woon Champignonsoep in zak",
+    "manufacturer": "Four Seasons Food B.V.",
+    "available": true,
+    "price": 1.9,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/79360000-ff27-0003-b211-08d87431f875\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA2eSf-AwA_WwjYei0H4A.670x670.jpg",
+    "source": "Jumbo.com"
+}

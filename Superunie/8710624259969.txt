@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624259969",
+    "name": "g'woon Rijstwafels met zeezout",
+    "description": "g'woon rijstwafels met zeezout 120gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.89,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/bac90000-ffdf-0003-25a6-08d5bfee93bb\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwD6KQjZSOhI3A.670x670.jpg",
+    "source": "Jumbo.com"
+}

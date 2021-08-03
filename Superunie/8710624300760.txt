@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624300760",
+    "name": "g'woon Tuinerwten",
+    "description": "g'woon Tuinerwten",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.19,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-9594-08d7ae303928\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAPfgjYLfeGzA.670x670.jpg",
+    "source": "Jumbo.com"
+}

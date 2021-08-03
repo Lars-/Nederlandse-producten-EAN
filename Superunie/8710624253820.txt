@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624253820",
+    "name": "Daily Chef Andijviestamppot met gehaktbal",
+    "description": "daily CHEF Andijviestamppot Met Gehaktballetjes 500gr",
+    "manufacturer": "Bonfait B.V.",
+    "available": true,
+    "price": 3.39,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/d8070000-ffdf-0003-e49b-08d5a39d87b7\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwCtYwjZCUHg9w.670x670.jpg",
+    "source": "Jumbo.com"
+}

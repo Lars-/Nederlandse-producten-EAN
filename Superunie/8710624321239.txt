@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624321239",
+    "name": "Hollandse Nieuwe 2 stuks met uitjes",
+    "description": "Hollandse Nieuwe 2 stuks met uitjes",
+    "manufacturer": "Profish Food B.V.",
+    "available": true,
+    "price": 2.39,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3b020000-ff27-0003-3664-08d82d4ebc54\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAAZPSf-AwCyMQjYx0-ZEg.670x670.jpg",
+    "source": "Jumbo.com"
+}

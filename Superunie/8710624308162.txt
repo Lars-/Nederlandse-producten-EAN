@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624308162",
+    "name": "First Choice Cola zero mini 12x150ml",
+    "description": "First Choice Cola zero mini 12x150ml",
+    "manufacturer": "Refresco B.V.",
+    "available": true,
+    "price": 3.49,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4e750000-ff27-0003-c34d-08d7f023013e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCixAjYLffAhw.670x670.jpg",
+    "source": "Jumbo.com"
+}

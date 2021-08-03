@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624295790",
+    "name": "g'woon Aardappelpuree naturel",
+    "description": "g'woon Aardappel puree naturel 2x135gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.98,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-2ca4-08d71f190d22\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBfcwjYLfdZ8Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

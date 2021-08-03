@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624332211",
+    "name": "Daily Chef American pancake banaan",
+    "description": "Daily Chef American pancake banaan",
+    "manufacturer": "Cerelia Netherlands B.V.",
+    "available": true,
+    "price": 2.09,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-3222-08d8ed48fd7b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwAVvwjY7cETsA.670x670.jpg",
+    "source": "Jumbo.com"
+}

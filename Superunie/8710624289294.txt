@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624289294",
+    "name": "Bio+ Spekreepjes",
+    "description": "Bio+ Gerookte spekreepjes 200gr",
+    "manufacturer": "Zandbergen Vleeswaren B.V.",
+    "available": true,
+    "price": 3.29,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-1ede-08d6b6af5392\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDkWAjYLfcYUg.670x670.jpg",
+    "source": "Jumbo.com"
+}

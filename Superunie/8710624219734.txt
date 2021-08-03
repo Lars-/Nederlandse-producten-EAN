@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624219734",
+    "name": "g'woon Halvajam aardbei",
+    "description": "g'woon Halva Jam Aardbei 320gr Pot",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.39,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/0f7e0000-ff41-0003-467c-08d3fcba7f3e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwASmAjY_YqeZw.670x670.jpg",
+    "source": "Jumbo.com"
+}

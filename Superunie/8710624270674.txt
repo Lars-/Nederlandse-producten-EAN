@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624270674",
+    "name": "g'woon Cocktailnoten mild",
+    "description": "g'woon Cocktailnoten mild 300gr",
+    "manufacturer": "Intersnack Nederland B.V.",
+    "available": true,
+    "price": 1.45,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/03e50000-ff8a-0003-4050-08d63da6f638\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwD5XwjYLfY7vQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

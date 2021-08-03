@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624322076",
+    "name": "Verse mosselen",
+    "description": "Verse mosselen",
+    "manufacturer": "Krijn Verwijs Yerseke B.V.",
+    "available": true,
+    "price": 8.99,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3b020000-ff27-0003-43d2-08d82d4ec5aa\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAJywjYLffdsg.670x670.jpg",
+    "source": "Jumbo.com"
+}

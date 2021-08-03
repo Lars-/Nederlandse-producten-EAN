@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624283575",
+    "name": "G'woon Meergranen biscuit krenten en rozijnen",
+    "description": "g'woon Meergranen biscuit naturel 225gr",
+    "manufacturer": "Delft Bakkerijen Van B.V.",
+    "available": true,
+    "price": 1.09,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-9f76-08d6b139e2ce\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwCUtgjYQ-Tlmg.670x670.jpg",
+    "source": "Jumbo.com"
+}

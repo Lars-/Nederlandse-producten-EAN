@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624283599",
+    "name": "g'woon fruitbiscuit naturel",
+    "description": "g'woon Fruitbiscuit Naturel 218gr",
+    "manufacturer": "Hellema-Hallum B.V.",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-bd32-08d6ac4a0808\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwARgQjYQyvkiw.670x670.jpg",
+    "source": "Jumbo.com"
+}

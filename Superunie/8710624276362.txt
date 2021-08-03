@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624276362",
+    "name": "g'woon Tintelfruit appel-cranberry",
+    "description": "g'woon tintelend met appel en cranberry 1,5L",
+    "manufacturer": "Refresco B.V.",
+    "available": true,
+    "price": 0.69,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-8b8d-08d69035a114\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAOcQjYLfaqWw.670x670.jpg",
+    "source": "Jumbo.com"
+}

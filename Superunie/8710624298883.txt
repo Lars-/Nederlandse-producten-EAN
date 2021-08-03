@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624298883",
+    "name": "Bio+ Citroen gember",
+    "description": "Bio+ Citroen gember",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.25,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-c826-08d76122fd4c\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADyPCf-AwD6TwjYOPQobg.670x670.jpg",
+    "source": "Jumbo.com"
+}

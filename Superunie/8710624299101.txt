@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624299101",
+    "name": "Melkan Aardbei kiwi drank",
+    "description": "Melkan Aardbei kiwi drank",
+    "manufacturer": "Vecozuivel BV",
+    "available": true,
+    "price": 0.79,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-4bdf-08d7ae303f32\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDMwAjYLfd31w.670x670.jpg",
+    "source": "Jumbo.com"
+}

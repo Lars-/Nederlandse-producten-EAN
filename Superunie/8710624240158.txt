@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624240158",
+    "name": "g'woon Bak & braad bewust",
+    "description": "g'woon Bak & Braad Bewust 400ml",
+    "manufacturer": "Remia N.V.",
+    "available": true,
+    "price": 0.92,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/0db40000-ff41-0003-afc5-08d4f3a17b63\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwB3MgjYLfUw5w.670x670.jpg",
+    "source": "Jumbo.com"
+}

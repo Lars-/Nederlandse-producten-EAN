@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624335236",
+    "name": "g'woon Roomboter reuze Stroopwafel",
+    "description": "g'woon Roomboter reuze Stroopwafel",
+    "manufacturer": "De Banketgroep B.V.",
+    "available": true,
+    "price": 1.79,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/29b50000-ff27-0003-4046-08d8a04d4eab\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwAHsQjY6EDsfw.670x670.jpg",
+    "source": "Jumbo.com"
+}

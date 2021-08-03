@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624275709",
+    "name": "g'woon Bruine bonen",
+    "description": "g'woon Bruine bonen 800gr",
+    "manufacturer": "Coroos Conserven B.V.",
+    "available": true,
+    "price": 1.19,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6e790000-ff4b-0003-d0f6-08d6852798c9\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBS4wjYLfabRg.670x670.jpg",
+    "source": "Jumbo.com"
+}

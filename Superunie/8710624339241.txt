@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624339241",
+    "name": "Vismarine Tilapia filets",
+    "description": "Vismarine Tilapia filets",
+    "manufacturer": "Heveck VriesVers B.V.",
+    "available": true,
+    "price": 3.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/734a0000-ff27-0003-f755-08d9354e1691\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwAOjQjZNgwzpw.670x670.jpg",
+    "source": "Jumbo.com"
+}

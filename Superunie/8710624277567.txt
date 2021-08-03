@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624277567",
+    "name": "g'woon Gedroogde abrikozen",
+    "description": "G'Woon abrikoos 375 gram",
+    "manufacturer": "Catz International B.V.",
+    "available": true,
+    "price": 3.37,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-7c75-08d695ad42a1\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADyPCf-AwD11AjYOPQkLQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

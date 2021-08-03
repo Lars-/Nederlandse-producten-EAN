@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624333959",
+    "name": "g'woon Koffiekoeken",
+    "description": "g'woon Koffiekoeken",
+    "manufacturer": "De Ruiter's Bakkerij Ooltgensplaat B.V.",
+    "available": true,
+    "price": 1.18,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/29b50000-ff27-0003-e979-08d8a04dab6c\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwDYiQjY6EDsfg.670x670.jpg",
+    "source": "Jumbo.com"
+}

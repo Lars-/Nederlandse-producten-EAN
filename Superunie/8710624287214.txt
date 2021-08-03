@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624287214",
+    "name": "Stoney Creek Chardonnay",
+    "description": "STONEY CREEK \/ SUPERUNIE CHARDONNAY SEMILLON AUSTRALIE BLANC 0,187 L",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.79,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-f2c8-08d6b139f06b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwAwKwjXzO1ABA.670x670.jpg",
+    "source": "Jumbo.com"
+}

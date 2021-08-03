@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624256685",
+    "name": "g'woon Hondenbrokken met kip en groenten",
+    "description": "g'woon Brokken met Kip & Groenten 5kg",
+    "manufacturer": "Partner In Pet Food Nl B.V.",
+    "available": true,
+    "price": 5.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/ddd50000-ffdf-0003-0e0d-08d5b4265723\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwAxSQjYQ-TVsw.670x670.jpg",
+    "source": "Jumbo.com"
+}

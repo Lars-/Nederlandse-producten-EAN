@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624297237",
+    "name": "g'woon Tissues met lotion 90  stuks 3-laags",
+    "description": "g'woon tissues 3 laags lotion 90 st.",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.79,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-4fa8-08d73aac4861\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAq2gjYLfdj_A.670x670.jpg",
+    "source": "Jumbo.com"
+}

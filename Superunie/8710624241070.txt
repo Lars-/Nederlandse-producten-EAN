@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624241070",
+    "name": "g'woon Gelderse rookworst",
+    "description": "g'woon Gelderse Rookworst 1* Beter Leven 375gr",
+    "manufacturer": "Compaxo B.V.",
+    "available": true,
+    "price": 1.59,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/207e0000-ff41-0003-6ea6-08d4f914adcd\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAACO0H-AwCtZgjVJqa1kA.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624318208",
+    "name": "g'woon Brok premium junior gevogelte",
+    "description": "g'woon Brok premium junior gevogelte",
+    "manufacturer": "Partner In Pet Food Nl B.V.",
+    "available": true,
+    "price": 3.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/505b0000-ff27-0003-7a3d-08d83233922f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwB2agjYSKuVZA.670x670.jpg",
+    "source": "Jumbo.com"
+}

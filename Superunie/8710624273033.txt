@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624273033",
+    "name": "g'woon Basis italiaanse kruiden",
+    "description": "g'woon basis voor pastasaus italiaanse kruiden 390gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.09,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-784f-08d6ac4a1d9a\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwA2vwjYLfZgKA.670x670.jpg",
+    "source": "Jumbo.com"
+}

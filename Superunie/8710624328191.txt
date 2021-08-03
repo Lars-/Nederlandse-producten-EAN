@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624328191",
+    "name": "Spinazie",
+    "description": "Spinazie",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 2.09,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7b3b0000-ff27-0003-7f12-08d864469e39\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwDvFQjZH0J4lw.670x670.jpg",
+    "source": "Jumbo.com"
+}

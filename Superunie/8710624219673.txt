@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624219673",
+    "name": "g'woon Halvajam vier vruchten",
+    "description": "g'woon Halva Jam Rode Vruchten 320gr Pot",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.39,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/0f7e0000-ff41-0003-9878-08d3fcba8022\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwCT2wjZMIwfAw.670x670.jpg",
+    "source": "Jumbo.com"
+}

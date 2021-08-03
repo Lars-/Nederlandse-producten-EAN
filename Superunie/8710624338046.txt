@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624338046",
+    "name": "g'woon Chocoschelpjes ontbijtgranen",
+    "description": "g'woon Chocoschelpjes ontbijtgranen",
+    "manufacturer": "Mulder Natuurvoeding B.V.",
+    "available": true,
+    "price": 1.42,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-be8e-08d8dd7ac46d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwDGrgjY6EDs4Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624247805",
+    "name": "g'woon Kaassouffl\u00e9",
+    "description": "g'woon Kaassouffl\u00e9 6x60gr",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/a3870000-ffdf-0003-986a-08d58da299c0\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCNHgjYLfViLA.670x670.jpg",
+    "source": "Jumbo.com"
+}

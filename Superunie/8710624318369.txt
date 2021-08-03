@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624318369",
+    "name": "g'woon Knijpfruit appel-Peer",
+    "description": "g'woon Knijpfruit appel-Peer",
+    "manufacturer": "Coroos Conserven B.V.",
+    "available": true,
+    "price": 1.65,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/505b0000-ff27-0003-408e-08d832338595\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA7eyf-AwCHEAjYYQewgA.670x670.jpg",
+    "source": "Jumbo.com"
+}

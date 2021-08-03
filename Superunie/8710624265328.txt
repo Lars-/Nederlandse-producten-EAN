@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624265328",
+    "name": "g'woon Granola rode vruchten",
+    "description": "g'woon Granola Rode Vruchten 300gr",
+    "manufacturer": "Mulder Natuurvoeding B.V.",
+    "available": true,
+    "price": 1.49,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-06ce-08d60c178ea4\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBPmQjYLfXqnQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

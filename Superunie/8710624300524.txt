@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624300524",
+    "name": "g'woon Allesreiniger citroen",
+    "description": "g'woon Citroen Allesreiniger 1,25 L",
+    "manufacturer": "Mc Bride\/Grada B.V.",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-52ae-08d7a8c09694\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAsKwjYLfeDrg.670x670.jpg",
+    "source": "Jumbo.com"
+}

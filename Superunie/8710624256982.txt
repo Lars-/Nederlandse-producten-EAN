@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624256982",
+    "name": "Tornado's",
+    "description": "g'woon Tornado's 6st",
+    "manufacturer": "Heveck VriesVers B.V.",
+    "available": true,
+    "price": 2.05,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/ddd50000-ffdf-0003-1858-08d5b9aa792b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADV3d--AwAASQjVuj8rmw.670x670.jpg",
+    "source": "Jumbo.com"
+}

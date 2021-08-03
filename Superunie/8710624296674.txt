@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624296674",
+    "name": "g'woon Gourmetsauzen",
+    "description": "g'woon partysauzen 5 x 80 ml sleeve",
+    "manufacturer": "Verstegen Spices&Sauces B.V.",
+    "available": true,
+    "price": 2.49,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-590c-08d709299f6a\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCgcQjYLfdcRg.670x670.jpg",
+    "source": "Jumbo.com"
+}

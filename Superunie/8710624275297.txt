@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624275297",
+    "name": "Vismarine Pangasiusfilet",
+    "description": "Vis Marine Pangasius filet 540g zak",
+    "manufacturer": "Heveck VriesVers B.V.",
+    "available": true,
+    "price": 2.92,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-b7d3-08d695ad6ef9\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDU6wjYLfaQlg.670x670.jpg",
+    "source": "Jumbo.com"
+}

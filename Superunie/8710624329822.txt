@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624329822",
+    "name": "g'woon Ananasstukjes",
+    "description": "g'woon Ananasstukjes",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.35,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/79360000-ff27-0003-918e-08d874320b8b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAAZPSf-AwAK7AjYtr_BvQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

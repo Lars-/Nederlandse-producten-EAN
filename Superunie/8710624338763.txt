@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624338763",
+    "name": "g'woon Allesreiniger doekjes ocean",
+    "description": "g'woon Allesreiniger doekjes ocean",
+    "manufacturer": "Eurofour B.V.",
+    "available": true,
+    "price": 1.29,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-2df3-08d8d736b3c3\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwBI-AjZHOcQ8A.670x670.jpg",
+    "source": "Jumbo.com"
+}

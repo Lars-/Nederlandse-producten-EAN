@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624028374",
+    "name": "Blue Bastard Energy drink blik",
+    "description": "BLUE BASTARD Energy Drink 0,25l",
+    "manufacturer": "Refresco B.V.",
+    "available": true,
+    "price": 0.53,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3eb21267-3480-4fde-b597-df53d0a03d99\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDBEwjYLfS30Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

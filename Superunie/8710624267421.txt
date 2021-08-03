@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624267421",
+    "name": "g'woon Pastasaus  basilicum",
+    "description": "g'woon Pastasaus basilicum,tomatensaus met basilicum  490g",
+    "manufacturer": "Greenyard Prepared Belgium NV",
+    "available": true,
+    "price": 2.16,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-daac-08d6013197ab\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBWxwjYLfYFKA.670x670.jpg",
+    "source": "Jumbo.com"
+}

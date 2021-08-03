@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624247683",
+    "name": "g'woon Oven frikandellen",
+    "description": "g'woon Oven Frikandellen 1* Beter Leven 4x70gr",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.19,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/c6780000-ffdf-0003-0bd7-08d58da29eb4\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDZfQjYLfVh0g.670x670.jpg",
+    "source": "Jumbo.com"
+}

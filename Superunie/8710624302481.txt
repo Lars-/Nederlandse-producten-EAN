@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624302481",
+    "name": "Grote garnalen",
+    "description": "Grote garnalen",
+    "manufacturer": "Profish Food B.V.",
+    "available": true,
+    "price": 2.79,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-2807-08d78d31f75c\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBVLQjYLfekwA.670x670.jpg",
+    "source": "Jumbo.com"
+}

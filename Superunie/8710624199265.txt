@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624199265",
+    "name": "Sum & Sam Noedels Ready To Wok",
+    "description": "Sum & Sam Ready To Wok Noedels 300gr",
+    "manufacturer": "Sum & Sam",
+    "available": true,
+    "price": 1.8,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/9132cd81-c455-4afe-9d50-506026e27909\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBwXgjYLfTWLg.670x670.jpg",
+    "source": "Jumbo.com"
+}

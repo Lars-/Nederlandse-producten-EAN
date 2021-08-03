@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624276409",
+    "name": "g'woon Tintelfruit sinaasappel citroen",
+    "description": "g'woon - tintelend met sinaasappel en citroen 1,5L",
+    "manufacturer": "Refresco B.V.",
+    "available": true,
+    "price": 0.69,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6e790000-ff4b-0003-ce16-08d67fba6102\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwARwQjYLfapFw.670x670.jpg",
+    "source": "Jumbo.com"
+}

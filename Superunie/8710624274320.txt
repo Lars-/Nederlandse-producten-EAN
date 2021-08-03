@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624274320",
+    "name": "g'woon Doperwten extra fijn",
+    "description": "g'woon Doperwten extra fijn 180g",
+    "manufacturer": "Greenyard Prepared Belgium NV",
+    "available": true,
+    "price": 0.79,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f960000-ff76-0003-57db-08d664253dc3\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwChGgjYLfZzcA.670x670.jpg",
+    "source": "Jumbo.com"
+}

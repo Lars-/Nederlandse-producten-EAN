@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624288259",
+    "name": "g'woon Zoete drop gemengd",
+    "description": "g'woon Gemengde zoete drop 400gr",
+    "manufacturer": "Continental Candy Industries BV",
+    "available": true,
+    "price": 1.2,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-c936-08d6ee7fdb41\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwBTDwjYQyvqLw.670x670.jpg",
+    "source": "Jumbo.com"
+}

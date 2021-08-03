@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624323011",
+    "name": "g'woon Roomijs 3 chocolades",
+    "description": "g'woon Roomijs 3 chocolades",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 2.77,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3d190000-ff27-0003-e820-08d8c13d7f89\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwCHMwjY_YqhfQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

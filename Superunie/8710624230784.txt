@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624230784",
+    "name": "g'woon Turks brood mini",
+    "description": "g'woon Turks Brood 2x150gr",
+    "manufacturer": "Schapendonk Dutch Bakery B.V.",
+    "available": true,
+    "price": 1.02,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afd70000-ff55-0003-70a2-08d5e0bd9423\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwB30wjYLfUSmw.670x670.jpg",
+    "source": "Jumbo.com"
+}

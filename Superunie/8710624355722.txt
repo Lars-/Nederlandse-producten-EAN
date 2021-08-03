@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624355722",
+    "name": "Vismarine Lekkerbekjes",
+    "description": "Vismarine Lekkerbekjes",
+    "manufacturer": "Profish Food B.V.",
+    "available": true,
+    "price": 3.24,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": null,
+    "source": "Jumbo.com"
+}

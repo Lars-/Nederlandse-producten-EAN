@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624264727",
+    "name": "g'woon Toiletblok powerball lavendel",
+    "description": "g'woon Lavendel WC Blokken 100 g",
+    "manufacturer": "Benckmar B.V.",
+    "available": true,
+    "price": 1.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-f888-08d5f6b98e7a\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDVjQjYLfXbUg.670x670.jpg",
+    "source": "Jumbo.com"
+}

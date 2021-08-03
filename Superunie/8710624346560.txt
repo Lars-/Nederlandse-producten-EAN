@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624346560",
+    "name": "g'woon Siroop 0% multifruit",
+    "description": "g'woon Siroop 0% multifruit",
+    "manufacturer": "Akom Oldenzaal B.V.",
+    "available": true,
+    "price": 2.29,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6d780000-ff27-0003-5997-08d90e457392\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwBeWQjZKkLzWA.670x670.jpg",
+    "source": "Jumbo.com"
+}

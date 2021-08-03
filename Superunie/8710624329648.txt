@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624329648",
+    "name": "g'woon Pondje cake",
+    "description": "g'woon Pondje cake",
+    "manufacturer": "Aviateur Banketbakkerijen B.V.",
+    "available": true,
+    "price": 1.59,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/29b50000-ff27-0003-41f3-08d8a04ce5ee\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwDFZQjY_Yqhwg.670x670.jpg",
+    "source": "Jumbo.com"
+}

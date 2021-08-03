@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624110567",
+    "name": "Sealord Port tawny",
+    "description": "Sea Lord Port tawny 750ml",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 5.69,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/dc2f2f7f-180d-4d65-b427-e6afc9eacee4\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAACCRCsQgLz1QjW40g5_g.670x670.jpg",
+    "source": "Jumbo.com"
+}

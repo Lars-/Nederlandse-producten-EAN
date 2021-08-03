@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624292881",
+    "name": "g'woon Zilveruitjes zuur",
+    "description": "g'woon Zilveruitjes zuur 320gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.68,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-1680-08d6f8b0463f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCDAAjYLfdB-Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

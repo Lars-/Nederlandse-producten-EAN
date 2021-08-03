@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624292089",
+    "name": "Derlon Handzeep extra care met pomp",
+    "description": "Derlon handzeep milde verzorging met pomp 500ml",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.89,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-1c3e-08d73534d3f3\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwA3JgjYLfc0Zg.670x670.jpg",
+    "source": "Jumbo.com"
+}

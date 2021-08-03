@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624288839",
+    "name": "Bonb\u00e9b\u00e9 Fruithapje abrikoos appel banaan",
+    "description": "Bonb\u00e9b\u00e9 abrikoos appel banaan 7720 - F0605 potje 200 g",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-0a95-08d6fe273ee5\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCLNAjYLfcPeg.670x670.jpg",
+    "source": "Jumbo.com"
+}

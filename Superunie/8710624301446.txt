@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624301446",
+    "name": "Banderos Tortilla wraps original mini",
+    "description": "Banderos Tortilla wraps original mini",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.29,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/505b0000-ff27-0003-204f-08d832337f45\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDsswjYMqretw.670x670.jpg",
+    "source": "Jumbo.com"
+}

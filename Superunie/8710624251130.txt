@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624251130",
+    "name": "Minikrieltjes",
+    "description": "UNBRANDED Voorgekookte minikrieltjes 450g",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.77,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/207e0000-ff41-0003-1d08-08d4f9148d90\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwCOWQjY6EDntA.670x670.jpg",
+    "source": "Jumbo.com"
+}

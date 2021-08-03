@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624260712",
+    "name": "g'woon Ontbijtkoekrepen",
+    "description": "g'woon Ontbijtkoekrepen 5x275gr",
+    "manufacturer": "Continental Bakeries B.V.",
+    "available": true,
+    "price": 1.22,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/9e560000-ffdf-0003-dae7-08d5cd3651cb\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwDfmgjYQyvXpw.670x670.jpg",
+    "source": "Jumbo.com"
+}

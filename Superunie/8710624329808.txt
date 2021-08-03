@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624329808",
+    "name": "g'woon Gevulde flikken",
+    "description": "g'woon Gevulde flikken",
+    "manufacturer": "Aviateur Banketbakkerijen B.V.",
+    "available": true,
+    "price": 1.19,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/29b50000-ff27-0003-57bf-08d8a04ce62b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwDjAAjZKkLtZw.670x670.jpg",
+    "source": "Jumbo.com"
+}

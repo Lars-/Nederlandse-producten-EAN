@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624243982",
+    "name": "Melkan Halfvolle melk",
+    "description": "Melkan verse halfvolle melk 2L pe doos",
+    "manufacturer": "Inexco B.V.",
+    "available": true,
+    "price": 1.79,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/0db40000-ff41-0003-a16f-08d4ee14d8d2\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwChLAjYLfUy_A.670x670.jpg",
+    "source": "Jumbo.com"
+}

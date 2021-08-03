@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624270193",
+    "name": "Park Villa Merlot",
+    "description": "Park Villa Merlot 750ml",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 4.39,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/03e50000-ff8a-0003-5576-08d63da6f637\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwC83wjXzO0q0Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

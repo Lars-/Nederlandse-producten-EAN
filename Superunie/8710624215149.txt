@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624215149",
+    "name": "g'woon Keukenpapier 1 rol 3 laags",
+    "description": "g'woon huishoudrol XL 3 laags",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 2.69,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/00470000-ff41-0003-1d7c-08d439443392\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwC3SgjYLfTvxA.670x670.jpg",
+    "source": "Jumbo.com"
+}

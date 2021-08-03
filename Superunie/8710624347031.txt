@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624347031",
+    "name": "Banderos Tortilla wraps volkoren",
+    "description": "Banderos Volkoren Tortilla Wraps 8 x 40 g",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.19,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6d780000-ff27-0003-c206-08d91f7d95e6\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwDB2QjZQEN3SQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

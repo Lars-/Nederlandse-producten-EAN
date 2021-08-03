@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624313531",
+    "name": "g'woon Chinese tomatensoep",
+    "description": "g'woon Chinese tomatensoep",
+    "manufacturer": "Four Seasons Food B.V.",
+    "available": true,
+    "price": 1.89,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3cf20000-ff27-0003-07ca-08d83d3069b7\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwDopQjYQyv8Rg.670x670.jpg",
+    "source": "Jumbo.com"
+}

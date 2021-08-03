@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624323752",
+    "name": "g'woon Latte caramel",
+    "description": "g'woon Latte caramel",
+    "manufacturer": "Prinsen B.V.",
+    "available": true,
+    "price": 2.19,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/29b50000-ff27-0003-9e3b-08d89ac05c22\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAC1KSf-AwCBPgjYoYgd2A.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624313593",
+    "name": "g'woon Pompoensoep in zak",
+    "description": "g'woon Pompoensoep in zak",
+    "manufacturer": "Greenyard Prepared Belgium NV",
+    "available": true,
+    "price": 1.79,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/79360000-ff27-0003-5099-08d87431f877\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA2eSf-AwBBKgjYei0Ifg.670x670.jpg",
+    "source": "Jumbo.com"
+}

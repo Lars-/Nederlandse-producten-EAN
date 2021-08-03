@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624343101",
+    "name": "g'woon Lemon lime",
+    "description": "g'woon Lemon Lime 1,5 L",
+    "manufacturer": "United Soft Drinks B.V.",
+    "available": true,
+    "price": 0.57,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/734a0000-ff27-0003-fc19-08d93a3e8486\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwCtJgjZRcPMEw.670x670.jpg",
+    "source": "Jumbo.com"
+}

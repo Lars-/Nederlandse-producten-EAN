@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624291600",
+    "name": "g'woon Extra jam bosbessen",
+    "description": "g'woon extra jam Bosbes 450g pot",
+    "manufacturer": "Geurts",
+    "available": true,
+    "price": 1.33,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-4934-08d73aac4b28\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwCHPgjY_YqgAw.670x670.jpg",
+    "source": "Jumbo.com"
+}

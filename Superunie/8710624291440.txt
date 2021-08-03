@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624291440",
+    "name": "g'woon Extra jam ananas",
+    "description": "g'woon extra jam Ananas 450g pot",
+    "manufacturer": "Geurts",
+    "available": true,
+    "price": 1.74,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-9401-08d73aac4b06\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAjmQjYLfczEw.670x670.jpg",
+    "source": "Jumbo.com"
+}

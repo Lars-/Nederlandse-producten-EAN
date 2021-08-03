@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624341121",
+    "name": "g'woon Minimix water ijsjes",
+    "description": "g'woon Minimix water ijsjes",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 2.09,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-985c-08d8d736d240\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwBx-wjY6EDxog.670x670.jpg",
+    "source": "Jumbo.com"
+}

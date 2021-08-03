@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624342784",
+    "name": "g'woon Chocoladereep melk hazelnoot",
+    "description": "g'woon Chocoladereep melk hazelnoot",
+    "manufacturer": "Natra Chocolate Belgium NV",
+    "available": true,
+    "price": 1.35,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": null,
+    "source": "Jumbo.com"
+}

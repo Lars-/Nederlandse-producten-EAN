@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624308247",
+    "name": "First Choice Cola zero sugar blik 250 ml",
+    "description": "First Choice Cola zero sugar blik 250 ml",
+    "manufacturer": "Refresco B.V.",
+    "available": true,
+    "price": 0.42,
+    "minimumAmount": 1,
+    "maximumAmount": 10,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/79360000-ff27-0003-3367-08d884b3a481\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA2eSf-AwBbWwjYir5d_A.670x670.jpg",
+    "source": "Jumbo.com"
+}

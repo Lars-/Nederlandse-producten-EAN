@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624265564",
+    "name": "g'woon Pindaflips",
+    "description": "g'woon Pindaflips 110gr",
+    "manufacturer": "Intersnack Nederland B.V.",
+    "available": true,
+    "price": 0.49,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/e5e60000-ff55-0003-5878-08d5eb24e609\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBIWQjYLfXuRw.670x670.jpg",
+    "source": "Jumbo.com"
+}

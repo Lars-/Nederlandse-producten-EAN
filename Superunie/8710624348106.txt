@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624348106",
+    "name": "g'woon Knoflook stokbrood",
+    "description": "g'woon Knoflook stokbrood",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 0.64,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": null,
+    "source": "Jumbo.com"
+}

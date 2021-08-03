@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624287917",
+    "name": "g'woon Kauwgom sweetmint",
+    "description": "POTJE KAUWG SWEETMINT 105G 70ST",
+    "manufacturer": "Hamlet N.V.",
+    "available": true,
+    "price": 1.46,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-9362-08d6f32db384\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwCApAjYQyvoDA.670x670.jpg",
+    "source": "Jumbo.com"
+}

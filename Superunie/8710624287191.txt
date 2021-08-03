@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624287191",
+    "name": "Stoney Creek Shiraz",
+    "description": "STONEY CREEK \/ SUPERUNIE SHIRAZ GRENACHE PETIT VERDOT AUSTRALIE ROUGE 0,187 L",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.79,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-45d8-08d6b139f070\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwB_xQjXzO1AAw.670x670.jpg",
+    "source": "Jumbo.com"
+}

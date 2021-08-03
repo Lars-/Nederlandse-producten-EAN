@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624334932",
+    "name": "g'woon Roomboter appelkoeken",
+    "description": "g'woon Roomboter appelkoeken",
+    "manufacturer": "Aviateur Banketbakkerijen B.V.",
+    "available": true,
+    "price": 1.69,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/29b50000-ff27-0003-746b-08d8a04ce5f1\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwCDXwjY_Yqkpg.670x670.jpg",
+    "source": "Jumbo.com"
+}

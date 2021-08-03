@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624283940",
+    "name": "Melkan Halfvolle melk",
+    "description": "Melkan Melk Verse Halfvolle 1.5 l Pak",
+    "manufacturer": "Frieslandcampina N.V.",
+    "available": true,
+    "price": 1.55,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-3595-08d6b6af48bc\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwA3aAjYLfbf-w.670x670.jpg",
+    "source": "Jumbo.com"
+}

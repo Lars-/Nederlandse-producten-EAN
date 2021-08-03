@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624271909",
+    "name": "g'woon Tuinerwten extra fijn",
+    "description": "G'woon Tuinerwten, diepvries 450 GRM Doos",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 0.79,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/41db0000-ff8a-0003-ff23-08d6283d8c82\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDjFgjYLfZUaQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

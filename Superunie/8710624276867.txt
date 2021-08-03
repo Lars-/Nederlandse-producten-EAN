@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624276867",
+    "name": "g'woon Adult brokken in gelei met pat\u00e9 & kip",
+    "description": "g'woon Hond Pate Met Kip Adult 400gr",
+    "manufacturer": "Partner In Pet Food Nl B.V.",
+    "available": true,
+    "price": 0.59,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6e790000-ff4b-0003-48ae-08d68ab62f5a\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwDZKwjYQ-TY1g.670x670.jpg",
+    "source": "Jumbo.com"
+}

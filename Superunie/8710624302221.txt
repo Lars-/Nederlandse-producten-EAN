@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624302221",
+    "name": "g'woon Bouillon rund",
+    "description": "g'woon Bouillon rund",
+    "manufacturer": "Larco Foods B.V.",
+    "available": true,
+    "price": 1.55,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f050000-ff27-0003-ef5b-08d77cb85cf5\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwA2PwjZKkLpog.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624256807",
+    "name": "Melkan Kwark vanille halfvol",
+    "description": "melkan Halfvolle Kwark Vanille Weidemelk 450gr Beker\/Kuipje",
+    "manufacturer": "Konings-Zuivel B.V.",
+    "available": true,
+    "price": 1.69,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/bac90000-ffdf-0003-2094-08d5bfee9774\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDlBQjYLfWbPA.670x670.jpg",
+    "source": "Jumbo.com"
+}

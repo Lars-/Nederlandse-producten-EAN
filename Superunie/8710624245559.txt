@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624245559",
+    "name": "Melkan Toetiemonsters kwark",
+    "description": "melkan Toetiemonsters Kinderkwark 6x50gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.93,
+    "minimumAmount": 1,
+    "maximumAmount": 10,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/135b0000-ff41-0003-da7b-08d514969c0b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCsxQjYLfVD5A.670x670.jpg",
+    "source": "Jumbo.com"
+}

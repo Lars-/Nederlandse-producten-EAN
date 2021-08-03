@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624237455",
+    "name": "g'woon Rundvlees hachee",
+    "description": "g'woon Rundvlees hachee 400gr",
+    "manufacturer": "Struik Foods Europe N.V.",
+    "available": true,
+    "price": 1.94,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/207e0000-ff41-0003-0b04-08d4f914ae5d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDk4wjYLfUnzw.670x670.jpg",
+    "source": "Jumbo.com"
+}

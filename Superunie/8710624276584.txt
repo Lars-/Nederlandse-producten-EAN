@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624276584",
+    "name": "Vismarine Visschnitzel",
+    "description": "Vis Marine Visschnitzel 300gr",
+    "manufacturer": "Heveck VriesVers B.V.",
+    "available": true,
+    "price": 1.53,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-bdb1-08d695ad6eaa\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAW5QjYLfaqlw.670x670.jpg",
+    "source": "Jumbo.com"
+}

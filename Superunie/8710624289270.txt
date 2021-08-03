@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624289270",
+    "name": "g'woon Kappertjes",
+    "description": "g'woon Kappertjes 100gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.79,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/525e0000-ff27-0003-32c8-08d6d7a06d36\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCfQwjYLfcXvg.670x670.jpg",
+    "source": "Jumbo.com"
+}

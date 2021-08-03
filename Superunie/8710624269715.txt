@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624269715",
+    "name": "Daily Chef Macaroni bolognese",
+    "description": "Daily Chef Macaroni bolognese 450 gram",
+    "manufacturer": "Bonfait B.V.",
+    "available": true,
+    "price": 3.65,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/41db0000-ff8a-0003-b3bd-08d6283d76dc\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwAmHgjY_lOxrA.670x670.jpg",
+    "source": "Jumbo.com"
+}

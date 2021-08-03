@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624753795",
+    "name": "Taug\u00e9",
+    "description": "Unbranded Taug\u00e9 200 GRM VERPAKT",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 1.27,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/1ecd0000-ff41-0003-b35f-08d4961f6ff2\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwAH3wjYz_TE8g.670x670.jpg",
+    "source": "Jumbo.com"
+}

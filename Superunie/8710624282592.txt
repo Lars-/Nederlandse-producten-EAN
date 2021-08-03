@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624282592",
+    "name": "g'woon Appelmoes extra fijn",
+    "description": "G'woon Appelmoes extra kwaliteit 360g",
+    "manufacturer": "Greenyard Prepared Belgium NV",
+    "available": true,
+    "price": 0.95,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/d30c0000-ff76-0003-a30b-08d66bfe66c3\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwB_6QjYLfbaTA.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624278038",
+    "name": "g'woon Dikke bleek eucalyptus",
+    "description": "g'woon Dikke Bleek Eucalyptus 750 ml",
+    "manufacturer": "Mc Bride\/Grada B.V.",
+    "available": true,
+    "price": 0.79,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/525e0000-ff27-0003-75a3-08d6d227be99\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAKUQjYLfa1jA.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624244590",
+    "name": "g'woon Chocoladereep puur 72%",
+    "description": "g'woon Chocoladetablet Extra Puur 72% Cacao Fairtrade 100gr",
+    "manufacturer": "All Crump N.V.",
+    "available": true,
+    "price": 1.39,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/01ed0000-ff41-0003-5bb8-08d525357c2b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwA39QjZHOcPJQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

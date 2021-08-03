@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624264949",
+    "name": "g'woon Kippenragout",
+    "description": "g'woon Kippenragout 400gr",
+    "manufacturer": "Larco Foods B.V.",
+    "available": true,
+    "price": 1.35,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/afdf0000-ff55-0003-42e9-08d5f6b98d16\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBTVAjYLfXk7Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

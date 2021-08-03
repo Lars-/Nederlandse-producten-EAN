@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624305178",
+    "name": "Zuivelmeester Yoghurt Griekse stijl 0% vet",
+    "description": "Zuivelmeester Yoghurt Griekse stijl 0% vet",
+    "manufacturer": "A-Ware Packaging",
+    "available": true,
+    "price": 1.69,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-27fc-08d7b9406603\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA2eSf-AwBqAwjYevYnPQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

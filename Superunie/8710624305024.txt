@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624305024",
+    "name": "Daily Chef Pannenkoeken naturel",
+    "description": "Daily Chef Pannenkoeken naturel",
+    "manufacturer": "Cerelia Netherlands B.V.",
+    "available": true,
+    "price": 2.19,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-79fc-08d7bec2ef9b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCyFAjYLfexfw.670x670.jpg",
+    "source": "Jumbo.com"
+}

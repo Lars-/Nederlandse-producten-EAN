@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624345266",
+    "name": "Sense Romig kuip",
+    "description": "Sense Romig kuip",
+    "manufacturer": "Vandemoortele Nederland B.V.",
+    "available": true,
+    "price": 2.59,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-5547-08d8ed48cdb5\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwBUAgjZGcI4lQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

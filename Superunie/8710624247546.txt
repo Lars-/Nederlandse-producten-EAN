@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624247546",
+    "name": "g'woon Oven bitterballen",
+    "description": "g'woon Oven Bitterballen Beter Leven 2* 12st",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.89,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/c6780000-ffdf-0003-ace2-08d58da29e77\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADyPCf-AwD0TQjYOPQbQQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

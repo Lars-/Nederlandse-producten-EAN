@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624301156",
+    "name": "Banderos Guacamole mix",
+    "description": "Banderos Guacamole mix",
+    "manufacturer": "Koninklijke Euroma B.V.",
+    "available": true,
+    "price": 0.69,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/25c30000-ff27-0003-61d5-08d7b93fca12\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwATfgjYLfeNgQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624214067",
+    "name": "g'woon Toiletpapier 24 rollen 2 laags",
+    "description": "g'woon toiletpapier 2 laags 24 rollen",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 4.79,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/0f7e0000-ff41-0003-3f91-08d3fcb9d8c2\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAS4AjYLfTqnQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

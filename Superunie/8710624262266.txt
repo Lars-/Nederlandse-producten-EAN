@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624262266",
+    "name": "Fijne soepgroenten",
+    "description": "Unbranded SOEPGROENTEN FIJN 250 GRM VERPAKT",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/d22b0000-ffdf-0003-3f61-08d5ae9ccc02\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAAZPSf-AwDuNQjYx0-VKw.670x670.jpg",
+    "source": "Jumbo.com"
+}

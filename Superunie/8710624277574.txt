@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624277574",
+    "name": "g'woon Blanke rozijnen",
+    "description": "G'Woon rozijn blanke 375 gram",
+    "manufacturer": "Catz International B.V.",
+    "available": true,
+    "price": 2.24,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-cceb-08d695ad4290\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADyPCf-AwAz8QjYOPQkkQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

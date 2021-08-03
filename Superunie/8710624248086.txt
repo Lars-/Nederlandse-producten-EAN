@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624248086",
+    "name": "g'woon Tropical vruchtensiroop",
+    "description": "g'woon Siroop 80% Fruit Tropical 750ml Fles",
+    "manufacturer": "Burg Ter Aar B.V.",
+    "available": true,
+    "price": 2.19,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/c6780000-ffdf-0003-477b-08d5932aac2c\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwD60gjZFEITfA.670x670.jpg",
+    "source": "Jumbo.com"
+}

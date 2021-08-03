@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624331078",
+    "name": "Melkan Yoghurt griekse stijl 10% vet",
+    "description": "Melkan Yoghurt griekse stijl 10% vet",
+    "manufacturer": "Bieze Food Group BV",
+    "available": true,
+    "price": 1.35,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/79360000-ff27-0003-a513-08d87432168d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA2eSf-AwC7lAjYhfZ7Bw.670x670.jpg",
+    "source": "Jumbo.com"
+}

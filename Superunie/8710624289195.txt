@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624289195",
+    "name": "g'woon Zongedroogde tomaten",
+    "description": "G'woon Zongedroogde tomaten op zonnebloemolie 280g",
+    "manufacturer": "Greenyard Prepared Belgium NV",
+    "available": true,
+    "price": 0.89,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-692e-08d6ee7fdc14\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwA9kAjYLfcX9Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

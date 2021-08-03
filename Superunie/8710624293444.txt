@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624293444",
+    "name": "g'woon Chocolade rozijnen",
+    "description": "g'woon Choco en rozijn 200gr",
+    "manufacturer": "Choco Support B.V.",
+    "available": true,
+    "price": 1.03,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-220e-08d6e8cd3af9\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwC1MQjYQyvyuQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

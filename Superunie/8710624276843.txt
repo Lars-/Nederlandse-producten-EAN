@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624276843",
+    "name": "g'woon Adult brokken in gelei met pat\u00e9, kalf en pens",
+    "description": "g'woon Hond pate met runderpens adult 400gr",
+    "manufacturer": "Partner In Pet Food Nl B.V.",
+    "available": true,
+    "price": 0.59,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6e790000-ff4b-0003-0da3-08d68ab62f68\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwBlWwjYQ-TYiQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

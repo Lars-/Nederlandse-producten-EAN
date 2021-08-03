@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624222154",
+    "name": "g'woon Tintelfruit light appel bosvruchten",
+    "description": "g'woon Tintelfruit Light appel bosvruchten 1,5l",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 0.69,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2be40000-ff41-0003-a3be-08d41e8d5589\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAAuJEH-AwC9qwjUIpm4ag.670x670.jpg",
+    "source": "Jumbo.com"
+}

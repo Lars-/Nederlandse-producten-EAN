@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624264680",
+    "name": "g'woon Toiletblok ocean navul vast",
+    "description": "g'woon Oceaan Toiletblok 2 x 40 g",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.04,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/9e560000-ffdf-0003-d1d6-08d5cd3680ff\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBVaAjYLfXZyg.670x670.jpg",
+    "source": "Jumbo.com"
+}

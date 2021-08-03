@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624278090",
+    "name": "g'woon Vlaaifruit aardbeien",
+    "description": "G'woon Taart en Vlaaifruit aardbeien 430 gram",
+    "manufacturer": "Greenyard Prepared Belgium NV",
+    "available": true,
+    "price": 1.39,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6e790000-ff4b-0003-c36f-08d68ab625db\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwB40QjYLfa1_Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

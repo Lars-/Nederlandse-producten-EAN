@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624274405",
+    "name": "g'woon Roomspinazie",
+    "description": "g'woon Roomspinazie 330gr",
+    "manufacturer": "Greenyard Prepared Belgium NV",
+    "available": true,
+    "price": 1.05,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/7f960000-ff76-0003-57e9-08d664253d0f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBHMQjYLfZ1-g.670x670.jpg",
+    "source": "Jumbo.com"
+}

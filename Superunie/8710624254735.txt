@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624254735",
+    "name": "g'woon Roomijs aardbei",
+    "description": "g'woon Aardbei Roomijs 1l",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 2.29,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/9d860000-ffdf-0003-d14b-08d59e1dc18e\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwA83wjZA8HEuQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

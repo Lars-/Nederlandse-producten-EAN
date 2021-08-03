@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624281472",
+    "name": "g'woon Choco fourre",
+    "description": "g'woon Choco Fourr\u00e9s 180gr",
+    "manufacturer": "Hellema-Hallum B.V.",
+    "available": true,
+    "price": 1.19,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-d35c-08d6ac4a0665\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwCEZQjYQ-TgaA.670x670.jpg",
+    "source": "Jumbo.com"
+}

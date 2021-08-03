@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624339180",
+    "name": "China Pijnboompitten",
+    "description": "China Pijnboompitten",
+    "manufacturer": "Tovano B.V.",
+    "available": true,
+    "price": 2.59,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-7092-08d8d736c443\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwDp7AjZFEIVGA.670x670.jpg",
+    "source": "Jumbo.com"
+}

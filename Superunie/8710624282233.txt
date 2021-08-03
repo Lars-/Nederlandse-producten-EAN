@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624282233",
+    "name": "Pruimen zonder pit",
+    "description": "Pruimen zonder pit 250gr",
+    "manufacturer": "Qualino B.V.",
+    "available": true,
+    "price": 2.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6e790000-ff4b-0003-f733-08d67fba6a77\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADDJSf-AwDvBAjXzO03dQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624280918",
+    "name": "g'woon Bewust light",
+    "description": "g'woon Smeerboter zoutarm bewust light 500gr",
+    "manufacturer": "Vandemoortele Nederland B.V.",
+    "available": true,
+    "price": 1.39,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-ae12-08d6e8cd3d92\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwBP6wjZDsH1kA.670x670.jpg",
+    "source": "Jumbo.com"
+}

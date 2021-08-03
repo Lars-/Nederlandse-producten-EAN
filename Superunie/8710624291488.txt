@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624291488",
+    "name": "g'woon Extra jam zwarte bessen",
+    "description": "g'woon extra jam Zwartebes 450g pot",
+    "manufacturer": "Geurts",
+    "available": true,
+    "price": 1.29,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-6498-08d75142be7f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCqZgjYLfczHw.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624268107",
+    "name": "Melkan Coconut drink",
+    "description": "Melkan coconut drink 1 liter",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.85,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/41db0000-ff8a-0003-2c5c-08d62d32e6be\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAA2eSf-AwD3xwjYlb8H4A.670x670.jpg",
+    "source": "Jumbo.com"
+}

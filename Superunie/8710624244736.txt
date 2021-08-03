@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624244736",
+    "name": "g'woon Chocoladereep puur",
+    "description": "g'woon Pure Chocolade 180 g",
+    "manufacturer": "All Crump N.V.",
+    "available": true,
+    "price": 1.79,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/022d0000-ff41-0003-10ec-08d525357bda\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwBbfwjZQEN0Rg.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624348205",
+    "name": "Bio+ Magere kwark",
+    "description": "Bio+ Magere kwark",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.75,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6d780000-ff27-0003-0f58-08d91f7d95b2\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwBb_QjZL8Lr_Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

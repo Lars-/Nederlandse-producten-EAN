@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624311278",
+    "name": "Bio+ Kruiden peterselie",
+    "description": "Bio+ Kruiden peterselie",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.79,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4e750000-ff27-0003-0612-08d7d4b61246\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADyPCf-AwCruQjYOPQpEg.670x670.jpg",
+    "source": "Jumbo.com"
+}

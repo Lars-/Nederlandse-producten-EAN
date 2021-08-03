@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624266943",
+    "name": "Rustique friet met schil",
+    "description": "Rustique friet met schil",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.59,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/9d860000-ffdf-0003-3c83-08d5996dfa9a\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwDYwwjY6EDpbg.670x670.jpg",
+    "source": "Jumbo.com"
+}

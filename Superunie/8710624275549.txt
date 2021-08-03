@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624275549",
+    "name": "g'woon Witte bonen in tomatensaus",
+    "description": "g'woon Witte bonen in tomatensaus 400gr",
+    "manufacturer": "Coroos Conserven B.V.",
+    "available": true,
+    "price": 0.69,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-e788-08d70929a4a0\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwARtgjYLfaWsQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

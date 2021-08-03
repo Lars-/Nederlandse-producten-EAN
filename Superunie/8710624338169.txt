@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624338169",
+    "name": "g'woon Krokant muesli 4 noten",
+    "description": "g'woon Krokant muesli 4 noten",
+    "manufacturer": "Mulder Natuurvoeding B.V.",
+    "available": true,
+    "price": 2.16,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-a1a9-08d8d1f806c8\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwBXEgjY3UCadA.670x670.jpg",
+    "source": "Jumbo.com"
+}

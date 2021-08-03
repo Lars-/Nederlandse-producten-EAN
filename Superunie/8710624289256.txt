@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624289256",
+    "name": "Bio+ Bouillon blokje kip biologisch",
+    "description": "Bio+ Bouillon blokje kip biologisch",
+    "manufacturer": "Four Seasons Food B.V.",
+    "available": true,
+    "price": 0.81,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-324d-08d8ed48ebc7\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwBykQjY7cERog.670x670.jpg",
+    "source": "Jumbo.com"
+}

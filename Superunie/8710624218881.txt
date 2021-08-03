@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624218881",
+    "name": "g'woon Pindakaas American style",
+    "description": "g'woon Pindakaas American Style 350gr Bus",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.8,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/0f7e0000-ff41-0003-517b-08d3fcba8100\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwATEAjYLfT0AA.670x670.jpg",
+    "source": "Jumbo.com"
+}

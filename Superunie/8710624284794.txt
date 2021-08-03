@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624284794",
+    "name": "Melkan Belegen 48+ kaas plakken voordeelverpakking",
+    "description": "Melkan Kaas 48+ Gouda Belegen WGM Planetproof Plakken 400g",
+    "manufacturer": "Vergeer Holland",
+    "available": true,
+    "price": 4.25,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-2790-08d6fe274781\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAwHgjYLfbq7Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

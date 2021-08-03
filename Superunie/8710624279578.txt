@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624279578",
+    "name": "g'woon Mix voor pannenkoeken",
+    "description": "G'woon  mix voor pannenkoeken naturel 400 gram",
+    "manufacturer": "Van Mook International Trade Service B.V.",
+    "available": true,
+    "price": 0.49,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6e790000-ff4b-0003-ef42-08d68ab624fa\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDIygjYLfbFBg.670x670.jpg",
+    "source": "Jumbo.com"
+}

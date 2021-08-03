@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624274245",
+    "name": "g'woon Kersen zonder pit",
+    "description": "g'woon Kersen zonder pit op siroop 700 grm",
+    "manufacturer": "Aarts Conserven B.V.",
+    "available": true,
+    "price": 1.35,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/41db0000-ff8a-0003-bea4-08d6221fc39c\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwB4CgjYLfZxqQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

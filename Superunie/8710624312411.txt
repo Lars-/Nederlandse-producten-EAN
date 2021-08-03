@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624312411",
+    "name": "g\u2019woon Kn\u00e4ckebr\u00f6d zonnebloempit",
+    "description": "g'woon Knackebrod spelt tarwe",
+    "manufacturer": "Bolletje B.V.",
+    "available": true,
+    "price": 1.29,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4e750000-ff27-0003-da14-08d7d4b5fa91\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwC1KgjYLffRIA.670x670.jpg",
+    "source": "Jumbo.com"
+}

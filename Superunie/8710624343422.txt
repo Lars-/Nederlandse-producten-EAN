@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624343422",
+    "name": "g'woon Rozijn Hazelnoot Melkchocolade 200 g",
+    "description": "g'woon Tablet melk rozijn hazelnoot chocolade",
+    "manufacturer": "Droste B.V.",
+    "available": true,
+    "price": 1.49,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6d780000-ff27-0003-3596-08d913b7df8d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwCTfwjZFEIVjA.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624303310",
+    "name": "g'woon\u00a0Tomatensoep",
+    "description": "g'woon\u00a0Tomatensoep",
+    "manufacturer": "Inproba BV",
+    "available": true,
+    "price": 0.75,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/4e750000-ff27-0003-1dc0-08d7cf338bb5\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBf0wjYLfelDQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

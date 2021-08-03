@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624276249",
+    "name": "Vismarine Tilapiafilet",
+    "description": "ASC Tilapiafilet 540g, diepvries",
+    "manufacturer": "Heveck VriesVers B.V.",
+    "available": true,
+    "price": 4.68,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/525e0000-ff27-0003-1296-08d6d7a075c4\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB4bSf-AwDWggjZHOcPKw.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624258153",
+    "name": "Derlon Styling gel mega strong",
+    "description": "Derlon Styling Gel Mega Strong 500ml",
+    "manufacturer": "Hegron Cosmetics B.V.",
+    "available": true,
+    "price": 1.19,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/b3420000-ffdf-0003-cfec-08d5d52073d7\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCoTgjYLfWsOQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

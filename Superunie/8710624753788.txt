@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624753788",
+    "name": "Taug\u00e9",
+    "description": "Taug\u00e9",
+    "manufacturer": "W. Heemskerk B.V.",
+    "available": true,
+    "price": 1,
+    "minimumAmount": 1,
+    "maximumAmount": 9999,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/1ecd0000-ff41-0003-0d3b-08d4961f806b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwAupgjYz_TE5A.670x670.jpg",
+    "source": "Jumbo.com"
+}

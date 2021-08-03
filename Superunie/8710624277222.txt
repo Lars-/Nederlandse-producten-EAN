@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624277222",
+    "name": "g'woon Filterzakjes ongebleekt nr. 4",
+    "description": "g'woon Koffiefilterzakjes ongebleekt nr.4 80st.",
+    "manufacturer": "Filtropa",
+    "available": true,
+    "price": 0.44,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/d30c0000-ff76-0003-2edc-08d66bfe65dd\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwAO6QjYQ-TaSQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

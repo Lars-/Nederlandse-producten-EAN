@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624286699",
+    "name": "g'woon Frikandellen",
+    "description": "g'woon frikandel blk kip1* VV1* 340 gram",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 0.84,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/37490000-ff27-0003-4d99-08d6e8cd3da6\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwBhnwjYLfb6Yw.670x670.jpg",
+    "source": "Jumbo.com"
+}

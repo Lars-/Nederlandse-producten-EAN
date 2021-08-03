@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624198121",
+    "name": "Sum & Sam Kroepoek Java",
+    "description": "Sum & Sam Kroepoek Java 60gr",
+    "manufacturer": "Sum & Sam",
+    "available": true,
+    "price": 0.79,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/3c8f6023-a8b1-465b-8dc1-98b971c9d4d6\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwDrOwjYLfTYtA.670x670.jpg",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624346621",
+    "name": "Bio+ Eieren  6 stuks",
+    "description": "Bio+ Eieren  6 stuks",
+    "manufacturer": "G. Kwetters & Zn B.V.",
+    "available": true,
+    "price": 2.45,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": null,
+    "source": "Jumbo.com"
+}

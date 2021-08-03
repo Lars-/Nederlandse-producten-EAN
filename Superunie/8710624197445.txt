@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624197445",
+    "name": "Sum & Sam Kroepoek Cassave",
+    "description": "Sum & Sam Cassave kroepoek 60gr",
+    "manufacturer": "Sum & Sam",
+    "available": true,
+    "price": 0.79,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/86f8527d-9d22-48d2-9479-579a8409e145\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwClxQjYLfTNxw.670x670.jpg",
+    "source": "Jumbo.com"
+}

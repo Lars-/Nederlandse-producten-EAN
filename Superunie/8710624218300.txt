@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624218300",
+    "name": "g'woon Vlokken puur",
+    "description": "g'woon Vlokken Puur UTZ 300gr",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2be40000-ff41-0003-2f70-08d41e8d55d2\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAACDQALQgKZIgjWv0AruA.670x670.jpg",
+    "source": "Jumbo.com"
+}

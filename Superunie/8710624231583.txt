@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624231583",
+    "name": "Melkan Volle koffiemelk",
+    "description": "Melkan volle koffiemelk weidemelk 500gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 1.69,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2fe20000-ff41-0003-f3c1-08d4acdf2b28\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwALkwjYQ-TN5g.670x670.jpg",
+    "source": "Jumbo.com"
+}

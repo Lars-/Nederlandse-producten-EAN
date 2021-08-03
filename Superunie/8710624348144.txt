@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624348144",
+    "name": "g'woon Oven kroketten",
+    "description": "g'woon Oven Kroketten 4 x 80 g",
+    "manufacturer": "Gwoon",
+    "available": true,
+    "price": 1.99,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6d780000-ff27-0003-c10b-08d91f7daa6d\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwBZDgjZNUMQeQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

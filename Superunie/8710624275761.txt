@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624275761",
+    "name": "g'woon Hollandse bruine bonen",
+    "description": "g'woon HOLLANDSE BRUINE BONEN 360G Pot",
+    "manufacturer": "Baltussen Konservenfabriek B.V.",
+    "available": true,
+    "price": 0.65,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/adb90000-ff55-0003-47d5-08d64e34141b\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwAAbQjYLfaeIQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

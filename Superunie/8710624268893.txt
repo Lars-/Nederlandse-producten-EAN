@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624268893",
+    "name": "g'woon Fusilli",
+    "description": "g'woon fusilli 500gr",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 0.79,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/41db0000-ff8a-0003-40f9-08d6221fc36f\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwD8HQjYLfYpYg.670x670.jpg",
+    "source": "Jumbo.com"
+}

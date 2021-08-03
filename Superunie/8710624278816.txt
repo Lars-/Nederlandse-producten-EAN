@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624278816",
+    "name": "Green Rode kool met appel",
+    "description": "Green Rode kool met appel",
+    "manufacturer": "Coroos Conserven B.V.",
+    "available": true,
+    "price": 0.69,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/6e790000-ff4b-0003-070f-08d67a2c32f1\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAB1Tif-AwCzgAjX5aicDg.670x670.jpg",
+    "source": "Jumbo.com"
+}

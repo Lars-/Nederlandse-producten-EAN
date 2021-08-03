@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624283612",
+    "name": "g'woon Fruitreep aardbei",
+    "description": "g'woon Fruitreep Aardbei 162gr",
+    "manufacturer": "Hellema-Hallum B.V.",
+    "available": true,
+    "price": 1.35,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/5c290000-ff27-0003-e4a9-08d6ac4a0852\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AADhXyf-AwCVIAjYQyvkpQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

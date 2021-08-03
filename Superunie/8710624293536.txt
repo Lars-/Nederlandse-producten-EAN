@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624293536",
+    "name": "Sum & Sam Woksaus sweet & sour",
+    "description": "Sum & Sam Woksaus Sweet en Sour 175ml",
+    "manufacturer": "Inproba BV",
+    "available": true,
+    "price": 1.39,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/2d740000-ff27-0003-2998-08d756bdb245\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwB2HQjYLfdIfg.670x670.jpg",
+    "source": "Jumbo.com"
+}

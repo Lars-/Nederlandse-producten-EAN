@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624036935",
+    "name": "Qu\u00e9 Mas Cabernet merlot ros\u00e9",
+    "description": "Qu\u00e9 Mas cabernet merlot ros\u00e9 2013 75cl",
+    "manufacturer": "Superunie",
+    "available": true,
+    "price": 2.99,
+    "minimumAmount": 1,
+    "maximumAmount": 100,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/e9a41c16-8473-48ed-a9af-cf98a94d9a7a\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/vJ5FKBU86UyoDEHMpjbA7Q.670x670.jpg",
+    "source": "Jumbo.com"
+}

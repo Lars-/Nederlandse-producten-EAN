@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624333072",
+    "name": "g'woon Roomboter spritsen",
+    "description": "g'woon Roomboter spritsen",
+    "manufacturer": "Banketbakkerij Merba B.V.",
+    "available": true,
+    "price": 1.09,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/29b50000-ff27-0003-9e41-08d8a04dba84\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AAASOSf-AwAdFwjY7cETtQ.670x670.jpg",
+    "source": "Jumbo.com"
+}

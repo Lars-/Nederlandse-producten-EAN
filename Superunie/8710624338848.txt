@@ -1,0 +1,13 @@
+{
+    "type": "Product",
+    "sku": "8710624338848",
+    "name": "g'woon Aardbeien cakerol",
+    "description": "g'woon Aardbeien cakerol",
+    "manufacturer": "Euro P\u00e2tisserie Producties-Twello B.V.",
+    "available": true,
+    "price": 1.39,
+    "minimumAmount": 1,
+    "maximumAmount": 0,
+    "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/39120000-ff27-0003-8e3a-08d8d1f86a31\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABKcyf-AwBEEgjZK_auKA.670x670.jpg",
+    "source": "Jumbo.com"
+}
