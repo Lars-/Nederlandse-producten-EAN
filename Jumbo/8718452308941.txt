@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Kaassouffl\u00e9s 6 Stuks 360g",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/011020201019_391454DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

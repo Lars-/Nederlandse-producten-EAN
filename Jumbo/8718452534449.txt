@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Hugo Ros\u00e9 Rood Fruit 0.0% 750ml",
+    "available": true,
+    "price": 3.19,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/130720212347_420900FLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

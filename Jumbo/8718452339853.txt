@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "La Place Groene Thee Jasmijn 6 x 15 Theezakjes",
+    "available": true,
+    "price": 10.14,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/170320211423_225564DSL-1_360x360.png",
+    "source": "Jumbo.com"
+}

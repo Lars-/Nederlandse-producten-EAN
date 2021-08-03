@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "JUMBO PARTY TOAST SESAM",
+    "available": true,
+    "price": 14.6,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": null,
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Cottage Cheese 200g",
+    "available": true,
+    "price": 0.57,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/090720210121_195800CUP-1_360x360.png",
+    "source": "Jumbo.com"
+}

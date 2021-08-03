@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Roomboterkoekjes - Biesjes 100g",
+    "available": true,
+    "price": 1.89,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/050820192307_221139BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

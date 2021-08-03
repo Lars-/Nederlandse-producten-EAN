@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Rundergehakt Mager 850g",
+    "available": true,
+    "price": 6.95,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/301220201341_187237BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

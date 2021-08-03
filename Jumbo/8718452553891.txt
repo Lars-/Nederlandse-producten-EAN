@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo - Hamburgerbroodjes Bruin 4 stuks",
+    "available": true,
+    "price": 1.5,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/230420210738_424012STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

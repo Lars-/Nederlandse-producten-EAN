@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Biologisch Veggie Falafel 200g",
+    "available": true,
+    "price": 2.77,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/311220200446_387106BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

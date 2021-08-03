@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Cocktail Garnalen Naturel 250g",
+    "available": true,
+    "price": 4.86,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/170420212345_195272PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

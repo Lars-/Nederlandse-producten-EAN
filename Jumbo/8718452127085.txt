@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Spekreepjes Biologisch 2 x 75g",
+    "available": true,
+    "price": 2.16,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/120120210052_164326PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

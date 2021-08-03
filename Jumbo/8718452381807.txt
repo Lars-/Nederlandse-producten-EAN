@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Huiswijn - Soepel - 4 x 3L",
+    "available": true,
+    "price": 39.56,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/180320201035_270264DSL-1_360x360.png",
+    "source": "Jumbo.com"
+}

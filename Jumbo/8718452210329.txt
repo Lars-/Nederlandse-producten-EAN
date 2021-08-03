@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Oven Frites 1kg",
+    "available": true,
+    "price": 1.39,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/120520191742_180679ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

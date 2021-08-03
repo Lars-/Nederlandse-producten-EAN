@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Cornets Unicorn Vanille & Framboos 4 Stuks 540ml",
+    "available": true,
+    "price": 2.25,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/170620210008_352299DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

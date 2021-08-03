@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Sugar Snaps 250g",
+    "available": true,
+    "price": 1.89,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": null,
+    "source": "Jumbo.com"
+}

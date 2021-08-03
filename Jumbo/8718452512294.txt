@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Crispy Biscuits Appel & Kaneel Smaak 5 x 2 Stuks 125g",
+    "available": true,
+    "price": 1.09,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/181220201049_403599DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Pangasius Visspies Spaanse Stijl 140g",
+    "available": true,
+    "price": 3.5,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/200420210010_186060BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

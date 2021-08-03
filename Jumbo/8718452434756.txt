@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo - Emoji Taart Geslaagd",
+    "available": true,
+    "price": 14.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/100820201617_373234STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

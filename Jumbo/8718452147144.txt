@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Aardappelbolletjes 600g",
+    "available": true,
+    "price": 1.39,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/110520191005_212662ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Passata di Pomodoro Biologisch 680g",
+    "available": true,
+    "price": 1.83,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/070220190608_216785POT-1_360x360.png",
+    "source": "Jumbo.com"
+}

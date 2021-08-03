@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Kaas 50+ met Gedroogde Tomaat en Chilipeper 250g",
+    "available": true,
+    "price": 2.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/120520211458_433976STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Fruitsap Sinaasappel 1L",
+    "available": true,
+    "price": 2.5,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/180320202238_193585FLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

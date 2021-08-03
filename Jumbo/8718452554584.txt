@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Kipdijsatespies 225g",
+    "available": true,
+    "price": 3.5,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/230420210414_204092BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

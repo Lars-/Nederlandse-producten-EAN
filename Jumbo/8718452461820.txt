@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Goulashsoep 570ml",
+    "available": true,
+    "price": 2.13,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/121120200049_386324ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

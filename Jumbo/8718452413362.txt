@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Sat\u00e9saus 200g",
+    "available": true,
+    "price": 0.77,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/300120202317_323797BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

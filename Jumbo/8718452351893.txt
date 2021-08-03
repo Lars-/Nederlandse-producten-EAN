@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Verse Gerookte Zalmfilet 2 x 125g",
+    "available": true,
+    "price": 7,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/091220182001_216793BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

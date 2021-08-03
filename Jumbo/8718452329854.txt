@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Champignon Roerbakmix 600 g - Voordeelverpakking",
+    "available": true,
+    "price": 2.69,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/110520191808_213091ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

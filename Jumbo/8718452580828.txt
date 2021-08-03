@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Stokbrood Kip Shoarma 320g",
+    "available": true,
+    "price": 3.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/070720212220_443793BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

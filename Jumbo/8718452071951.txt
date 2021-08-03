@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Chili Con Carne Mix 45g",
+    "available": true,
+    "price": 0.94,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/070820190546_283606STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

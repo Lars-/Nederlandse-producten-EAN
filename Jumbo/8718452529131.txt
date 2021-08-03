@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Melange Jonge Bladsla & Rucola Voordeelverpakking 150g",
+    "available": true,
+    "price": 2.05,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/250220211259_362324ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

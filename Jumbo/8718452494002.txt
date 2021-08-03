@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Luiers 6 15+kg 3 x 28 Stuks",
+    "available": true,
+    "price": 18.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/220420211356_381986DSL-1_360x360.png",
+    "source": "Jumbo.com"
+}

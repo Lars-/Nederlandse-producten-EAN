@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "La Place Zoutje Kaaskoekjes Gerijpte Goudse Kaas & Bieslook 75g",
+    "available": true,
+    "price": 1.89,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/300520200017_371495DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

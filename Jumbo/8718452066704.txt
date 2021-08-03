@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Pat\u00e9 Kip met Topping van Groenten en Rijst 150g",
+    "available": true,
+    "price": 0.81,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/230720202235_367998BLK-1_360x360.png",
+    "source": "Jumbo.com"
+}

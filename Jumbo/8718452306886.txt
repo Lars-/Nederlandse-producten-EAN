@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Biologische Gesneden Rode Kool 300g",
+    "available": true,
+    "price": 1.97,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/100420202306_200744ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

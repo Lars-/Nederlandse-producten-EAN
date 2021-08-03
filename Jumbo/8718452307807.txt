@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Gezouten Noten Mix Zoet en Zout 175g",
+    "available": true,
+    "price": 3.19,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/110520190052_203783STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

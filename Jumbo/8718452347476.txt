@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Standaard 4 Dreumesmelk van 12-24 Maanden 2 x 400g",
+    "available": true,
+    "price": 6.1,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/010520200703_365900PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

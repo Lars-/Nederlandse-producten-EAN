@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Mini Krieltjes Gyroskruiden 600g",
+    "available": true,
+    "price": 1,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/280820190815_276486ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

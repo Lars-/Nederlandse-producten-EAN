@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Zalm Flakes Warmgerookt 150g",
+    "available": true,
+    "price": 4.19,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/050620210014_306076BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

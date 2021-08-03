@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Yoghurt Griekse Stijl 0,1% Vet Naturel 1kg",
+    "available": true,
+    "price": 1.69,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/241020201309_388324EM-1_360x360.png",
+    "source": "Jumbo.com"
+}

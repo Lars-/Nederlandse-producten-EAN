@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Zonnespray Hoog SPF 30 200ml",
+    "available": true,
+    "price": 7.69,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/150220192246_183176FLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

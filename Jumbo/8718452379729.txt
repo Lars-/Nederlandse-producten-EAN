@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Cocktailworst Mager 400g",
+    "available": true,
+    "price": 1.44,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/110520192207_167031BLK-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Basmatirijst 4, 5kg",
+    "available": true,
+    "price": 6.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/160720202324_376475ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

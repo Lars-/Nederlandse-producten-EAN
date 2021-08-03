@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Ice Tea 1,5L",
+    "available": true,
+    "price": 0.94,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/170320211513_221287FLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

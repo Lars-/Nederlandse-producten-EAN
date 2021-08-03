@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "JUMBO BOEK OP HETE KOLEN",
+    "available": false,
+    "price": 2.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": null,
+    "source": "Jumbo.com"
+}

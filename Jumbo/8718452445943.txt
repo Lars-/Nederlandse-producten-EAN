@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Pink Grapefruit Foam Handzeep 300 ml (tijdelijk geleverd zonder pompje)",
+    "available": true,
+    "price": 2.29,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/040620202312_359614FLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

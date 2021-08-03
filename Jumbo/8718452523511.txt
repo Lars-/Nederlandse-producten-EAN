@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Zure Fritten 200g",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/150520210121_439035ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

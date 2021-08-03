@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Tartaar Biologisch Rund 100g",
+    "available": true,
+    "price": 1.9,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/060520192137_151748BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

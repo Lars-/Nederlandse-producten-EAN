@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Geitenkaas Bolletjes Naturel 100g",
+    "available": true,
+    "price": 1.75,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/050920192354_250577STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

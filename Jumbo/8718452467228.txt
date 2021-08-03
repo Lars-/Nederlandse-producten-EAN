@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Cola Fles 6 x 500ml",
+    "available": false,
+    "price": 0.25,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/240620211532_437858FLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Caviavoer 1kg",
+    "available": true,
+    "price": 2.41,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/060520190400_174446ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

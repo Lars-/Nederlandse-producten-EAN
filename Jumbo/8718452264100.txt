@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Pat\u00e9 met Rund 100g",
+    "available": true,
+    "price": 0.25,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/230720202230_194532CUP-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Goulash Kroketten 4 Stuks 280g",
+    "available": true,
+    "price": 1.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/120320200912_340550DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

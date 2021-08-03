@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Pangasiusfilet Citroen Koriander 2 x 150g",
+    "available": true,
+    "price": 2.39,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/060520190437_160374STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Verwen Koekjes 150g",
+    "available": false,
+    "price": 1.89,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/230720200617_368519BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

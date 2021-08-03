@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Slavink Varken 9 Stuks 945g",
+    "available": true,
+    "price": 6.5,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/131220190018_201486TRA-1_360x360.png",
+    "source": "Jumbo.com"
+}

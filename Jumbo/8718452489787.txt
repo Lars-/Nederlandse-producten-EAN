@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Navulverpakking Wit 1,485 L 27 Wasbeurten",
+    "available": true,
+    "price": 2.47,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/181120201628_394425FLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

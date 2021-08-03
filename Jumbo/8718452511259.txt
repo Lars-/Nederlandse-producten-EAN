@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Rijkgevulde Nasi met Runder Stoofvlees 400g",
+    "available": true,
+    "price": 3.69,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/081020200737_390666BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

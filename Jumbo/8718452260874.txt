@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Filet Americain Naturel Voordeelverpakking 250g",
+    "available": true,
+    "price": 3.7,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/170320202313_54378STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

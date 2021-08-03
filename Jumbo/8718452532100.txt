@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Macadamia Noten Ongezouten 140g",
+    "available": true,
+    "price": 4.96,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/250220210054_412092CUP-1_360x360.png",
+    "source": "Jumbo.com"
+}

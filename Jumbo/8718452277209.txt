@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Nasi 1kg",
+    "available": true,
+    "price": 3.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/110520191703_208704BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

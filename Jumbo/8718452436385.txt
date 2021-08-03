@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Toiletpapier Extra Zacht en Sterk 4-Laags Voordeelverpakking 16 Rollen",
+    "available": true,
+    "price": 5.61,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/160320210517_312895PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

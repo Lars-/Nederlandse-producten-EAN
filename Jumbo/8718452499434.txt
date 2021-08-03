@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Houdbare Halfvolle Melk Voordeelverpakking 6 x 1",
+    "available": true,
+    "price": 5.78,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/061220191818_305425PAK-9_360x360.png",
+    "source": "Jumbo.com"
+}

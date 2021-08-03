@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Cacao Truffels met Romige Zachte Vulling 200g",
+    "available": true,
+    "price": 2.18,
+    "minimumAmount": 1,
+    "maximumAmount": 50,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/130720212344_92441DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Wapenaer Blokjes Extra Belegen Kaas 48+ 145g",
+    "available": true,
+    "price": 2.29,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/140520191245_224516STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

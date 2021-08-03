@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Groene Olijven Tapenade 130g",
+    "available": true,
+    "price": 1.76,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/080520191229_196033POT-1_360x360.png",
+    "source": "Jumbo.com"
+}

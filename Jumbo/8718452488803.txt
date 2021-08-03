@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Bewust Culinair voor Bakken, Koken en Roerbakken 500ml",
+    "available": true,
+    "price": 1.15,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/191120200238_391996FLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

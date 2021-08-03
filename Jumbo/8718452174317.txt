@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Jus Rund 3 x 18g",
+    "available": true,
+    "price": 1.04,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": null,
+    "source": "Jumbo.com"
+}

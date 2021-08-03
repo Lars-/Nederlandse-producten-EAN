@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "JUMBO KINGSIZE SUIKERPIND",
+    "available": true,
+    "price": 23.88,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": null,
+    "source": "Jumbo.com"
+}

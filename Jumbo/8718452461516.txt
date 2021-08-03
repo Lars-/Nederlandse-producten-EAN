@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Kruidige Tomatensoep met Ui en Basilicum Biologisch 570ml",
+    "available": true,
+    "price": 1.77,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/201120200348_383436ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

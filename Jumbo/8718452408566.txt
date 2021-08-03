@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Confettini Cakejes 6 Stuks",
+    "available": true,
+    "price": 1.48,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/241020192204_26136PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

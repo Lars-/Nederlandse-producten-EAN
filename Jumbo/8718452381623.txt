@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Huiswijn - Soepel & Halfzoet - 1L",
+    "available": true,
+    "price": 3.95,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/100820201530_269291FLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

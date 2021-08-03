@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Biologische Groene Thee 6 x 20 Theezakjes",
+    "available": true,
+    "price": 7.38,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/170320211417_177324DSL-1_360x360.png",
+    "source": "Jumbo.com"
+}

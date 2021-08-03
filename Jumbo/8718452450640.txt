@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Oosterse Wokgroente 250 g - Kleinverpakking",
+    "available": true,
+    "price": 1.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/290220200743_343913ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

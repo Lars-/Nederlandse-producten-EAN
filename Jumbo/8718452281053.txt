@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "La Place Koffiebonen Originale 1kg",
+    "available": true,
+    "price": 10.25,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/200420200637_323798ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

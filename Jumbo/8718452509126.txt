@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Borrelzoutjes Zeezout 100g",
+    "available": true,
+    "price": 1.66,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/121220200151_394089ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

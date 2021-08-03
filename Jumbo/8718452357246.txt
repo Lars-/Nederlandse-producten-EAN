@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Volkoren Ontbijtkoek Ongesneden 550g",
+    "available": true,
+    "price": 1.13,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/160520190344_187552STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

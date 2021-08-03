@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Frisse Magere Yoghurt 0,1% Vet 500ml",
+    "available": true,
+    "price": 0.58,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/280720202236_200841PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

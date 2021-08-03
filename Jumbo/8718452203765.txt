@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Peterselie Gedroogd 39g",
+    "available": true,
+    "price": 4.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/060520191707_182208POT-1_360x360.png",
+    "source": "Jumbo.com"
+}

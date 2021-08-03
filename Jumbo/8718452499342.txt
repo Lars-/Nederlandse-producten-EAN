@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Verse Scharrel Eieren 1 Ster M 12 Stuks",
+    "available": true,
+    "price": 3.49,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/010720201224_364503DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

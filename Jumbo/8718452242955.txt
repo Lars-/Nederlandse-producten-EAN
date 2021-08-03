@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo - Meergranen Desem Baguette - 2 Stuks",
+    "available": true,
+    "price": 1.52,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/280720202352_188594PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

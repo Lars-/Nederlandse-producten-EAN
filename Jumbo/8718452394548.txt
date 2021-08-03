@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "JUMBO KNAKWORSTEN 10ST",
+    "available": true,
+    "price": 11.4,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": null,
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Boerenkool Deelblokjes 450g",
+    "available": true,
+    "price": 0.49,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/210420211439_273090STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

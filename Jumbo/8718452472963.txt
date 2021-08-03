@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Gezouten Pinda Mix 200g",
+    "available": true,
+    "price": 1.42,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/180920200559_377425ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Witte Rijst 1 Minuut 2 x 150g",
+    "available": true,
+    "price": 1.07,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/110220211149_394104CUP-1_360x360.png",
+    "source": "Jumbo.com"
+}

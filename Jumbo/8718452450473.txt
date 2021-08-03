@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Verse Maaltijd Thaise Rijsttafel met Gele Curry, Tofu en Kip Cashew 450g",
+    "available": true,
+    "price": 5,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/131120200114_342527BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

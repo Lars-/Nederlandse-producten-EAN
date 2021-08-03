@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Munt Plantje Biologisch",
+    "available": true,
+    "price": 1.89,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/070520192038_165291POT-1_360x360.png",
+    "source": "Jumbo.com"
+}

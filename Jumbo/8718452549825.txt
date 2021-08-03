@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Fruitdrink Framboos met Appel 10 x 200ml",
+    "available": true,
+    "price": 1.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/200520211324_224401PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

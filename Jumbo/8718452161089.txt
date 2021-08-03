@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Houdbare Volle Melk 6 x 1 L - Voordeelverpakking",
+    "available": true,
+    "price": 6.74,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/061220191818_305426PAK-9_360x360.png",
+    "source": "Jumbo.com"
+}

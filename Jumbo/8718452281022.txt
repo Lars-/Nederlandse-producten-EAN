@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Toiletpapier Zacht & Sterk 3 Laags Ecologisch 6 Rollen",
+    "available": true,
+    "price": 1.67,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/100520190052_198441PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

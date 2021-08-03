@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Verse Vrije Uitloopeieren Respeggt 6 Stuks",
+    "available": true,
+    "price": 2.39,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/150420201154_352872DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

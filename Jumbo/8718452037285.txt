@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Goudeerlijk - Worstenbroodjes - 4 Stuks",
+    "available": true,
+    "price": 4.49,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": null,
+    "source": "Jumbo.com"
+}

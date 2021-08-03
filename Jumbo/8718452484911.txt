@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Verse Maaltijd Stamppot Witlof met Hamreepjes en Kaasblokjes 450g",
+    "available": true,
+    "price": 5,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/060120210738_346719BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

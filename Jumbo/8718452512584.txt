@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Traditionele Oliebollen Mix 500g",
+    "available": true,
+    "price": 1.05,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/151220200004_26977DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

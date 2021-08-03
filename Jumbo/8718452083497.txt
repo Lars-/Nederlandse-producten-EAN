@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Honden Vleesstrips Kip 15 stuks",
+    "available": true,
+    "price": 0.98,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/154888PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

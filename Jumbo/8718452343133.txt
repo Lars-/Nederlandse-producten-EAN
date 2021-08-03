@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Grove Braadworst Kruidnagel Varken 400g",
+    "available": true,
+    "price": 2.59,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/120320210607_87880BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

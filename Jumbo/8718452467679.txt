@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Tukkie Doen Peer, Biscuit & Granen Drinkpapje Kant-en-Klaar vanaf 6 Maanden 2 x 250ml",
+    "available": true,
+    "price": 1.42,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/170720200026_374699PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

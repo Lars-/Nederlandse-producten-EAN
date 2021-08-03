@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Nieuwe Standaard Kipdijfilet Blokjes 350g",
+    "available": true,
+    "price": 3.75,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/140920190154_308373BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

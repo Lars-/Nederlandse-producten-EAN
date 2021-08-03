@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Cr\u00e8me Mergpijpjes Zacht & Zoet 210g",
+    "available": true,
+    "price": 1.49,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/130320210520_185548STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

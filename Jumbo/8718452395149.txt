@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Nacho Chips 200g",
+    "available": false,
+    "price": 1.41,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/101020190443_278026ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

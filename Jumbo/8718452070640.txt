@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Ongezouten Cranberry Mix 200g",
+    "available": true,
+    "price": 2.19,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/051220201151_377423ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

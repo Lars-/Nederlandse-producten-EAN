@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "La Place Pure Chocolade Ananas & Chili 180g",
+    "available": true,
+    "price": 2.56,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/190320202323_342811STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

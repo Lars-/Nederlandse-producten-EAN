@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Golden Delicious Mildzoet Appel 4 Stuks",
+    "available": true,
+    "price": 1.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/250620200313_306039SC-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Burrito Bowl 315g",
+    "available": true,
+    "price": 4.19,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/260320211305_414914BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

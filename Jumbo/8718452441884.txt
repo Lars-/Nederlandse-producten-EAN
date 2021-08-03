@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Tafelkleed 138 x 220cm",
+    "available": true,
+    "price": 4.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/121220192351_303017STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

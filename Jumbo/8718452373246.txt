@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Mexicaanse Roerbakmix 600g",
+    "available": true,
+    "price": 1.86,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/141220190634_292458STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

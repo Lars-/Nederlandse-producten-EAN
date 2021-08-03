@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Krulsla Melange Gewassen 100g",
+    "available": true,
+    "price": 1.08,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/120320201656_338185ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

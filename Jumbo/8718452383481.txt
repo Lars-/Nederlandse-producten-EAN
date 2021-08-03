@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Verse Chinese Tomatensoep 500g",
+    "available": true,
+    "price": 3.14,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/181020192258_300864EM-1_360x360.png",
+    "source": "Jumbo.com"
+}

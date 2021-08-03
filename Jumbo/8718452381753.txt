@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Huiswijn - Halfzoet - 1L",
+    "available": true,
+    "price": 23.7,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/180320201028_269934DSL-1_360x360.png",
+    "source": "Jumbo.com"
+}

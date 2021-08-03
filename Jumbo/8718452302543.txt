@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo - Aardbeien Soesjes - 10 Stuks",
+    "available": true,
+    "price": 3.09,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": null,
+    "source": "Jumbo.com"
+}

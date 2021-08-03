@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Chocolademelk Halfvol 12 x 1L",
+    "available": true,
+    "price": 10.2,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/240920201356_208405DSL-1_360x360.png",
+    "source": "Jumbo.com"
+}

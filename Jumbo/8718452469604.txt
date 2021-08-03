@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Filet Americain Naturel 150g",
+    "available": true,
+    "price": 2.47,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/180320200029_291849BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

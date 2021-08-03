@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "JUMBO Mini Sla Romaine Little Gem 2 Stuks",
+    "available": false,
+    "price": 1.49,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/090920202358_202327STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

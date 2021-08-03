@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Tonijn Natvoer Kat 85g",
+    "available": true,
+    "price": 0.46,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/050520190839_149255BLK-1_360x360.png",
+    "source": "Jumbo.com"
+}

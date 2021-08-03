@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Eierwafels met Hazelnootsmaak 8 Stuks",
+    "available": true,
+    "price": 1.6,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/160120202245_317405STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

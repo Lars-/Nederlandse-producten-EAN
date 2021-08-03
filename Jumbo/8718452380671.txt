@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Huiswijn - Fruitig - Zuid Afrika - Cinsault - Ruby Cabernet - 6 x 1L",
+    "available": true,
+    "price": 23.7,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/180320201025_269545DSL-1_360x360.png",
+    "source": "Jumbo.com"
+}

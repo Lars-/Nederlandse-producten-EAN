@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Gist 3 x 7g",
+    "available": false,
+    "price": 0.4,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/060520190029_156397STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

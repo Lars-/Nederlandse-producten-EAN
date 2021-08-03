@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Oven Bonenschotel met Kip 450g",
+    "available": true,
+    "price": 5,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/260920201605_386316BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

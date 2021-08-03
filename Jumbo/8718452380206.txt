@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Basmatirijst Zilvervlies 400g",
+    "available": true,
+    "price": 1.32,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/260520211550_288435DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

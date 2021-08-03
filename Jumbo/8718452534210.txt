@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Vruchten Hartjes Zoet & Hard 300g",
+    "available": true,
+    "price": 0.82,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/050620210115_439039ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

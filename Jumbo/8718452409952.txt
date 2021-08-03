@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "La Place Melkchocolade met Karamel en Zeezout 180g",
+    "available": true,
+    "price": 4.28,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/200820190019_282959ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

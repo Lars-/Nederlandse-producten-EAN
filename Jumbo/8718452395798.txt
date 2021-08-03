@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "La Place Tomatenketchup 525g",
+    "available": true,
+    "price": 1.71,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/271120190426_283795FLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

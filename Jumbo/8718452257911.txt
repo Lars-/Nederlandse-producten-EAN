@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Maiswafels Rozemarijn & Amaranth 4 x 32, 5g",
+    "available": true,
+    "price": 1.78,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/080520191800_192628STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

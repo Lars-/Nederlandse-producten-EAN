@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Knoflook Dip 150g",
+    "available": true,
+    "price": 1.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/040320210105_204245BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

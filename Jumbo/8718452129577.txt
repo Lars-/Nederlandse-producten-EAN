@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo - Appel-kruimeltaart - 2 Punten",
+    "available": true,
+    "price": 2.19,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": null,
+    "source": "Jumbo.com"
+}

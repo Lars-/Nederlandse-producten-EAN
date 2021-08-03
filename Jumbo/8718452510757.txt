@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Ongezouten Cashews 200g",
+    "available": true,
+    "price": 2.36,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/100220211254_408537ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

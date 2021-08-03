@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Regular Voordeelverpakking 56 Koffiepads 389g",
+    "available": true,
+    "price": 3.62,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/120220200438_319491ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

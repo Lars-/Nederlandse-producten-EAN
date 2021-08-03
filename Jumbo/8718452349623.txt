@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo - Italiaanse Bollen Voorgebakken - 4 Stuks",
+    "available": false,
+    "price": 1.72,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/240720202327_224332ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Biologische Kippenbouillon 6 Stuks",
+    "available": true,
+    "price": 0.85,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": null,
+    "source": "Jumbo.com"
+}

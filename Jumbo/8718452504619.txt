@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Luiers 2 4-8 kg Probeer Verpakking 5 Stuks",
+    "available": true,
+    "price": 1.45,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/040220210610_383795ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

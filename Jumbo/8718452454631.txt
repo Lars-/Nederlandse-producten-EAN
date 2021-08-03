@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Lunchsalade Kruidige Kip Harissa 300g",
+    "available": true,
+    "price": 3.86,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/170320202359_230541BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

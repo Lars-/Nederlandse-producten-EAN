@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo - Slagroomtaart",
+    "available": true,
+    "price": 9.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/270920200002_354503STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

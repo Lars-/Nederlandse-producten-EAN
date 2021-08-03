@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Rode Uien Gesneden 150g",
+    "available": true,
+    "price": 1.57,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/110520190324_212642STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

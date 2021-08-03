@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Zwarte Thee Earl Grey 20 Stuks 40g",
+    "available": true,
+    "price": 0.45,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/090520190226_195757DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

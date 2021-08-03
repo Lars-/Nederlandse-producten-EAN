@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Ongezouten Paranoten 170g",
+    "available": true,
+    "price": 3.69,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/110520192040_213422STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

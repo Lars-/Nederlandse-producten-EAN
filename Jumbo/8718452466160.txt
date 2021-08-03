@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo EK Luierbroekjes Maat 4 8-14 kg - 4 x 22 Stuks - Voordeelverpakking",
+    "available": true,
+    "price": 19.56,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/230420211513_361181DSL-1_360x360.png",
+    "source": "Jumbo.com"
+}

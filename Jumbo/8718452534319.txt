@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Sweet Mint Suikervrije Kauwgom 70 Stuks 105g",
+    "available": true,
+    "price": 1.49,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/271020201112_395074POT-1_360x360.png",
+    "source": "Jumbo.com"
+}

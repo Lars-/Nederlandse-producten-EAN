@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Garden Goods Poppy Narcissus Repairing Conditioner 250ml",
+    "available": true,
+    "price": 2.89,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/110820200715_376393TUB-1_360x360.png",
+    "source": "Jumbo.com"
+}

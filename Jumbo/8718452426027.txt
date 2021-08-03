@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Appelronde Koeken 6 Stuks",
+    "available": true,
+    "price": 2.02,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/191120190559_300887PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

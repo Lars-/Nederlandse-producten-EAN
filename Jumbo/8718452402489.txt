@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Meergranen Biscuits Rozijn Voordeel Verpakking 9 x 37, 5g",
+    "available": true,
+    "price": 1.47,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/250220210102_300467DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

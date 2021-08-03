@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Hazelnoot Pure Chocolade Biologisch 100g",
+    "available": false,
+    "price": 1.55,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/040320211443_192862RP-1_360x360.png",
+    "source": "Jumbo.com"
+}

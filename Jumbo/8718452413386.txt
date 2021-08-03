@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Sat\u00e9saus 400ml",
+    "available": true,
+    "price": 1.34,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/210120200550_323838EM-1_360x360.png",
+    "source": "Jumbo.com"
+}

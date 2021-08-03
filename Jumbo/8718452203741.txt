@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Peper 4 Seizoenen 150g",
+    "available": true,
+    "price": 5.24,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/060520191702_182205POT-1_360x360.png",
+    "source": "Jumbo.com"
+}

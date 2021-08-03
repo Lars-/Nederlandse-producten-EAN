@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Cookies & Cream 6 Stuks 150g",
+    "available": true,
+    "price": 1.29,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/270520210504_426884DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

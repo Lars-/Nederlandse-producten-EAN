@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Veggie Chef Vegetarische Groente Schijf Voordeel 400g",
+    "available": true,
+    "price": 3.09,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/070520192252_192801STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Vochtige Toetendoekjes Ademvrij 20 Stuks",
+    "available": true,
+    "price": 0.95,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/210120210726_381969PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Cornets Aardbei Ijsjes 6 Stuks",
+    "available": true,
+    "price": 1.77,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/030820190205_157447DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

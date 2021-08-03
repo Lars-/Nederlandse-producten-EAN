@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Kipsat\u00e9 Salade 175g",
+    "available": false,
+    "price": 1.68,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/010920201208_382385BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

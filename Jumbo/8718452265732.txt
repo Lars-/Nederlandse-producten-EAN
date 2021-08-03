@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Wortelen 1kg",
+    "available": true,
+    "price": 0.85,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/080520191455_196113ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

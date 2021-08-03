@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo - Appel-citroenvlaai - Half",
+    "available": true,
+    "price": 6,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": null,
+    "source": "Jumbo.com"
+}

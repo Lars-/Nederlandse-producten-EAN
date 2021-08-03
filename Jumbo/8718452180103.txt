@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Stroopwafel 8 x 29g",
+    "available": true,
+    "price": 2.29,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/060520192312_187710PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

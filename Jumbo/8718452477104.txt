@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Melk Biscuits Aardbeiensmaak 6 x 2 Stuks 41g",
+    "available": true,
+    "price": 1.29,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/060120211412_392558STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

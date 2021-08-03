@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Direct van de Boerderij Biologische Volle Kwark 450g",
+    "available": true,
+    "price": 1.89,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/010520211241_427789BKR-1_360x360.png",
+    "source": "Jumbo.com"
+}

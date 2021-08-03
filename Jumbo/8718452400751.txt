@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Geraspt Geitenkaas 50+ 150g",
+    "available": true,
+    "price": 1.83,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/220420202339_178378STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

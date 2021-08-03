@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Lekker Veggie Linzenburger Vegan 200g",
+    "available": true,
+    "price": 2.65,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/031220200539_308483STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

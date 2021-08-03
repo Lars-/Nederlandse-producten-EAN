@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Gezouten Cashews Voordeelverpakking 500g",
+    "available": true,
+    "price": 5.58,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/120320210413_193408ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

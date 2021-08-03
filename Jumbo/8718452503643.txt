@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Vloeibaar Frituurvet 3L",
+    "available": true,
+    "price": 5.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/140120211102_410250FLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

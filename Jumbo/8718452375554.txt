@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Runderbouillon 340ml",
+    "available": true,
+    "price": 1.51,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/150520190721_269150POT-1_360x360.png",
+    "source": "Jumbo.com"
+}

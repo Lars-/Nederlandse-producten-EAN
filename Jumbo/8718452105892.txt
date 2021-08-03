@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Westland Rundvleessalade 4 x 140g",
+    "available": true,
+    "price": 2.76,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/220720201436_386702CUP-1_360x360.png",
+    "source": "Jumbo.com"
+}

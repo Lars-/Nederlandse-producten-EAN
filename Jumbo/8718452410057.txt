@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Lekker Vrij van Gluten Digestives Melkchocolade 165g",
+    "available": true,
+    "price": 1.79,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/051220190439_295215DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

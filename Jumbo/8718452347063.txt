@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Special Flakes Rode Vruchten 300g",
+    "available": true,
+    "price": 1.12,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/060220190426_222815DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

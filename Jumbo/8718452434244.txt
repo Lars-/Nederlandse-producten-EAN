@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Belgische Mayo met Ei 530ml",
+    "available": true,
+    "price": 1.03,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/061120191224_305999POT-1_360x360.png",
+    "source": "Jumbo.com"
+}

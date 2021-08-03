@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Spices Winter 20 Theezakjes 36g",
+    "available": true,
+    "price": 0.9,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/181020190851_306225DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

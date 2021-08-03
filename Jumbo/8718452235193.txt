@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Kattenbrokjes In Saus met Zalm en Kabbeljauw 405g",
+    "available": true,
+    "price": 0.39,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/080520190458_190579BLK-1_360x360.png",
+    "source": "Jumbo.com"
+}

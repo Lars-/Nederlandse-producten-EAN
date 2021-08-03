@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Ragout Kip 6 x 400g",
+    "available": true,
+    "price": 7.74,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/240920201348_304145TRL-1_360x360.png",
+    "source": "Jumbo.com"
+}

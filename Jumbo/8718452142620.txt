@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Spaghetti Naturel 500g",
+    "available": true,
+    "price": 0.57,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/070520191601_166298ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

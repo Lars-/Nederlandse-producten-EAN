@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Chocolate Chip Cookies 12 Stuks 225g",
+    "available": true,
+    "price": 0.75,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/191120190445_214363PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Volledig Diervoeder Adult Kip & Rijst 800g",
+    "available": true,
+    "price": 3.35,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/091020200346_383777ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

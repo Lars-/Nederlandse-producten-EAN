@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Groentenrisotto",
+    "available": true,
+    "price": 5,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/091120202345_379328BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

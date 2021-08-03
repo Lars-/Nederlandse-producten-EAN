@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Lekker Veggie Tempehblokjes Gemarineerd Vegan 170g",
+    "available": true,
+    "price": 2.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/031220200211_229310BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

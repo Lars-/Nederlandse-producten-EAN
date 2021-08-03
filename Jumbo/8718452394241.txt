@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo - Ribera del Duero - Tempranillo - 750ML",
+    "available": true,
+    "price": 5.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/040920200038_306004FLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

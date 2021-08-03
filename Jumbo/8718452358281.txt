@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Hoog Zonnecr\u00e8me SPF 30 100ml",
+    "available": true,
+    "price": 5.5,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/280220190518_227076TUB-1_360x360.png",
+    "source": "Jumbo.com"
+}

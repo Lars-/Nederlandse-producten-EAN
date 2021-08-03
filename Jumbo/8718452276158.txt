@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Opzetborstels Elektrische Tandenborstel 2 Stuks",
+    "available": false,
+    "price": 3.85,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/080520190443_159314STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

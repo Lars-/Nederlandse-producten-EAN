@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Gehaktstaaf Pikant 4 x 125g",
+    "available": true,
+    "price": 3.59,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/110520191306_203132STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

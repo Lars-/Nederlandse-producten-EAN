@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Snackgroente Wortelen 650g",
+    "available": false,
+    "price": 2.5,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/270320210023_343941BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Goed Begin 500g",
+    "available": true,
+    "price": 0.95,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/081020200103_383449CUP-1_360x360.png",
+    "source": "Jumbo.com"
+}

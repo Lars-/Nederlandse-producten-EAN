@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Ricotta & Spinazie Ravioli 250g",
+    "available": true,
+    "price": 2.67,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/110520191709_208687ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

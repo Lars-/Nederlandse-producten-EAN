@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Roze Koeken 4 stuks Los Verpakt",
+    "available": true,
+    "price": 1.64,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/130720190748_83810STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo - Saucijzenbroodjes - 4 Stuks",
+    "available": true,
+    "price": 1.27,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/220920200003_188537PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

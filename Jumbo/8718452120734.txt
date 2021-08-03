@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Creamer Sticks 50 Stuks 125g",
+    "available": true,
+    "price": 2.17,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/160320210111_131166DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

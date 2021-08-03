@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Walnoten Ongebrand 5 x 25g",
+    "available": true,
+    "price": 3.06,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/070520191024_192108STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Bospaddenstoelensoep 300ml",
+    "available": true,
+    "price": 1.13,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/171220200946_383440ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Havermuesli Biologisch 500g",
+    "available": true,
+    "price": 1.82,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/030120201305_224789ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

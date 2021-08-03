@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "La Place Koffiebonen Mexico Single Origin 500g",
+    "available": true,
+    "price": 6.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/091020200333_323836ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

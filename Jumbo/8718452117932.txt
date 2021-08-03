@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Pedaalemmerzakken Hoog 30 Liter 20 Stuks",
+    "available": true,
+    "price": 1.65,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/080520191659_163368ROL-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Maaltijdpakket Kipkerrie 1, 2kg",
+    "available": true,
+    "price": 5.28,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/041020192309_304002PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

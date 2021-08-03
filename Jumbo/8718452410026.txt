@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Lekker Vrij van Gluten Luchtige Crackers 130g",
+    "available": true,
+    "price": 1.19,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/161220200547_295212PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Dressing 1000 Islands 450ml",
+    "available": true,
+    "price": 1.29,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/070820191210_156424FLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

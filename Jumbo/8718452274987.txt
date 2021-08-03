@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Fruitsiroop Grenadine 750ml",
+    "available": true,
+    "price": 1.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/050920192359_294103BLK-1_360x360.png",
+    "source": "Jumbo.com"
+}

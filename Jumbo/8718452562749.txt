@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Goudeerlijk - Wit Brood - Half - Vriesvers",
+    "available": true,
+    "price": 1.13,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/190320211626_178145ZK-9_360x360.png",
+    "source": "Jumbo.com"
+}

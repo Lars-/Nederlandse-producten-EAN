@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Bakken & Braden Olijf 400ml",
+    "available": true,
+    "price": 1.45,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/121120200245_383480FLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

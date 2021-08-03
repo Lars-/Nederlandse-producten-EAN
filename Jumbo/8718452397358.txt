@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Fuerza Energy Drink with Taurine & Caffeine Original 6 x 250ml",
+    "available": true,
+    "price": 2.52,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/031120200458_358378PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

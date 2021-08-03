@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Luncheon Meat Mager 200g",
+    "available": true,
+    "price": 1.28,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/200220190625_213210BLK-1_360x360.png",
+    "source": "Jumbo.com"
+}

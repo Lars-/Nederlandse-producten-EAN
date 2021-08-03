@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Kokosmakronen 360g",
+    "available": true,
+    "price": 1.87,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/051020201746_292079STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

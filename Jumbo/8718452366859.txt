@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Halfvolle Melk met Beter Leven Keurmerk 1 Ster 6 x 1L",
+    "available": true,
+    "price": 6,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/090420201133_235184DSL-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Kruidenthee Kamille 22, 5g",
+    "available": true,
+    "price": 0.74,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/071120190155_305991DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

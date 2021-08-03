@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Mihoen 250g",
+    "available": true,
+    "price": 1.12,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/080520192036_195428STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Ontbijtkoek Naturel Ongesneden 550g",
+    "available": true,
+    "price": 0.88,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/060520192106_187561STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

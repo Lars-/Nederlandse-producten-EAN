@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Jodekoeken 20 Stuks",
+    "available": true,
+    "price": 1.15,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/130520190644_215183STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

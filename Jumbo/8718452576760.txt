@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "De Ruiter's Banket Ambachtelijke Speculaas Molens 380g",
+    "available": true,
+    "price": 1.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/051120200443_363932ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

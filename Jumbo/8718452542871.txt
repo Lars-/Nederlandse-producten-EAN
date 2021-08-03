@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Snacksalade Biet Geitenkaas 200g",
+    "available": true,
+    "price": 2.85,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/270320210314_414955BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

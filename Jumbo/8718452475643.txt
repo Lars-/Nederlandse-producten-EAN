@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Garden Goods Fig Rose Shower Gel 300ml",
+    "available": true,
+    "price": 2.89,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/100820201953_376387FLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

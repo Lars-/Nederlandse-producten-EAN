@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Roomijs Pecan Karamel 500g",
+    "available": true,
+    "price": 3.38,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/200420190606_224279BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

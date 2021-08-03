@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Choco Mix 3 Smaken 455g",
+    "available": true,
+    "price": 2.23,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/080620210006_203177ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Gouda Holland Belegen Kaas 48+ Stuk Voordeelverpakking 910g",
+    "available": true,
+    "price": 8.38,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/251220200101_259364BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

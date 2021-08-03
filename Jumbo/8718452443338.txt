@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Ham Smeerkaas 20+ 200g",
+    "available": true,
+    "price": 0.92,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/070520202252_358477STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

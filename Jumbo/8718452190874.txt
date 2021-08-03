@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Gelderse Rookworst 375g",
+    "available": true,
+    "price": 1.61,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/060520190018_162461ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

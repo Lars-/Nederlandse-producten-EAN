@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Rabarbercompote 360g",
+    "available": true,
+    "price": 1.03,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/060820190701_230328POT-1_360x360.png",
+    "source": "Jumbo.com"
+}

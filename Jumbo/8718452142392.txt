@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Hair & Body 2 in 1 6 x 250ml",
+    "available": true,
+    "price": 7.56,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/240920201333_166532DSL-1_360x360.png",
+    "source": "Jumbo.com"
+}

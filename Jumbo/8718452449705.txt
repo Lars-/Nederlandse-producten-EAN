@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Premium All in One Vaatwastabs 25 x 15g",
+    "available": true,
+    "price": 4.19,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/040320211627_370404STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

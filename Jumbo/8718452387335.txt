@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Gezouten Pistache Noten Mix 150g",
+    "available": true,
+    "price": 2.65,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/180520191246_245938CUP-1_360x360.png",
+    "source": "Jumbo.com"
+}

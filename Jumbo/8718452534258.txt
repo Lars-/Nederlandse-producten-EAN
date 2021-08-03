@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Suikervrije Kauwgom Extra Mint 70 Stuks",
+    "available": true,
+    "price": 1.88,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/020420190929_226006POT-1_360x360.png",
+    "source": "Jumbo.com"
+}

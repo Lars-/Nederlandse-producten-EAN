@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Slagersgehaktbal Rund & Varken 8 Stuks 800g",
+    "available": true,
+    "price": 6,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/061220190420_213591BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

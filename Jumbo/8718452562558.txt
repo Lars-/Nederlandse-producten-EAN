@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Goudeerlijk - Donker Meergranen Brood - Vriesvers",
+    "available": true,
+    "price": 2.19,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/190320211650_175931ZK-9_360x360.png",
+    "source": "Jumbo.com"
+}

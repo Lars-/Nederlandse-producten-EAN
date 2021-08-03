@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Plantaardige Haver Drink 1L",
+    "available": true,
+    "price": 1.85,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/010520210151_433904PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

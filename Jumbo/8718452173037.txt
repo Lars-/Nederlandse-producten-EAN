@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Zilvervliesrijst Voordeelverpakking 1kg",
+    "available": true,
+    "price": 1.43,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/250320211116_409922DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

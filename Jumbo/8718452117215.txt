@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Containerzakken Biologisch 140 L 3 Stuks",
+    "available": true,
+    "price": 1.97,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/220220200124_163436ROL-1_360x360.png",
+    "source": "Jumbo.com"
+}

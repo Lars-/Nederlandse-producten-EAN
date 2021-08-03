@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Pate met Kip Natvoer Kat 400g",
+    "available": true,
+    "price": 0.58,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/070520191241_190651BLK-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Indonesische Rijsttafel met Tumis Boontjes, Kip Sat\u00e9 en Kip Ritjah 450g",
+    "available": true,
+    "price": 5.25,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/061020200928_364026BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

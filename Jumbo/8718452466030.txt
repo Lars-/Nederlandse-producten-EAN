@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Luchtige Crackers Volkoren met Rijstebloem 12 pack",
+    "available": true,
+    "price": 9.36,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/240920201351_189693DSL-1_360x360.png",
+    "source": "Jumbo.com"
+}

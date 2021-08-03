@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Roomboter Gezouten Biologisch 250g",
+    "available": true,
+    "price": 2.58,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/120520192017_216806STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

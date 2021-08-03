@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo WC Blok Lavendel Navulling 2 x 40g",
+    "available": true,
+    "price": 0.98,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/070520190413_186924DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

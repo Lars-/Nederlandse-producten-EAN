@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Cremespoeling Repair 500ml",
+    "available": true,
+    "price": 2.91,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/100520191530_170261FLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

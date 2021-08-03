@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Biologische Frambozen 250g",
+    "available": true,
+    "price": 2.46,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/110220211558_307929BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

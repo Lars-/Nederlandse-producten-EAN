@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo 4 9-14 kg 3 x 80 Stuks - Voordeelverpakking",
+    "available": true,
+    "price": 30.66,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/010320211703_381987DSL-1_360x360.png",
+    "source": "Jumbo.com"
+}

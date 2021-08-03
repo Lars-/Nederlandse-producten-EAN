@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Linguine Aglio Olio 350g",
+    "available": true,
+    "price": 4,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/160620210014_437292BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

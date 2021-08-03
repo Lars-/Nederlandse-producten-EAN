@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Marcaires Gewassen Korstkaas 50+ 76g",
+    "available": true,
+    "price": 2,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/220920200048_371911STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

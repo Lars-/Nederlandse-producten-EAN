@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Iberico Kaas 50+ 100g",
+    "available": true,
+    "price": 1.89,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/090420210658_411272KRT-1_360x360.png",
+    "source": "Jumbo.com"
+}

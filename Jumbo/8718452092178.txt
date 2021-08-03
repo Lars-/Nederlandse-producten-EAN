@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo 15 Kakel Verse Vrije Uitloopeieren M",
+    "available": true,
+    "price": 4.52,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/290620210027_297035DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

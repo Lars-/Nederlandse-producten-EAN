@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Filetlapjes Varken 2 Stuks 230g",
+    "available": true,
+    "price": 2.29,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/110520190039_200706PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

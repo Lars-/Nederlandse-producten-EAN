@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Woksaus Pakistaanse Curry 160g",
+    "available": true,
+    "price": 2.05,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/080520191333_194886STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Eieren 6 Stuks Biologisch S\/M\/L",
+    "available": true,
+    "price": 2.41,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/061220191812_297020DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

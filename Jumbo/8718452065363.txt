@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Cr\u00e8me Br\u00fbl\u00e9e Koekjes 175g",
+    "available": false,
+    "price": 1.61,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/260320210118_153211PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

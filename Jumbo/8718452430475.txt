@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Verse Friet Voorgebakken 1kg",
+    "available": true,
+    "price": 1.27,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/080120211456_391170ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

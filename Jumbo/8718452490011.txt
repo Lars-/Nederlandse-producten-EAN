@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Mix voor No Bake Cheesecake Naturel 365g",
+    "available": true,
+    "price": 2.29,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/091020200359_388318DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

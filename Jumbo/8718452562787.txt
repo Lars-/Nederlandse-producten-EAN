@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Goudeerlijk - Zonnepit Wit - Vriesvers",
+    "available": true,
+    "price": 2.25,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/130320210011_294728STK-9_360x360.png",
+    "source": "Jumbo.com"
+}

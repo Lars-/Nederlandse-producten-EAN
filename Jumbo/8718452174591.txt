@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Cornets Vanille Ijsjes 6 Stuks 389g",
+    "available": true,
+    "price": 1.12,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/051220182328_157443DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

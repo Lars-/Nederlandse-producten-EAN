@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Huiswijn - Droog & Fris - Chili - Sauvignon Blanc - 6 x 1L",
+    "available": true,
+    "price": 23.94,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/240920201324_269541DSL-1_360x360.png",
+    "source": "Jumbo.com"
+}

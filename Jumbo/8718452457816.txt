@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Kookroom 20% Vet 200ml",
+    "available": true,
+    "price": 0.74,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/040620202307_359213PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

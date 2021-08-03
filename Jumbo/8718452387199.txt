@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Pudding Cakeblokjes met Vanillesmaak 6 Stuks 300g",
+    "available": true,
+    "price": 1.78,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/021020200104_69469PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

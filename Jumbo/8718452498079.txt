@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Ribbel Paprika Chips 335g",
+    "available": true,
+    "price": 1.13,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/150120210551_398357ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

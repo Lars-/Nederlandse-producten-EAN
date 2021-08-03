@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Tomatensoep met Vermicelli & Soepballetjes 800ml",
+    "available": true,
+    "price": 1.11,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/195858BLK-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Aardbei Bavarois 459g",
+    "available": true,
+    "price": 2.99,
+    "minimumAmount": 1,
+    "maximumAmount": 50,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/100320200055_162593DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

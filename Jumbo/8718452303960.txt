@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo La Dolce Vita Farfalle 500g",
+    "available": false,
+    "price": 0.79,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/130220192230_201632ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

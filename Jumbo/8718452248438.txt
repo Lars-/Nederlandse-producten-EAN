@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Fruitsiroop Multifruit 750ml",
+    "available": true,
+    "price": 1.37,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/080520190909_191141FLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

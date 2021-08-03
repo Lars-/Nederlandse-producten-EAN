@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Zoute Pretzels & Sticks 250g",
+    "available": true,
+    "price": 0.82,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/180720190749_245971STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

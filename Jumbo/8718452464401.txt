@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Lekker Veggie Kruimgehakt Vegan 175g",
+    "available": true,
+    "price": 1.38,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/031220200118_386925BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Vegetarische Oven Kip Variantjes ca. 12 Stuks",
+    "available": true,
+    "price": 2.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/290820192325_273795DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Snackzoutjes Kaas 125g",
+    "available": true,
+    "price": 1.03,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/070520190658_188534STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

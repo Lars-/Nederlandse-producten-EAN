@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Pepermunt Kussens 200g",
+    "available": false,
+    "price": 0.7,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/190920191007_138929ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Goudeerlijk - Spelt Bruin Brood - Vriesvers",
+    "available": true,
+    "price": 2.55,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/160320210020_294739STK-9_360x360.png",
+    "source": "Jumbo.com"
+}

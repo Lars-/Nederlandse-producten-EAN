@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Water & Fruit Light Bosvruchten Koolzuurvrij 1,5L",
+    "available": true,
+    "price": 0.89,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/070520190059_183221PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

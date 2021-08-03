@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo - Frikandel Broodjes - 2 Stuks",
+    "available": true,
+    "price": 2.5,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/101220200431_347465PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

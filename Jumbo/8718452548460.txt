@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Soepstengels Volkoren 125g",
+    "available": true,
+    "price": 0.98,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/030520191120_135036DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

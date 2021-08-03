@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Cola Vanille Zero Sugar 330ml",
+    "available": true,
+    "price": 0.41,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/100520190950_203830BLK-1_360x360.png",
+    "source": "Jumbo.com"
+}

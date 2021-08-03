@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Jong Belegen Kaas 48+ Plakken 400 g - Voordeelverpakking",
+    "available": true,
+    "price": 3.85,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/140920190454_203773STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

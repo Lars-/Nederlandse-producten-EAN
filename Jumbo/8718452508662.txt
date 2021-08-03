@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Gebraden Gehaktbal Varken 8 Stuks 640g",
+    "available": true,
+    "price": 5.29,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/091020200044_385807BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

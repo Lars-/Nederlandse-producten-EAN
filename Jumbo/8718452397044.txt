@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Mokka Ladies met Cr\u00e8mevulling 240g",
+    "available": true,
+    "price": 2.29,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/120320210404_185547STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

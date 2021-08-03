@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Raw Lemonade 400ml",
+    "available": true,
+    "price": 1.69,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/160720210038_443525FLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

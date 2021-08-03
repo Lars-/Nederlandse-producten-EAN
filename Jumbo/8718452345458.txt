@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Soeppakket Tom Kha Kai Soep 900g",
+    "available": true,
+    "price": 4.79,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/050720190404_213989PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

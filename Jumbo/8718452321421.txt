@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Salade Mix Witte Hazelnoten, Amandelschaafsel, Pompoenpitten & Tomaatvlokken 40g",
+    "available": true,
+    "price": 1.05,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/110520190013_207278ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

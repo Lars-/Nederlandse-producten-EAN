@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Mix voor Cup Cakes met Glazuur 380g",
+    "available": true,
+    "price": 1.65,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/101220200015_398003PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

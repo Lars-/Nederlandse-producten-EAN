@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Soepballetjes Biologisch Rund 200g",
+    "available": true,
+    "price": 2.4,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/290620210139_173438BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

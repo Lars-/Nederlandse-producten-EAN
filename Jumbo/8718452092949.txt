@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Handzeep Lavendel 500ml",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/060520191441_160064FLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

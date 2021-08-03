@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Gebits Reiniging Tabletten 30 Stuks 105g",
+    "available": false,
+    "price": 1.24,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/070520190432_160375TUB-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Chinese 5-Spices 60g",
+    "available": true,
+    "price": 2.6,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/060520192119_182166BLK-1_360x360.png",
+    "source": "Jumbo.com"
+}

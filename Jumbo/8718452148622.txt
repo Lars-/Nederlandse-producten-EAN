@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Wol & Fijn Vloeibaar Wasmiddel 28 Wasbeurten 2x Geconcentreerd 980ml",
+    "available": true,
+    "price": 2.49,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/090520191440_200858FLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Mix Lasagnesaus 93g",
+    "available": true,
+    "price": 0.7,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/070820190545_283555STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

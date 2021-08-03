@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Steenoven Gebakken Pizza Formaggi 413g",
+    "available": true,
+    "price": 3.25,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/010120211122_375694DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

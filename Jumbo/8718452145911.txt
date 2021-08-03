@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Sat\u00e9 Pikant Saus 400ml",
+    "available": true,
+    "price": 1.96,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/200120202330_323845EM-1_360x360.png",
+    "source": "Jumbo.com"
+}

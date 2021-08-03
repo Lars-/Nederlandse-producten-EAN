@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Tandpasta Sprookjesboom 5 - 12 Jaar 75ml",
+    "available": true,
+    "price": 1.81,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/110820200729_385975BLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

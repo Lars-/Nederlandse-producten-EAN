@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Tuinerwten Biologisch 450g",
+    "available": true,
+    "price": 1.48,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/120520190607_169331DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

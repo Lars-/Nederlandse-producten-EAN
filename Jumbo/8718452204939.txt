@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo - Dubbel Donker Brood",
+    "available": true,
+    "price": 1.59,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/250820200918_300192STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

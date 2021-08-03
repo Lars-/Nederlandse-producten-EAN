@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Ontbijtkoek Parel Kandij Ongesneden 350g",
+    "available": true,
+    "price": 0.74,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/060520192043_187641STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Ketjap Asin 250ml",
+    "available": true,
+    "price": 0.78,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/080520192004_196718STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

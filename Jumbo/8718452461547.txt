@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Biologisch Stevige Linzensoep met Koriander 570ml",
+    "available": true,
+    "price": 1.74,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/280120211047_383693ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

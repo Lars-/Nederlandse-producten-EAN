@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Tagliolini Bicolore 250g",
+    "available": true,
+    "price": 1.79,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/170620210207_435982TAS-1_360x360.png",
+    "source": "Jumbo.com"
+}

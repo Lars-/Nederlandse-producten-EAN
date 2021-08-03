@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Doperwten Wortelen Extra Fijn 400g",
+    "available": true,
+    "price": 1.04,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/120320200914_303028BLK-1_360x360.png",
+    "source": "Jumbo.com"
+}

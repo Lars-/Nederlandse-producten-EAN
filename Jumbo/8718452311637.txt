@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Italiaanse Roerbakmix 400g",
+    "available": true,
+    "price": 1.79,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/291220180343_211728STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

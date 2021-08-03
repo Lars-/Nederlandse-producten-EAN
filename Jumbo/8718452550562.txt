@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Zoete Punt Paprika 500g",
+    "available": true,
+    "price": 3.19,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/040320211115_306326PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

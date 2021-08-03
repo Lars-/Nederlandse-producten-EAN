@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Granola Rozijnen, Pitten, Kokoschips, Noten 350g",
+    "available": true,
+    "price": 1.74,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/070520190901_190171DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

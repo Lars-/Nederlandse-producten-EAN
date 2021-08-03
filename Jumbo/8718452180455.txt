@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Ambachtelijke Snacks Rundvlees Kroket Oven 5 Stuks",
+    "available": true,
+    "price": 5.5,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/110520191307_203133STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

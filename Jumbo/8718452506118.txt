@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo - Knip Wit Brood van Brood",
+    "available": true,
+    "price": 1.5,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/101120200002_386271STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

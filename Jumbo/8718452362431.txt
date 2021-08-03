@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Rundergehakt 1kg",
+    "available": true,
+    "price": 5.5,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/070520192357_180842BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

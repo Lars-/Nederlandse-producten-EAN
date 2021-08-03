@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Standaard 5 - Peutermelk van 24-36 Maanden - 2 x 400g",
+    "available": true,
+    "price": 6.29,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/030720211658_438207PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

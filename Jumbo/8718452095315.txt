@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Melk Hazelnoot Chocolade Reep 100g",
+    "available": true,
+    "price": 1.32,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/061120190954_295231RP-1_360x360.png",
+    "source": "Jumbo.com"
+}

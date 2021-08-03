@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Peterselie Plantje Biologisch",
+    "available": true,
+    "price": 1.59,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/070520192032_188356POT-1_360x360.png",
+    "source": "Jumbo.com"
+}

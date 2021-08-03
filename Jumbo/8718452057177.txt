@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Hondenbrokken in Saus Kip en Groenen 6 x 830g",
+    "available": true,
+    "price": 5.7,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/240920201311_147545TRL-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Hagelslag Puur 380g",
+    "available": true,
+    "price": 1.2,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": null,
+    "source": "Jumbo.com"
+}

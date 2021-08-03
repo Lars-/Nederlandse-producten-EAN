@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Rode Paprika Gegrild 290g",
+    "available": true,
+    "price": 1.7,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/040520192227_143404POT-1_360x360.png",
+    "source": "Jumbo.com"
+}

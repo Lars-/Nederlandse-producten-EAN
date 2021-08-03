@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Ongebrande Pecannoten 140g",
+    "available": true,
+    "price": 3.76,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/070520191017_192128STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

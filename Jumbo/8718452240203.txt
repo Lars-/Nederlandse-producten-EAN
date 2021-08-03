@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Mosterd Dille Dipper 45g",
+    "available": true,
+    "price": 1,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/170520191528_224487POT-1_360x360.png",
+    "source": "Jumbo.com"
+}

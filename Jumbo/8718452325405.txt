@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Wasabi Bollen 150g",
+    "available": true,
+    "price": 1.7,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/031220201219_394313ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

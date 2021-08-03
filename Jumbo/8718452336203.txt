@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Wok Olie 500ml",
+    "available": true,
+    "price": 3.46,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/240820190243_216512FLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

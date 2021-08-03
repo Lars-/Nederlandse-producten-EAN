@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Filetlapjes Gemarineerd 350g",
+    "available": true,
+    "price": 3.95,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/080620210007_201613PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

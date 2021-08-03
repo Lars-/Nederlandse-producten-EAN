@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Extra Puur Chocolade Reep 100g",
+    "available": true,
+    "price": 0.77,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/181120192352_295228RP-1_360x360.png",
+    "source": "Jumbo.com"
+}

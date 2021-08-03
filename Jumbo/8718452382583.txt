@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Kip Boomstam 400g",
+    "available": true,
+    "price": 3.39,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/110220210850_308390BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Paddenstoelen Bouillon Blokjes 8 Stuks",
+    "available": true,
+    "price": 0.69,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/120520190141_208403DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

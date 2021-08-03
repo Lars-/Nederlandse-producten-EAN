@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Rode Kool 350g",
+    "available": true,
+    "price": 0.86,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/160320190036_220927POT-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Huiswijn - Droog & Fris - Spanje - 1L",
+    "available": false,
+    "price": 3.79,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/100820201536_269301FLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

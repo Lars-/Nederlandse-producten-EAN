@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Helder Bruisend Perzik 1, 5L",
+    "available": true,
+    "price": 0.62,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/130520211149_428005FLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

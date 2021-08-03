@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Kattenbakvulling Silicagel 3, 8L",
+    "available": true,
+    "price": 3.58,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/070520191602_166864ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

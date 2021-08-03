@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Chocopasta Puur Biologisch 350g",
+    "available": true,
+    "price": 3.15,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/080520191632_165240POT-1_360x360.png",
+    "source": "Jumbo.com"
+}

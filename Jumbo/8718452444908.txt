@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Wapenaer Brokkelkaas 3 Jaar Gerijpt 48+ ca. 300g",
+    "available": true,
+    "price": 5.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/220920200607_329668STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

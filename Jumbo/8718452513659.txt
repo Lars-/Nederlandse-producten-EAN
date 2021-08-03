@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Franse Kwark Halfvol 500g",
+    "available": true,
+    "price": 1.18,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/221020201656_198299STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

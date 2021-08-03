@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Biologische Honingbos & Perzik Smaak Thee Infusie 15 Zakjes 24g",
+    "available": true,
+    "price": 1.39,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/260620200412_371535DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

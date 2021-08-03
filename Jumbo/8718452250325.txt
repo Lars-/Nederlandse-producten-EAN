@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Sinaasappel Thee 20 Stuks 30g",
+    "available": true,
+    "price": 1.14,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/090520190738_195776DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

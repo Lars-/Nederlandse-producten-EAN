@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Lenzenvloeistof Zachte Lenzen 250ml",
+    "available": true,
+    "price": 2.8,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/090520191525_166958FLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

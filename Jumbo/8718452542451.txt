@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Pittige Gevulde Scharreleieren 115g",
+    "available": true,
+    "price": 2.39,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/200320210144_410664BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

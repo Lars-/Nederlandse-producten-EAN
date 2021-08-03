@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Honden Kauwsticks Denta 4 stuks",
+    "available": true,
+    "price": 3.92,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/070520191619_153063DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

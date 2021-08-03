@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Biologische Extra Vierge Olijfolie 1L",
+    "available": true,
+    "price": 6.79,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/100420200017_288332FLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

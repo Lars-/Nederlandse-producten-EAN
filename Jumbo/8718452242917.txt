@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo - Meergranen Petit Pains - 4 Stuks",
+    "available": true,
+    "price": 1.28,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/230720202359_188599PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

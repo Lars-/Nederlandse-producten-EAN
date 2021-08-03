@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Groene Salade Oosters 250g",
+    "available": true,
+    "price": 3.39,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/160320210102_413525DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

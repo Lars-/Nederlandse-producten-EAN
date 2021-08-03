@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Pedaalemmerzakjes 10 Liter 40 Stuks",
+    "available": true,
+    "price": 0.88,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/220220200127_164643ROL-1_360x360.png",
+    "source": "Jumbo.com"
+}

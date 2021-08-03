@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Fruitmix Watermeloen en Mango 150g",
+    "available": false,
+    "price": 1.75,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/010720210227_441729DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

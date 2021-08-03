@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Bloemkoolrijst Diepvries 600g",
+    "available": true,
+    "price": 1.69,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/060720190336_273138ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

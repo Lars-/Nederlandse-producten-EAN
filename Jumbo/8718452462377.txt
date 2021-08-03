@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Premium Choc's Yoghurtroomijs & Blauwe Bes 3 x 84g",
+    "available": true,
+    "price": 1.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/210520200051_355658DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

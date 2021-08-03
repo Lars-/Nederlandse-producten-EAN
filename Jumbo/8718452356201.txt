@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo - Bruin Brood",
+    "available": true,
+    "price": 1,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/290720200013_300143STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

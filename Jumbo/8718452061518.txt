@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Pat\u00e9 met Lam & Groenten 300g",
+    "available": true,
+    "price": 0.95,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/200820200121_153062BLK-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Freshmint Suikervrije Kauwgom 70 Stuks 100g",
+    "available": true,
+    "price": 2.28,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/101020200450_226005POT-1_360x360.png",
+    "source": "Jumbo.com"
+}

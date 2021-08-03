@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Zoete Aardappel Biologisch 750g",
+    "available": true,
+    "price": 2.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/180220211622_213199ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

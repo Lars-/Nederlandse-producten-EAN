@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Wasverzachter Rice & Cotton 30 Wasbeurten 750ml",
+    "available": true,
+    "price": 1.69,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/100520190226_200843FLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

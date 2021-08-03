@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Nieuwe Standaard Kip Filet 4 Stuks 800g",
+    "available": true,
+    "price": 7,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/050220212341_308410BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

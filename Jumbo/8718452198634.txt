@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Tartaar Rund 2 Stuks 210g",
+    "available": true,
+    "price": 2.49,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/070520192141_176571TRA-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Slagers Achterham 115g",
+    "available": true,
+    "price": 2.1,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/210420211625_203868PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

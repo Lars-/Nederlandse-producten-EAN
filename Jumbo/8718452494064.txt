@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Luierbroekjes 5 12-17 kg - 4 x 20 Stuks - Voordeelverpakking",
+    "available": true,
+    "price": 19.56,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/110520210932_381981DSL-1_360x360.png",
+    "source": "Jumbo.com"
+}

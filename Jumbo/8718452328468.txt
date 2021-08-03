@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Biologisch Rundercarpaccio met Kaas, Extra Vergine Olijfolie en Pijnboompitten 120g",
+    "available": true,
+    "price": 3.97,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/290720200358_206865STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

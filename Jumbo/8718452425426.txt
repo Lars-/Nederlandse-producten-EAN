@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Vlaamse Frites 1kg",
+    "available": true,
+    "price": 1.56,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/221120191007_300441PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

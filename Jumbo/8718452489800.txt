@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Kleur Magnolia Vloeibaar Wasmiddel 100 Wasbeurten 5L",
+    "available": true,
+    "price": 7.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/290120212347_394365FLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

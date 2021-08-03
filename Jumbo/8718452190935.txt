@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Snacksalade Sojaboontjes 175g",
+    "available": true,
+    "price": 2.59,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/300320190457_230509BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

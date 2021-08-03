@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Muesli Reep Naturel 5 x 25g",
+    "available": true,
+    "price": 1.08,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/201120200348_389737DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

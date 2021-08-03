@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Caesar Groene Salade 285g",
+    "available": true,
+    "price": 3.26,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/200320200043_230576BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

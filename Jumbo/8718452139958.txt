@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Wasverzachter Fruity Berries 30 Wasbeurten 750ml",
+    "available": true,
+    "price": 2.18,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/100520190224_200835FLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

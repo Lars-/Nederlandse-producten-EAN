@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Mexicaanse Chili con Carne 450g",
+    "available": true,
+    "price": 2.5,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/140120210913_320512ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

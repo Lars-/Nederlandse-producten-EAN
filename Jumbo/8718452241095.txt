@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Kersen Dessertsaus 260g",
+    "available": true,
+    "price": 1.85,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/140520191235_190169STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

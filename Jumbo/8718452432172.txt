@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "JUMBO SALAMI",
+    "available": true,
+    "price": 8.94,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": null,
+    "source": "Jumbo.com"
+}

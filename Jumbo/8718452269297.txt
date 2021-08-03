@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Granaatappelpitjes 90g",
+    "available": true,
+    "price": 1.8,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/181120202340_388957DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

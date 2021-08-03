@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Luiers 5 11-16 kg 3 x 64 Stuks - Voordeelverpakking",
+    "available": true,
+    "price": 26.85,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/010320211400_382002DSL-1_360x360.png",
+    "source": "Jumbo.com"
+}

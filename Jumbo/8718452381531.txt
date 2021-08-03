@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Huiswijn - Droog & Fris - C\u00f4tes de Gascogne - 3L",
+    "available": true,
+    "price": 10.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/100820200936_269307PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

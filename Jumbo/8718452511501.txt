@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Stamppot Hutspot met Gehaktbal 500g",
+    "available": true,
+    "price": 3.44,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/060120210049_211830BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Cola Zero Sugar Raspberry 330ML",
+    "available": false,
+    "price": 0.45,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/250620211449_439286BLK-1_360x360.png",
+    "source": "Jumbo.com"
+}

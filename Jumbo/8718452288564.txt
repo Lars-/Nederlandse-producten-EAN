@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Champignonsoep 570ml",
+    "available": true,
+    "price": 1.87,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/190120210451_385708ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

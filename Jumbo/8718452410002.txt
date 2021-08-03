@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "La Place Pure Chocolade 180g",
+    "available": true,
+    "price": 4.28,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/190420201857_283314ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

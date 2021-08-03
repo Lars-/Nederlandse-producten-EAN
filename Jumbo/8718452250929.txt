@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Biologische Groene Thee Citroen 20 Zakjes 30g",
+    "available": true,
+    "price": 1.24,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/070520191511_191797DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

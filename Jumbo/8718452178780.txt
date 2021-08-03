@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Scheerschuim Gevoelige Huid voor Heren 250ml",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/050520192327_180708STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

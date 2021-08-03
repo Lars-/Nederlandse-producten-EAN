@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo - Wit Desem Baguette",
+    "available": true,
+    "price": 1.63,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/290720200331_188595PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

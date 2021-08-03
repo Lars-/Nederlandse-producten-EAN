@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Huiswijn - Soepel - 12 x 250ML",
+    "available": true,
+    "price": 21.24,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/180320200955_269298DSL-1_360x360.png",
+    "source": "Jumbo.com"
+}

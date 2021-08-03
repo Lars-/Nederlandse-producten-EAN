@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Mini Wortelen 325g",
+    "available": true,
+    "price": 1,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/171220191005_329564STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

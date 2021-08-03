@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Mozzarella Kaas 45+ Biologische 250g",
+    "available": true,
+    "price": 1.5,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/121120190059_270451STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

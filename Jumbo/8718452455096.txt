@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Spek met Ketjapsaus - Pakket voor Broodje Warm Vlees om op te Warmen 150g",
+    "available": true,
+    "price": 2.5,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/200420200649_347888BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

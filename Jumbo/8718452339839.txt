@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "La Place Chai Thee Vanille Smaak 15 Theezakjes 30g",
+    "available": true,
+    "price": 1.41,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/100120190624_225563DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

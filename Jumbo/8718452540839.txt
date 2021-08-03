@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Maaltijdsalade Kip Mexicaanse Fajita 400g",
+    "available": true,
+    "price": 4.29,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/160320210102_410509BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Volledig Diervoeder Kitten Kip & Rijst 800g",
+    "available": true,
+    "price": 3.36,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/091020200105_383771ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

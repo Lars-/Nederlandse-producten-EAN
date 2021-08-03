@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Stoofperen met Aardappelpuree en een Runderlap 500g",
+    "available": true,
+    "price": 3.67,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/060120210028_211852BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

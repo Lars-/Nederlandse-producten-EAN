@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Oven Bladerdeeg Hapjes 16 Stuks 192g",
+    "available": true,
+    "price": 2.5,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/170820200250_371002DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

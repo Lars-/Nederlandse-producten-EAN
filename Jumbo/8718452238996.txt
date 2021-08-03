@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Walnoten 60g",
+    "available": true,
+    "price": 2.58,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/061120201556_191071STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

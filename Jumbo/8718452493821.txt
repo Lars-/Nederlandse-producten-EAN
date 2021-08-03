@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Luiers 4+ 10-15 kg 72 Stuks - Voordeelverpakking",
+    "available": true,
+    "price": 9.38,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/031220201220_381988ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

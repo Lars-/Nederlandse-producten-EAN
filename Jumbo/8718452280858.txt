@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Geleisuiker 1kg",
+    "available": true,
+    "price": 1.25,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/090520191556_197216ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

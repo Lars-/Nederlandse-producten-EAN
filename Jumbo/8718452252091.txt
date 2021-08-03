@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Rooibos Original 40 Stuks 60g",
+    "available": true,
+    "price": 1.26,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/100520192110_202092DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

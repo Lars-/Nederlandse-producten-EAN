@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Hondenvoer Mini Senior Kip & Rijst 1,5kg",
+    "available": true,
+    "price": 5.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/200320210614_421508ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

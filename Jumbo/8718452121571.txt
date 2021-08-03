@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Douchecr\u00e8me Milk & Honey 250ml",
+    "available": true,
+    "price": 0.77,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/080520192003_163504FLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

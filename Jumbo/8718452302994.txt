@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Vochtige Lotion Doekjes Normale Huid 3 x 80 Stuks",
+    "available": false,
+    "price": 2.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/200120211024_390689STK-9_360x360.png",
+    "source": "Jumbo.com"
+}

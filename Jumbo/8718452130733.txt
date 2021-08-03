@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Halfvolle Koffiemelk Mild Pak 929ml",
+    "available": true,
+    "price": 1.23,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/100520190820_138661PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

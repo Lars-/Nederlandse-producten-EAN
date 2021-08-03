@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Corned Beef 115g",
+    "available": true,
+    "price": 2.22,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/101220201138_320374PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

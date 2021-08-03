@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Kruidenmix voor Witvis 10g",
+    "available": true,
+    "price": 0.87,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/170720190002_270733STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

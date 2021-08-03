@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "SMEERK LIGHT 20+",
+    "available": true,
+    "price": 9.2,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/280920201935_358520DSL-1_360x360.png",
+    "source": "Jumbo.com"
+}

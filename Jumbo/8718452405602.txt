@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Spritsen met Advocaatsmaak 175g",
+    "available": true,
+    "price": 1.38,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/290420210033_169812TRA-1_360x360.png",
+    "source": "Jumbo.com"
+}

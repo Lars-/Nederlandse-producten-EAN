@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Half Volkoren Risotto Arborio 250g",
+    "available": true,
+    "price": 1.89,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/090820192352_288434DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

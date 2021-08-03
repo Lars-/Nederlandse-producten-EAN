@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Fruit Biscuits Naturel 5 x 3 Stuks",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/120520212140_428128PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

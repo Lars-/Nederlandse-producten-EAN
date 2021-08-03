@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Verse Maaltijd Kipsat\u00e9 en Bami met Sambal Boontjes 450g",
+    "available": true,
+    "price": 5,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/020320211134_411251BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

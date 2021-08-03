@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Creamer voor Koffie 350g",
+    "available": true,
+    "price": 0.91,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/301020201045_394272BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

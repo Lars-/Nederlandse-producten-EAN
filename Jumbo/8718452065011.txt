@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Kattenbakvulling Grof Klontvormend 10L",
+    "available": true,
+    "price": 3.06,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/060520191351_184474ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

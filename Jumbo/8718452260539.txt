@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Kruidenmix Nasi 23, 2g",
+    "available": true,
+    "price": 0.35,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/110520192035_195729PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

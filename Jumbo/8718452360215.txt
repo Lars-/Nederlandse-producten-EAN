@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Rode Kool met Appel 190g",
+    "available": true,
+    "price": 0.48,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/160320190037_220929POT-1_360x360.png",
+    "source": "Jumbo.com"
+}

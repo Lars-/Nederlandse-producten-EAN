@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Thaise Stijl Massaman Curry 160g",
+    "available": true,
+    "price": 1.88,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/230620210534_413236ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

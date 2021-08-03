@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Havervlokken Biologisch 500g",
+    "available": true,
+    "price": 1.23,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/200220190538_224790ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

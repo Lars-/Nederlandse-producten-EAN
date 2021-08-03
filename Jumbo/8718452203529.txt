@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Kaneel Warm & Kruidig 10g",
+    "available": true,
+    "price": 0.89,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/070520190701_182382STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

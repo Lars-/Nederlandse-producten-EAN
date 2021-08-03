@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Vezelreep Dadel met Appelsmaak 3 Stuks 90g",
+    "available": true,
+    "price": 1.69,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/150120210548_393336DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

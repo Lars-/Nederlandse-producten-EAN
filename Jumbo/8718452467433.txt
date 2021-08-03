@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Verse Pangasiusfilet 460g",
+    "available": true,
+    "price": 4.85,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/290420210108_426978KRT-1_360x360.png",
+    "source": "Jumbo.com"
+}

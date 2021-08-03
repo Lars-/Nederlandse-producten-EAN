@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Ongebrande Walnoten 110g",
+    "available": true,
+    "price": 3.28,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/070520191016_192124STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

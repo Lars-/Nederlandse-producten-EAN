@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Slagroom Houdbaar 200ml",
+    "available": true,
+    "price": 0.81,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/261120192327_213587PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

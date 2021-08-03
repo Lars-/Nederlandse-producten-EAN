@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Groentesap Wortel Gember Appel Sinaasappel 250ml",
+    "available": true,
+    "price": 1.61,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/210320200313_193711FLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

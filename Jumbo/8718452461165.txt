@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Ice Tea Green Mango Sparkling 1,5L",
+    "available": true,
+    "price": 0.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/170320211507_368078FLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

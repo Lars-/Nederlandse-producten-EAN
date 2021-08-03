@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Ongezouten Gepelde Walnoten 110g",
+    "available": true,
+    "price": 3.1,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/150520190724_270295STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

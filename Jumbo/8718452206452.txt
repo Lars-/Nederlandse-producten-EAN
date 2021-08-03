@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Schuurmiddel Citroen 750ml",
+    "available": true,
+    "price": 0.68,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/070520190203_183553FLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Cookie & Cream Gevulde Melk Chocolade Reep 190g",
+    "available": true,
+    "price": 1.72,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/191120190535_295237RP-1_360x360.png",
+    "source": "Jumbo.com"
+}

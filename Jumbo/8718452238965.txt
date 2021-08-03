@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Amandelen Bruin 95g",
+    "available": true,
+    "price": 2.28,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/010720201344_191073STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

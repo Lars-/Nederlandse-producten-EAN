@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Ecologisch Handzeep 300ml",
+    "available": true,
+    "price": 2.59,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/181120192315_315333FLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Extra Zoete Tros Cherry Tomaten Rood 200g",
+    "available": false,
+    "price": 2.49,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/290720202355_350320DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

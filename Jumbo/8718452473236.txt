@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Amandelen met Rooksmaak Gezouten 160g",
+    "available": true,
+    "price": 4.04,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/250920201208_389354CUP-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "La Place Verse Pasta Lasagne Ravioli 250g",
+    "available": true,
+    "price": 2.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/050720211504_436705BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Maaltijdpakket Moussaka 1, 140kg",
+    "available": true,
+    "price": 4.69,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/140320200005_342738PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

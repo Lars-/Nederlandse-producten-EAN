@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Aioli Knoflook Dip 130g",
+    "available": true,
+    "price": 2.89,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": null,
+    "source": "Jumbo.com"
+}

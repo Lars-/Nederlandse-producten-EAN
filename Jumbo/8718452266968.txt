@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Komkommer Salade 175g",
+    "available": true,
+    "price": 1.38,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/020920202359_382377BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

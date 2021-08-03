@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Kokosmelk Romig 200ml",
+    "available": true,
+    "price": 0.83,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/130420190506_224389PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

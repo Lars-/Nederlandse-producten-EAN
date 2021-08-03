@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Knolselderij-Pastinaaksoep Biologisch 570ml",
+    "available": true,
+    "price": 1.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/161220200048_383690ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

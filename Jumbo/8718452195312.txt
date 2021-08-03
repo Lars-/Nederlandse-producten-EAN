@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Granenbiscuits Naturel 6 x 2 Stuks",
+    "available": true,
+    "price": 1,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/060520191132_185954STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

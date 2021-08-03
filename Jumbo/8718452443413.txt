@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Fijnproevers Black Angus Burgers 250g",
+    "available": true,
+    "price": 3.59,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/300620212357_186970TRA-1_360x360.png",
+    "source": "Jumbo.com"
+}

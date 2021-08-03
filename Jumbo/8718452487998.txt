@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Kaas-Grove Mosterd Salade 150g",
+    "available": true,
+    "price": 2.19,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/150720202305_374147BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

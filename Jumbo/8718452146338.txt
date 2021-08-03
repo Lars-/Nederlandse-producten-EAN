@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Steenoven Pizza Mozzarella Tomaat & Basilicum Biologisch 350g",
+    "available": true,
+    "price": 2.87,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/100520191630_168291DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

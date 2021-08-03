@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Hondenkoekjes Mix 500g",
+    "available": true,
+    "price": 1.1,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/060520191618_154469DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Pinda's met Vlies \/ Gebakken Gezouten 175g",
+    "available": true,
+    "price": 3.25,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/250220210625_412093CUP-1_360x360.png",
+    "source": "Jumbo.com"
+}

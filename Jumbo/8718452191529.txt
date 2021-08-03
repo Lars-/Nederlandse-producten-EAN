@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Maiskorrels 150g",
+    "available": true,
+    "price": 0.83,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/131220180026_213718STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Briketten Kokos 3kg",
+    "available": true,
+    "price": 4.89,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/300420210819_425904STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

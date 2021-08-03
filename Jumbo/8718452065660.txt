@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Fruitsiroop Reine Claude 750ml",
+    "available": true,
+    "price": 1.31,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/070520192321_191144FLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

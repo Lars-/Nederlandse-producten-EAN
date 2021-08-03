@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Luierbroekjes 6 15+ kg - 4 x 18 Stuks - Voordeelverpakking",
+    "available": true,
+    "price": 18.36,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/110520210929_381960DSL-1_360x360.png",
+    "source": "Jumbo.com"
+}

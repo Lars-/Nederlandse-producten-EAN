@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Ecologische Wasverzachter 30 Wasbeurten 750ml",
+    "available": true,
+    "price": 2.18,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/090520191714_202248FLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Toiletpapier 16 Rollen 4 Laags",
+    "available": true,
+    "price": 16.83,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/240620202110_312895BKL-1_360x360.png",
+    "source": "Jumbo.com"
+}

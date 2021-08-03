@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Belegen Kaas 30+ Plakken 190g",
+    "available": true,
+    "price": 2.55,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/120320211519_404407STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

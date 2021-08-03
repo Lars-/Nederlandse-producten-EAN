@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Beschuit Eenkoorn Volkoren 230g",
+    "available": true,
+    "price": 2.19,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/050220200435_317252STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

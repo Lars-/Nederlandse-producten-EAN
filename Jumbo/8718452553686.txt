@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Sparerib Texas Style 200g",
+    "available": true,
+    "price": 3.25,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/150420211054_425866ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Ori\u00ebntaalse Noedels 1kg",
+    "available": true,
+    "price": 4.39,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/101220200418_208707BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo - Rainbow Layer Surprise Cake",
+    "available": true,
+    "price": 6.49,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/210420211005_420752DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

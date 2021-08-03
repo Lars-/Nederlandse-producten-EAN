@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Hamburgers 12 Stuks 840g",
+    "available": true,
+    "price": 1.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/120320200925_341833DS-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Rode Kool met Appel Blokjes 750g",
+    "available": true,
+    "price": 1.25,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/060720190337_278430STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

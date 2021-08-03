@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Runder Steak Tartaar Gekruid 3 Stuks 315g",
+    "available": true,
+    "price": 2.69,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/120320210022_95653TRA-1_360x360.png",
+    "source": "Jumbo.com"
+}

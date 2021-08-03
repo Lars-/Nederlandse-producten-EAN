@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Chocolade Mix Rozijnen 225g",
+    "available": true,
+    "price": 3.24,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/120520190142_194309BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

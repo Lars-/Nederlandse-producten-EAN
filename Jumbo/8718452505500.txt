@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Borrelzoutjes Sesam 150g",
+    "available": true,
+    "price": 2.03,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/131120200147_394300ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

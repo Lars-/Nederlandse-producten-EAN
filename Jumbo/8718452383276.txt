@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Fajita Mix 28g",
+    "available": true,
+    "price": 0.48,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/210820192214_276661STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

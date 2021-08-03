@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Gezouten Noten Mix 175g",
+    "available": true,
+    "price": 1.94,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/080520191438_195337CUP-1_360x360.png",
+    "source": "Jumbo.com"
+}

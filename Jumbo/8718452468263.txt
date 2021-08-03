@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo A.C.E Drink 6 x 500ml",
+    "available": true,
+    "price": 2.22,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/260520211659_315332PAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

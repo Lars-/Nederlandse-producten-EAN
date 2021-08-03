@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Groentesap Wortel Appel Gember 250ml",
+    "available": true,
+    "price": 1.69,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/090720210726_443527FLS-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Maaltijdsalade Gerookte Kip Guacamole 400g",
+    "available": true,
+    "price": 4.46,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/200320200035_230418BAK-1_360x360.png",
+    "source": "Jumbo.com"
+}

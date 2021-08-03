@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Cannellini Bonen 420g",
+    "available": true,
+    "price": 0.94,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/150420191308_202251BLK-1_360x360.png",
+    "source": "Jumbo.com"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Hondenbrokken Mini Adult Kip & Rijst 1, 5kg",
+    "available": true,
+    "price": 5.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/010420210632_421531ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

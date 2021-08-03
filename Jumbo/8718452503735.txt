@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Sla Olie 1000ml",
+    "available": true,
+    "price": 1.43,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": null,
+    "source": "Jumbo.com"
+}

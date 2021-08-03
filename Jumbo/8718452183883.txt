@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Geraspte Kaas  40+ Oven Gratin 150g",
+    "available": true,
+    "price": 1.67,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/230120202258_178421ZK-1_360x360.png",
+    "source": "Jumbo.com"
+}

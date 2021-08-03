@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Veggie Chef Filet Americain Martino 150g",
+    "available": true,
+    "price": 1.99,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/110620211334_225477STK-1_360x360.png",
+    "source": "Jumbo.com"
+}

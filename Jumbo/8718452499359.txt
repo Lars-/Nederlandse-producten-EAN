@@ -1,0 +1,10 @@
+{
+    "type": "Product",
+    "name": "Jumbo Kakel Verse Vrije Uitloop Eieren M 12 Stuks",
+    "available": true,
+    "price": 3.65,
+    "minimumAmount": 1,
+    "maximumAmount": 99,
+    "image": "https:\/\/ish-images-static.prod.cloud.jumbo.com\/product_images\/270620200318_364504DS-1_360x360.png",
+    "source": "Jumbo.com"
+}
