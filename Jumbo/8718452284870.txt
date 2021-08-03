@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "385709ZK",
     "name": "Jumbo Pindasoep Javaanse Stijl 570ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.12,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195859BLK",
     "name": "Jumbo Champignonsoep met Bieslook 1, 2L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.75,
     "minimumAmount": 1,

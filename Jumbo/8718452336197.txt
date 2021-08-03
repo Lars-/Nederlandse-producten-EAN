@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "269994FLS",
     "name": "Jumbo Zonnebloemolie 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.21,
     "minimumAmount": 1,

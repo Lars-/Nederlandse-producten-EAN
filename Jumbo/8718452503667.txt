@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "408868FLS",
     "name": "Jumbo Frituurolie 2L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.29,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "363614STK",
     "name": "Jumbo Rundercarpaccio met Italiaanse Kaas, BBQ Saus en Pijnboompitjes 143g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.59,
     "minimumAmount": 1,

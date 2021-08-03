@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "187327STK",
     "name": "Jumbo Zachte Griotten 275g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.18,
     "minimumAmount": 1,

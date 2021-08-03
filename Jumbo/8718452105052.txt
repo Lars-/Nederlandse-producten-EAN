@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "269304FLS",
     "name": "Jumbo Huiswijn - Half zoet Ros\u00e9 - 250ML",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.87,
     "minimumAmount": 1,

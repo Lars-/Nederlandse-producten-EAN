@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "179996STK",
     "name": "Jumbo Choco Dubbels 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.22,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "185029ZK",
     "name": "Jumbo Bamboe Tapas Prikker 50 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.89,
     "minimumAmount": 1,

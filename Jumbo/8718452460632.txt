@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "175906PAK",
     "name": "Jumbo Runderrookvlees 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.49,
     "minimumAmount": 1,

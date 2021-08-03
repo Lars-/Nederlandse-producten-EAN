@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "290516PAK",
     "name": "Jumbo Duo Drank Abrikoos Sinaasappel 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.2,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "425834BAK",
     "name": "Jumbo Barbecue Schotel 600g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.95,
     "minimumAmount": 1,

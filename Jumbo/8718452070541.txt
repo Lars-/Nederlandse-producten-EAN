@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "319726DS",
     "name": "Jumbo Biologische Rijke Espresso-Capsules 10 Stuks 52g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.56,
     "minimumAmount": 1,

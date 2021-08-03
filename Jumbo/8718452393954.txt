@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "269363STK",
     "name": "Jumbo Belegen Goudse Kaas 48+ Voordeelverpakking ca. 661g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5,
     "minimumAmount": 1,

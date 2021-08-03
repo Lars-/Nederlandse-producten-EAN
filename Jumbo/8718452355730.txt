@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "319709ZK",
     "name": "Jumbo Espresso Koffiebonen 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6.49,
     "minimumAmount": 1,

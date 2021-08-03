@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "223013ZK",
     "name": "Jumbo Ricotta & Spinazie Tortelloni 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.13,
     "minimumAmount": 1,

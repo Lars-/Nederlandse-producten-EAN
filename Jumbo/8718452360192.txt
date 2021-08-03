@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "220460POT",
     "name": "Jumbo Rode Bieten Plakken 180g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.56,
     "minimumAmount": 1,

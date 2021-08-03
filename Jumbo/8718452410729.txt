@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "303748DS",
     "name": "Jumbo Cornflakes 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.25,
     "minimumAmount": 1,

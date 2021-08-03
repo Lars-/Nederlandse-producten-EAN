@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "89268POT",
     "name": "Jumbo Puur Chocopasta 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.97,
     "minimumAmount": 1,

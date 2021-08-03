@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "383443ZK",
     "name": "Jumbo Romige Broccolisoep Biologisch 570ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.09,
     "minimumAmount": 1,

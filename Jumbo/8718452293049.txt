@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "197023STK",
     "name": "Jumbo Varken Bratwurst 4 Stuks 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.09,
     "minimumAmount": 1,

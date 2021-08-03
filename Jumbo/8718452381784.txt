@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "269932DSL",
     "name": "Jumbo Huiswijn - Soepel - Tempranillo - 6 x 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 23.7,
     "minimumAmount": 1,

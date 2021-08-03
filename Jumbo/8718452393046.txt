@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "172695PAK",
     "name": "Jumbo Verse Maaltijd Pasta Kip Pesto met Room en Kaas 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.25,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "319717ZK",
     "name": "Jumbo 08 Ristretto Extra Forte 36 Koffiecups",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.3,
     "minimumAmount": 1,

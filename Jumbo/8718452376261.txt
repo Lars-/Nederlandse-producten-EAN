@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "226762DS",
     "name": "Jumbo Mandarijnen Partjes op Siroop 312g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.89,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "292347DS",
     "name": "Jumbo Honing Rings 375g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.89,
     "minimumAmount": 1,

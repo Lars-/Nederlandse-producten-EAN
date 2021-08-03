@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "292477TRA",
     "name": "Jumbo Parmaham 70g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.25,
     "minimumAmount": 1,

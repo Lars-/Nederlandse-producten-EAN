@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "182507BAK",
     "name": "Jumbo Kippendrumsticks 660g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.25,
     "minimumAmount": 1,

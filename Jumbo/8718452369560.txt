@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "235536TRL",
     "name": "Jumbo Zwarte Bonen 6 x 240g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6.9,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "162593DS",
     "name": "Jumbo Aardbei Bavarois 459g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.99,
     "minimumAmount": 1,

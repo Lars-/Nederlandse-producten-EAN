@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "304661BAK",
     "name": "Jumbo Champignons Voordeelverpakking 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.39,
     "minimumAmount": 1,

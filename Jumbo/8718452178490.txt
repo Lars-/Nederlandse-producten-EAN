@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "91467PAK",
     "name": "Jumbo Jumps Cola + Sinas 6 x 105g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.54,
     "minimumAmount": 1,

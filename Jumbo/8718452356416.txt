@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "304653STK",
     "name": "Goudeerlijk - Rozijnenwegge",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.89,
     "minimumAmount": 1,

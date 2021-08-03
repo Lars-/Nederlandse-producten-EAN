@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "99409STK",
     "name": "Jumbo Bapao Kip Sat\u00e9 115g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.88,
     "minimumAmount": 1,

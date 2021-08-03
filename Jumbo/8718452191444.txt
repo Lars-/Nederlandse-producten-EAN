@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "179995STK",
     "name": "Jumbo Vanille Dubbels Pak Koekjes 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.95,
     "minimumAmount": 1,

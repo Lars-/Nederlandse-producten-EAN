@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "425870DS",
     "name": "Jumbo Slow Cooked Buikspek 370g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6,
     "minimumAmount": 1,

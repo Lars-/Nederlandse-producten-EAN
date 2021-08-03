@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "202918POT",
     "name": "Jumbo Yogonaise 350ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.77,
     "minimumAmount": 1,

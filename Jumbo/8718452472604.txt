@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "139825PAK",
     "name": "Jumbo Tagliatelle Zalm 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.2,
     "minimumAmount": 1,

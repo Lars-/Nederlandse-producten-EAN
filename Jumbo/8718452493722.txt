@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "382004FLS",
     "name": "Jumbo Baby Wasgel 300ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.29,
     "minimumAmount": 1,

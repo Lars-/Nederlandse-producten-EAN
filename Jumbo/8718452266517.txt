@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "197649DS",
     "name": "Jumbo Porties Havermout Appel-Blauwe Bes 5 Zakjes",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.1,
     "minimumAmount": 1,

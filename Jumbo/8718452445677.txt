@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "360158DS",
     "name": "Jumbo Stokbrood met Kruidenboter 2 Stuks 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.24,
     "minimumAmount": 1,

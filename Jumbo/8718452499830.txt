@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "382904FLS",
     "name": "Jumbo Gember Shot Citroen \/ Appel 60ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.03,
     "minimumAmount": 1,

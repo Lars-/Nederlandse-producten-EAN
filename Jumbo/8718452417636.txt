@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "385527POT",
     "name": "Jumbo Gebroken Sperziebonen 340g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.79,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "179786DS",
     "name": "Jumbo Zoete Peper Roomkaas 120g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3,
     "minimumAmount": 1,

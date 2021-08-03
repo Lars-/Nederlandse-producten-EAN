@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "340979TRA",
     "name": "Bond Forelfilets 125g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.05,
     "minimumAmount": 1,

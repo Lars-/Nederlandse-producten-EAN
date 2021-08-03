@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "147545BLK",
     "name": "Jumbo Hondenbrokken In Saus Kip en Groenten 830g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.95,
     "minimumAmount": 1,

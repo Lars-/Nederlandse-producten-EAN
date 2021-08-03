@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "220929POT",
     "name": "Jumbo Rode Kool met Appel 190g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.48,
     "minimumAmount": 1,

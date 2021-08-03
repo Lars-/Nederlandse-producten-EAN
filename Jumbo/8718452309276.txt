@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "211848PAK",
     "name": "Jumbo Aardappelschijfjes Duopak 2 x 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.08,
     "minimumAmount": 1,

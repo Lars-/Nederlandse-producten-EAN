@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "394456PAK",
     "name": "Jumbo Gevulde Melkchocolade Red Velvet 190g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.59,
     "minimumAmount": 1,

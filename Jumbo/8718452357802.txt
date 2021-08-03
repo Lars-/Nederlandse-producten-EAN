@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "395040ZK",
     "name": "Jumbo Geraspt Belegen Kaas 48+ 300 g - Voordeelverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.38,
     "minimumAmount": 1,

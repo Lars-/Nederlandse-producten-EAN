@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195357BLK",
     "name": "Jumbo Kippensoep 300ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.68,
     "minimumAmount": 1,

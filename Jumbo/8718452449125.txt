@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "346713STK",
     "name": "Goudeerlijk - Maisbollen - 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "354460STK",
     "name": "Jumbo - Aardbeientaartje met Sloffendeeg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6,
     "minimumAmount": 1,

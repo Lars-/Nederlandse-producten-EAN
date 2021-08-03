@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "351975ZK",
     "name": "Jumbo Toast Mix 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.49,
     "minimumAmount": 1,

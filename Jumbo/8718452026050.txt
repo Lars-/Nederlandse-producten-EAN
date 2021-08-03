@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "201598BAK",
     "name": "Jumbo Shoarma met Paprika 440g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.95,
     "minimumAmount": 1,

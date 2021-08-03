@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "149155ZK",
     "name": "Jumbo Rijstwafeltjes 8+ Maanden Biologisch 40g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.88,
     "minimumAmount": 1,

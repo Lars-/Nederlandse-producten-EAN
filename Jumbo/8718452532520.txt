@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "406381POT",
     "name": "Jumbo Truffel Pesto Groen 190g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

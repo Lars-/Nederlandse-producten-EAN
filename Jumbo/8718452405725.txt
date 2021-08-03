@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "310515DS",
     "name": "Jumbo Kruidenthee Balans 15 Stuks 22, 5g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.8,
     "minimumAmount": 1,

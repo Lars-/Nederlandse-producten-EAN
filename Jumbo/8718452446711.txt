@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "439327STK",
     "name": "Jumbo Gegrilde Beenham 120g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.27,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "404823STK",
     "name": "Mini Vanillesmaak & Choco Muffins 225g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "198453FLS",
     "name": "Jumbo Ecologisch Afwas Middel 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.6,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "434464FLS",
     "name": "Jumbo Isotone Lemon Sportdrink 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.36,
     "minimumAmount": 1,

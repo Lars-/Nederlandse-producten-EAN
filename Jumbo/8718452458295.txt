@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "383173ZK",
     "name": "Jumbo Aardappelen Kruimig Extra Groot 5kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.49,
     "minimumAmount": 1,

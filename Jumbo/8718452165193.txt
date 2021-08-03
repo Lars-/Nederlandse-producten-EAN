@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "201605PAK",
     "name": "Jumbo Procureurlap Gemarineerd 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.95,
     "minimumAmount": 1,

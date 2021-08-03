@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "371210PAK",
     "name": "Jumbo Ice Tea Sparkling Zero Sugar 6 x 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 2.7,
     "minimumAmount": 1,

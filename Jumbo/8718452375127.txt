@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "227082BLK",
     "name": "Jumbo Kokosmelk 6,6% Vet 400ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.75,
     "minimumAmount": 1,

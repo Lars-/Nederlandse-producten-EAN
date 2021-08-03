@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "191658FLS",
     "name": "Jumbo Original Olijfolie 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.76,
     "minimumAmount": 1,

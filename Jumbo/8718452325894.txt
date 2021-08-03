@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "218388STK",
     "name": "Jumbo Hondenkluifjes Kip 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.07,
     "minimumAmount": 1,

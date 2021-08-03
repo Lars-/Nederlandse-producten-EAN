@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "282090PAK",
     "name": "Jumbo Kefir Naturel 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.19,
     "minimumAmount": 1,

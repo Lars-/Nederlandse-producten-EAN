@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "283685PAK",
     "name": "Jumbo Vochtig Toiletpapier Alo\u00eb Vera 70 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.63,
     "minimumAmount": 1,

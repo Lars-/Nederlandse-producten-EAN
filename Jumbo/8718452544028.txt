@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "414952BAK",
     "name": "Jumbo Salade Bowl Oosters 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.29,
     "minimumAmount": 1,

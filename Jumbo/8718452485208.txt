@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "382894FLS",
     "name": "Jumbo Ontbijt Smoothie Haver Mango Kokosmelk 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.79,
     "minimumAmount": 1,

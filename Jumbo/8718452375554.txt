@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "269150POT",
     "name": "Jumbo Runderbouillon 340ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.51,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "421503ZK",
     "name": "Jumbo Hondenbrokken Senior Kip & Rijst 3kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 9.99,
     "minimumAmount": 1,

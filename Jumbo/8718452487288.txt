@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "372616SC",
     "name": "Jumbo Biologisch Kiwi 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.89,
     "minimumAmount": 1,

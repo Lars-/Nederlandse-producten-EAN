@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "154659FLS",
     "name": "Jumbo Salade Dressing Pesto met Olijfolie 240ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.93,
     "minimumAmount": 1,

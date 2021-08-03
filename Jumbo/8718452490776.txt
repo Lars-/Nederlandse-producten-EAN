@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "200841PAK",
     "name": "Jumbo Frisse Magere Yoghurt 0,1% Vet 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.58,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "207275ZK",
     "name": "Jumbo Salademix Tomatenvlokken, Zonnebloempitten, Pistachenoten & Geroosterde Amandel 40g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.25,
     "minimumAmount": 1,

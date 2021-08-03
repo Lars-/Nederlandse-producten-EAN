@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "204537STK",
     "name": "Jumbo Oregano Vers 15g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.14,
     "minimumAmount": 1,

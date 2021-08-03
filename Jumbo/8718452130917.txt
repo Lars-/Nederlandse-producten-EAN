@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "193030ZK",
     "name": "Jumbo Mini Worteltjes 325g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1,
     "minimumAmount": 1,

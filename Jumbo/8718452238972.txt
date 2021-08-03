@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "384055CUP",
     "name": "Jumbo Pijnboompitten 80g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.59,
     "minimumAmount": 1,

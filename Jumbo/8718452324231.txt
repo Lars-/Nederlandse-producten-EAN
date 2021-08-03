@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "304620STK",
     "name": "Goudeerlijk - Boterbollen - 6 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

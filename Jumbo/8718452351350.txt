@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "214497STK",
     "name": "Jumbo Biologische Kaas Jong Belegen 48+ 75g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.5,
     "minimumAmount": 1,

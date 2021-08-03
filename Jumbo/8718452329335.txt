@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "212583POT",
     "name": "Jumbo Cocktail Uitjes Zoetzuur 320g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.69,
     "minimumAmount": 1,

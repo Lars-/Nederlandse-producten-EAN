@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "389807DS",
     "name": "Jumbo Muesli Reep Yoghurt & Fruit 5 x 25g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.28,
     "minimumAmount": 1,

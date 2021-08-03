@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "188539PAK",
     "name": "Jumbo - Mini Saucijzenbroodjes - 12 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.67,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "428003FLS",
     "name": "Jumbo Mineraalwater Framboos Citroen Smaak 1,5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.89,
     "minimumAmount": 1,

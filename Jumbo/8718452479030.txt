@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "383535ZK",
     "name": "Jumbo Romige Kippensoep 570ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.97,
     "minimumAmount": 1,

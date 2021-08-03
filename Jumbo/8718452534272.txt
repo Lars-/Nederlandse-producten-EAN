@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "225999PAK",
     "name": "Jumbo Suikervrije Kauwgom 3 Pakjes",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.75,
     "minimumAmount": 1,

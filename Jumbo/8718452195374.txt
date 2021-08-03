@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "392594STK",
     "name": "Jumbo Fruitreep Bosvruchtensmaak 6 x 27g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.08,
     "minimumAmount": 1,

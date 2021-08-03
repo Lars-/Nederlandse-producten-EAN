@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "319848STK",
     "name": "Jumbo Fenegriek Kaas 50+ 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.32,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "305707STK",
     "name": "Jumbo - Bananensoes - 2 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.39,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "317266ZK",
     "name": "Jumbo Gepelde Walnoten Ongebrand 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6.99,
     "minimumAmount": 1,

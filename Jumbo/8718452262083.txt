@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195708STK",
     "name": "Jumbo Ketjap Manis 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.86,
     "minimumAmount": 1,

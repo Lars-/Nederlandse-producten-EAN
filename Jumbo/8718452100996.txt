@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "306145STK",
     "name": "Jumbo - Aardbeienbavarois - 2 Punten",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.29,
     "minimumAmount": 1,

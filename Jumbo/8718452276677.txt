@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "202569DS",
     "name": "Jumbo Pizza Mini 4 Kazen 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.53,
     "minimumAmount": 1,

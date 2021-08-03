@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "186364ZK",
     "name": "Jumbo Basmatirijst Langkorrelig 1 kg - Voordeelverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.94,
     "minimumAmount": 1,

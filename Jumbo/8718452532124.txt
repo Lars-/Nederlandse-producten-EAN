@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "441828BAK",
     "name": "Jumbo Borrelquiche Lorraine Maasdammer \/ Spek 160g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.99,
     "minimumAmount": 1,

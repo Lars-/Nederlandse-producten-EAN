@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "320591STK",
     "name": "Jumbo Milde Cervelaat 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.55,
     "minimumAmount": 1,

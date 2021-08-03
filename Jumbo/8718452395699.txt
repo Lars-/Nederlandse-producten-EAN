@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "160374STK",
     "name": "Jumbo Pangasiusfilet Citroen Koriander 2 x 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.39,
     "minimumAmount": 1,

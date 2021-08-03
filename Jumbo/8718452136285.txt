@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "81058PAK",
     "name": "Jumbo Houdbare Halfvolle Melk 6 x 200ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.83,
     "minimumAmount": 1,

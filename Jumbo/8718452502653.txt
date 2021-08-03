@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "398466CUP",
     "name": "Jumbo Chorizo Rolletje met Roomkaas 80g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.75,
     "minimumAmount": 1,

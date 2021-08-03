@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "175775DS",
     "name": "Jumbo Oranjetops 10 x 60ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.89,
     "minimumAmount": 1,

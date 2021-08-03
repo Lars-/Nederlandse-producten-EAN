@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "170197ZK",
     "name": "Jumbo Patentbloem 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.49,
     "minimumAmount": 1,

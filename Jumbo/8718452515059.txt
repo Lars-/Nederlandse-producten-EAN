@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "391717CUP",
     "name": "Jumbo Boemboe Dahl 95g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.29,
     "minimumAmount": 1,

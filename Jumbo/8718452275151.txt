@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "193589FLS",
     "name": "Jumbo Fruitsap Sinaasappel Kiwi 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.28,
     "minimumAmount": 1,

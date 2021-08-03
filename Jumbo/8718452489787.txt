@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "394425FLS",
     "name": "Jumbo Navulverpakking Wit 1,485 L 27 Wasbeurten",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.47,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "203780STK",
     "name": "Jumbo Ongezouten Cashew en Dadel Mix 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.58,
     "minimumAmount": 1,

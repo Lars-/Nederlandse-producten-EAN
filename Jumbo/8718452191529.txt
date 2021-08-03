@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "213718STK",
     "name": "Jumbo Maiskorrels 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.83,
     "minimumAmount": 1,

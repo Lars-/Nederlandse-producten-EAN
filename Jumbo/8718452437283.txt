@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "347001PAK",
     "name": "Jumbo - Pita Broodjes - 5 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.59,
     "minimumAmount": 1,

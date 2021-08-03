@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "295249ZK",
     "name": "Jumbo Pompoen & Wortel Verse Pureersoep 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.62,
     "minimumAmount": 1,

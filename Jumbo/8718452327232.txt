@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "371495DS",
     "name": "La Place Zoutje Kaaskoekjes Gerijpte Goudse Kaas & Bieslook 75g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.89,
     "minimumAmount": 1,

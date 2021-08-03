@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "432217FLS",
     "name": "Jumbo Helder Bruisend Kokos 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.5,
     "minimumAmount": 1,

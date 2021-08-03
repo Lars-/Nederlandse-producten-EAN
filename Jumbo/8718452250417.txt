@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "202093DS",
     "name": "Jumbo Groene Thee Kokos 20 Stuks 30g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.14,
     "minimumAmount": 1,

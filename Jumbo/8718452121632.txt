@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "163509FLS",
     "name": "Jumbo Douchegel Passion 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.68,
     "minimumAmount": 1,

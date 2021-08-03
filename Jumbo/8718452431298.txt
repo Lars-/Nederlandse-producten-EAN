@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "338485DS",
     "name": "Jumbo Papieren Wattenstaafjes 300 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.68,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "223009ZK",
     "name": "Jumbo Lasagnebladen 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.97,
     "minimumAmount": 1,

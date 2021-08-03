@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "386324ZK",
     "name": "Jumbo Goulashsoep 570ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.13,
     "minimumAmount": 1,

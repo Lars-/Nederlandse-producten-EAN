@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "222525STK",
     "name": "Goudeerlijk - Meerzaden Volkoren Brood - Vriesvers",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.25,
     "minimumAmount": 1,

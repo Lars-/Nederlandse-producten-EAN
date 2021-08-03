@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "306325ZK",
     "name": "Jumbo - Volkoren Pita Broodjes - 5 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.24,
     "minimumAmount": 1,

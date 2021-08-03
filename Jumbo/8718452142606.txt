@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "169235ZK",
     "name": "Jumbo Volkoren Spaghetti Biologisch 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.81,
     "minimumAmount": 1,

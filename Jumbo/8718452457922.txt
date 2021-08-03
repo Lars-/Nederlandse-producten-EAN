@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "385748BAK",
     "name": "Jumbo Rundvlees Schotel 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.66,
     "minimumAmount": 1,

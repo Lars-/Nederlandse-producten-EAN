@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "364840ZK",
     "name": "Jumbo Salademix Sojabonen, Tuinbonen, Edamame Sojabonen, Amandelen & Cashewnoten 50g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

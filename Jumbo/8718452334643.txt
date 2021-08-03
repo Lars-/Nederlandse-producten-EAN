@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "211788BAK",
     "name": "Jumbo Spinazie, Krieltjes en Cordon Bleu 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.39,
     "minimumAmount": 1,

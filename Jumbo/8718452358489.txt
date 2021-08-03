@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "387050BAK",
     "name": "Jumbo Lekker Veggie Shoarma Vegan 175g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.27,
     "minimumAmount": 1,

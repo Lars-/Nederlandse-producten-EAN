@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "446158PAK",
     "name": "Jumbo Mineraalwater met Koolzuur 6 x 1, 5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.34,
     "minimumAmount": 1,

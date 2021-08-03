@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "163731BAK",
     "name": "Jumbo Gebraden Gehaktbal Varken 3 Stuks 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.29,
     "minimumAmount": 1,

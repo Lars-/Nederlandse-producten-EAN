@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "196242STK",
     "name": "Jumbo Gebakken Uitjes 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 0.5,
     "minimumAmount": 1,

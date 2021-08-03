@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "31699PAK",
     "name": "Kinder Pingui Cacao 4 Stuks 120g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.66,
     "minimumAmount": 1,

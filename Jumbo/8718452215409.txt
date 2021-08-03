@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "392599PAK",
     "name": "Jumbo Hartige Biscuits Kaas & Tomaat 4 x 3 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.59,
     "minimumAmount": 1,

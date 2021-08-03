@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "300468DS",
     "name": "Jumbo Meergranenbiscuits Appel 6 x 2 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1,
     "minimumAmount": 1,

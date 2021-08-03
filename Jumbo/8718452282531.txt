@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "398384ZK",
     "name": "Jumbo Chips Ribbel Zwarte Peper & Zout 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.88,
     "minimumAmount": 1,

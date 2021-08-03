@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "306143STK",
     "name": "Jumbo - Kersen-vanillebavaroisvlaai - Half",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6,
     "minimumAmount": 1,

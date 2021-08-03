@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "250529PAK",
     "name": "Jumbo Zakdoekjes 9 Pakjes Ecologisch",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.18,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "423404FLS",
     "name": "Jumbo Baby Shampoo 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

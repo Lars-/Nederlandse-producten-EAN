@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "180708STK",
     "name": "Jumbo Scheerschuim Gevoelige Huid voor Heren 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

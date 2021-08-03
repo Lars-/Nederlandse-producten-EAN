@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "189869PAK",
     "name": "Jumbo Chocolade Karamel Koeken 6 x 45g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.22,
     "minimumAmount": 1,

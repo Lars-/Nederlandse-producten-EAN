@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "196516POT",
     "name": "Jumbo Pastasaus Basilicum Biologisch 340g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.13,
     "minimumAmount": 1,

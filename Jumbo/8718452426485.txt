@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "302274DS",
     "name": "Jumbo Witte Chocolade Mix 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.79,
     "minimumAmount": 1,

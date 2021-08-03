@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "230598DS",
     "name": "Jumbo Noorse Zalmfilet 2 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4,
     "minimumAmount": 1,

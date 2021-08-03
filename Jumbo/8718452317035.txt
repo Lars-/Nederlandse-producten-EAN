@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "211992POT",
     "name": "Jumbo Fruitspread Banaan & Appel 6+ Maanden Biologisch 245g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.4,
     "minimumAmount": 1,

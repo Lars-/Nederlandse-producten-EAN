@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "188534STK",
     "name": "Jumbo Snackzoutjes Kaas 125g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.03,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195785DS",
     "name": "Jumbo Zwarte Thee Engelse Melange 40 Stuks Voordeel 80g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.73,
     "minimumAmount": 1,

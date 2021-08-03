@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "319709DSL",
     "name": "Jumbo Espresso Koffiebonen 4 x 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 25.96,
     "minimumAmount": 1,

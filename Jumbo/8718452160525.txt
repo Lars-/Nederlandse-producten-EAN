@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "230578BAK",
     "name": "Jumbo Groene Salade Rauwkost 275g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2,
     "minimumAmount": 1,

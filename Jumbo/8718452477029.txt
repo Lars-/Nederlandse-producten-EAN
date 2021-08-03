@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "428128PAK",
     "name": "Jumbo Fruit Biscuits Naturel 5 x 3 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "421967ZK",
     "name": "Jumbo Poffertjes Naturel 830g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.99,
     "minimumAmount": 1,

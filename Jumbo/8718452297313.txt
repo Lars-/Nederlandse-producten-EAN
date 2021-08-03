@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "227451DS",
     "name": "Jumbo Vlokken Melk 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 0.99,
     "minimumAmount": 1,

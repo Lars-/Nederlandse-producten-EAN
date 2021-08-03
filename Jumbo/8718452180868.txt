@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "214363PAK",
     "name": "Jumbo Chocolate Chip Cookies 12 Stuks 225g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.75,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "306225DS",
     "name": "Jumbo Spices Winter 20 Theezakjes 36g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.9,
     "minimumAmount": 1,

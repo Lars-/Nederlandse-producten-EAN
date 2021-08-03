@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "132424STK",
     "name": "Jumbo - Turks Brood",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.79,
     "minimumAmount": 1,

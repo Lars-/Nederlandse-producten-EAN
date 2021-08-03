@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "188599PAK",
     "name": "Jumbo - Meergranen Petit Pains - 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.28,
     "minimumAmount": 1,

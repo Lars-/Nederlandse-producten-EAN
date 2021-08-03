@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "320370PAK",
     "name": "Jumbo Gekookte Gelderse Worst 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.67,
     "minimumAmount": 1,

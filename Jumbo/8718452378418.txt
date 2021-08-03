@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "262122FLS",
     "name": "La Dolce Vita Piccante Pastasaus 620g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.15,
     "minimumAmount": 1,

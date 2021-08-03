@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "153065DS",
     "name": "Jumbo Kauwsticks Denta 180g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.02,
     "minimumAmount": 1,

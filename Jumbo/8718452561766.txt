@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "435987TAS",
     "name": "Jumbo Biologisch Verse Volkoren Tagliatelle 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

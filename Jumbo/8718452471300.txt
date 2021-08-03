@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "354435STK",
     "name": "Jumbo - Aardbei-mascarponevlaai - Half",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6,
     "minimumAmount": 1,

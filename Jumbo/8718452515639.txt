@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "390953BAK",
     "name": "Jumbo Kabeljauwfilet 260g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.69,
     "minimumAmount": 1,

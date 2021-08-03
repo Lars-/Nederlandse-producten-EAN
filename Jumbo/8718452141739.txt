@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "212640STK",
     "name": "Jumbo Kiemmix Broccoli, Alfalfa & Rode Kool 60g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.48,
     "minimumAmount": 1,

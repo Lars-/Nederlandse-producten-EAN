@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "182208POT",
     "name": "Jumbo Peterselie Gedroogd 39g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.99,
     "minimumAmount": 1,

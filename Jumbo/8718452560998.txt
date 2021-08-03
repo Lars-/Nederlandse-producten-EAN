@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "434823BAK",
     "name": "Jumbo Kabeljauwfilet Naturel 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 9,
     "minimumAmount": 1,

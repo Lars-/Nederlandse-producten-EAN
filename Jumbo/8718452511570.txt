@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "346718BAK",
     "name": "Jumbo Verse Maaltijd Gehaktbal met Spinazie, Aardappelpuree en Ei 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5,
     "minimumAmount": 1,

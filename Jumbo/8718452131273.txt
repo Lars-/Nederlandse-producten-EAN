@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "157838BAK",
     "name": "Jumbo Nasi Bami Blokjes Varken 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.63,
     "minimumAmount": 1,

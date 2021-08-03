@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "329668STK",
     "name": "Wapenaer Brokkelkaas 3 Jaar Gerijpt 48+ ca. 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.99,
     "minimumAmount": 1,

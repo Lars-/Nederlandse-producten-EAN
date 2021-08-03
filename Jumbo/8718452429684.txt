@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "336479ZK",
     "name": "Jumbo - Mini Baguette Glutenvrij - 2 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.87,
     "minimumAmount": 1,

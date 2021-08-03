@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "194537CUP",
     "name": "Jumbo Pat\u00e9 met Kip 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.53,
     "minimumAmount": 1,

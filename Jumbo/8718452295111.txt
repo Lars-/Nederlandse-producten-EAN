@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "212656ZK",
     "name": "Jumbo Aardappelkroketjes 600g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.08,
     "minimumAmount": 1,

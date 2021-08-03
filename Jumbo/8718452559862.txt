@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "443993DS",
     "name": "Jumbo Fruitsalade Tropisch 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2,
     "minimumAmount": 1,

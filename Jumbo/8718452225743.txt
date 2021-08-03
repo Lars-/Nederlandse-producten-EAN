@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "185543STK",
     "name": "Jumbo Mini Gevulde Koeken 9 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.04,
     "minimumAmount": 1,

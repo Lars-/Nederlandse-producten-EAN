@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "201602TRA",
     "name": "Jumbo Gyros 750g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6.5,
     "minimumAmount": 1,

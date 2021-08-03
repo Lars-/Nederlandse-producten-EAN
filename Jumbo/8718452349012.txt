@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "217557POT",
     "name": "La Place Cocktailsaus 130ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.09,
     "minimumAmount": 1,

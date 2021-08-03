@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "351974ZK",
     "name": "Jumbo Pico's 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.07,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "385976CUP",
     "name": "Jumbo Walnoten 60g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.58,
     "minimumAmount": 1,

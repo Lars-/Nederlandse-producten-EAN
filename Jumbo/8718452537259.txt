@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "427849PAK",
     "name": "Jumbo Cola Regular 6 x 1, 5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.85,
     "minimumAmount": 1,

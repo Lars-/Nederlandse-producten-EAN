@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "296735FLS",
     "name": "Jumbo Party Bubbels Appel 750ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.19,
     "minimumAmount": 1,

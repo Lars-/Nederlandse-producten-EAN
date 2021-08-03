@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "368092PAK",
     "name": "Jumbo Ice Tea Inner Beauty 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.79,
     "minimumAmount": 1,

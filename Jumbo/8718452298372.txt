@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "76485BLK",
     "name": "Dors Premium Pilsener 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.49,
     "minimumAmount": 1,

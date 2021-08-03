@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "223116BAK",
     "name": "Jumbo Jong Belegen Kaas 48+ Stuk 535g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.23,
     "minimumAmount": 1,

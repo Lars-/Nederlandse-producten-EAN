@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "301655DSL",
     "name": "Jumbo - Cabernet Sauvignon - Biologisch - 6 x 750ML",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 25.5,
     "minimumAmount": 1,

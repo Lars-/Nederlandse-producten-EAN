@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "215207STK",
     "name": "Jumbo Smeuige Risotto met Truffel 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.71,
     "minimumAmount": 1,

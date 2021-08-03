@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "323841DS",
     "name": "Jumbo Latte Macchiato Caramel 16 Koffiecups",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.75,
     "minimumAmount": 1,

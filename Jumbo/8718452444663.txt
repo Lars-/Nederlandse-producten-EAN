@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "340553DS",
     "name": "Jumbo Kalfskroketten 4 Stuks 280g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.53,
     "minimumAmount": 1,

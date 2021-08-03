@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195777DS",
     "name": "Jumbo Vruchtenthee Variatie Mix 30g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

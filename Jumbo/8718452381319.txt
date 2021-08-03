@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "292079STK",
     "name": "Jumbo Kokosmakronen 360g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.87,
     "minimumAmount": 1,

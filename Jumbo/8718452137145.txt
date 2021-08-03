@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "208504PAK",
     "name": "Jumbo Volle Choco 6 x 200ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.51,
     "minimumAmount": 1,

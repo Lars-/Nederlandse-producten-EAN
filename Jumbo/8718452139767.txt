@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "166957FLS",
     "name": "Jumbo Lenzenvloeistof Harde Lenzen 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.31,
     "minimumAmount": 1,

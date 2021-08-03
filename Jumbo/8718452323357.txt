@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "213102PAK",
     "name": "Jumbo Basilicum Vers 20g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.7,
     "minimumAmount": 1,

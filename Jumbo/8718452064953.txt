@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "147047PAK",
     "name": "Jumbo Bladerdeeg 10 Plakjes 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.63,
     "minimumAmount": 1,

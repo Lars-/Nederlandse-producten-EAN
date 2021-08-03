@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "269298FLS",
     "name": "Jumbo Huiswijn - Soepel - 250ML",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.77,
     "minimumAmount": 1,

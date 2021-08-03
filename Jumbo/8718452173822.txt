@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "172136PAK",
     "name": "Jumbo Houtvezel 2, 5kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.61,
     "minimumAmount": 1,

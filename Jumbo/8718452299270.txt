@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "369769STK",
     "name": "Jumbo Jong Belegen Kaas 30+ Plakken 300 g - Voordeelverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.75,
     "minimumAmount": 1,

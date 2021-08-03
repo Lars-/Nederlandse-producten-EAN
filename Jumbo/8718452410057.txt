@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "295215DS",
     "name": "Jumbo Lekker Vrij van Gluten Digestives Melkchocolade 165g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.79,
     "minimumAmount": 1,

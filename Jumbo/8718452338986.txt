@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "401122STK",
     "name": "Jumbo Gouda Holland Jong Belegen Kaas 48+ Plakken 190g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.35,
     "minimumAmount": 1,

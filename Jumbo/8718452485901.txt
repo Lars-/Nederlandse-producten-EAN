@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "367890PAK",
     "name": "Jumbo Karnemelk 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.76,
     "minimumAmount": 1,

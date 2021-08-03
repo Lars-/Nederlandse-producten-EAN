@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "371352STK",
     "name": "Jumbo Tomme Blanche Witschimmelkaas 60+ 106g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2,
     "minimumAmount": 1,

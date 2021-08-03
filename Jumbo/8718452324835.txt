@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "308395BAK",
     "name": "Jumbo Kipdijfilet met Spek, Ui en Paprika 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4,
     "minimumAmount": 1,

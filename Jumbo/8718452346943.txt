@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "213591BAK",
     "name": "Jumbo Slagersgehaktbal Rund & Varken 8 Stuks 800g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6,
     "minimumAmount": 1,

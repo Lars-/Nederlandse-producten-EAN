@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "387887STK",
     "name": "Jumbo - Peren-karamelvlaai - Half",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 3.69,
     "minimumAmount": 1,

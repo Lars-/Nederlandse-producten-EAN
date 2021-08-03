@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "92441DS",
     "name": "Jumbo Cacao Truffels met Romige Zachte Vulling 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.18,
     "minimumAmount": 1,

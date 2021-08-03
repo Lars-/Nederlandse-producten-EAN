@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "398910DS",
     "name": "Jumbo Perzik Partjes 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.58,
     "minimumAmount": 1,

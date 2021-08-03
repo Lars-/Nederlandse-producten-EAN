@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "418995POT",
     "name": "Jumbo Cr\u00e8me Honing 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.97,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "382380BAK",
     "name": "Jumbo Tonijn Salade 175g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 2.17,
     "minimumAmount": 1,

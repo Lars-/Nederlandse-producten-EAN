@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "212173STK",
     "name": "Jumbo Gewassen Spinazie 600g - Voordeelverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.85,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "204195ZK",
     "name": "Jumbo Aardappelschijfjes 600g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.65,
     "minimumAmount": 1,

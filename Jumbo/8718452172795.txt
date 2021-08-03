@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195408CUP",
     "name": "Jumbo Gezouten Macadamia Notenmix 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.95,
     "minimumAmount": 1,

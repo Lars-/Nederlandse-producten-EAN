@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "149035PAK",
     "name": "Jumbo Schelpenzand 2, 2kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.5,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "283604STK",
     "name": "Jumbo Mexicaanse Saus Salsa Knoflook",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.29,
     "minimumAmount": 1,

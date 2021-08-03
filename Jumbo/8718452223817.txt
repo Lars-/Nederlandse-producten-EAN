@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "420606PAK",
     "name": "Jumbo Biologisch Verse Karnemelk 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.69,
     "minimumAmount": 1,

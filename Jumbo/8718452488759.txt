@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "383480FLS",
     "name": "Jumbo Bakken & Braden Olijf 400ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.45,
     "minimumAmount": 1,

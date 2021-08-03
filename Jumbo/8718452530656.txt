@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "403621STK",
     "name": "Jumbo Chimichurri Kruidensaus 180g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

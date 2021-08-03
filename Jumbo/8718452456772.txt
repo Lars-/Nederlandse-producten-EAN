@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "184212SC",
     "name": "Jumbo Zeer Pittig Madame Jeanette Pepers 50g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.5,
     "minimumAmount": 1,

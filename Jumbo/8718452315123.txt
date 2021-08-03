@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "203832BLK",
     "name": "Jumbo Cola Cherry Zero Sugar 330ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.4,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "386932BAK",
     "name": "Jumbo Lekker Veggie Falafel Hot & Spicy Vegan 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.76,
     "minimumAmount": 1,

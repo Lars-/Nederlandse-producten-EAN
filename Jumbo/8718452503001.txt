@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "388956DS",
     "name": "Jumbo Kokos Stukjes 120g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2,
     "minimumAmount": 1,

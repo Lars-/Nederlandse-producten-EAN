@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "69247PAK",
     "name": "Jumbo Feestkoeken 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "383439ZK",
     "name": "Jumbo Zoete Aardappelsoep Zuid-Amerikaanse Stijl 570ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.3,
     "minimumAmount": 1,

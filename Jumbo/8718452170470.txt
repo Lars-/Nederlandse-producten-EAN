@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "136030PAK",
     "name": "Jumbo Multivruchtendrink 1, 5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.53,
     "minimumAmount": 1,

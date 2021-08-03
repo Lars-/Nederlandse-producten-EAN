@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "224504STK",
     "name": "Jumbo Zoute Drop Mix 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.38,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "283553STK",
     "name": "Jumbo Risotto Pakket",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.84,
     "minimumAmount": 1,

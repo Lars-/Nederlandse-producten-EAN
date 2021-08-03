@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "204148CUP",
     "name": "Jumbo Ongezouten Amandelen 160g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.91,
     "minimumAmount": 1,

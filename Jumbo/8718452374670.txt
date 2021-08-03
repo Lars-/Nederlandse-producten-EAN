@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "330714ZK",
     "name": "Jumbo Bloemkool 150g - Kleinverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.55,
     "minimumAmount": 1,

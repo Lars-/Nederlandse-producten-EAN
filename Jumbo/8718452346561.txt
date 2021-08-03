@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "323836ZK",
     "name": "La Place Koffiebonen Mexico Single Origin 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6.99,
     "minimumAmount": 1,

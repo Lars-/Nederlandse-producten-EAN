@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "171341FLS",
     "name": "Jumbo Karamel Dessertsaus 260g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.97,
     "minimumAmount": 1,

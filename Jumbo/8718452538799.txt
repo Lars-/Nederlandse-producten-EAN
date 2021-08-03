@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "208402DS",
     "name": "Jumbo Biologische Kippenbouillon 6 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.85,
     "minimumAmount": 1,

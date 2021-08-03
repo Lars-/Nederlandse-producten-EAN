@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "89972DS",
     "name": "Jumbo Tandenstokers met Fluoride en Mintsmaak 100 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.33,
     "minimumAmount": 1,

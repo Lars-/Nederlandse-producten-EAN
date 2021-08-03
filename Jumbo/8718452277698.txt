@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "230420BAK",
     "name": "Jumbo Maaltijdsalade Gerookte Zalm 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.32,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "403622STK",
     "name": "Jumbo Gekarameliseerde Uien 170g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

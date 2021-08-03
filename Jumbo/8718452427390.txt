@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "310820ZK",
     "name": "Jumbo Biologische Gebrande Pinda's Gezouten 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.29,
     "minimumAmount": 1,

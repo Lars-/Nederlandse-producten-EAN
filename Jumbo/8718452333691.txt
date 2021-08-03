@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "215200STK",
     "name": "Jumbo Smeuige Risotto met Tomaat 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.15,
     "minimumAmount": 1,

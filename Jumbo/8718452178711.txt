@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "180769STK",
     "name": "Jumbo Pink Deodorant 150ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.08,
     "minimumAmount": 1,

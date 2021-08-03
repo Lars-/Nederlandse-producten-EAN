@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "192118STK",
     "name": "Jumbo Hazelnoten in Vlies 175g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.49,
     "minimumAmount": 1,

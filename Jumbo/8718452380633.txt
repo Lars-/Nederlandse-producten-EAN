@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "269546FLS",
     "name": "Jumbo Huiswijn - Droog & Vol - Zuid-Afrika - Chenin Blanc - 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.95,
     "minimumAmount": 1,

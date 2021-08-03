@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "351660STK",
     "name": "Jumbo Geitenkaas Schijfjes Naturel 125g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.65,
     "minimumAmount": 1,

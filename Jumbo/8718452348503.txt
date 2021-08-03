@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "213760TRA",
     "name": "Jumbo Mini Biefstuk Gemarineerd 120g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3,
     "minimumAmount": 1,

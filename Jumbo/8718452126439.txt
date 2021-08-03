@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "338829PAK",
     "name": "Jumbo TintelFris Light Appel & Perzik 1, 5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.69,
     "minimumAmount": 1,

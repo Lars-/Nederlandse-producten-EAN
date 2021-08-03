@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "65913TRA",
     "name": "Jumbo - Mini Saucijzenbroodjes - 9 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.67,
     "minimumAmount": 1,

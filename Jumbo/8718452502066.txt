@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "398381ZK",
     "name": "Jumbo Tortilla Sweet Chili Chips 170g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.87,
     "minimumAmount": 1,

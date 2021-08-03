@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "370264DS",
     "name": "Jumbo Verse Vrije Uitloopeieren Respeggt 6 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.39,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "365314ZK",
     "name": "Jumbo Hollands Aardappel Schotel 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.84,
     "minimumAmount": 1,

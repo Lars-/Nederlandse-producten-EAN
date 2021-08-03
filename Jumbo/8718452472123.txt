@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "354459STK",
     "name": "Jumbo - Hazelnootgebakjes - 2 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.49,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "212639STK",
     "name": "Jumbo Hollandse Rauwkost 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.77,
     "minimumAmount": 1,

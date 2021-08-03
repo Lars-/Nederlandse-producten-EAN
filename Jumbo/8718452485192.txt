@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "382890FLS",
     "name": "Jumbo Ontbijt Smoothie Haver Sinaasappel Kiwi 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.79,
     "minimumAmount": 1,

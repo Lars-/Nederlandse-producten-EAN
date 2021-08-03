@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "377423ZK",
     "name": "Jumbo Ongezouten Cranberry Mix 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 2.19,
     "minimumAmount": 1,

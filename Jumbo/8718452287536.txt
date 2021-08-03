@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "200835FLS",
     "name": "Jumbo Wasverzachter Fruity Berries 30 Wasbeurten 750ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.18,
     "minimumAmount": 1,

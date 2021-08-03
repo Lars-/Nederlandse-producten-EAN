@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "213394POT",
     "name": "Jumbo Gurken Topf Zoetzuur 1, 55kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.51,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "173802DS",
     "name": "Jumbo Avocado 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.83,
     "minimumAmount": 1,

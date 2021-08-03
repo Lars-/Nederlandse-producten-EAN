@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "305997DS",
     "name": "Jumbo Kruidenthee Sterrenmunt 15 Stuks 30g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.74,
     "minimumAmount": 1,

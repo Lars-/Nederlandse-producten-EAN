@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "384345CUP",
     "name": "Jumbo Gedroogde Abrikoos Biologisch 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.29,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195415BLK",
     "name": "Jumbo Bruine Bonensoep met Stukjes Rookworst en Wortel 800ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.34,
     "minimumAmount": 1,

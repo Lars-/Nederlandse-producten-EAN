@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "317338ZK",
     "name": "Jumbo Reepjes in Saus met Rund en Gevogelte 4 x 85g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.88,
     "minimumAmount": 1,

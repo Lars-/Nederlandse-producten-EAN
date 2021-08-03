@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "305824BAK",
     "name": "Jumbo Makreelflakes Naturel 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.98,
     "minimumAmount": 1,

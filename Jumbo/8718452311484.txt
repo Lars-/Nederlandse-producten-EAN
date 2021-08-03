@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "237866ZK",
     "name": "Jumbo Bami & Nasi Groente 250 g - Kleinverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.49,
     "minimumAmount": 1,

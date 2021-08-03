@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "214487FLS",
     "name": "Jumbo Dressing Mosterd Dille 70ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.32,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "157702BKR",
     "name": "Jumbo Verse Creme Fraiche Biologisch 125g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.38,
     "minimumAmount": 1,

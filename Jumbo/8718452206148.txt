@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "92452TRA",
     "name": "Jumbo Gerookte Spekreepjes 2 x 125g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.55,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "180967PAK",
     "name": "Jumbo Mix voor Lekkere Friszoete Aardbei Kwarktaart 440g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.37,
     "minimumAmount": 1,

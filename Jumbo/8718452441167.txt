@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "339501STK",
     "name": "Jumbo Miniboeket M",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.99,
     "minimumAmount": 1,

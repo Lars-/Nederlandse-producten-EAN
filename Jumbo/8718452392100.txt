@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "292505STK",
     "name": "Jumbo Digestive Biscuit Melkchocolade 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.88,
     "minimumAmount": 1,

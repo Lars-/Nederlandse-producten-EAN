@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "226722BAK",
     "name": "Jumbo Foe Yong Hai 260g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.43,
     "minimumAmount": 1,

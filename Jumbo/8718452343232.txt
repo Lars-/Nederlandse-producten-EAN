@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "214150BAK",
     "name": "Jumbo Zigeuner Gehaktschnitzel 2 Stuks 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.83,
     "minimumAmount": 1,

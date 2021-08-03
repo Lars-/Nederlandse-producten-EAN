@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "324165CUP",
     "name": "Jumbo Kokosolie Biologisch 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.12,
     "minimumAmount": 1,

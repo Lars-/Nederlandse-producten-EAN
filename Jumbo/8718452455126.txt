@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "347901BAK",
     "name": "Jumbo Pittige Kip met Piri Piri Saus 160g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.5,
     "minimumAmount": 1,

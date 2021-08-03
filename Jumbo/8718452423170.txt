@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "302293POT",
     "name": "Jumbo Snijbonen 680g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.08,
     "minimumAmount": 1,

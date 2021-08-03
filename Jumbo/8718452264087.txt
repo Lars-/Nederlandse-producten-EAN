@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "194494CUP",
     "name": "Jumbo Pat\u00e9 met Zalm 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.25,
     "minimumAmount": 1,

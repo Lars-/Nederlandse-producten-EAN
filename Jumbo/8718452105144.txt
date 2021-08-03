@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "269300FLS",
     "name": "Jumbo Huiswijn - Droog & Fris - Tempranillo - Syrah - Ros\u00e9 - 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.95,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "225591PAK",
     "name": "Jumbo - Desem Pave Meerzaden Broodjes - 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.66,
     "minimumAmount": 1,

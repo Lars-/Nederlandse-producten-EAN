@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "430652STK",
     "name": "Goudeerlijk - Bruin Brood - Half - Vriesvers",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.13,
     "minimumAmount": 1,

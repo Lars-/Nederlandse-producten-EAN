@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "182165BLK",
     "name": "Jumbo Marokkaanse Ras el Hanout 60g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.81,
     "minimumAmount": 1,

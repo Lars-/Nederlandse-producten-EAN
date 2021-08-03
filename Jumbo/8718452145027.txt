@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "167061DS",
     "name": "Jumbo Chinese Tomatensoep 3 Zakjes",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.4,
     "minimumAmount": 1,

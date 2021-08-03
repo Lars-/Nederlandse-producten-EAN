@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "276488ZK",
     "name": "Jumbo Opbakaardappelen Fijn Gesneden 600g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1,
     "minimumAmount": 1,

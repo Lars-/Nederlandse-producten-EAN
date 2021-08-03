@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "312895BKL",
     "name": "Jumbo Toiletpapier 16 Rollen 4 Laags",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 16.83,
     "minimumAmount": 1,

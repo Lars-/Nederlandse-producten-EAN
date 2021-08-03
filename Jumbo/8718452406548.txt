@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "323824STK",
     "name": "Jumbo Grove Maling Aroma 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.47,
     "minimumAmount": 1,

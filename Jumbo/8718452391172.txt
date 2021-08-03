@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "201542STK",
     "name": "Jumbo Suikervrije Drop met Honingsmaak 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.18,
     "minimumAmount": 1,

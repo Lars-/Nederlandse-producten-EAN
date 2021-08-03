@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "270892ZK",
     "name": "Jumbo Ma\u00efs Sous-Vide Gegaard 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.5,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "294739STK",
     "name": "Goudeerlijk - Spelt Bruin Brood - Vriesvers",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.55,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "201238STK",
     "name": "Jumbo Rijstwafels Meergranen 12 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.84,
     "minimumAmount": 1,

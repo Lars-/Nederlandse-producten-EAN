@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "163365ROL",
     "name": "Jumbo Pedaalemmerzakken 35 L 15 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.09,
     "minimumAmount": 1,

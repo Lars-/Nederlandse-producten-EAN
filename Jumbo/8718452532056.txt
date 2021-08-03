@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "412072STK",
     "name": "Jumbo Lekker Veggie Krokante Kipschnitzel Vegan 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.75,
     "minimumAmount": 1,

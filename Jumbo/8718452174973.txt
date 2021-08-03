@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "173679DS",
     "name": "Jumbo Visfilet Light 3 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.4,
     "minimumAmount": 1,

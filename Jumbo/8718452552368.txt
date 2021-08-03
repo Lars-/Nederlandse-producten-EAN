@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "432130DS",
     "name": "Jumbo Crunchy Granola met Popcorn 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

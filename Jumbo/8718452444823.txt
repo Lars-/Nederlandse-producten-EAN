@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "329667STK",
     "name": "Jumbo Camembert 45+ 129g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.87,
     "minimumAmount": 1,

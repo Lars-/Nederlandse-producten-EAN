@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "156424FLS",
     "name": "Jumbo Dressing 1000 Islands 450ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.29,
     "minimumAmount": 1,

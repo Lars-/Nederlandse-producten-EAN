@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "268976STK",
     "name": "Jumbo Cocktail Borrelnoten 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.43,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "87870BAK",
     "name": "Jumbo Varken Braadworst Fijn 2 Stuks 780g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.5,
     "minimumAmount": 1,

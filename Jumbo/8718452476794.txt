@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "384999ZK",
     "name": "Jumbo Natuurlijke Brokjes Katten Hypoallergeen & Graanvrij 800g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.79,
     "minimumAmount": 1,

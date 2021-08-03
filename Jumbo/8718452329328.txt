@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "212613POT",
     "name": "Jumbo Amsterdamse Uien Zoetzuur 320g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.52,
     "minimumAmount": 1,

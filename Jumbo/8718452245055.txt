@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "190172DS",
     "name": "Jumbo Granola Appel, Havervlokken, Cranberry, Pitten 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.6,
     "minimumAmount": 1,

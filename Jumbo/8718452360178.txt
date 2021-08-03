@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "220924POT",
     "name": "Jumbo Rode Bieten Plakken 680g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.08,
     "minimumAmount": 1,

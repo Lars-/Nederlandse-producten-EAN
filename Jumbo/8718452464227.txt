@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "386922BAK",
     "name": "Jumbo Lekker Veggie Kaasschnitzel Voordeelverpakking Vegetarisch 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4,
     "minimumAmount": 1,

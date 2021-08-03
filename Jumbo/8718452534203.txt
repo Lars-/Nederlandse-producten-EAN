@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "181618STK",
     "name": "Jumbo Menthol Keelpastilles 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.63,
     "minimumAmount": 1,

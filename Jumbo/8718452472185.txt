@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "202248FLS",
     "name": "Jumbo Ecologische Wasverzachter 30 Wasbeurten 750ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.18,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "323838EM",
     "name": "Jumbo Sat\u00e9saus 400ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.34,
     "minimumAmount": 1,

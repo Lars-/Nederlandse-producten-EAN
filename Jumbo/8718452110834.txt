@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "163499PAK",
     "name": "Jumbo Hete Hapjes 12 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.46,
     "minimumAmount": 1,

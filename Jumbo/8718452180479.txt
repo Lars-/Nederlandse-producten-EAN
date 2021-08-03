@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "203126STK",
     "name": "Ambachtelijke Snacks Ori\u00ebntaals Bamischijf 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.12,
     "minimumAmount": 1,

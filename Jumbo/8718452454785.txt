@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "371356STK",
     "name": "Jumbo Zuivel Spread Light Bieslook 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.57,
     "minimumAmount": 1,

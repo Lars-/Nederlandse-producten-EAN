@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "423405FLS",
     "name": "Jumbo Baby Wasgel 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

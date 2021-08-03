@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "300211STK",
     "name": "Jumbo - Witte Bollen - 10 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.5,
     "minimumAmount": 1,

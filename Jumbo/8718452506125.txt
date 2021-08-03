@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "386135STK",
     "name": "Jumbo - Knip Volkoren Brood van Brood",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.5,
     "minimumAmount": 1,

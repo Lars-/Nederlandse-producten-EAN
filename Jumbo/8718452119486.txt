@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "164567FLS",
     "name": "Jumbo Natuurazijn Biologisch 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.98,
     "minimumAmount": 1,

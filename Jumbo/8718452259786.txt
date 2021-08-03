@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195857BLK",
     "name": "Jumbo Tomatencremesoep 800ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.25,
     "minimumAmount": 1,

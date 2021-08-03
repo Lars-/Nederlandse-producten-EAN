@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "431927BAK",
     "name": "Jumbo Verse Maaltijd Babi Pangang met Bami 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3,
     "minimumAmount": 1,

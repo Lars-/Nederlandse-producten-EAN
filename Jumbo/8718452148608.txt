@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "200857FLS",
     "name": "Jumbo Donker 2x Geconcentreerd Vloeibaar Wasmiddel Donker 28 Wasbeurten 980ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.75,
     "minimumAmount": 1,

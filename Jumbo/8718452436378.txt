@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "313704ZK",
     "name": "Jumbo Toiletpapier Zacht en Sterk 3-Laags 20 Rollen",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.86,
     "minimumAmount": 1,

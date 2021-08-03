@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "368827ZK",
     "name": "Jumbo Ongebrande - Ongezouten Walnoten Voordeelverpakking 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6.77,
     "minimumAmount": 1,

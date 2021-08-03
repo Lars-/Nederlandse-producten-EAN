@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "270452CUP",
     "name": "Jumbo Cottage Cheese Biologische 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.45,
     "minimumAmount": 1,

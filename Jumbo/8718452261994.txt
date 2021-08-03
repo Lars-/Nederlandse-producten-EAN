@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "197018STK",
     "name": "Jumbo Woksaus Teriyaki 200ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.21,
     "minimumAmount": 1,

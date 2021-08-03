@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195629TRL",
     "name": "Jumbo Champignonsoep met Bieslook 6 x 800ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 7.14,
     "minimumAmount": 1,

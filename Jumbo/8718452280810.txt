@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "31657DS",
     "name": "Jumbo Dim Sum Snacks 16 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.73,
     "minimumAmount": 1,

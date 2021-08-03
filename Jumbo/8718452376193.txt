@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "283608STK",
     "name": "Jumbo Nasi & Bami Mix 4 x 50 g - Voordeelverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.19,
     "minimumAmount": 1,

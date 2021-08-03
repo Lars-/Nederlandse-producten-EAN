@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "283837CUP",
     "name": "Jumbo Milkshake Vanille 230ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.89,
     "minimumAmount": 1,

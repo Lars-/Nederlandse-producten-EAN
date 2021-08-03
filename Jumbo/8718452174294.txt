@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "175647ZK",
     "name": "Jumbo Jus Naturel 29g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.39,
     "minimumAmount": 1,

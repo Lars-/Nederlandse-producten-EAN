@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "174716POT",
     "name": "Jumbo Paste Shaper 100ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.06,
     "minimumAmount": 1,

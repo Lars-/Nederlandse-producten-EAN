@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "306133STK",
     "name": "Jumbo - Aardbeien Soesjes - 10 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.09,
     "minimumAmount": 1,

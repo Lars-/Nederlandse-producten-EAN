@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "206865STK",
     "name": "Jumbo Biologisch Rundercarpaccio met Kaas, Extra Vergine Olijfolie en Pijnboompitten 120g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.97,
     "minimumAmount": 1,

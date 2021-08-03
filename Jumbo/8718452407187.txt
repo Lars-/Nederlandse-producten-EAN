@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "332409CUP",
     "name": "Jumbo Cr\u00e8me Fra\u00eeche Light 50% Minder Vet 125g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.98,
     "minimumAmount": 1,

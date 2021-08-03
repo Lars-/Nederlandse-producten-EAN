@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195815STK",
     "name": "Jumbo Teriyaki Saus 175ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.84,
     "minimumAmount": 1,

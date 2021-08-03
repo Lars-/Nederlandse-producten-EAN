@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "224274BAK",
     "name": "Jumbo Roomijs Choco Banaan 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.07,
     "minimumAmount": 1,

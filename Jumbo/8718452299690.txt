@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "208404PAK",
     "name": "Jumbo Halfvolle Chocolademelk 6 x 200ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.55,
     "minimumAmount": 1,

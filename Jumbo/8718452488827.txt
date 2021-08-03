@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "392062PAK",
     "name": "Jumbo Margarine 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.54,
     "minimumAmount": 1,

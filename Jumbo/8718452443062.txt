@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "377349STK",
     "name": "Jumbo Set Amandelmarsepein voor Decoratie 4 x 75g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.09,
     "minimumAmount": 1,

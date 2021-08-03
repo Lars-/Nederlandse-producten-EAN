@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "440032DS",
     "name": "Jumbo Gemengde Olijven Paprika 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

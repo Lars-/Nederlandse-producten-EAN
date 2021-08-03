@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "208687ZK",
     "name": "Jumbo Ricotta & Spinazie Ravioli 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.67,
     "minimumAmount": 1,

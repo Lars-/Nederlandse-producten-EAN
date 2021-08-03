@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "208407PAK",
     "name": "Jumbo Chocolademelk Vol 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

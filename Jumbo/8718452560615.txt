@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "438277DS",
     "name": "La Place Koffiecups Espresso 10 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.69,
     "minimumAmount": 1,

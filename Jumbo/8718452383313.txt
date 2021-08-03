@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "276774STK",
     "name": "Jumbo Fish Taco Mix 25g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.89,
     "minimumAmount": 1,

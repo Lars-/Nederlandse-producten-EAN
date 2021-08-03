@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "394214TRA",
     "name": "Jumbo Coppa di Parma 50g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

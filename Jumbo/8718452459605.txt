@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "302235STK",
     "name": "Jumbo Cocktail Tros Tomaten 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.49,
     "minimumAmount": 1,

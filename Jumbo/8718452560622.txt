@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "438298DS",
     "name": "La Place Koffiecups Lungo Dolce 10 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.69,
     "minimumAmount": 1,

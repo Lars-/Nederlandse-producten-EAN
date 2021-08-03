@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "63391PAK",
     "name": "Jumbo Schouderham 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.47,
     "minimumAmount": 1,

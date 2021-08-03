@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "180726ZK",
     "name": "Jumbo Patat Frites 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.08,
     "minimumAmount": 1,

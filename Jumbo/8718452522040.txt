@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "396173TRA",
     "name": "Jumbo Crackers Zaden en Pitten 175g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

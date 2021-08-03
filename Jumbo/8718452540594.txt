@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "387591ZK",
     "name": "Jumbo Salade Mix 45g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

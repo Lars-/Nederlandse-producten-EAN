@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "177459ROL",
     "name": "Jumbo 3-in-1 Folie 15 Meter",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.94,
     "minimumAmount": 1,

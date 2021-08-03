@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "302297POT",
     "name": "Jumbo Schorseneren 680g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.3,
     "minimumAmount": 1,

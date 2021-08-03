@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "363662FLS",
     "name": "Jumbo Woksaus Knoflook Koriander Kruidig 200ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.45,
     "minimumAmount": 1,

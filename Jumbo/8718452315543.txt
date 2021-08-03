@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "205883TRA",
     "name": "Jumbo Roomboter Spritsen 190g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.02,
     "minimumAmount": 1,

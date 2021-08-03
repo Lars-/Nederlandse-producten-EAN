@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "351661STK",
     "name": "Jumbo Geitenkaas Schijfjes Honing 125g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.7,
     "minimumAmount": 1,

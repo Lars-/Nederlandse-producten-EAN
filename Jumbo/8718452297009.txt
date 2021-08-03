@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "204243PAK",
     "name": "Jumbo Sinaasappelsap 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.18,
     "minimumAmount": 1,

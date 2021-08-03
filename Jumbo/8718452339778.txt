@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "215065POT",
     "name": "La Place Pastasaus Carbonara 340g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.79,
     "minimumAmount": 1,

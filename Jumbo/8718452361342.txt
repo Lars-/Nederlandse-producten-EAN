@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "201497TRA",
     "name": "Jumbo Hamburger a la Minute Varken 3 Stuks 270g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.79,
     "minimumAmount": 1,

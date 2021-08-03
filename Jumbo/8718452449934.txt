@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "163202POT",
     "name": "Jumbo Cookie Chocopasta 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.36,
     "minimumAmount": 1,

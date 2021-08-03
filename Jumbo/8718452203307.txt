@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "246254ZK",
     "name": "Jumbo - Melkbroodjes - 10 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.77,
     "minimumAmount": 1,

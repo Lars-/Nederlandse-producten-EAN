@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "294765ZK",
     "name": "Jumbo Filet Americain 3 Stuks 105g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.76,
     "minimumAmount": 1,

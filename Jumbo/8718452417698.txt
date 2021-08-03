@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "302204POT",
     "name": "Jumbo Jonge Kapucijners 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.01,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "291989STK",
     "name": "Jumbo - Sandwich Bacon Ei",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.54,
     "minimumAmount": 1,

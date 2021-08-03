@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "343941BAK",
     "name": "Jumbo Snackgroente Wortelen 650g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 2.5,
     "minimumAmount": 1,

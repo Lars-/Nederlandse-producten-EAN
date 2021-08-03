@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "380333STK",
     "name": "Jumbo Gele Watermeloen",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.99,
     "minimumAmount": 1,

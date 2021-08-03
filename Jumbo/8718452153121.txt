@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "427704DS",
     "name": "Jumbo Biologische Chocolade Extra Puur 72% 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.48,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "250577STK",
     "name": "Jumbo Geitenkaas Bolletjes Naturel 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.75,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "347053BAK",
     "name": "Jumbo Verse Maaltijd Spruitjes met Slavink 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5,
     "minimumAmount": 1,

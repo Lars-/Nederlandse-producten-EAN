@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "295237RP",
     "name": "Jumbo Cookie & Cream Gevulde Melk Chocolade Reep 190g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.72,
     "minimumAmount": 1,

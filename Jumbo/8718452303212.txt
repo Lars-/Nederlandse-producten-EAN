@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "200885ZK",
     "name": "Jumbo Bloemkool & Broccoli 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.25,
     "minimumAmount": 1,

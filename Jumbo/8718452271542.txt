@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195067ROL",
     "name": "Jumbo BBQ Rijstwafel Snack 155g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.6,
     "minimumAmount": 1,

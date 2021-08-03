@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "386237DS",
     "name": "Jumbo Latte Amaretto Flavour 8 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.77,
     "minimumAmount": 1,

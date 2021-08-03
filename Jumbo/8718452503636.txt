@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "410239FLS",
     "name": "Jumbo Vloeibaar Frituurvet 2L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 5.29,
     "minimumAmount": 1,

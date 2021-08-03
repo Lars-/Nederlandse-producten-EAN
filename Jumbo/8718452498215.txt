@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "388390POT",
     "name": "Jumbo Romige Kwark Banaan 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.68,
     "minimumAmount": 1,

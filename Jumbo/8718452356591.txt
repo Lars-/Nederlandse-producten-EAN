@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "300204STK",
     "name": "Waldkorn - Volkoren Brood",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.05,
     "minimumAmount": 1,

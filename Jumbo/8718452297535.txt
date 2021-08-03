@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "230417BAK",
     "name": "Jumbo Basis Maaltijdsalade Tonijn 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3,
     "minimumAmount": 1,

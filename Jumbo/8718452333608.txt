@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "208804BAK",
     "name": "Jumbo Grillburger 360g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.5,
     "minimumAmount": 1,

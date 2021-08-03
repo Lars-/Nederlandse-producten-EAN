@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "176156ZK",
     "name": "Jumbo Roergemak Hollandse Nasi Speciaal 475g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.59,
     "minimumAmount": 1,

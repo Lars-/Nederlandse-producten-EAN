@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "223151STK",
     "name": "Jumbo Jonge Kaas 48+ Stuk 545g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.32,
     "minimumAmount": 1,

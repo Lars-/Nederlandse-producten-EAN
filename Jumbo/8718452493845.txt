@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "381980STK",
     "name": "Jumbo Luierbroekjes 4 8-15 kg 22 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.89,
     "minimumAmount": 1,

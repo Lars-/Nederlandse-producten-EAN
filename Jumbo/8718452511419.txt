@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "387239TRA",
     "name": "Jumbo Stroopwafels Melkchocolade en Karamel 231g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.09,
     "minimumAmount": 1,

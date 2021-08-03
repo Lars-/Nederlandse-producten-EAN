@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195068ROL",
     "name": "Jumbo Kaas Rijstwafel Snack 155g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.9,
     "minimumAmount": 1,

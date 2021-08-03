@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "365079FLS",
     "name": "Jumbo Smoothie Blauwe Bes Braam Framboos Zwarte Bes Appel 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.25,
     "minimumAmount": 1,

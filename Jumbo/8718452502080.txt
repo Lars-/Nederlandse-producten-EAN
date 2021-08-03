@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "398387ZK",
     "name": "Jumbo Tortilla Naturel Chips 170g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.56,
     "minimumAmount": 1,

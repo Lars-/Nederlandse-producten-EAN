@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "420595DS",
     "name": "Jumbo - Aardbei-Rabarber Schuim Vlaai - Half",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6,
     "minimumAmount": 1,

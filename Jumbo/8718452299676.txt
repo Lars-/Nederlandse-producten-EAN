@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "208406PAK",
     "name": "Jumbo Chocolademelk Light 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.89,
     "minimumAmount": 1,

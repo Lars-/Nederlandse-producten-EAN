@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "366899DS",
     "name": "Jumbo Bessen Blauw 125g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.29,
     "minimumAmount": 1,

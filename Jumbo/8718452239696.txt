@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "185789BAK",
     "name": "Jumbo Barbecueworst Mediterraans 390g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.29,
     "minimumAmount": 1,

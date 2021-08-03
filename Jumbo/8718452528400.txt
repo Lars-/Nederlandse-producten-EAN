@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "413132PAK",
     "name": "Jumbo Pannenkoeken Vla Special 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.49,
     "minimumAmount": 1,

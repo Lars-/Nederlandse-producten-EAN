@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "283529STK",
     "name": "Jumbo Kruidige Lasagne Pakket 3-4 Personen",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.14,
     "minimumAmount": 1,

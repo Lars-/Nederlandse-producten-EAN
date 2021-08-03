@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "350692PAK",
     "name": "Jumbo Mango Sinaasappel met Appel 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.34,
     "minimumAmount": 1,

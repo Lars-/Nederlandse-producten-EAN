@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "446561STK",
     "name": "Jumbo - Wit Duivekater Brood",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.47,
     "minimumAmount": 1,

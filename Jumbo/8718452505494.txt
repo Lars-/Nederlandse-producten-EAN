@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "394303ZK",
     "name": "Jumbo Nori Wasabimix 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.77,
     "minimumAmount": 1,

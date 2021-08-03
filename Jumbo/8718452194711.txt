@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "302232BAK",
     "name": "Jumbo Cherry Tomaten 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.79,
     "minimumAmount": 1,

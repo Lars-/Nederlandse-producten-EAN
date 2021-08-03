@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "389354CUP",
     "name": "Jumbo Amandelen met Rooksmaak Gezouten 160g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.04,
     "minimumAmount": 1,

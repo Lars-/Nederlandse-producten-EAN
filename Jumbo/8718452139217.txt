@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "197058DS",
     "name": "Jumbo Kippenbouillon 8 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.62,
     "minimumAmount": 1,

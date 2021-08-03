@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "194939STK",
     "name": "Jumbo Voorgekookte Suikermais Biologisch 2 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.49,
     "minimumAmount": 1,

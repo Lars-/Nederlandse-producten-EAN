@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "356625PAK",
     "name": "Jumbo XL Tortilla Volkoren 6 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.38,
     "minimumAmount": 1,

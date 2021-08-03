@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "218404STK",
     "name": "Jumbo Honden Snack met Kip 170g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.96,
     "minimumAmount": 1,

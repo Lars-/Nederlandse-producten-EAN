@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "373860STK",
     "name": "Jumbo Houmous Witlof en Notentopping 125g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

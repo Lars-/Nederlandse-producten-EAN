@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "182160POT",
     "name": "Jumbo Indiase Garam Masala 60g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3,
     "minimumAmount": 1,

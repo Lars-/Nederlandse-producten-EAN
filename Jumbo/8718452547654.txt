@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "432388FLS",
     "name": "Jumbo Halfvolle Jersey Melk - Direct van De Boerderij 800ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.89,
     "minimumAmount": 1,

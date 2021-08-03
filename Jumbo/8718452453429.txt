@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "240323BOS",
     "name": "Jumbo Rozen Pastel - Assorti Artikel",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.29,
     "minimumAmount": 1,

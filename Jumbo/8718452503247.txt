@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "393384DS",
     "name": "Jumbo Vezelreep Hazelnoot & Vijgen met Chocodecoratie 3 Stuks 94g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.49,
     "minimumAmount": 1,

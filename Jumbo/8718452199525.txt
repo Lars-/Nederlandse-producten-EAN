@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "160375TUB",
     "name": "Jumbo Gebits Reiniging Tabletten 30 Stuks 105g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.24,
     "minimumAmount": 1,

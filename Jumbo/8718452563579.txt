@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "446703ZK",
     "name": "Jumbo Espresso Intenso Koffiebonen 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.97,
     "minimumAmount": 1,

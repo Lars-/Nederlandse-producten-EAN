@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "418994POT",
     "name": "Jumbo Biologisch Honing Cr\u00e8me 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.31,
     "minimumAmount": 1,

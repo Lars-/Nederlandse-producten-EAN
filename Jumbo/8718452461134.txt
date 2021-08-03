@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "367989BLK",
     "name": "Jumbo Ginger Ale 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.41,
     "minimumAmount": 1,

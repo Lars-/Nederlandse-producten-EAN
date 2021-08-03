@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "371130DS",
     "name": "Jumbo Oven Mini Hotdog met Maanzaadjes 16 Stuks 256g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.5,
     "minimumAmount": 1,

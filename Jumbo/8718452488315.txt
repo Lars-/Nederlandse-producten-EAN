@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "223118BAK",
     "name": "Jumbo Gouda Holland Extra Belegen Kaas 48+ Stuk 525g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6.33,
     "minimumAmount": 1,

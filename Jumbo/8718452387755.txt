@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "42752PAK",
     "name": "Jumbo Oranje Koeken met Banketspijs 6 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.03,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "273796DS",
     "name": "Jumbo Vegetarische Oven Kaas Nuggets ca. 12 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.99,
     "minimumAmount": 1,

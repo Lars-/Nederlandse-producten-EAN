@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "166827POT",
     "name": "Jumbo Mayonaise Biologisch 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.07,
     "minimumAmount": 1,

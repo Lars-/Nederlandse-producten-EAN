@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "383119ZK",
     "name": "Jumbo Vastkokend Rode Aardappel 3kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.09,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "178634ROL",
     "name": "Jumbo Biologische Maiswafels met Zeezout 16 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 0.53,
     "minimumAmount": 1,

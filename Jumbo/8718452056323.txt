@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "438317PAK",
     "name": "Jumbo Vitamine Drink Framboos & Granaatappel 6x500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

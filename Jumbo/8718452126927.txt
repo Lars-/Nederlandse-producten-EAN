@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "203562POT",
     "name": "Jumbo Bruine Bonen Biologisch 360g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.78,
     "minimumAmount": 1,

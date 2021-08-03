@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "329788PAK",
     "name": "Jumbo Zakdoekjes 9 Pakjes Menthol",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

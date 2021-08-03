@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "427784FLS",
     "name": "Jumbo Cola Light Cafe\u00efnevrij 1, 5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.09,
     "minimumAmount": 1,

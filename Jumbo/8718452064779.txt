@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "149388PAK",
     "name": "Jumbo Houdbare Volle Melk 6 x 200ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.85,
     "minimumAmount": 1,

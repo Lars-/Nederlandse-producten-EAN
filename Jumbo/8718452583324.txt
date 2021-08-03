@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "388902DS",
     "name": "Jumbo Fruitmix 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2,
     "minimumAmount": 1,

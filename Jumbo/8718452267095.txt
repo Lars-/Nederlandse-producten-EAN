@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "192823PAK",
     "name": "Jumbo Crackers Zaden & Pitten 6 x 3 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.13,
     "minimumAmount": 1,

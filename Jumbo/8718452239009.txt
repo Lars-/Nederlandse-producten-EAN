@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "190570PAK",
     "name": "Jumbo Kattensnack Zachte Visjes Zalm 35g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.69,
     "minimumAmount": 1,

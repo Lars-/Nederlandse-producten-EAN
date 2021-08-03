@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "283314ZK",
     "name": "La Place Pure Chocolade 180g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.28,
     "minimumAmount": 1,

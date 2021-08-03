@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "202753STK",
     "name": "Jumbo Boeren Champignonsoep 800ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.84,
     "minimumAmount": 1,

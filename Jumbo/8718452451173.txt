@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "336647POT",
     "name": "Jumbo 100% Appelmoes 190g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.57,
     "minimumAmount": 1,

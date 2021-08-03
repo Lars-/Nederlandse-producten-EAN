@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "425863DS",
     "name": "Jumbo Ultimate Sparerib 680g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 9,
     "minimumAmount": 1,

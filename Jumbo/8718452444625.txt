@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "340551DS",
     "name": "Jumbo Rundvlees Kroketten 8 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.59,
     "minimumAmount": 1,

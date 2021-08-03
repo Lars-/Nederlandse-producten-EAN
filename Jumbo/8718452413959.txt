@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "414914BAK",
     "name": "Jumbo Burrito Bowl 315g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.19,
     "minimumAmount": 1,

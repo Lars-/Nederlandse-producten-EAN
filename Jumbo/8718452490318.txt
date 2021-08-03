@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "395036ZK",
     "name": "Jumbo Geraspt Jong Belegen Kaas 48+ 175g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.02,
     "minimumAmount": 1,

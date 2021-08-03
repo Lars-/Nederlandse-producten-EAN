@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "411367FLS",
     "name": "Jumbo Frituurolie 3L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.99,
     "minimumAmount": 1,

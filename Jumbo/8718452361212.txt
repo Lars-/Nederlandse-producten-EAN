@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "201332BAK",
     "name": "Jumbo Kip Cordon Bleu 5 Stuks 625g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6,
     "minimumAmount": 1,

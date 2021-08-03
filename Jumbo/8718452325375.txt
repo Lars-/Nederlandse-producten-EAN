@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "217288STK",
     "name": "Jumbo Yoghurtje Vanille 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

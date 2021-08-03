@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "208803TRA",
     "name": "Jumbo Grillburger Rund 2 Stuks 180g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2,
     "minimumAmount": 1,

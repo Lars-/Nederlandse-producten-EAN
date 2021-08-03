@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "350188DS",
     "name": "Jumbo Tropisch Fruit Meloen - Mango - Ananas 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.55,
     "minimumAmount": 1,

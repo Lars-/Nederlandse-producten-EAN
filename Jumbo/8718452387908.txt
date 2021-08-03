@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "292503PAK",
     "name": "Jumbo Gevulde Koeken 8 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.32,
     "minimumAmount": 1,

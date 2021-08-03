@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "167841DS",
     "name": "Jumbo Naturel Macaroni Biologisch 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.7,
     "minimumAmount": 1,

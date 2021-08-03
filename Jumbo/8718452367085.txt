@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "238267ZK",
     "name": "Jumbo Donuts Mix 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.49,
     "minimumAmount": 1,

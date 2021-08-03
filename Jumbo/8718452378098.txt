@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "237883PAK",
     "name": "Jumbo Maaltijdpakket Poke Bowl 1, 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6.49,
     "minimumAmount": 1,

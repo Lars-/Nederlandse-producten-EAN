@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "205569ROL",
     "name": "Jumbo Huisvuilzakken 60 Liter 20 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

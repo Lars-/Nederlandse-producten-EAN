@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "135749PAK",
     "name": "Jumbo Duo Drank Appel Peer 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.09,
     "minimumAmount": 1,

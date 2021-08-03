@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "282970ZK",
     "name": "La Place Assortiment van Melkchocolade 180g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.28,
     "minimumAmount": 1,

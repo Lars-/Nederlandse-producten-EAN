@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "372792DS",
     "name": "Jumbo Basis Amandelmeel Glutenvrij 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.74,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "332210PAK",
     "name": "Jumbo Lekker Vrij van Lactose Magere Yoghurt 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.63,
     "minimumAmount": 1,

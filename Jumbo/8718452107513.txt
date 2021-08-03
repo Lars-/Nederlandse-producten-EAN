@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "159424BAK",
     "name": "Jumbo Champignons Biologisch 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "183734FLS",
     "name": "Jumbo Appelsap Boomgaard 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.28,
     "minimumAmount": 1,

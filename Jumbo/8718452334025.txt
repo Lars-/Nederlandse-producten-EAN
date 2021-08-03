@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "208836STK",
     "name": "Jumbo Linzen 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.74,
     "minimumAmount": 1,

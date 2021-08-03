@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "182205POT",
     "name": "Jumbo Peper 4 Seizoenen 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.24,
     "minimumAmount": 1,

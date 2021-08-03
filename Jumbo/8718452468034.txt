@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "383449CUP",
     "name": "Jumbo Goed Begin 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.95,
     "minimumAmount": 1,

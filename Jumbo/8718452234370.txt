@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "192027PAK",
     "name": "Jumbo Boerenmetworst 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.07,
     "minimumAmount": 1,

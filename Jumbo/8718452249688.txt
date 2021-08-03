@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195612NET",
     "name": "Jumbo Clemengold Mandarijnen 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.99,
     "minimumAmount": 1,

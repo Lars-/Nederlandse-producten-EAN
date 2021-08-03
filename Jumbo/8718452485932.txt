@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "387200DS",
     "name": "Jumbo Papieren Boterham Zakken XL 60 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.45,
     "minimumAmount": 1,

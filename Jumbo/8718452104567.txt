@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "203413PAK",
     "name": "Jumbo Zwarte Bessen Cassis 6 x 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.28,
     "minimumAmount": 1,

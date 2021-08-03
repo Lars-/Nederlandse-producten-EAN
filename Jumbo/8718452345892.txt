@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "232452ZK",
     "name": "Jumbo Mixed Sweet & Salty Popcorn 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.95,
     "minimumAmount": 1,

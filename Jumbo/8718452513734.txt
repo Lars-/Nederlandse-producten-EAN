@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "394229PKL",
     "name": "Jumbo Milde Magere Kwark 6 x 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.04,
     "minimumAmount": 1,

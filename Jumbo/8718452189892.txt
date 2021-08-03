@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "55599PAK",
     "name": "Jumbo WC Blok Ocean Navulling 2 x 40g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.79,
     "minimumAmount": 1,

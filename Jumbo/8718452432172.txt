@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "320593DSL",
     "name": "JUMBO SALAMI",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 8.94,
     "minimumAmount": 1,

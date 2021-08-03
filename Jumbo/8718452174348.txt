@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "182387ZK",
     "name": "Jumbo Jus Stamppot 18g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.39,
     "minimumAmount": 1,

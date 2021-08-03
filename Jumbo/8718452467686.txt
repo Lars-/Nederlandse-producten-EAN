@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "94395ZK",
     "name": "Jumbo Luchtige Rijstcrackers 175g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.67,
     "minimumAmount": 1,

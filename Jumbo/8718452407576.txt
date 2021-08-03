@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "127487POT",
     "name": "Jumbo Fijne Augurk Zuur 340g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.74,
     "minimumAmount": 1,

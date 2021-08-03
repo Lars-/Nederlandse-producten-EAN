@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "385913ZK",
     "name": "Jumbo Gezouten Noten\/Bonen Mix 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.9,
     "minimumAmount": 1,

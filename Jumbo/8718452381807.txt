@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "270264DSL",
     "name": "Jumbo Huiswijn - Soepel - 4 x 3L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 39.56,
     "minimumAmount": 1,

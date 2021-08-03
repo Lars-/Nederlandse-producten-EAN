@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "165706PAK",
     "name": "Jumbo Lasagnebladen Naturel 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.18,
     "minimumAmount": 1,

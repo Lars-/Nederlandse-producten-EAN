@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195784DS",
     "name": "Jumbo Zwarte Thee Earl Grey 80g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.56,
     "minimumAmount": 1,

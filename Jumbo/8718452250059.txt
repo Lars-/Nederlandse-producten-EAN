@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "187472BAK",
     "name": "Jumbo Varkens Chipolataworst Gemarineerd 260g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.09,
     "minimumAmount": 1,

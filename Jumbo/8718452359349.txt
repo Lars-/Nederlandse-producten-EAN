@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "387187STK",
     "name": "Jumbo Belegen Kaas 48+ Plakken Voordeelverpakking 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.19,
     "minimumAmount": 1,

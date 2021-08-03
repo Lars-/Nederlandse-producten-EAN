@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "197050BLK",
     "name": "Jumbo Chinese Tomatensoep 800ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.39,
     "minimumAmount": 1,

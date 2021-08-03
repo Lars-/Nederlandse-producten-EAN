@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "431437BAK",
     "name": "Jumbo Nieuwe Standaard Kipgehakt 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.59,
     "minimumAmount": 1,

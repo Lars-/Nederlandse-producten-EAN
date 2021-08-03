@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "193264PAK",
     "name": "Jumbo Knijpkwark Aardbei Framboos 4 x 90g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.49,
     "minimumAmount": 1,

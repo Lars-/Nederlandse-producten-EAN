@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "215760STK",
     "name": "Jumbo - Witte Rozenbollen - 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.42,
     "minimumAmount": 1,

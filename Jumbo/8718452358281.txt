@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "227076TUB",
     "name": "Jumbo Hoog Zonnecr\u00e8me SPF 30 100ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.5,
     "minimumAmount": 1,

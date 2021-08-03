@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "421588TRA",
     "name": "Jumbo American Style Pannenkoeken Chocolate Chip 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.19,
     "minimumAmount": 1,

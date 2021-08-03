@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "204146CUP",
     "name": "Jumbo Ongezouten Amandel Notenmix 175g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.49,
     "minimumAmount": 1,

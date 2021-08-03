@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "304147BLK",
     "name": "Jumbo Ragout Champignon 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.28,
     "minimumAmount": 1,

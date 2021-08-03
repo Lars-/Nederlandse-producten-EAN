@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "352246STK",
     "name": "Jumbo - Luxe Wener Aardbeienvlaai - Half",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 7.39,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "425296TRA",
     "name": "Jumbo Kipschotel Mexicaanse Stijl 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "356966PAK",
     "name": "Jumbo Drinkyoghurt Perzik 0% Vet 1, 5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.39,
     "minimumAmount": 1,

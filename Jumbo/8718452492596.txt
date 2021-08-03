@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "382933BKR",
     "name": "Jumbo Boerenmetworst Plakjes 80g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

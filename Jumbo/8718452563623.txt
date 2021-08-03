@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "446702STK",
     "name": "Jumbo Roodmerk 5+1 x 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 8.75,
     "minimumAmount": 1,

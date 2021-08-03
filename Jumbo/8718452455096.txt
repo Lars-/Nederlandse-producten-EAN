@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "347888BAK",
     "name": "Jumbo Spek met Ketjapsaus - Pakket voor Broodje Warm Vlees om op te Warmen 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.5,
     "minimumAmount": 1,

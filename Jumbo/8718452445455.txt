@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "362320ZK",
     "name": "Jumbo Melange Rucola 75g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.08,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "153326DS",
     "name": "Jumbo Hondenworst Lam met Rijst 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.45,
     "minimumAmount": 1,

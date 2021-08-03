@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "436969ZK",
     "name": "Maaltijdpakket Orzo Salade 3-4 Personen",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.99,
     "minimumAmount": 1,

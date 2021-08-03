@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "375694DS",
     "name": "Jumbo Steenoven Gebakken Pizza Formaggi 413g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.25,
     "minimumAmount": 1,

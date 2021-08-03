@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "308373BAK",
     "name": "Jumbo Nieuwe Standaard Kipdijfilet Blokjes 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.75,
     "minimumAmount": 1,

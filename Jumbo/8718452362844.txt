@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "257593ZK",
     "name": "Jumbo Ongezouten Luxe Noten Mix 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.68,
     "minimumAmount": 1,

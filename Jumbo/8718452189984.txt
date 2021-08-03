@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "145731FLS",
     "name": "Jumbo WC Reiniger Ocean Fresh 750ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.74,
     "minimumAmount": 1,

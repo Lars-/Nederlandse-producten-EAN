@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "342738PAK",
     "name": "Jumbo Maaltijdpakket Moussaka 1, 140kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.69,
     "minimumAmount": 1,

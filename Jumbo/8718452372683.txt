@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "285632PAK",
     "name": "Jumbo Fruity Berries Kleur 16 Wasbeurten Wascapsules",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.49,
     "minimumAmount": 1,

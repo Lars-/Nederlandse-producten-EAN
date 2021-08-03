@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "337047POT",
     "name": "Jumbo Atjar Tjampoer 330g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 0.64,
     "minimumAmount": 1,

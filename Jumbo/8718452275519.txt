@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "196033POT",
     "name": "Jumbo Groene Olijven Tapenade 130g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.76,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "300884DS",
     "name": "Jumbo Quiche Ham & Prei 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.03,
     "minimumAmount": 1,

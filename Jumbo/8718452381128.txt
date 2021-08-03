@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "302896DS",
     "name": "Jumbo Crispy Vissticks 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.7,
     "minimumAmount": 1,

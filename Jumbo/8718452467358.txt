@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "375054BLK",
     "name": "Jumbo Zwarte Bessen Cassis Zero Sugar 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.42,
     "minimumAmount": 1,

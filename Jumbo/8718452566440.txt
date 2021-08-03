@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "443491PAK",
     "name": "Jumbo Naturel Spaghetti All'uovo 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 0.98,
     "minimumAmount": 1,

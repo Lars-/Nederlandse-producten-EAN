@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "196074CUP",
     "name": "Jumbo Ongezouten Hazelnoten 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.24,
     "minimumAmount": 1,

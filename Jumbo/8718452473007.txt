@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "375946ZK",
     "name": "Jumbo Gezouten Amandelen met Rooksmaak 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 2.45,
     "minimumAmount": 1,

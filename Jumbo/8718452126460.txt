@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "163454PAK",
     "name": "Jumbo TintelFris Rood Fruit 1, 5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.94,
     "minimumAmount": 1,

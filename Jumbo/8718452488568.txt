@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "384360CUP",
     "name": "Jumbo Dadels Zonder Pit 225g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.15,
     "minimumAmount": 1,

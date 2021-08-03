@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "308343STK",
     "name": "Jumbo Kattenbakvulling Houtkorrels",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.35,
     "minimumAmount": 1,

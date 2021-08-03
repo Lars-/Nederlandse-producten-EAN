@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "156128STK",
     "name": "Jumbo Ontbijtkoek Minder Suiker Gesneden 475g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.97,
     "minimumAmount": 1,

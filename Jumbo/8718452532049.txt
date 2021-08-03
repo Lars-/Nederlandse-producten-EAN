@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "413818BAK",
     "name": "Jumbo Kipfiletreepjes Italiaanse Stijl 135g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.39,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "224781BLK",
     "name": "Jumbo Cola Zero Sugar 330ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.25,
     "minimumAmount": 1,

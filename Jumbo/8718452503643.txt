@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "410250FLS",
     "name": "Jumbo Vloeibaar Frituurvet 3L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.99,
     "minimumAmount": 1,

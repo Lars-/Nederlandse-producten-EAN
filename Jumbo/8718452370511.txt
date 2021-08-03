@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "270295STK",
     "name": "Jumbo Ongezouten Gepelde Walnoten 110g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.1,
     "minimumAmount": 1,

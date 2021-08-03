@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "224273BAK",
     "name": "Jumbo Roomijs Malaga 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.27,
     "minimumAmount": 1,

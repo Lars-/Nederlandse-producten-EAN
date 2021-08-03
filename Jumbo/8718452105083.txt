@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "269294FLS",
     "name": "Jumbo Huiswijn - Droog & Fris - C\u00f4tes de Gascogne - 250ML",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.87,
     "minimumAmount": 1,

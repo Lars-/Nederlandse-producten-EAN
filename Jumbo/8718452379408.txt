@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "363317PAK",
     "name": "Jumbo Drinkyoghurt 0% Aardbei 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.95,
     "minimumAmount": 1,

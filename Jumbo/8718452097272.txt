@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "157464FLS",
     "name": "Jumbo Vloeibare Zeep 750ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.92,
     "minimumAmount": 1,

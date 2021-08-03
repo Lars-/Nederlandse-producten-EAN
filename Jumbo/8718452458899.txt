@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "338936NET",
     "name": "Jumbo Limoenen Biologisch 3 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

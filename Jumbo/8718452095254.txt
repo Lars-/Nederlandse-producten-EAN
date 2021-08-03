@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "26190PAK",
     "name": "Jumbo Mokka Schuimpjes 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

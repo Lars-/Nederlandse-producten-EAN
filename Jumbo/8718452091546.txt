@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "151250TRA",
     "name": "Jumbo Runderstoofblokjes 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.89,
     "minimumAmount": 1,

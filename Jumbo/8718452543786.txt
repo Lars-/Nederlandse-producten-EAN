@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "410535STK",
     "name": "Jumbo Kaas 50+ Sweet Pepper 230g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 3.49,
     "minimumAmount": 1,

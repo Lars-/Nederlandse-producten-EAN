@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "379736ZK",
     "name": "Jumbo Kruidenmix Rode Curry Opbakaardappelen 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.38,
     "minimumAmount": 1,

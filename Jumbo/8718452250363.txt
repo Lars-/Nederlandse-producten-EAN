@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195754DS",
     "name": "Jumbo Rooibos Honing 20 Stuks 30g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.24,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "55600PAK",
     "name": "Jumbo WC Blok Lavendel 50g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.73,
     "minimumAmount": 1,

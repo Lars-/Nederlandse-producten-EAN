@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "420604PAK",
     "name": "Jumbo Biologisch Verse Volle Melk 1, 5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.71,
     "minimumAmount": 1,

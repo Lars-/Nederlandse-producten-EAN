@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "283562STK",
     "name": "Jumbo Bami Speciaal Mix 36g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 0.93,
     "minimumAmount": 1,

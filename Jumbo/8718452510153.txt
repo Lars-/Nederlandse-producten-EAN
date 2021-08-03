@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "420605PAK",
     "name": "Jumbo Biologisch Verse Halfvolle Melk 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.7,
     "minimumAmount": 1,

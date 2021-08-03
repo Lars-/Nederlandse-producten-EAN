@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "208599BAK",
     "name": "Jumbo Prepare 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.25,
     "minimumAmount": 1,

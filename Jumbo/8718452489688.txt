@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "379328BAK",
     "name": "Groentenrisotto",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5,
     "minimumAmount": 1,

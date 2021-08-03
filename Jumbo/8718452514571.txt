@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "388070STK",
     "name": "Jumbo - Witte Pistolet - 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.16,
     "minimumAmount": 1,

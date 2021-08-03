@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "308453STK",
     "name": "Jumbo Scharrelkip Kluifjes 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.77,
     "minimumAmount": 1,

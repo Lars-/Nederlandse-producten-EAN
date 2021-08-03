@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "415159STK",
     "name": "Jumbo Komijn Belegen Kaas 48+ Plakken 190g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 2.35,
     "minimumAmount": 1,

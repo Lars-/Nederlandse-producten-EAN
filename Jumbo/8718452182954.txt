@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "92900ZK",
     "name": "Jumbo Krokante Borrelmix Thaise Stijl 225g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.41,
     "minimumAmount": 1,

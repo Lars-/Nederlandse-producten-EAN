@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "205684ZK",
     "name": "Jumbo Risottorijst Arborio 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.49,
     "minimumAmount": 1,

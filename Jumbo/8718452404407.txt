@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "324866CUP",
     "name": "Jumbo Kwark Toetje 6 x 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.53,
     "minimumAmount": 1,

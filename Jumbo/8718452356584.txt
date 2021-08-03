@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "300203STK",
     "name": "Waldkorn - Volkoren Brood - Half",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.09,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "304148TRL",
     "name": "JUMBO RAGOUT KALF",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 7.68,
     "minimumAmount": 1,

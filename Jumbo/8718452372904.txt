@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "226783TRL",
     "name": "Jumbo Appelmoes 12 x 705g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 14.16,
     "minimumAmount": 1,

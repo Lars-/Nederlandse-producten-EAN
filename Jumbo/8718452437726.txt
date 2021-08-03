@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "303029BLK",
     "name": "Jumbo Gebroken Sperziebonen 800g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.96,
     "minimumAmount": 1,

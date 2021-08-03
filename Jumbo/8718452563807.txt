@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "437366BAK",
     "name": "Jumbo Rainbow Bowl 380g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.49,
     "minimumAmount": 1,

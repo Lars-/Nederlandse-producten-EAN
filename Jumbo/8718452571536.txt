@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "443110BAK",
     "name": "Jumbo Gehaktballetjes Pikant 296g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.7,
     "minimumAmount": 1,

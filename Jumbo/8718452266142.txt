@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "196060STK",
     "name": "Jumbo Feta in Brine - BOB Kaas 40+ 230g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.46,
     "minimumAmount": 1,

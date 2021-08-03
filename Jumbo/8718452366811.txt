@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "235187PAK",
     "name": "Jumbo Volle Melk met Beter Leven Keurmerk 1 Ster 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.05,
     "minimumAmount": 1,

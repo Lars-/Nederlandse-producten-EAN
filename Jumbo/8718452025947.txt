@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "84450STK",
     "name": "Jumbo Varken Grillers Thuringer 5 Stuks 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.1,
     "minimumAmount": 1,

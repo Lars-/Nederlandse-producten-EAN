@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "192820PAK",
     "name": "Jumbo Donker Knackebrod Spelt 4 x 4 Stuks 265g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.62,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "302057ZK",
     "name": "Jumbo Musketflikken Melkchocolade 175g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

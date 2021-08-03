@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "399223FLS",
     "name": "Jumbo Zonnebloemolie 5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 7.85,
     "minimumAmount": 1,

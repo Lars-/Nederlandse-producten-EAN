@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "295238RP",
     "name": "Jumbo Peanut Caramel Melk Chocolade Reep 190g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.56,
     "minimumAmount": 1,

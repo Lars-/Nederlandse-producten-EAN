@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "393708TRA",
     "name": "Jumbo Prosciutto Crudo 50g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

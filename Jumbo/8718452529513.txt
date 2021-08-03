@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "437024ZK",
     "name": "Jumbo Superstarter 440g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.29,
     "minimumAmount": 1,

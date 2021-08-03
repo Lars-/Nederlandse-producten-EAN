@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "42589PAK",
     "name": "Jumbo Haverkoekjes ca. 20 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.19,
     "minimumAmount": 1,

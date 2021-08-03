@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "411247TRA",
     "name": "Jumbo Verse Maaltijd Stamppot Witlof met Beenham en Kaas 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.99,
     "minimumAmount": 1,

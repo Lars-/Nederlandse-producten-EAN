@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "358520DSL",
     "name": "SMEERK LIGHT 20+",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 9.2,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "262856FLS",
     "name": "Jumbo Dunne Bleek Original 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.47,
     "minimumAmount": 1,

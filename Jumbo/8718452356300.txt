@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "300146STK",
     "name": "Jumbo - Fijn Volkoren Brood",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "281995STK",
     "name": "Jumbo Kip Madras Pakket",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.89,
     "minimumAmount": 1,

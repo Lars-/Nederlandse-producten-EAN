@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "438207PAK",
     "name": "Jumbo Standaard 5 - Peutermelk van 24-36 Maanden - 2 x 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6.29,
     "minimumAmount": 1,

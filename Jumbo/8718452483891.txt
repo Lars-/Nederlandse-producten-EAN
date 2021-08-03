@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "383939DS",
     "name": "Jumbo Iced Coffee 8 Stuks 160g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 2.17,
     "minimumAmount": 1,

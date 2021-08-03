@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "330978DS",
     "name": "Jumbo Lekker Vrij van Gluten Mini Cakes 6 Stuks 230g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.29,
     "minimumAmount": 1,

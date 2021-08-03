@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "424974PAK",
     "name": "Dors Premium Pilsener Oranje Editie Blikken 6 x 330ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.59,
     "minimumAmount": 1,

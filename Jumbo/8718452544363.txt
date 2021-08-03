@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "439104ZK",
     "name": "Jumbo Spinazie Blokjes 750g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.82,
     "minimumAmount": 1,

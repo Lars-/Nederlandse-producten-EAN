@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "201575TRA",
     "name": "Jumbo Gegaarde Soepballetjes Varken 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.99,
     "minimumAmount": 1,

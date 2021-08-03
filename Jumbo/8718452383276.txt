@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "276661STK",
     "name": "Jumbo Fajita Mix 28g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.48,
     "minimumAmount": 1,

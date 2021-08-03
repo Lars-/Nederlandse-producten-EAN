@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "133769PAK",
     "name": "Jumbo Sinaasappelsap 6 x 330ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.05,
     "minimumAmount": 1,

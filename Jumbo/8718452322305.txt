@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "439329STK",
     "name": "Jumbo Slagers Achterham 115g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.1,
     "minimumAmount": 1,

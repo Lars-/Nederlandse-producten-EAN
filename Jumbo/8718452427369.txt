@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "346469BAK",
     "name": "Jumbo Verse Maaltijd Stamppot Rauwe Andijvie met Gehaktbal, Jus en Spekjes 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "285537PAK",
     "name": "Jumbo Ice Tea Lemon 1, 5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.61,
     "minimumAmount": 1,

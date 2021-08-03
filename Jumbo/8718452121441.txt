@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "163131FLS",
     "name": "Jumbo Bad & Douchegel met Amandel Olie 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.79,
     "minimumAmount": 1,

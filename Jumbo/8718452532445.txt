@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "405974CUP",
     "name": "Jumbo Mascarpone Chili Dip 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

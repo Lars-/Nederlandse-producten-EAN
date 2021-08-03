@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "159313STK",
     "name": "Jumbo Flossdraad Wax met Mintsmaak 50m",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.17,
     "minimumAmount": 1,

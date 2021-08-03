@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "386446BAK",
     "name": "Jumbo Babi Pangang 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5,
     "minimumAmount": 1,

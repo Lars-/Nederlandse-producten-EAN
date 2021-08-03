@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "164643ROL",
     "name": "Jumbo Pedaalemmerzakjes 10 Liter 40 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.88,
     "minimumAmount": 1,

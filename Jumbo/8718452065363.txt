@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "153211PAK",
     "name": "Jumbo Cr\u00e8me Br\u00fbl\u00e9e Koekjes 175g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.61,
     "minimumAmount": 1,

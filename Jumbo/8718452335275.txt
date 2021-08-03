@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "216806STK",
     "name": "Jumbo Roomboter Gezouten Biologisch 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.58,
     "minimumAmount": 1,

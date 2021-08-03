@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "431652BAK",
     "name": "Jumbo Barbecueworst Roasted Garlic 390g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.29,
     "minimumAmount": 1,

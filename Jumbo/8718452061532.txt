@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "143409DS",
     "name": "Jumbo Ch\u00e8f Gourmet Tafelsauzen Exotische Curry, Cocktail, Andalouse, Knoflook 4 Stuks 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 2.99,
     "minimumAmount": 1,

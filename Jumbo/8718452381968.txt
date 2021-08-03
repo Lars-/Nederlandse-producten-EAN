@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "278469FLS",
     "name": "Jumbo - Chardonnay - Biologisch - 750ML",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.25,
     "minimumAmount": 1,

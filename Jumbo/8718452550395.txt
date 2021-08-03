@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "425868DS",
     "name": "Jumbo Kip Spareribs Asian Style 405g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5,
     "minimumAmount": 1,

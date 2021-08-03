@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "148588ZK",
     "name": "Jumbo Witte Eierkoeken 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.75,
     "minimumAmount": 1,

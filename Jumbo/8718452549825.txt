@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "441731PAK",
     "name": "Jumbo Fruitdrink Framboos met Appel 10 x 200ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

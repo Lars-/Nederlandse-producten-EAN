@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "414957BAK",
     "name": "Jumbo Snacksalade Couscous Houmous 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.65,
     "minimumAmount": 1,

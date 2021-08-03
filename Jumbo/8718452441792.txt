@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "336474DS",
     "name": "Jumbo Hagelslag Mix 380g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.2,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "55613PAK",
     "name": "Jumbo WC Blok Ocean 40g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 0.4,
     "minimumAmount": 1,

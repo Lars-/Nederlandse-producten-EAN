@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "226006POT",
     "name": "Jumbo Suikervrije Kauwgom Extra Mint 70 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.88,
     "minimumAmount": 1,

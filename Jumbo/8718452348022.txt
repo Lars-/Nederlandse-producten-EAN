@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "213609BAK",
     "name": "Jumbo Shoarma Flakes 800g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 7,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "423907ZK",
     "name": "Jumbo Smikkels Chips met Kaassmaak 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.94,
     "minimumAmount": 1,

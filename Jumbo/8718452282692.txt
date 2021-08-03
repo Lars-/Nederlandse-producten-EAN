@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "211707PAK",
     "name": "Jumbo Bami Pakket 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.5,
     "minimumAmount": 1,

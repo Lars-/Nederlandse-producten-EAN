@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "201597BAK",
     "name": "Jumbo Shoarma 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.09,
     "minimumAmount": 1,

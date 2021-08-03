@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "191063STK",
     "name": "Jumbo Gembersiroop 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.61,
     "minimumAmount": 1,

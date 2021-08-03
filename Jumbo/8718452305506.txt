@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "205685ZK",
     "name": "Jumbo Italiaanse Carnaroli Rijst 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.49,
     "minimumAmount": 1,

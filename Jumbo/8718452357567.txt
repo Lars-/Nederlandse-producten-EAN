@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "226719BAK",
     "name": "Jumbo Saladetopper Italiaans 225g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.11,
     "minimumAmount": 1,

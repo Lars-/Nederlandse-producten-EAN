@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "384346CUP",
     "name": "Jumbo Gewelde Abrikozen 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.69,
     "minimumAmount": 1,

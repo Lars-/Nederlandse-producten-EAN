@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195601BLK",
     "name": "Jumbo Goulashsoep Rijkelijk Gevuld 300ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.72,
     "minimumAmount": 1,

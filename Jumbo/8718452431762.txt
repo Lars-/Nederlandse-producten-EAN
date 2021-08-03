@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "307720PAK",
     "name": "Jumbo Biologische Friet Voorgebakken 750g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.49,
     "minimumAmount": 1,

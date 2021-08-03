@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "190541FLS",
     "name": "Jumbo Glasreiniger 750ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.67,
     "minimumAmount": 1,

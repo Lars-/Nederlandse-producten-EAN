@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "82520FLS",
     "name": "Jumbo Acacia Honing 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.05,
     "minimumAmount": 1,

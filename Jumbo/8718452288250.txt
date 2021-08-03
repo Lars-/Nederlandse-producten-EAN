@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "196009ZK",
     "name": "Jumbo Fuet Plakjes 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.56,
     "minimumAmount": 1,

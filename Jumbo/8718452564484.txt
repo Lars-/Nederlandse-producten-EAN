@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "437289BAK",
     "name": "Jumbo Tabouleh Bulgur 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "436707BAK",
     "name": "Jumbo Gele Curry Noedels 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.99,
     "minimumAmount": 1,

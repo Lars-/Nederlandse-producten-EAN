@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "356627PAK",
     "name": "Jumbo Tortilla Naturel 8 Stuks 320g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.92,
     "minimumAmount": 1,

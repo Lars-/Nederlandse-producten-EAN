@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "203860PAK",
     "name": "Jumbo Tuinkruiden Kipfilet 130g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.51,
     "minimumAmount": 1,

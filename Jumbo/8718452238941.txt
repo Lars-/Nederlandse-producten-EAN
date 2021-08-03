@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "385977CUP",
     "name": "Jumbo Zonnebloempitten 95g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.93,
     "minimumAmount": 1,

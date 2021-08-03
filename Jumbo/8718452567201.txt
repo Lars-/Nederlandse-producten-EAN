@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "284488EM",
     "name": "Jumbo Gegrilde Kip Wings 600g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5,
     "minimumAmount": 1,

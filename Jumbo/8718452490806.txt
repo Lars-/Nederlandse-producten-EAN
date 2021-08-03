@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "374433BAK",
     "name": "Jumbo Lekker Veggie Vers Gehakt Vegetarisch 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.29,
     "minimumAmount": 1,

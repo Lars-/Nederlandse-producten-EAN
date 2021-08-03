@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "354640DS",
     "name": "Jumbo Premium Choc's Witte Chocolade & Cookies 3 x 72g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

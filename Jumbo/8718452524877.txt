@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "411254DS",
     "name": "Jumbo Maaltijdpakket Tortilla Pulled Chicken met Mangosalsa 920g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.49,
     "minimumAmount": 1,

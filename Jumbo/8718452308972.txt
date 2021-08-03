@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "208698STK",
     "name": "Jumbo Oven Frikandellen Mini's 360g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.88,
     "minimumAmount": 1,

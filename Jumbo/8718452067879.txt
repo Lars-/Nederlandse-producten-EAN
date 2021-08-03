@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "145202BAK",
     "name": "Jumbo Verse Rookworst Fijn 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.5,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "373781BAK",
     "name": "Jumbo Zalmfilet Zonder Huid Naturel 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 9,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195780DS",
     "name": "Jumbo Rooibos Original 20 Stuks 30g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.78,
     "minimumAmount": 1,

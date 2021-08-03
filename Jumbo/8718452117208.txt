@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "163434ROL",
     "name": "Jumbo Pedaalemmer Zak Biologisch 20 Liter 10 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.72,
     "minimumAmount": 1,

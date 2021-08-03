@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "180968PAK",
     "name": "Jumbo Mix voor Lekkere Friszure Citroen Kwarktaart 440g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.68,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "425874CUP",
     "name": "Jumbo Truffel Mayo 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.19,
     "minimumAmount": 1,

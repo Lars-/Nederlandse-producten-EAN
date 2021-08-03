@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "424034STK",
     "name": "Jumbo Appel-Frambozencaketaart",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5,
     "minimumAmount": 1,

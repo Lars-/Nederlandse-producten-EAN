@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "72965PAK",
     "name": "Jumbo Waterijs Aardbei 12 x 50ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.45,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "415551SC",
     "name": "Jumbo Passie Fruit 6 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.49,
     "minimumAmount": 1,

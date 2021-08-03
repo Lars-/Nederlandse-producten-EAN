@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "411763TUB",
     "name": "Jumbo Baby Huid Cr\u00e8me 150ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.99,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "407030BAK",
     "name": "Jumbo Kaassalade met Jumbo's Roem 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

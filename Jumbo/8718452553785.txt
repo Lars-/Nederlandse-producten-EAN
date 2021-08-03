@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "424035STK",
     "name": "Jumbo - Luxe Aardbeienschnitte",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.29,
     "minimumAmount": 1,

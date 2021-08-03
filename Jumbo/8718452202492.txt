@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "183483PAK",
     "name": "Jumbo Jonge Kaas Biologisch 48+ Plakken 190g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.62,
     "minimumAmount": 1,

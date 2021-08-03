@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "349896DS",
     "name": "Jumbo Passievrucht Blokjes 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.39,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "383940DS",
     "name": "Jumbo Latte Pumpkin Spice Flavour 8 Stuks 136g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.17,
     "minimumAmount": 1,

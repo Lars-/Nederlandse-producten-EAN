@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "382000ZK",
     "name": "Jumbo Luiers 5 11-16 kg 31 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.56,
     "minimumAmount": 1,

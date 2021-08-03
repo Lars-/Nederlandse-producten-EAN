@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "200832FLS",
     "name": "Jumbo Wasmiddel Color Rice & Cotton 28 Wasbeurten 980ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.05,
     "minimumAmount": 1,

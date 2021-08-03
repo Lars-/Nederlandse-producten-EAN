@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "382721BAK",
     "name": "Jumbo Kalkoendijshoarma 425g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 4,
     "minimumAmount": 1,

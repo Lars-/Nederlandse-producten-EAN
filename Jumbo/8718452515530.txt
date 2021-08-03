@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "392363STK",
     "name": "Jumbo aardbei bavarois gebakje glutenvrij",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.99,
     "minimumAmount": 1,

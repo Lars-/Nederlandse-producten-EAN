@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "174718POT",
     "name": "Jumbo Styling Gel Mega Strong 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.64,
     "minimumAmount": 1,

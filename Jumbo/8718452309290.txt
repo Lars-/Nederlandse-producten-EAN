@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "336287ZK",
     "name": "Jumbo Vastkokende Aardappelen 800g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.34,
     "minimumAmount": 1,

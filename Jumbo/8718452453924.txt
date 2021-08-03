@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "341833DS",
     "name": "Jumbo Hamburgers 12 Stuks 840g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

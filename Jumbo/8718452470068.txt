@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "357244STK",
     "name": "Jumbo Vegetarische Worstjes Portugese Stijl 220g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.19,
     "minimumAmount": 1,

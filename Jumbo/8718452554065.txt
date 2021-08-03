@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "424221BAK",
     "name": "Jumbo BBQ Kipburger 280g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3,
     "minimumAmount": 1,

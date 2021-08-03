@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "319706ZK",
     "name": "Jumbo Biologische Espressobonen 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 7.15,
     "minimumAmount": 1,

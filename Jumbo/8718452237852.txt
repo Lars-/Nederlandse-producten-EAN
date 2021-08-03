@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "189104STK",
     "name": "Jumbo Kookzuivel 7% Vet 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.64,
     "minimumAmount": 1,

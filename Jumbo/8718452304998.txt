@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "202668BAK",
     "name": "Jumbo Fijnproevers Smokey Angus Burgers 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.25,
     "minimumAmount": 1,

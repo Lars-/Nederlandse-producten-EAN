@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "306033ZK",
     "name": "Jumbo Jonagold Extra Voordeel 1, 5kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.79,
     "minimumAmount": 1,

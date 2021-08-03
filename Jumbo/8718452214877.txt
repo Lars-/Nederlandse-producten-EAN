@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "95544TRA",
     "name": "Jumbo Hamburger Rund 2 stuks 220g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.19,
     "minimumAmount": 1,

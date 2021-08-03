@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "273884STK",
     "name": "Jumbo Franse Fruits de Mer Soep 570ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

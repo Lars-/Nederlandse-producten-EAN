@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "383436ZK",
     "name": "Jumbo Kruidige Tomatensoep met Ui en Basilicum Biologisch 570ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.77,
     "minimumAmount": 1,

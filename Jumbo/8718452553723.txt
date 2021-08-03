@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "424050STK",
     "name": "Jumbo - Bresilienne Gebakjes - 2 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.29,
     "minimumAmount": 1,

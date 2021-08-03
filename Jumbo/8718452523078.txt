@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "393854STK",
     "name": "Jumbo Salami Kleinverpakking 86g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.5,
     "minimumAmount": 1,

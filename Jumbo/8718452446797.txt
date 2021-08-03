@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "203887PAK",
     "name": "Jumbo Ovengebakken Spek 120g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.37,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "427918ZK",
     "name": "Jumbo - Croissants met Kaasvulling - 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.76,
     "minimumAmount": 1,

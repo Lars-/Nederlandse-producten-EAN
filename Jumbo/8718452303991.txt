@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "204970ZK",
     "name": "Jumbo Macaroni 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.89,
     "minimumAmount": 1,

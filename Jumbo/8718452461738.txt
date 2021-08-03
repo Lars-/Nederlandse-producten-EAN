@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "163474PAK",
     "name": "Jumbo Zuurkool Naturel 520g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.59,
     "minimumAmount": 1,

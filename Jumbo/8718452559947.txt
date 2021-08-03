@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "447851DS",
     "name": "Jumbo Meloen Trio 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2,
     "minimumAmount": 1,

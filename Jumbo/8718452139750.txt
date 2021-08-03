@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "166958FLS",
     "name": "Jumbo Lenzenvloeistof Zachte Lenzen 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.8,
     "minimumAmount": 1,

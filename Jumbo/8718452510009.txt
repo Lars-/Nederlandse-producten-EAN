@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "398003PAK",
     "name": "Jumbo Mix voor Cup Cakes met Glazuur 380g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.65,
     "minimumAmount": 1,

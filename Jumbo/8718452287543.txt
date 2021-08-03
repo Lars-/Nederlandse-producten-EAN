@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "200836FLS",
     "name": "Jumbo Wasverzachter Midnight Flower 30 Wasbeurten 750ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.97,
     "minimumAmount": 1,

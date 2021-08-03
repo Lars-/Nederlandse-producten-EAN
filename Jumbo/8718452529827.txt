@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "401308STK",
     "name": "Jumbo Tomme Des Pyrenees Kaas 50+ 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

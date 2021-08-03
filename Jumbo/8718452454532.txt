@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "230416BAK",
     "name": "Jumbo Maaltijdsalade Marokkaanse Kip 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.99,
     "minimumAmount": 1,

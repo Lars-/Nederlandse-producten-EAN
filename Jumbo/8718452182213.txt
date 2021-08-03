@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "174355POT",
     "name": "Jumbo Groene Olijven Zonder Pit 935g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.82,
     "minimumAmount": 1,

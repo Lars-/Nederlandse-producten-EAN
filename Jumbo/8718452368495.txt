@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "262855FLS",
     "name": "Jumbo Reiniger Azijn 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.69,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "414962BAK",
     "name": "Jumbo Pastasalade Penne Sweet Chicken 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.39,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "425873STK",
     "name": "Jumbo Belegen Kaas 30+ Plakken 190g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.55,
     "minimumAmount": 1,

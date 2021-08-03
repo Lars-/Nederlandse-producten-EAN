@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "396477STK",
     "name": "La Place Melkchocolade Karamel & Pretzel 180g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.59,
     "minimumAmount": 1,

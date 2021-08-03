@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "387860SC",
     "name": "Jumbo Bospeen Geschild 600g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

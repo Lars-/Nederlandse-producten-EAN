@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "386753PAK",
     "name": "Jumbo Cupcake Choco met Custard Vulling 6 Stuks 240g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.89,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "141214DS",
     "name": "Jumbo Frambozen 125g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.35,
     "minimumAmount": 1,

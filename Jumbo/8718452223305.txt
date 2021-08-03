@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "297023DS",
     "name": "Jumbo Verse Scharreleieren 18 Stuks M",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.55,
     "minimumAmount": 1,

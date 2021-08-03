@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "437285BAK",
     "name": "Jumbo Geroosterde Groenten Proven\u00e7aals 320g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4,
     "minimumAmount": 1,

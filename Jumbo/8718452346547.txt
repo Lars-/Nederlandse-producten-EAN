@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "323820ZK",
     "name": "La Place Koffiebonen Brazili\u00eb Single Origin 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6.99,
     "minimumAmount": 1,

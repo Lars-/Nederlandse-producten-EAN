@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "352542TRL",
     "name": "Fuerza Energy Drink met Taurine & Cafe\u00efne Suikervrij 24 x 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 9.99,
     "minimumAmount": 1,

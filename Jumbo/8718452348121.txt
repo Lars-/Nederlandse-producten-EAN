@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "216511ZK",
     "name": "Jumbo Aardappelpartjes Mild Gekruid 600g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.74,
     "minimumAmount": 1,

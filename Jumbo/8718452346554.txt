@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "323823ZK",
     "name": "La Place Koffiebonen Colombia Single Origin 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6.99,
     "minimumAmount": 1,

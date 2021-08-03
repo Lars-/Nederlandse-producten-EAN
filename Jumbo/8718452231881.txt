@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "191976BAK",
     "name": "Jumbo Witte Druiven Pitloos 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.49,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "212170STK",
     "name": "Jumbo Bietjes & Ui Gesneden 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

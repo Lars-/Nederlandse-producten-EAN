@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "418974DS",
     "name": "Jumbo Oosterse Rauwkost 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.59,
     "minimumAmount": 1,

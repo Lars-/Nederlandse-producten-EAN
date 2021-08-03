@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "431651BAK",
     "name": "Jumbo Barbecueworst Naturel 360g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.29,
     "minimumAmount": 1,

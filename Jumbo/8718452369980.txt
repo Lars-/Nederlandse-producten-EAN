@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "245976DS",
     "name": "Jumbo Rozijnen Krokante Muesli 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.91,
     "minimumAmount": 1,

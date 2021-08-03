@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "435983TAS",
     "name": "Jumbo Tagliatelle Glutenvrij 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.49,
     "minimumAmount": 1,

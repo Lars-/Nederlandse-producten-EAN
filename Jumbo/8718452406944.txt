@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "319715STK",
     "name": "Jumbo Mokka 36 Koffie Pads 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.45,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "346464CUP",
     "name": "Jumbo Biologisch Pesto Groen 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "141853BAK",
     "name": "Jumbo Filet Americain Carpaccio 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.29,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "323797BAK",
     "name": "Jumbo Sat\u00e9saus 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.77,
     "minimumAmount": 1,

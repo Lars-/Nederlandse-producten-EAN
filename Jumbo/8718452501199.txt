@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "381969PAK",
     "name": "Jumbo Vochtige Toetendoekjes Ademvrij 20 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.95,
     "minimumAmount": 1,

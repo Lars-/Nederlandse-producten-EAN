@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "209075BAK",
     "name": "Jumbo Verse Zeeuwse Mosselen Super 2kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 8.49,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "202745STK",
     "name": "Jumbo Blauw Water WC Blok Floral 2 x 48g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.17,
     "minimumAmount": 1,

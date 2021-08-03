@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195787DS",
     "name": "Jumbo Groene Thee Puur 20 Zakjes 40g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.5,
     "minimumAmount": 1,

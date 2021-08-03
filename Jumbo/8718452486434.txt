@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "412074STK",
     "name": "Jumbo Lekker Veggie Nuggets Krokant Vegan 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.49,
     "minimumAmount": 1,

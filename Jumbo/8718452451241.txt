@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "203698PAK",
     "name": "Jumbo Bacon Gerookt 115g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.13,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "222818FLS",
     "name": "Jumbo Tomatenketchup 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.78,
     "minimumAmount": 1,

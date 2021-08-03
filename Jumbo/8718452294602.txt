@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "208920STK",
     "name": "La Place Honing Mosterd Dressing 120ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.86,
     "minimumAmount": 1,

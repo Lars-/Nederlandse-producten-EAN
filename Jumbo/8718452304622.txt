@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "392551CUP",
     "name": "Jumbo Zoete Peper Heks'nkaas 120g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3,
     "minimumAmount": 1,

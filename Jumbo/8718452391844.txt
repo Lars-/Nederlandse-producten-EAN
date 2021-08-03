@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "269064STK",
     "name": "Jumbo Mango Passievrucht Roomijs 521g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.12,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "163433ROL",
     "name": "Jumbo Boterhamzakken 1L 120 stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.52,
     "minimumAmount": 1,

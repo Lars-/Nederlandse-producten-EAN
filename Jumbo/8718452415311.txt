@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "315333FLS",
     "name": "Jumbo Ecologisch Handzeep 300ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.59,
     "minimumAmount": 1,

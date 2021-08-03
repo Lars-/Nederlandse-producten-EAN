@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "367083DS",
     "name": "Jumbo Cornets Pecan & Karamel 4 x 65g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.14,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "450568DS",
     "name": "Jumbo Huiswijn - Halfzoet Ros\u00e9 - 3L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 10.99,
     "minimumAmount": 1,

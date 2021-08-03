@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "208847STK",
     "name": "Jumbo Bruine Bonen 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.57,
     "minimumAmount": 1,

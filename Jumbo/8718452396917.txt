@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "303284BAK",
     "name": "La Place Verse Pasta Mezzelune 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.99,
     "minimumAmount": 1,

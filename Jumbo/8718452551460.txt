@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "424234TRA",
     "name": "Jumbo Burger Gepaneerd Cajun 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.5,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "291743STK",
     "name": "Jumbo - Panini Ham Kaas met Zoete Mosterdsaus - 1 Stuk",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.15,
     "minimumAmount": 1,

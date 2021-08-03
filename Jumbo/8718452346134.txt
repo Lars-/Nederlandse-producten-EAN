@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "213635TRA",
     "name": "Jumbo Mini Slavinken 225g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.5,
     "minimumAmount": 1,

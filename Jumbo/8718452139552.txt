@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "308345STK",
     "name": "Jumbo Kattenbakvulling Comfort 10L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.11,
     "minimumAmount": 1,

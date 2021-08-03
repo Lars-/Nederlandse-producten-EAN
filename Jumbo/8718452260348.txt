@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "194781STK",
     "name": "Jumbo Boemboe Groene Curry 95g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.98,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "379767ZK",
     "name": "La Place Meringue Chocolade",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.75,
     "minimumAmount": 1,

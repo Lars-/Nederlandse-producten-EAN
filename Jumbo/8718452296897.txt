@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "200830FLS",
     "name": "Jumbo Wasmiddel Color Jungle Passion 28 Wasbeurten 980ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.94,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195812STK",
     "name": "Jumbo Sambal Badjak 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.45,
     "minimumAmount": 1,

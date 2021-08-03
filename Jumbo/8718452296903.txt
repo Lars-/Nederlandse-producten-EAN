@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "200831FLS",
     "name": "Jumbo Wasmiddel Color Fruity Berries  28 Wasbeurten 980ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 3.93,
     "minimumAmount": 1,

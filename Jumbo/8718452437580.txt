@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "323764EM",
     "name": "Jumbo American Style Cookie Deeg 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.49,
     "minimumAmount": 1,

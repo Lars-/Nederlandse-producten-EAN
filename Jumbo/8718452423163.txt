@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "302289POT",
     "name": "Jumbo Bladspinazie 330g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.34,
     "minimumAmount": 1,

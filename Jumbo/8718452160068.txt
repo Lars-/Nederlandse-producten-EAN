@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "211832BAK",
     "name": "Jumbo Stamppot Spinazie met Gehaktbal 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.28,
     "minimumAmount": 1,

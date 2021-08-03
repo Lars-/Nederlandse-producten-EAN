@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "308483STK",
     "name": "Jumbo Lekker Veggie Linzenburger Vegan 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.65,
     "minimumAmount": 1,

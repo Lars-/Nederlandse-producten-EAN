@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "306008STK",
     "name": "Jumbo Lekker Veggie Gemarineerde Filet Vegetarisch 180g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.05,
     "minimumAmount": 1,

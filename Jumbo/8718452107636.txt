@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "159564STK",
     "name": "Jumbo Rode Paprika Biologisch",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.59,
     "minimumAmount": 1,

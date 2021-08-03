@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "398033ZK",
     "name": "Jumbo Ribbel Sour Cream Onion Chips 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

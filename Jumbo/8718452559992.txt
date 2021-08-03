@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "441735DS",
     "name": "Jumbo Meloen Trio 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4,
     "minimumAmount": 1,

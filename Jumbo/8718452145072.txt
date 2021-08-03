@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "167066DS",
     "name": "Jumbo Gevulde Champignonsoep 3 Zakjes",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.4,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "443526FLS",
     "name": "Jumbo Sap Watermeloen 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.19,
     "minimumAmount": 1,

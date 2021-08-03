@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "183177FLS",
     "name": "Jumbo Zonnespray Hoog SPF 50 200ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 7.79,
     "minimumAmount": 1,

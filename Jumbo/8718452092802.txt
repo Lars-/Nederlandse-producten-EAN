@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "159535FLS",
     "name": "Jumbo Mondwater Cool Mint 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.97,
     "minimumAmount": 1,

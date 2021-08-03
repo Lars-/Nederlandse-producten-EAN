@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "358378PAK",
     "name": "Fuerza Energy Drink with Taurine & Caffeine Original 6 x 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.52,
     "minimumAmount": 1,

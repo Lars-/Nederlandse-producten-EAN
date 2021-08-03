@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "296722FLS",
     "name": "Repower Shake Chocolate Flavour Protein 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

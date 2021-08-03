@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "194966ZK",
     "name": "Jumbo - Brunch Broodjes - 12 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.55,
     "minimumAmount": 1,

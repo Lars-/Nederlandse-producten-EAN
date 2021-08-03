@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "164045DS",
     "name": "Jumbo Aluminiumfolie 30 Meter",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.59,
     "minimumAmount": 1,

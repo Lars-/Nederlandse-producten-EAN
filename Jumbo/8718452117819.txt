@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "306027DS",
     "name": "JUMBO Frambozen 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.39,
     "minimumAmount": 1,

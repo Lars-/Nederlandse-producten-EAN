@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "237865STK",
     "name": "Jumbo Eikenbladsla Melange 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.18,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "388583STK",
     "name": "Jumbo - Nougatinebavarois Glutenvrij",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.99,
     "minimumAmount": 1,

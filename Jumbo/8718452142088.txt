@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "197049BLK",
     "name": "Jumbo Tomatensoep met Vermicelli & Soepballetjes 1, 2L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.59,
     "minimumAmount": 1,

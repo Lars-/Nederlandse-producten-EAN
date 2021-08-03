@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "223117BAK",
     "name": "Jumbo Belegen Kaas 48+ Stuk 545g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.81,
     "minimumAmount": 1,

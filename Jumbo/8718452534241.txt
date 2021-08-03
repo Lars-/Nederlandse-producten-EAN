@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "439042ZK",
     "name": "Jumbo Pepermunt Rollen 3 x 41g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.9,
     "minimumAmount": 1,

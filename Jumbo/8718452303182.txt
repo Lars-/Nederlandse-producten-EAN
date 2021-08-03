@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "212155STK",
     "name": "Jumbo Broccoli 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.25,
     "minimumAmount": 1,

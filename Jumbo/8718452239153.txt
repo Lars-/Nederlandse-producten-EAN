@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "173205DS",
     "name": "Jumbo Vissticks 10 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.56,
     "minimumAmount": 1,

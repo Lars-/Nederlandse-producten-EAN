@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "148587ZK",
     "name": "Jumbo Mini Eierkoeken 10 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.1,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "302707CUP",
     "name": "Jumbo Ice Cream Lovers Sticky Caramel 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.49,
     "minimumAmount": 1,

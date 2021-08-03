@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "393254CUP",
     "name": "Jumbo Dadels met Geitenkaas 80g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.35,
     "minimumAmount": 1,

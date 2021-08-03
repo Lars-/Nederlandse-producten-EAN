@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "306323ZK",
     "name": "Jumbo - Pita Broodjes - 2 x 5 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.69,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "370405PAK",
     "name": "Jumbo All-in-One Vaatwastabletten Citrus 30 x 16g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.48,
     "minimumAmount": 1,

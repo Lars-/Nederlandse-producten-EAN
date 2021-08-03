@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "158645NET",
     "name": "Jumbo Sjalotjes 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.09,
     "minimumAmount": 1,

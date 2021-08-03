@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "201632ZK",
     "name": "Jumbo La Dolce Vita Farfalle 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 0.79,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195334CUP",
     "name": "Jumbo Pinda's Ongezouten 275g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.17,
     "minimumAmount": 1,

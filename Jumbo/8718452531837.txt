@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "405558BAK",
     "name": "Jumbo Beenham met Honing-Mosterdsaus 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.5,
     "minimumAmount": 1,

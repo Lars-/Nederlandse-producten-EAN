@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "147042STK",
     "name": "Jumbo Gangmakers koeken met Frambozenvulling 6 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.26,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "194499DS",
     "name": "Jumbo Pate Natvoer Hond Variatie 12x",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 4.09,
     "minimumAmount": 1,

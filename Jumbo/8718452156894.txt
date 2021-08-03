@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "169865TUB",
     "name": "Jumbo Roomijs Vanille Aardbei 200ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.14,
     "minimumAmount": 1,

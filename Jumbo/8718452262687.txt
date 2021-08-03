@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "302288BLK",
     "name": "Jumbo Doperwten Wortelen Extra Fijn 800g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.5,
     "minimumAmount": 1,

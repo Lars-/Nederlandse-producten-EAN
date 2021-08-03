@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "385707ZK",
     "name": "Jumbo Mosterdsoep 300ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.38,
     "minimumAmount": 1,

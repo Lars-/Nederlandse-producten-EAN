@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "363858CUP",
     "name": "Jumbo Boemboe Babi Ketjap 95",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.09,
     "minimumAmount": 1,

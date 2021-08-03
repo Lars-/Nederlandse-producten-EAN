@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "233139TRA",
     "name": "Jumbo Hawa\u00efburger 4 Stuks 320g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.29,
     "minimumAmount": 1,

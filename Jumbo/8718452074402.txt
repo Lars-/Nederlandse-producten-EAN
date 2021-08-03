@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "212957DS",
     "name": "Jumbo Frambozen & Blauwe Bessen 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.78,
     "minimumAmount": 1,

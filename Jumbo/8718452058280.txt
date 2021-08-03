@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "149255BLK",
     "name": "Jumbo Tonijn Natvoer Kat 85g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.46,
     "minimumAmount": 1,

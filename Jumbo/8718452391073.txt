@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "273284STK",
     "name": "Jumbo Gebroken Sperziebonen 750g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.12,
     "minimumAmount": 1,

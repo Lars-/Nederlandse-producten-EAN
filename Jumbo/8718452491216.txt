@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "386130STK",
     "name": "Jumbo Passendale Kaas 50+ 3 Plakken ca. 75g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "226294STK",
     "name": "Jumbo Varken Hotdogs 4 Stuks 390g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.49,
     "minimumAmount": 1,

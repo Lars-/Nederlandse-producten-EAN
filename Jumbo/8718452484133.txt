@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "374038BAK",
     "name": "Jumbo Tjap Tjoy 260g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.69,
     "minimumAmount": 1,

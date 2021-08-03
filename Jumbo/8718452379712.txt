@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "303058BLK",
     "name": "Jumbo Knakworst Mager 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.95,
     "minimumAmount": 1,

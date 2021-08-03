@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "85247BAK",
     "name": "Jumbo Zalm Sandwich Plakken Houtgerookt 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.48,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "295242RP",
     "name": "Jumbo Chocolade Reep Hazelnoot 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.88,
     "minimumAmount": 1,

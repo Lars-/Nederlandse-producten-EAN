@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "386323ZK",
     "name": "Jumbo Tomaat-Groentesoep 570ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.92,
     "minimumAmount": 1,

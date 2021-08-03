@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "362321ZK",
     "name": "Jumbo Biologische Gewassen Rucola 40g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.24,
     "minimumAmount": 1,

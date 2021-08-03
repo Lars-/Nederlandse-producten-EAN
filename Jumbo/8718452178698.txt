@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "182827STK",
     "name": "Jumbo Care Man Deodorant Roller 50ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

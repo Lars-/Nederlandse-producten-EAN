@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "198685STK",
     "name": "Jumbo Ongebrande en Ongezouten Walnoten 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.85,
     "minimumAmount": 1,

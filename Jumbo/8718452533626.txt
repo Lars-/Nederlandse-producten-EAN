@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "191142FLS",
     "name": "Jumbo Fruitsiroop Framboos met Appel 750ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.25,
     "minimumAmount": 1,

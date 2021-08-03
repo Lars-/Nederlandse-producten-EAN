@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "438998ZK",
     "name": "Jumbo Dropmix Gesuikerd 325g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.31,
     "minimumAmount": 1,

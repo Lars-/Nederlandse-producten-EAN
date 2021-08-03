@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "388904DS",
     "name": "Jumbo Fruitmix Aardbei-Blauwe Bes 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2,
     "minimumAmount": 1,

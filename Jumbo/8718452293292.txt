@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "207307ZK",
     "name": "Jumbo Roze Garnalen 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.65,
     "minimumAmount": 1,

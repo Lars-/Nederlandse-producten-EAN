@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "208917ZK",
     "name": "Jumbo Verse Tagliatelle Biologisch 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.91,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "213516POT",
     "name": "Jumbo Party Sticks Zoetzuur 670g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "304145TRL",
     "name": "Jumbo Ragout Kip 6 x 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 7.74,
     "minimumAmount": 1,

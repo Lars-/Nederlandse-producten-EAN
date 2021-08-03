@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "376393TUB",
     "name": "Garden Goods Poppy Narcissus Repairing Conditioner 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.89,
     "minimumAmount": 1,

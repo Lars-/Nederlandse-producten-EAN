@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "354419TRA",
     "name": "Jumbo Iers Rund Biefstuk Voordeel 3 Stuks 390g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 7.5,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "380643TRL",
     "name": "JUMBO PASTASAUS BASILICUM",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 9,
     "minimumAmount": 1,

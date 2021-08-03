@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "350236ZK",
     "name": "Jumbo Radijs Mix 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 0.99,
     "minimumAmount": 1,

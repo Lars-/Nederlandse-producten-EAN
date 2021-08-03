@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "439040ZK",
     "name": "Jumbo Pepermunt 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.85,
     "minimumAmount": 1,

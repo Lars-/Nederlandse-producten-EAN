@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "212177STK",
     "name": "Jumbo Fijngesneden Andijvie 500g - Voordeelverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.24,
     "minimumAmount": 1,

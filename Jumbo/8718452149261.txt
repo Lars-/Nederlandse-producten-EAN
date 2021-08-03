@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "170173DS",
     "name": "Jumbo - Slagroomsoesjes Diepvries - 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.68,
     "minimumAmount": 1,

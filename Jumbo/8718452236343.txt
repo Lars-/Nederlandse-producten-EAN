@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "192034ZK",
     "name": "Jumbo Geroosterde Pijnboompitten 30g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.87,
     "minimumAmount": 1,

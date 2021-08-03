@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195735STK",
     "name": "Jumbo Kokos Geraspt 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.79,
     "minimumAmount": 1,

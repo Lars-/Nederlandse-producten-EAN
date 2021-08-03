@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "381987ZK",
     "name": "Jumbo 4 9-14 kg 80 Stuks - Voordeelverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 10.22,
     "minimumAmount": 1,

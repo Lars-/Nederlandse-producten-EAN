@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "245708ZK",
     "name": "Jumbo Wattenschijfjes Maxi 40 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.88,
     "minimumAmount": 1,

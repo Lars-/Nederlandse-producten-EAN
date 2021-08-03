@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "184474ZK",
     "name": "Jumbo Kattenbakvulling Grof Klontvormend 10L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.06,
     "minimumAmount": 1,

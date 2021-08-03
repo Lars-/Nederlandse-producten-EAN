@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "194860PAK",
     "name": "Jumbo Maaltijdpakket Thaise Rode Curry 4 Personen",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.79,
     "minimumAmount": 1,

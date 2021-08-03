@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "97972ZK",
     "name": "Jumbo Mosselgroente 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.48,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "376394TUB",
     "name": "Garden Goods Citrus Bergamot Smoothing Conditioner 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.89,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "187340STK",
     "name": "Jumbo Verse Tilapiafilet 2 Stuks 260g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.5,
     "minimumAmount": 1,

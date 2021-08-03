@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "424037STK",
     "name": "Jumbo - Fruit Koektaart",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 8,
     "minimumAmount": 1,

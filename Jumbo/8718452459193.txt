@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "237825STK",
     "name": "Jumbo Honden Kauwsticks Denta Maxi",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.1,
     "minimumAmount": 1,

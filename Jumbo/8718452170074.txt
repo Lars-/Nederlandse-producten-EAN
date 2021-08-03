@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "176153ZK",
     "name": "Jumbo Roergemak Italiaanse Zomerschotel 475g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.24,
     "minimumAmount": 1,

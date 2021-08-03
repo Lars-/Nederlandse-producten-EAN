@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "385810DS",
     "name": "Jumbo Watermeloen Stukjes 550g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.39,
     "minimumAmount": 1,

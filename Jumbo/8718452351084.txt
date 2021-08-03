@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "216708ZK",
     "name": "Jumbo Ongeroosterde Pijnboompitten 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.66,
     "minimumAmount": 1,

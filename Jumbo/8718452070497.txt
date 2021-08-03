@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "147957POT",
     "name": "Jumbo Hot Hero Nacho Dipper 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1,
     "minimumAmount": 1,

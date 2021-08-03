@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "364747ZK",
     "name": "Jumbo Appeltjes uit de Boomgaard 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.99,
     "minimumAmount": 1,

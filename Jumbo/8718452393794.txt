@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "246239STK",
     "name": "Jumbo Chinois met Bakkersroom 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 2.32,
     "minimumAmount": 1,

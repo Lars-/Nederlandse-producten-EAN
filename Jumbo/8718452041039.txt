@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "96778TRA",
     "name": "Jumbo Gambaspies Franse Knoflook 80g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.5,
     "minimumAmount": 1,

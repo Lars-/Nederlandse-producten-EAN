@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "73895DS",
     "name": "Jumbo Pizza Hawaii 355g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.97,
     "minimumAmount": 1,

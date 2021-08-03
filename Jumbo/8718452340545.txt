@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "213218FLS",
     "name": "Jumbo Chia Drink Mango Passievrucht Chia Banaan Appel 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.42,
     "minimumAmount": 1,

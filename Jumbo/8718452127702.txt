@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "393220CUP",
     "name": "Jumbo Halfgedroogde Tomaten 130g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.29,
     "minimumAmount": 1,

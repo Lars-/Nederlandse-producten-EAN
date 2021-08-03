@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "168057DS",
     "name": "Jumbo - Roomboter Appeltaart Diepvries - 1,1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.29,
     "minimumAmount": 1,

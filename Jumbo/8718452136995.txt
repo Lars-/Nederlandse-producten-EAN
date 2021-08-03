@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "220631ZK",
     "name": "Jumbo Kroepoek Naturel 66g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.85,
     "minimumAmount": 1,

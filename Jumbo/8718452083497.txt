@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "154888PAK",
     "name": "Jumbo Honden Vleesstrips Kip 15 stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.98,
     "minimumAmount": 1,

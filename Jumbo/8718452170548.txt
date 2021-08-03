@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "133661PAK",
     "name": "Jumbo Appeldrink 10 x 200ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.19,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "293974STK",
     "name": "Jumbo Brabantse Quukskes Koekjes met Citrussmaak 140g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.46,
     "minimumAmount": 1,

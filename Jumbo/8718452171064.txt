@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "388324EM",
     "name": "Jumbo Yoghurt Griekse Stijl 0,1% Vet Naturel 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.69,
     "minimumAmount": 1,

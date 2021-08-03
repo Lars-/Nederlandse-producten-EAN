@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "301634ZK",
     "name": "Jumbo Fruits de Mer 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.99,
     "minimumAmount": 1,

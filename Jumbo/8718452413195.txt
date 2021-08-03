@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "352862DS",
     "name": "Jumbo Cappuccino 30 Koffiecups",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.55,
     "minimumAmount": 1,

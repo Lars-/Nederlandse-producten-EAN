@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "319984PAK",
     "name": "Jumbo Kokos Koekje met Chocolade 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.86,
     "minimumAmount": 1,

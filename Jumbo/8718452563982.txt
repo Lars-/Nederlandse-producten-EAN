@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "428866STK",
     "name": "Jumbo Achterham Voordeelverpakking 225g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.4,
     "minimumAmount": 1,

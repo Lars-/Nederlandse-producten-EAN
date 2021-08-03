@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "203891STK",
     "name": "Jumbo Watermeloen Geel",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2,
     "minimumAmount": 1,

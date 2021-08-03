@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "188526STK",
     "name": "Jumbo Drop Fruitduo's 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.84,
     "minimumAmount": 1,

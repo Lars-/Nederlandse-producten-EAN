@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "437855FLS",
     "name": "Jumbo Icetea Perzik 6 x 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 0.33,
     "minimumAmount": 1,

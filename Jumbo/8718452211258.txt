@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "187351STK",
     "name": "Jumbo Engelse Drop 600g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.59,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "330479BAK",
     "name": "Jumbo Blauwe Bessen 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.39,
     "minimumAmount": 1,

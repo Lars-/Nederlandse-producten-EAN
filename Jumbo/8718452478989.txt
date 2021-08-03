@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "386327ZK",
     "name": "Jumbo Maleisische Rode Curry Soep 570ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.09,
     "minimumAmount": 1,

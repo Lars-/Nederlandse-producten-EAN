@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "425634STK",
     "name": "Jumbo - Luxe Puntenvlaai - 10 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 13.99,
     "minimumAmount": 1,

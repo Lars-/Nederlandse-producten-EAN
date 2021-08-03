@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "190579BLK",
     "name": "Jumbo Kattenbrokjes In Saus met Zalm en Kabbeljauw 405g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.39,
     "minimumAmount": 1,

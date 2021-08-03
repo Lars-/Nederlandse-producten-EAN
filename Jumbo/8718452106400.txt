@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "421677PAK",
     "name": "Jumbo Biologisch Verse Volle Yoghurt 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.1,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "224332ZK",
     "name": "Jumbo - Italiaanse Bollen Voorgebakken - 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.72,
     "minimumAmount": 1,

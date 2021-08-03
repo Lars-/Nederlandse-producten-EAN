@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "428920CUP",
     "name": "Jumbo Yoghurt met Vezels Mango 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.39,
     "minimumAmount": 1,

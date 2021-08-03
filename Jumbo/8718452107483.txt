@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "448471STK",
     "name": "Jumbo Biologische Bleekselderij",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.09,
     "minimumAmount": 1,

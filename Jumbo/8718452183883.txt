@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "178421ZK",
     "name": "Jumbo Geraspte Kaas  40+ Oven Gratin 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.67,
     "minimumAmount": 1,

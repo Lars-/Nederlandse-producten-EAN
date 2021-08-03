@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "420596PAK",
     "name": "Jumbo Biologisch Verse Magere Melk 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.04,
     "minimumAmount": 1,

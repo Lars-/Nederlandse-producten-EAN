@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "420840FLS",
     "name": "Hugo Vlierbloesem & Limoen 0.0% 750ML",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.19,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "153858PAK",
     "name": "Jumbo Katten Kauwsticks Kip 5 stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.62,
     "minimumAmount": 1,

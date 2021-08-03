@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "395524DS",
     "name": "Jumbo Choco Chips Melk 125g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.59,
     "minimumAmount": 1,

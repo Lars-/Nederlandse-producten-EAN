@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "319724STK",
     "name": "Jumbo Snelfiltermaling Mild 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.87,
     "minimumAmount": 1,

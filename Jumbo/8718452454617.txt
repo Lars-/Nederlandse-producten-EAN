@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "230572BAK",
     "name": "Jumbo Groene Salade Kip & Appel 325g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.65,
     "minimumAmount": 1,

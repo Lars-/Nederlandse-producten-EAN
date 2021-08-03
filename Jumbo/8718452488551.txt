@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "384738CUP",
     "name": "Jumbo Medjoul Dadels 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.99,
     "minimumAmount": 1,

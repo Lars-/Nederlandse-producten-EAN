@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "302279POT",
     "name": "Jumbo Tuinbonen 340g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.98,
     "minimumAmount": 1,

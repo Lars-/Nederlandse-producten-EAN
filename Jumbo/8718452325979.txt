@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "218821STK",
     "name": "Jumbo Honden Snackstrips Eend Reepjes 90g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.59,
     "minimumAmount": 1,

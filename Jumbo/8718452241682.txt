@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "377352ZK",
     "name": "Jumbo Gedroogde Abrikozen Zonder Pit 375g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.34,
     "minimumAmount": 1,

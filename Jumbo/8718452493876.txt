@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "383967ZK",
     "name": "Jumbo Luiers Maat 6 15+ kg 56 Stuks - Voordeelverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 11.14,
     "minimumAmount": 1,

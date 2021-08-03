@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "261981STK",
     "name": "Jumbo Servetten Zeegroen 20 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.25,
     "minimumAmount": 1,

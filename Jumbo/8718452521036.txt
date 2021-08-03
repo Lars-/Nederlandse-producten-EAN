@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "405342TRA",
     "name": "Jumbo Crispy Bacon Plakjes 80g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.29,
     "minimumAmount": 1,

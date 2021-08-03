@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "194302PAK",
     "name": "Jumbo Jus Rund 3 x 18g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.04,
     "minimumAmount": 1,

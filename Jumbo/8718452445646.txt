@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "140546ROL",
     "name": "Jumbo Pizzadeeg 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.96,
     "minimumAmount": 1,

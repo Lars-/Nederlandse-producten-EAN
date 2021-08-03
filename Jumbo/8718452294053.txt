@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "227464POT",
     "name": "Jumbo Witte Bonen in Tomatensaus 680g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.82,
     "minimumAmount": 1,

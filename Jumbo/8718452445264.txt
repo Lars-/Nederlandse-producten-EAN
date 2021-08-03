@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "350696CAN",
     "name": "Jumbo Rood Fruit 2L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.39,
     "minimumAmount": 1,

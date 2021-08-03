@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "427703DS",
     "name": "Jumbo Hazelnoot Pure Chocolade Biologisch 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.55,
     "minimumAmount": 1,

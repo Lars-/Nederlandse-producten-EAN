@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "348978STK",
     "name": "La Place - Vloer Spelt Wit",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.55,
     "minimumAmount": 1,

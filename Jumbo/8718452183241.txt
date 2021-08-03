@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "177071STK",
     "name": "Jumbo Aspergesaus",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 0.55,
     "minimumAmount": 1,

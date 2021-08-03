@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "246219DS",
     "name": "Jumbo Oven Visfriet 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.14,
     "minimumAmount": 1,

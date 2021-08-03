@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "443528FLS",
     "name": "Jumbo Biet Appel Komkommer Groentesap 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.69,
     "minimumAmount": 1,

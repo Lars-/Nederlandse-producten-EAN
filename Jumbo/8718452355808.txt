@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "221279STK",
     "name": "Jumbo Ontbijtkoek Geen Suiker Gesneden 475g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.87,
     "minimumAmount": 1,

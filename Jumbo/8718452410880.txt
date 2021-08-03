@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "382379BAK",
     "name": "Jumbo Beenham Salade 175g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.8,
     "minimumAmount": 1,

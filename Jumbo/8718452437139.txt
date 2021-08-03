@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "428415FLS",
     "name": "Jumbo Tonic Classic 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.57,
     "minimumAmount": 1,

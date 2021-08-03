@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "394308ZK",
     "name": "Jumbo Super Hot Mix 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.89,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "189713PAK",
     "name": "Jumbo Knackebrod Sesam 4 x 5 Stuks 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.79,
     "minimumAmount": 1,

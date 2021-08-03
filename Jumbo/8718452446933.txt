@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "209326PAK",
     "name": "Jumbo Ovengebakken Kipfilet 130g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.51,
     "minimumAmount": 1,

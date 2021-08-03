@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "383444ZK",
     "name": "Jumbo Aardappelen Kruimig 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.89,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "394299ZK",
     "name": "Jumbo Borrelzoutjes Paprika 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.89,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "389190POT",
     "name": "Jumbo Pindakaas met Stukjes Pinda 600g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.29,
     "minimumAmount": 1,

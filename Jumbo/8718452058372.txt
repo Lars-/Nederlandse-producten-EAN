@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "213417POT",
     "name": "Jumbo Augurk Plakjes Zoetzuur 330g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.8,
     "minimumAmount": 1,

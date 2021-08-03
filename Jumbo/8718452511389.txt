@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "388126BAK",
     "name": "Jumbo Lekker Veggie Verse Gehaktbal Gepaneerd Vegetarisch 2 Stuks 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.5,
     "minimumAmount": 1,

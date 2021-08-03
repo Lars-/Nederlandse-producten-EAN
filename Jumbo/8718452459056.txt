@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "382378BAK",
     "name": "Jumbo Gevuld Ei Salade 175g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.89,
     "minimumAmount": 1,

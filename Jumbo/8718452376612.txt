@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "283620STK",
     "name": "Jumbo Mix Tagliatelle Roomsaus 39g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.95,
     "minimumAmount": 1,

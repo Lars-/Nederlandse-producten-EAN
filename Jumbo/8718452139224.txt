@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "197135DS",
     "name": "Jumbo Groentebouillon 8 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.62,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "381982ZK",
     "name": "Jumbo Luiers 2 4-8 kg 42 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.03,
     "minimumAmount": 1,

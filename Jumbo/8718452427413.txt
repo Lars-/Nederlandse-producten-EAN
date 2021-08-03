@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "311615ZK",
     "name": "Jumbo Biologische Ongebrande Cashewnoten Ongezouten 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.59,
     "minimumAmount": 1,

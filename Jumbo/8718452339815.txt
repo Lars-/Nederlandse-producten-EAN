@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "225565DS",
     "name": "La Place Witte Thee Puur 15 Theezakjes 30g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.69,
     "minimumAmount": 1,

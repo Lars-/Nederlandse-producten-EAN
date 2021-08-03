@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "412064BAK",
     "name": "Jumbo Rundergehakt Pasta 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.05,
     "minimumAmount": 1,

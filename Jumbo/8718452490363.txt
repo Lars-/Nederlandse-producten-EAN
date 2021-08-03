@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "395039ZK",
     "name": "Jumbo Geraspt Oude Kaas 48+ 175g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.2,
     "minimumAmount": 1,

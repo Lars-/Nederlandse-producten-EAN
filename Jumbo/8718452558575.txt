@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "429867ZK",
     "name": "Jumbo Soep Croutons Kruiden 75g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.64,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "201254BAK",
     "name": "Jumbo Kipkrokant Schnitzel 6 Stuks 600g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6,
     "minimumAmount": 1,

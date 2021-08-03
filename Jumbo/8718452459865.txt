@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "385801BAK",
     "name": "Jumbo Huzarenschotel 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.15,
     "minimumAmount": 1,

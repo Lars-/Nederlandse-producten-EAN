@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "168413BLK",
     "name": "Jumbo Ananas op Fruitsap 10 Schijven 567g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.39,
     "minimumAmount": 1,

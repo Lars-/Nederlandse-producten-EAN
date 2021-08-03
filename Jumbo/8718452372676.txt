@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "285633PAK",
     "name": "Jumbo Jungle Passion Kleur 16 Wasbeurten Wascapsules",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.84,
     "minimumAmount": 1,

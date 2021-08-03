@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "297019DS",
     "name": "Jumbo Eieren 10 Stuks Biologisch S\/M\/L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.89,
     "minimumAmount": 1,

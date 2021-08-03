@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "203782STK",
     "name": "Jumbo Gezouten Cashewnoten Fairtrade 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.13,
     "minimumAmount": 1,

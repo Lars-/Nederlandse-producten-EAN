@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "305995DS",
     "name": "Jumbo Kruidenthee Bedtijd 15 Stuks 30g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.7,
     "minimumAmount": 1,

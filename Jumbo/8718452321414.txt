@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "207276ZK",
     "name": "Jumbo Salade Mix Stukjes Walnoot, Rozijnen, Bruine & Geroosterde Amandelen 50g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.25,
     "minimumAmount": 1,

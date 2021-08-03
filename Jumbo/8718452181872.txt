@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "173262FLS",
     "name": "Jumbo - Cote du Rh\u00f4ne - Grenache - Syrah - 750Ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.69,
     "minimumAmount": 1,

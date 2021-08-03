@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "395721POT",
     "name": "Jumbo Pindakaas Naturel 100% Puur 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.83,
     "minimumAmount": 1,

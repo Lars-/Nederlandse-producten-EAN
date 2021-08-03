@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "308454BAK",
     "name": "Jumbo Filetreepjes 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.59,
     "minimumAmount": 1,

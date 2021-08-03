@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "383778ZK",
     "name": "Jumbo Volledig Diervoeder Katten Volwassen Zalm & Rijst 800g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.36,
     "minimumAmount": 1,

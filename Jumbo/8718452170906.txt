@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "285599BAK",
     "name": "Jumbo Boomstammetjes met Wapenaer 3 Stuks 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.2,
     "minimumAmount": 1,

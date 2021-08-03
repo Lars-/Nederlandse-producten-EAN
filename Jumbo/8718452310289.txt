@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "212159STK",
     "name": "Jumbo Pompoen Blokjes 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.27,
     "minimumAmount": 1,

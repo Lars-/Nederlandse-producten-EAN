@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "218377BLK",
     "name": "Jumbo Tomaten Puree 70g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.33,
     "minimumAmount": 1,

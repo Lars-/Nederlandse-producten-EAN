@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "302261STK",
     "name": "Jumbo Radijs",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.75,
     "minimumAmount": 1,

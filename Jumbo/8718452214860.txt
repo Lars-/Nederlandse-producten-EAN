@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "190933STK",
     "name": "Jumbo Briketten Extra Kwaliteit Voordeel 10kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 8.99,
     "minimumAmount": 1,

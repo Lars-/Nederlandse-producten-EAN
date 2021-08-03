@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "421504ZK",
     "name": "Jumbo Hondenbrokken Sensitive Zalm & Rijst 1, 5kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.99,
     "minimumAmount": 1,

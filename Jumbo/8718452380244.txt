@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "42751PAK",
     "name": "Jumbo Pinda Koeken met Melkchocolade 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.32,
     "minimumAmount": 1,

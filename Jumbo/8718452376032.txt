@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "225590PAK",
     "name": "Jumbo - Desem Pave Witte Broodjes - 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.5,
     "minimumAmount": 1,

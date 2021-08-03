@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "360446DS",
     "name": "Jumbo Lungo Intenso Koffiecups 16 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.99,
     "minimumAmount": 1,

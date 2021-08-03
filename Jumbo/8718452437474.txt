@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "342811STK",
     "name": "La Place Pure Chocolade Ananas & Chili 180g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.56,
     "minimumAmount": 1,

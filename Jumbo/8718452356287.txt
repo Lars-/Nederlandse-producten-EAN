@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "305608STK",
     "name": "Jumbo - Bruin Sesam Brood - Half",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.79,
     "minimumAmount": 1,

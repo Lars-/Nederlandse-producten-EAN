@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "227254BAK",
     "name": "Jumbo Pastasalade Fusilli met Paprika, Tomaat en Olijven 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.69,
     "minimumAmount": 1,

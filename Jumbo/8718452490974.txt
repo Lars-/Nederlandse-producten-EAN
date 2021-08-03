@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "187233PAK",
     "name": "Jumbo Choco Pinda's 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.89,
     "minimumAmount": 1,

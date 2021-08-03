@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "362303ZK",
     "name": "Jumbo Baby Spinazie Gewassen 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.09,
     "minimumAmount": 1,

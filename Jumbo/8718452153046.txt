@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "89269POT",
     "name": "Jumbo Melk Chocopasta 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.77,
     "minimumAmount": 1,

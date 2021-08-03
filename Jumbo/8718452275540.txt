@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "196032DSL",
     "name": "JUMBO TAP. ZONGED.TOMAAT",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 11.4,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "196685FLS",
     "name": "Jumbo Koffiemelk Halfvol Biologisch 186ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.88,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "155035ZK",
     "name": "Jumbo Broodmix Wit 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.45,
     "minimumAmount": 1,

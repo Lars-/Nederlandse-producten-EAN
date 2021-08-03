@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "164307PAK",
     "name": "Jumbo - Focaccia Kruidenboter & Mozzarella - 2 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.76,
     "minimumAmount": 1,

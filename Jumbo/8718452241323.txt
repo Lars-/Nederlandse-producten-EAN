@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "191670FLS",
     "name": "Jumbo Biologische Extra Vierge Olijfolie 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.65,
     "minimumAmount": 1,

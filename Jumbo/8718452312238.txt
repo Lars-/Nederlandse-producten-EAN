@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "308375BAK",
     "name": "Jumbo Filetblokjes Tandoori 275g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.5,
     "minimumAmount": 1,

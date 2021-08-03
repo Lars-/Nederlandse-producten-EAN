@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "172070BAK",
     "name": "Jumbo Grote Garnalen met Staart 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.99,
     "minimumAmount": 1,

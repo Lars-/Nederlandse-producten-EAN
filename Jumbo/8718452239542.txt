@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "186029BAK",
     "name": "Jumbo Pangasius Visspies Italiaanse Stijl 140g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.5,
     "minimumAmount": 1,

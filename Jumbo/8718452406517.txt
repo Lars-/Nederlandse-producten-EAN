@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "319461PAK",
     "name": "Jumbo Snelfiltermaling Cafe\u00efnevrij 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.49,
     "minimumAmount": 1,

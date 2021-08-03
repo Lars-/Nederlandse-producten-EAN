@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "156952FLS",
     "name": "Jumbo Allesreiniger Frisse Eucalyptus 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.79,
     "minimumAmount": 1,

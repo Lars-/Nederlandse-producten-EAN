@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "157466BAK",
     "name": "Jumbo Roomboter Gezouten 225g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.13,
     "minimumAmount": 1,

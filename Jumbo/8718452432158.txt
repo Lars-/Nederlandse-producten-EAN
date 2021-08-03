@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "320594STK",
     "name": "Jumbo Pittige Chorizo 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.49,
     "minimumAmount": 1,

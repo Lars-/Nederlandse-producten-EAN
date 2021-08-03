@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "382931CUP",
     "name": "Jumbo Chorizo Plakjes 90g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

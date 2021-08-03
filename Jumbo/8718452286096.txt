@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "394227CUP",
     "name": "Jumbo Franse Kwark Vol 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.24,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "442884CUP",
     "name": "Jumbo Borrelworstje Pittig 65g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

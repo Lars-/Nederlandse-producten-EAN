@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "411988STK",
     "name": "Goudeerlijk - Wit Tijgerbrood - Vriesvers",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.26,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "180844BAK",
     "name": "Jumbo Gemengd Gehakt Gekruid Rund & Varken 925g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6.6,
     "minimumAmount": 1,

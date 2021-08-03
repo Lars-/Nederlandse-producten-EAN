@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "408768DS",
     "name": "Jumbo Classic Vaatwastabletten 60 x 10g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.98,
     "minimumAmount": 1,

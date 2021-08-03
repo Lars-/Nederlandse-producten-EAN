@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "163473PAK",
     "name": "Jumbo Rode Kool met Appel 520g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.05,
     "minimumAmount": 1,

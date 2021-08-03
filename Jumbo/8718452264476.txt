@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195775DS",
     "name": "Jumbo Groene Thee Citroen 20 Stuks 40g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.98,
     "minimumAmount": 1,

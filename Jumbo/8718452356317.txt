@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "300147STK",
     "name": "Jumbo - Fijn Volkoren Brood - Half",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.55,
     "minimumAmount": 1,

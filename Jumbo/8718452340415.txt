@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "232451ZK",
     "name": "Jumbo Zoete Popcorn 175g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.98,
     "minimumAmount": 1,

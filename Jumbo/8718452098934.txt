@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "152818DS",
     "name": "Jumbo Granenbiscuits Melkchocolade 6 x 2 Stuks 195g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.98,
     "minimumAmount": 1,

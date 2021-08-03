@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "398750DS",
     "name": "Jumbo Lava Cakejes met een Kern van Chocolade 2 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.69,
     "minimumAmount": 1,

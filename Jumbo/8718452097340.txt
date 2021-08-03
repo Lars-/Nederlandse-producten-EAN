@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "157448FLS",
     "name": "Jumbo Afwasmiddel Extra Hygienisch 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.79,
     "minimumAmount": 1,

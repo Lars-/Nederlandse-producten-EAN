@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "340477GLS",
     "name": "Jumbo Aspergestukjes 280g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.39,
     "minimumAmount": 1,

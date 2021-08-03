@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "136200TRL",
     "name": "Jumbo Cola Regular 24 x 330ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.96,
     "minimumAmount": 1,

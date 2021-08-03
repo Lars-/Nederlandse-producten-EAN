@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "393259CUP",
     "name": "Jumbo Kip met Bieslookroomkaas 80g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.89,
     "minimumAmount": 1,

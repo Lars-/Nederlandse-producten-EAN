@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "262261STK",
     "name": "Jumbo Oranje Mergpijpjes 180g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.49,
     "minimumAmount": 1,

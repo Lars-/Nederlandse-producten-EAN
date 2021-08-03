@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "311661ZK",
     "name": "Jumbo Biologische Ongebrande Walnoten Ongezouten 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.85,
     "minimumAmount": 1,

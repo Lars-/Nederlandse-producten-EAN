@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "18631FLS",
     "name": "Jumbo Halfvolle Koffiemelk 186ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.64,
     "minimumAmount": 1,

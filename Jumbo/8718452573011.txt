@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "438601STK",
     "name": "Jumbo Gevulde Brie Basilicum Pesto 60+ 85g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.89,
     "minimumAmount": 1,

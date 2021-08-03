@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "234818ZK",
     "name": "Jumbo Tex-Mex Geraspte Kaas 40+ 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

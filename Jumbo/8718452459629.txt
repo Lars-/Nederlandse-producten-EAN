@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "302233BAK",
     "name": "Jumbo Pruim Tros Tomaat 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.49,
     "minimumAmount": 1,

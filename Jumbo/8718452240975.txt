@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "190555PAK",
     "name": "Jumbo Kattenhapjes Gebitsverzorgende Vlees 50g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 0.89,
     "minimumAmount": 1,

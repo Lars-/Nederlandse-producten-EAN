@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "414953BAK",
     "name": "Jumbo Salade Bowl Mexicaans 330g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.29,
     "minimumAmount": 1,

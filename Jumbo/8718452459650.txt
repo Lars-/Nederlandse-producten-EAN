@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "302240STK",
     "name": "Jumbo Paprika Rood",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.85,
     "minimumAmount": 1,

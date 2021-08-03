@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "415615DS",
     "name": "Jumbo Biologisch Roomijs Vanillesmaak 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.75,
     "minimumAmount": 1,

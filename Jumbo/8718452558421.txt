@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "439304PAK",
     "name": "Jumbo Bruisend Water Gember-Citroengras 6 x 500ML",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.22,
     "minimumAmount": 1,

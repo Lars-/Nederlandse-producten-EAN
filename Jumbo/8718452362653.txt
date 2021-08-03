@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "262023BAK",
     "name": "Jumbo Shoarma 900g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6,
     "minimumAmount": 1,

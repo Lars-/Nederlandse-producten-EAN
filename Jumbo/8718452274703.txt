@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "397673STK",
     "name": "Jumbo Selectie Emmentaler Kaas 45+ Plakken 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.42,
     "minimumAmount": 1,

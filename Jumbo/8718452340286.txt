@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "381984ZK",
     "name": "Jumbo Luiers 4 9-14 kg 40 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.27,
     "minimumAmount": 1,

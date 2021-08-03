@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "226973POT",
     "name": "Jumbo Witte Bonen 680g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "308449BAK",
     "name": "Jumbo Scharrelkip Filetblokjes 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.24,
     "minimumAmount": 1,

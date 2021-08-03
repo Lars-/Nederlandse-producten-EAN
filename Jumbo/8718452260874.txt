@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "54378STK",
     "name": "Jumbo Filet Americain Naturel Voordeelverpakking 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.7,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "173327FLS",
     "name": "Jumbo - Alsace - Pinot Blanc - 750ML",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.49,
     "minimumAmount": 1,

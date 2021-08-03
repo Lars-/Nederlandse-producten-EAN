@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "230541BAK",
     "name": "Jumbo Lunchsalade Kruidige Kip Harissa 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.86,
     "minimumAmount": 1,

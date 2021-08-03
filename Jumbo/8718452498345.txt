@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "376679ZK",
     "name": "Jumbo Snijbonen Biologisch 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 2.79,
     "minimumAmount": 1,

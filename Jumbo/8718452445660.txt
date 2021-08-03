@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "224713STK",
     "name": "Jumbo Pizzakit",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.45,
     "minimumAmount": 1,

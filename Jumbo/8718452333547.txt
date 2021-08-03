@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "210073DSL",
     "name": "Orbea - Prosecco - 6 x 750ML",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 23.94,
     "minimumAmount": 1,

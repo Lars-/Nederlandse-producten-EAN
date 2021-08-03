@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "329564STK",
     "name": "Jumbo Mini Wortelen 325g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1,
     "minimumAmount": 1,

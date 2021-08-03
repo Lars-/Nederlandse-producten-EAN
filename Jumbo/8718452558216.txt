@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "438322PAK",
     "name": "Jumbo A.C.E Drink 6 x 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.22,
     "minimumAmount": 1,

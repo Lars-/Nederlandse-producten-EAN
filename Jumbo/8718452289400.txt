@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "203808STK",
     "name": "Jumbo Gerookte Kipfilet 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.13,
     "minimumAmount": 1,

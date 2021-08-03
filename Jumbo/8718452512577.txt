@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "387074NET",
     "name": "Jumbo Gele Uien Biologisch 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.59,
     "minimumAmount": 1,

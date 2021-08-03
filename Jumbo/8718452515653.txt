@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "390950BAK",
     "name": "Jumbo Kabeljauwhaas 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.5,
     "minimumAmount": 1,

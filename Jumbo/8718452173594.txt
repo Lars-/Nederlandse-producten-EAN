@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "206516STK",
     "name": "Jumbo Normal Inlegkruisjes 60 Stuks - Voordeelverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.87,
     "minimumAmount": 1,

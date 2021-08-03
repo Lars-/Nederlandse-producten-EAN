@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "444204ZK",
     "name": "Jumbo Koffiebonen Yellow Bourbon Brazili\u00eb 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.99,
     "minimumAmount": 1,

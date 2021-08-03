@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "367947STK",
     "name": "La Place - Zonnebloempit Krokantjes - 5 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

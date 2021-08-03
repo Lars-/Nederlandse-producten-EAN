@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "185518STK",
     "name": "Jumbo Boerencake 800g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.49,
     "minimumAmount": 1,

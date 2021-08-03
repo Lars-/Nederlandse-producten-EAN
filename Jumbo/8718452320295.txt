@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "376048STK",
     "name": "Jumbo Venkel",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.85,
     "minimumAmount": 1,

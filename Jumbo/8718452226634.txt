@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "300123STK",
     "name": "Jumbo Snoep & Drop 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.37,
     "minimumAmount": 1,

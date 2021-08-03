@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "287182DS",
     "name": "Jumbo Couscous Biologisch 275g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.88,
     "minimumAmount": 1,

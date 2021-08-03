@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "420823FLS",
     "name": "Jumbo Siroop Framboos met Appel 750ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.49,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "408692TRA",
     "name": "Jumbo Olifantjes Kruiden Boter 90g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.39,
     "minimumAmount": 1,

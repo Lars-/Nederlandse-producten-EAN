@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "382002DSL",
     "name": "Jumbo Luiers 5 11-16 kg 3 x 64 Stuks - Voordeelverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 26.85,
     "minimumAmount": 1,

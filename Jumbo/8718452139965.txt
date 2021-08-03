@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "200839FLS",
     "name": "Jumbo Wasverzachter Charming Magnolia 30 Wasbeurten 750ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.65,
     "minimumAmount": 1,

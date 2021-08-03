@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "204242DSL",
     "name": "Jumbo Sinaasappelsap 8 x 1, 5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 11.44,
     "minimumAmount": 1,

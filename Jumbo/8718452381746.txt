@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "269297DSL",
     "name": "Jumbo Huiswijn - Zoet - 12 x 250ML",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 22.44,
     "minimumAmount": 1,

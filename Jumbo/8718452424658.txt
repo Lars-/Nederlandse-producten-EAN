@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "292064STK",
     "name": "Jumbo Mini Saint Flour Blauwaderkaas 60+ 78g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1,
     "minimumAmount": 1,

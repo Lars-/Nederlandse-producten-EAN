@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "336766FLS",
     "name": "Jumbo Smoothie Mango Passievrucht 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.43,
     "minimumAmount": 1,

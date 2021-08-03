@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "184901STK",
     "name": "Jumbo D Alkaline LR20 Batterijen 2 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.97,
     "minimumAmount": 1,

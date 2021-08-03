@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "387854BAK",
     "name": "Jumbo Verse Stoommaaltijd Beef Oosterse Stijl 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.89,
     "minimumAmount": 1,

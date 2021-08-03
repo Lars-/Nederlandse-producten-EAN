@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "153062BLK",
     "name": "Jumbo Pat\u00e9 met Lam & Groenten 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.95,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "332408CUP",
     "name": "Jumbo Verse Zure Room 125g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.98,
     "minimumAmount": 1,

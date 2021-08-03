@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "177068STK",
     "name": "Jumbo Champignonsaus",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.32,
     "minimumAmount": 1,

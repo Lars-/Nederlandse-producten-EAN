@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "173151PAK",
     "name": "Jumbo Roze Koeken 6 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.92,
     "minimumAmount": 1,

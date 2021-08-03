@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "191080BAK",
     "name": "Jumbo Kiwi Zespri Biologisch 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.99,
     "minimumAmount": 1,

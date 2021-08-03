@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "217279PAK",
     "name": "Jumbo Zoute Magnetron Popcorn 3 x 90g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.87,
     "minimumAmount": 1,

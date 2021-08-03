@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "393337DS",
     "name": "Jumbo Vezelreep Hazelnoot & Cranberry 3 Stuks 90g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.49,
     "minimumAmount": 1,

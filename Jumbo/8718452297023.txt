@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "441728PAK",
     "name": "Jumbo Sinaasappelsap 100% uit Concentraat 10 x 200ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

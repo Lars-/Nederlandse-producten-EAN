@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "187236BAK",
     "name": "Jumbo Hamburger Rund 8 Stuks 840g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.59,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "162460ZK",
     "name": "Jumbo Gelderse Rookworst 2 x 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.57,
     "minimumAmount": 1,

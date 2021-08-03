@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "211738ZK",
     "name": "Jumbo Bourgondische Mini Krieltjes 200g - Kleinverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.54,
     "minimumAmount": 1,

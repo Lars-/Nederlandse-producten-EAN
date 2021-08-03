@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "269291FLS",
     "name": "Jumbo Huiswijn - Soepel & Halfzoet - 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.95,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "423949STK",
     "name": "Jumbo - Framboos Cheesecakes - 2 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.29,
     "minimumAmount": 1,

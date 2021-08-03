@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "173265FLS",
     "name": "Jumbo - Rueda - Verdejo - 750Ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.49,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "427811FLS",
     "name": "Jumbo Direct van de Boerderij Biologische Volle Yoghurt 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.89,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "435322PAK",
     "name": "Jumbo Kleur 3 in 1 Wascapsules 20 Wasbeurten",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.89,
     "minimumAmount": 1,

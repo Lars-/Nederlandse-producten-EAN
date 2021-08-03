@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "421472ZK",
     "name": "Jumbo Brokkenmix met Lam, Rund, Groenten & Rijst 2kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.49,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "304002PAK",
     "name": "Jumbo Maaltijdpakket Kipkerrie 1, 2kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.28,
     "minimumAmount": 1,

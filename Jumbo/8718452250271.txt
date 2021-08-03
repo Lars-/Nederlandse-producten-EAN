@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195778DS",
     "name": "Jumbo Zwarte Thee Ceylon Melange 20 Stuks 40g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.98,
     "minimumAmount": 1,

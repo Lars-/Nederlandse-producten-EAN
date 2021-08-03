@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "176154ZK",
     "name": "Jumbo Roergemak Tagliatelle Zalmschotel 475g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.78,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "317473ZK",
     "name": "Jumbo Geraspt Pizza Specialiteit Kaas 40+ 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.57,
     "minimumAmount": 1,

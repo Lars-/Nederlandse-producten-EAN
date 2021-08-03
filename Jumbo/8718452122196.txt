@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "164585STK",
     "name": "Jumbo Tandenborstels Flexibel & Medium 2 stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.04,
     "minimumAmount": 1,

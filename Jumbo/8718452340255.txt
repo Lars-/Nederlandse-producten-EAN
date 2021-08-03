@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "381986ZK",
     "name": "Jumbo Luiers 6 15+kg 28 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6.33,
     "minimumAmount": 1,

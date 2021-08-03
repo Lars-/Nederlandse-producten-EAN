@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "420638STK",
     "name": "Jumbo - Cuptaart Cheesecake Lemon",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.79,
     "minimumAmount": 1,

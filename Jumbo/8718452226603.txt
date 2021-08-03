@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "187287DS",
     "name": "Jumbo Gele Rijst 325g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.67,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "98017STK",
     "name": "Jumbo Watermeloen Rood",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2,
     "minimumAmount": 1,

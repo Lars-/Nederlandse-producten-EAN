@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "386897POT",
     "name": "Jumbo Pindakaas Naturel 100% Pinda 600g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.84,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "437291BAK",
     "name": "Jumbo Rag\u00f9 Bolognese 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5,
     "minimumAmount": 1,

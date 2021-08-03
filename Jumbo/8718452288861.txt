@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "386326ZK",
     "name": "Jumbo Tomatensoep 570ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.73,
     "minimumAmount": 1,

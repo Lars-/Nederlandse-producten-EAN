@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "305811BAK",
     "name": "Jumbo Cocktail Garnalen Naturel 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.44,
     "minimumAmount": 1,

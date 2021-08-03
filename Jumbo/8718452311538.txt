@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "211709ZK",
     "name": "Jumbo Macaroni & Spaghetti Groente 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.7,
     "minimumAmount": 1,

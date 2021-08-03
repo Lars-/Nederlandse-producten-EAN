@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "237860ZK",
     "name": "Jumbo Fijne Soepgroente 150 g - Kleinverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.95,
     "minimumAmount": 1,

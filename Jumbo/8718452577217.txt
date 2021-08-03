@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "200046BAK",
     "name": "Jumbo Shoarma Pittig 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.61,
     "minimumAmount": 1,

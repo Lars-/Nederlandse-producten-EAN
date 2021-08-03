@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "305417NET",
     "name": "Bolknoflook 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.49,
     "minimumAmount": 1,

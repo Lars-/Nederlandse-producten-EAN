@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "207367ZK",
     "name": "Jumbo Naturel Tagliatelle Biologisch 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.86,
     "minimumAmount": 1,

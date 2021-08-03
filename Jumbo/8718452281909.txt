@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "200855FLS",
     "name": "Jumbo Sensitive Vloeibaar Wasmiddel  Wit 28 Wasbeurten Geconcentreerd 980ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.75,
     "minimumAmount": 1,

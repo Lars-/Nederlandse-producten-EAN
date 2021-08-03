@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "224277BAK",
     "name": "Jumbo Roomijs Triple Chocolate 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.3,
     "minimumAmount": 1,

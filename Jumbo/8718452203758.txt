@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "182178POT",
     "name": "Jumbo Italiaanse Kruiden 55g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.51,
     "minimumAmount": 1,

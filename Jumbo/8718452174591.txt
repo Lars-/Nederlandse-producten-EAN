@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "157443DS",
     "name": "Jumbo Cornets Vanille Ijsjes 6 Stuks 389g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.12,
     "minimumAmount": 1,

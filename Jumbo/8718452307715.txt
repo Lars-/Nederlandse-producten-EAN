@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "203778STK",
     "name": "Jumbo Ongebrande En Ongezouten Cashewnoten 170g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.16,
     "minimumAmount": 1,

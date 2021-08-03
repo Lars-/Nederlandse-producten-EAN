@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "200359POT",
     "name": "La Place Pastasaus Arrabbiata 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.75,
     "minimumAmount": 1,

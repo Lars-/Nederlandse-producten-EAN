@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "347582BAK",
     "name": "Jumbo Hele Ananas",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3,
     "minimumAmount": 1,

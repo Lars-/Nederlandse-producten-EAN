@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "340515GLS",
     "name": "Jumbo Asperges 530g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.92,
     "minimumAmount": 1,

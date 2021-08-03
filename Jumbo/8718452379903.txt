@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "256949DS",
     "name": "Jumbo Dubbel Chocolade & Karamel Ijsjes 3 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.89,
     "minimumAmount": 1,

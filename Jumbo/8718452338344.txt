@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "203643STK",
     "name": "Jumbo Tzatziki 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "434940PAK",
     "name": "Jumbo Amandel Drink Ongezoet 4 x 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.52,
     "minimumAmount": 1,

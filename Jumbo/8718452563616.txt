@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "444862DS",
     "name": "Jumbo Espres Karakter & Intens - 16 Koffiecups 112g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.99,
     "minimumAmount": 1,

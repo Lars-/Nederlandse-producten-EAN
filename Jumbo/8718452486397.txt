@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "385969BAK",
     "name": "Jumbo Lekker Veggie Gyros Vegan 175g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.7,
     "minimumAmount": 1,

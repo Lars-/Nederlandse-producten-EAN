@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "374192BAK",
     "name": "Jumbo Kip-Kerrie Salade 80g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.29,
     "minimumAmount": 1,

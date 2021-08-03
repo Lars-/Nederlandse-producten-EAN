@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "395877FLS",
     "name": "Jumbo Allesreiniger Sinaasappelschil 750ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.39,
     "minimumAmount": 1,

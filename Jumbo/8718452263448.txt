@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "377427ZK",
     "name": "Jumbo Gezouten Bonen Mix 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.56,
     "minimumAmount": 1,

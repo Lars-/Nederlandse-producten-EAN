@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "443839ZK",
     "name": "Jumbo Zoete Aardappel 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.29,
     "minimumAmount": 1,

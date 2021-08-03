@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "269353STK",
     "name": "Jumbo Goudse Kaas 48+ Jong Voordeelverpakking 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3,
     "minimumAmount": 1,

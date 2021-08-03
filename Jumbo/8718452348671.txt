@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "222837STK",
     "name": "Jumbo Fijngesneden Prei 250g - Kleinverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.05,
     "minimumAmount": 1,

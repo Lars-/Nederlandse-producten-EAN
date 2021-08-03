@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195272PAK",
     "name": "Jumbo Cocktail Garnalen Naturel 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.86,
     "minimumAmount": 1,

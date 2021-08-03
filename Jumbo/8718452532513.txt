@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "406380POT",
     "name": "Jumbo Arrabbiata Pesto Rood 190g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

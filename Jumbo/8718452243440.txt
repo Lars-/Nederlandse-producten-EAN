@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "211727STK",
     "name": "Jumbo Italiaanse Roerbakmix 250 g - Kleinverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.55,
     "minimumAmount": 1,

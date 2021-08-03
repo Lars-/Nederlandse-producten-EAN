@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "390734ZK",
     "name": "Jumbo Verse Franse Frietjes Voorgebakken 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.42,
     "minimumAmount": 1,

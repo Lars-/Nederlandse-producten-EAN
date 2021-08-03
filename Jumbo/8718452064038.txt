@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "374691PAK",
     "name": "Jumbo Tukkie Doen Meergranen Drinkpapje vanaf 6 Maanden 2 x 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.44,
     "minimumAmount": 1,

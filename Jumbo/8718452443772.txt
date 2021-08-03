@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "348749FLS",
     "name": "Jumbo Sojasaus 150ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.18,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "163464ROL",
     "name": "Jumbo Pedaalemmerzakken 16 L 20 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.47,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "300160STK",
     "name": "Jumbo - Wit Casino Brood - Half",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.64,
     "minimumAmount": 1,

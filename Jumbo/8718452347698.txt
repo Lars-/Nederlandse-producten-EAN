@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "368197STK",
     "name": "Jumbo Roombrie 60+ Kaas Kleinverpakking 92g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1,
     "minimumAmount": 1,

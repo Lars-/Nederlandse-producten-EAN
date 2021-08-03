@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "212607ZK",
     "name": "Jumbo IJsbergsla & Veldsla Melange 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.35,
     "minimumAmount": 1,

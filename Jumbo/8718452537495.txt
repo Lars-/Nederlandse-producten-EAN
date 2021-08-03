@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "427848FLS",
     "name": "Jumbo Ice Tea Green Mango Sparkling 1,5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

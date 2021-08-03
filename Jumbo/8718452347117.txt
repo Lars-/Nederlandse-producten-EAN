@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "225566TUB",
     "name": "La Place Zwarte Thee Earl Grey 60g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.59,
     "minimumAmount": 1,

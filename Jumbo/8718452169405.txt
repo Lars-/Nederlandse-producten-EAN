@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "177705PAK",
     "name": "Jumbo Zuurkool Naturel Biologisch 520g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.39,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "304545PAK",
     "name": "Jumbo Vanille Vla met Crunchy Chocoladebolletjes 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.31,
     "minimumAmount": 1,

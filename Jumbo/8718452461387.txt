@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "18634PAK",
     "name": "Jumbo Halfvolle Koffiemelk Mild Pak 465ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.66,
     "minimumAmount": 1,

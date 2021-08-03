@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "385899FLS",
     "name": "Jumbo Groenteshot Komkommer Courgette Spinazie Banaan Appel Avocado 125ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.95,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "169332DS",
     "name": "Jumbo Hele Sperziebonen Biologisch 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.34,
     "minimumAmount": 1,

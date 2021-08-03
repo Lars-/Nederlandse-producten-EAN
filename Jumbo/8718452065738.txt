@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "153068BLK",
     "name": "Jumbo Pate met Eend Natvoer Kat 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.43,
     "minimumAmount": 1,

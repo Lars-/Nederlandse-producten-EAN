@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "269301FLS",
     "name": "Jumbo Huiswijn - Droog & Fris - Spanje - 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 3.79,
     "minimumAmount": 1,

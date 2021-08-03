@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "308388BAK",
     "name": "Jumbo Nieuwe Standaard Kip Filetblokjes 575g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6,
     "minimumAmount": 1,

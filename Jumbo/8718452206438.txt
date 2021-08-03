@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "156979FLS",
     "name": "Jumbo Badkamerreiniger 750ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.97,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "428011FLS",
     "name": "Jumbo Sinaasappel & Passie 1,5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1,
     "minimumAmount": 1,

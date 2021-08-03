@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "293535STK",
     "name": "Jumbo Fijne Boterwafels met Roomboter 120g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

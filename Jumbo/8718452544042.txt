@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "414954BAK",
     "name": "Jumbo Salade Bowl Kip Pesto 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.59,
     "minimumAmount": 1,

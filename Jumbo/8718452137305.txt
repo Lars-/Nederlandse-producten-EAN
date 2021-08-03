@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "257775STK",
     "name": "The Original Dutch Broodspread Naturel 515g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.28,
     "minimumAmount": 1,

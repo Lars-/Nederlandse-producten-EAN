@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "294766ZK",
     "name": "Jumbo Ossenworst 3 Stuks 105g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.85,
     "minimumAmount": 1,

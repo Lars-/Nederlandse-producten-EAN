@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "430702STK",
     "name": "Goudeerlijk - Boeren Ma\u00efs Brood - Vriesvers",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.19,
     "minimumAmount": 1,

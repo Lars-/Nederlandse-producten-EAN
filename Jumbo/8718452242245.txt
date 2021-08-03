@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "337425STK",
     "name": "Jumbo Jong Belegen Geitenkaas 50+ 75g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.5,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "221285BKR",
     "name": "Jumbo Volle Biogarde Biologisch 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.98,
     "minimumAmount": 1,

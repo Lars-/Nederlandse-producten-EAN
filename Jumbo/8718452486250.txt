@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "386928BAK",
     "name": "Jumbo Lekker Veggie Hamburger Vegan 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.59,
     "minimumAmount": 1,

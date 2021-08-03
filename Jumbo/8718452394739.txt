@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "270451STK",
     "name": "Jumbo Mozzarella Kaas 45+ Biologische 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.5,
     "minimumAmount": 1,

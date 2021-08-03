@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "202742STK",
     "name": "Jumbo Blauw Water WC Blok Bleek 2 x 48g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 2.93,
     "minimumAmount": 1,

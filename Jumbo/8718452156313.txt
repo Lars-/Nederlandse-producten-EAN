@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "305703STK",
     "name": "Jumbo - Appel-citroenvlaai - Half",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6,
     "minimumAmount": 1,

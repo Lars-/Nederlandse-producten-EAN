@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "207308ZK",
     "name": "Jumbo Knoflook Garnalen Vrievers 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6.08,
     "minimumAmount": 1,

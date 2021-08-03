@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "176812STK",
     "name": "Jumbo Rundercarpaccio met Italiaanse Kaas Dressing en Pijnboompitjes 123g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.55,
     "minimumAmount": 1,

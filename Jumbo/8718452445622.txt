@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "140547STK",
     "name": "Jumbo - Super Croissants - 6 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.52,
     "minimumAmount": 1,

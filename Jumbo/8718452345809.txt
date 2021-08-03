@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "218602DS",
     "name": "Jumbo Gepelde Tomaten  400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 0.45,
     "minimumAmount": 1,

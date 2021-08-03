@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "188613ZK",
     "name": "Jumbo - Meergranen Desem Baguette",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.63,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "382905FLS",
     "name": "Jumbo Gember Shot Wortel\/ Appel\/ Kurkuma 60ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.03,
     "minimumAmount": 1,

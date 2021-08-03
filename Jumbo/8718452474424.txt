@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "208646ZK",
     "name": "Jumbo Durum Couscous Volkoren 275g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

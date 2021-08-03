@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "388144STK",
     "name": "Jumbo - Volkoren Pistolets - 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1,
     "minimumAmount": 1,

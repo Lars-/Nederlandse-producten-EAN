@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "317447ZK",
     "name": "Jumbo Koffiebonen Biologisch Arabica & Robustabonen 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.69,
     "minimumAmount": 1,

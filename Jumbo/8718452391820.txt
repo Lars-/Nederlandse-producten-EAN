@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "296733PAK",
     "name": "Jumbo Multi Vitamine Nectar 10 x 200ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.49,
     "minimumAmount": 1,

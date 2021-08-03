@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "190200STK",
     "name": "Jumbo - Pizza Pane Paprika & Rode Ui",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.9,
     "minimumAmount": 1,

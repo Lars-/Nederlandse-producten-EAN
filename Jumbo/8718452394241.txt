@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "306004FLS",
     "name": "Jumbo - Ribera del Duero - Tempranillo - 750ML",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.99,
     "minimumAmount": 1,

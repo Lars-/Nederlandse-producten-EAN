@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "377117FLS",
     "name": "Garden Goods Poppy Narcissus Repairing Shampoo 300ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.89,
     "minimumAmount": 1,

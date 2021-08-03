@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "174357POT",
     "name": "Jumbo Zwarte Olijven Plakjes 220g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.7,
     "minimumAmount": 1,

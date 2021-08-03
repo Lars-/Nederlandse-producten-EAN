@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "405276ZK",
     "name": "Jumbo Knapperige Cheese Onion Chips 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

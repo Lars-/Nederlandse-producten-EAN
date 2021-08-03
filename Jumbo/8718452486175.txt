@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "141932POT",
     "name": "Jumbo Gemengde Groenten & Kip 12+ Maanden 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.06,
     "minimumAmount": 1,

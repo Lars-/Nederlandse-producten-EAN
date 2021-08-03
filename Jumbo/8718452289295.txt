@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "214709ZK",
     "name": "Jumbo Wok Garnalen 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.78,
     "minimumAmount": 1,

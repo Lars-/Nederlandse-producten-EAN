@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "343914ZK",
     "name": "Jumbo Cambodjaanse Wokgroente 250 g - Kleinverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

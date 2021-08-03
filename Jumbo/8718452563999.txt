@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "428868STK",
     "name": "Jumbo Snijworst Voordeelverpakking 210g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.28,
     "minimumAmount": 1,

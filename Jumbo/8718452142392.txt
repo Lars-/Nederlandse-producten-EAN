@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "166532DSL",
     "name": "Jumbo Hair & Body 2 in 1 6 x 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 7.56,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "408863PAK",
     "name": "Jumbo Kristalsuiker 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.59,
     "minimumAmount": 1,

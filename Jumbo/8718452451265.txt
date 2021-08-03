@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "63099PAK",
     "name": "Jumbo Elzasser Cervelaat 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.79,
     "minimumAmount": 1,

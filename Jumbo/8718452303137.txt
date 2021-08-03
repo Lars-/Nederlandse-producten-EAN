@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "329513ZK",
     "name": "Jumbo Snijbonen 600g - Voordeelverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.95,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "396200PAK",
     "name": "Jumbo Witte Kaas Plak 2 x 50g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.25,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "373780BAK",
     "name": "Jumbo Zalmfilet Zonder Huid 260g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6,
     "minimumAmount": 1,

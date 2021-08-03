@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "207385DS",
     "name": "Jumbo Volkoren Mie Nestjes 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.4,
     "minimumAmount": 1,

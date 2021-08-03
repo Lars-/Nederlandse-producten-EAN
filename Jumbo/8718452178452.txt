@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "72956PAK",
     "name": "Jumbo Dubbellikkers 12 x 60g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.77,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "270734STK",
     "name": "Jumbo Kruidenmix voor Gehakt 80g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.45,
     "minimumAmount": 1,

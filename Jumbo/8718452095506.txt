@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "153794DSL",
     "name": "Jumbo Haardblok 10 x 1 stuk",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 11.9,
     "minimumAmount": 1,

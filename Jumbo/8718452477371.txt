@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "179781DS",
     "name": "Jumbo Wraphapje Gerookte Zalm 110g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.89,
     "minimumAmount": 1,

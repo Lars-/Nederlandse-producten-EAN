@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "167031BLK",
     "name": "Jumbo Cocktailworst Mager 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.44,
     "minimumAmount": 1,

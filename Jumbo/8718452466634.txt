@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "373239BLK",
     "name": "Jumbo MSC Tonijnstukken in Zonnebloemolie 160g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.54,
     "minimumAmount": 1,

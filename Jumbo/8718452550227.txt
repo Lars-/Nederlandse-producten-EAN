@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "192358ZK",
     "name": "Jumbo Tarwebloem Biologisch 1000",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.44,
     "minimumAmount": 1,

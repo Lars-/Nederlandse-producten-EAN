@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "167846DS",
     "name": "Jumbo Tompoucen 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.25,
     "minimumAmount": 1,

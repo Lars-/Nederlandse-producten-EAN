@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "246231DS",
     "name": "Jumbo Oven Lekkerbek 2 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.99,
     "minimumAmount": 1,

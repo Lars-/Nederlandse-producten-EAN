@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "391873ZK",
     "name": "Jumbo Mini Krieltjes Bistro 200 g - Kleinverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.54,
     "minimumAmount": 1,

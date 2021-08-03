@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "192128STK",
     "name": "Jumbo Ongebrande Pecannoten 140g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.76,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "220927POT",
     "name": "Jumbo Rode Kool 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.86,
     "minimumAmount": 1,

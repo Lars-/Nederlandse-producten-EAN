@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "198241DSL",
     "name": "JUMBO BORRELN PROVENCIAA",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 14.28,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "153853PAK",
     "name": "Jumbo Katten Kauwsticks Rund 5 stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.59,
     "minimumAmount": 1,

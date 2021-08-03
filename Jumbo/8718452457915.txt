@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "385747BAK",
     "name": "Jumbo Zalm Schotel 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.79,
     "minimumAmount": 1,

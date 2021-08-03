@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "175260POT",
     "name": "Jumbo Zwarte Olijven Zonder Pit 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.79,
     "minimumAmount": 1,

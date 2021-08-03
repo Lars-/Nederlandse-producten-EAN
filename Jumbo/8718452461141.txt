@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "370117PAK",
     "name": "Jumbo Ice Tea Green Framboos & Granaatappel 1,5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.25,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "246214CUP",
     "name": "Jumbo Ongezouten Notenmix 160g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.7,
     "minimumAmount": 1,

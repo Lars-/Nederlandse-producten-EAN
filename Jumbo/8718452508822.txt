@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "421532PAK",
     "name": "Jumbo Brokkenmix met Kip & Groenten voor Volwassen Honden 4kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.99,
     "minimumAmount": 1,

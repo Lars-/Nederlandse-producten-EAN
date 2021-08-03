@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "194187ZK",
     "name": "Jumbo Gezouten Pinda's 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.88,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "387635PAK",
     "name": "Jumbo Kefir Granaatappel Framboos 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.95,
     "minimumAmount": 1,

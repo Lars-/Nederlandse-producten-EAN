@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "371398STK",
     "name": "Jumbo Gekookte Reepjes Beenham 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.66,
     "minimumAmount": 1,

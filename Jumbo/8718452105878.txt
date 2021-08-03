@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "386703CUP",
     "name": "Westland Zalmsalade 140g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.88,
     "minimumAmount": 1,

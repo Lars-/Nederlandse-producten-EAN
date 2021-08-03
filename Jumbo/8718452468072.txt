@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "383488CUP",
     "name": "Jumbo Bewust Romig 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.69,
     "minimumAmount": 1,

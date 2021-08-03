@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "387461STK",
     "name": "Jumbo - Triple Chocoladevlaai - Half",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6,
     "minimumAmount": 1,

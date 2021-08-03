@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "425867DS",
     "name": "Jumbo Slow Cooked Pulled Pork 410g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5,
     "minimumAmount": 1,

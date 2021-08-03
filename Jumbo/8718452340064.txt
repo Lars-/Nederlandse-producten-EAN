@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "87949BAK",
     "name": "Jumbo Saucijs Fries Varken 4 Stuks 380g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.5,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "187794ZK",
     "name": "Jumbo Choco Rozijnen Melk 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.03,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "197216ZK",
     "name": "Jumbo Geleisuiker 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.25,
     "minimumAmount": 1,

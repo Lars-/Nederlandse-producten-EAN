@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "197452BKR",
     "name": "Jumbo IJskoffie Cappuccino 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.82,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "329774PAK",
     "name": "Jumbo Toiletpapier Maxi Rol Zacht en Sterk 3-Laags 6 Rollen",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 2.09,
     "minimumAmount": 1,

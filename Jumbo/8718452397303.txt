@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "352542BLK",
     "name": "Fuerza Sugar Free Energy Drink 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.45,
     "minimumAmount": 1,

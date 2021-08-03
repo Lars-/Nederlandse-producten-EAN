@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "347052BAK",
     "name": "Jumbo Verse Maaltijd Spaghetti Zalm met Wortel en Spinazie 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5,
     "minimumAmount": 1,

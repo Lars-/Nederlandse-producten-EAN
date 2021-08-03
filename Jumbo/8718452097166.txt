@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "154661FLS",
     "name": "Jumbo Salade Dressing Sinaasappel & Rozemarijn met Olijfolie 240ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.07,
     "minimumAmount": 1,

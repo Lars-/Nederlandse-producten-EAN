@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "340554DS",
     "name": "Jumbo Bami Schijven 4 Stuks 320g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.49,
     "minimumAmount": 1,

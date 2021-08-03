@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "163033ROL",
     "name": "Jumbo Roomboter met Zeezout 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.96,
     "minimumAmount": 1,

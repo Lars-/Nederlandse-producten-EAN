@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "323765EM",
     "name": "Jumbo Haverkoek met Cranberry Deeg 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.49,
     "minimumAmount": 1,

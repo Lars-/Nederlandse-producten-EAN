@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "329773PAK",
     "name": "Jumbo Toiletpapier Zacht en Sterk 3-Laags 4 Rollen",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.73,
     "minimumAmount": 1,

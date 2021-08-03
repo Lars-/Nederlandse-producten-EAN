@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "381961DSL",
     "name": "Jumbo Luiers 1 2-5 kg 3 x 36 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 12.09,
     "minimumAmount": 1,

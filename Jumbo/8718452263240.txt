@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "246168CUP",
     "name": "Jumbo Ongezouten Noten Cranberry Mix 175g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.65,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "200825FLS",
     "name": "Jumbo Wasverzachter Lavendel Zacht 30 Wasbeurten 750ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.78,
     "minimumAmount": 1,

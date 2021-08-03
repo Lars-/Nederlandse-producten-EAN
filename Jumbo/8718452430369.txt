@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "317256PAK",
     "name": "Jumbo Salamiplakjes met Parmezaanse Kaas 80g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.49,
     "minimumAmount": 1,

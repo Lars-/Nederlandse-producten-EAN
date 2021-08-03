@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "160064FLS",
     "name": "Jumbo Handzeep Lavendel 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

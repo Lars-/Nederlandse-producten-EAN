@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "302247STK",
     "name": "Kropsla",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.75,
     "minimumAmount": 1,

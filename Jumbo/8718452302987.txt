@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "381967PAK",
     "name": "Jumbo Vochtige Lotion Doekjes Gevoelige Huid 80 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.1,
     "minimumAmount": 1,

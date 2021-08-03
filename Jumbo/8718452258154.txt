@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "211779PAK",
     "name": "Jumbo Macaroni & Spaghetti Pakket 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.5,
     "minimumAmount": 1,

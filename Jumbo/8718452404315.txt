@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "276544BAK",
     "name": "Jumbo Sauspakket Paddenstoelen Funghi 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.14,
     "minimumAmount": 1,

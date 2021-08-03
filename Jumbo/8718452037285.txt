@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "130925ZK",
     "name": "Goudeerlijk - Worstenbroodjes - 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.49,
     "minimumAmount": 1,

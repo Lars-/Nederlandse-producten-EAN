@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "290515STK",
     "name": "Jumbo Volkoren Beschuit 13 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.37,
     "minimumAmount": 1,

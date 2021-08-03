@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "329783PAK",
     "name": "Jumbo Tissues Zacht & Sterk 2 Laags 200 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.31,
     "minimumAmount": 1,

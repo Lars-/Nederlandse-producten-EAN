@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "262128POT",
     "name": "Jumbo Carbonara Pastasaus 580g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.96,
     "minimumAmount": 1,

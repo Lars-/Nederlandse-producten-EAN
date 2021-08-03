@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "300621BLK",
     "name": "Jumbo Interdentale Borsteltjes 42 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.99,
     "minimumAmount": 1,

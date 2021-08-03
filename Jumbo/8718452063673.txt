@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "147087PAK",
     "name": "Jumbo Vaatwas Zout 2kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.79,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "307431STK",
     "name": "Jumbo Lekker Veggie Spekreepjes Vegetarisch 175g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.44,
     "minimumAmount": 1,

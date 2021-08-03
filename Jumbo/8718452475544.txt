@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "211814ZK",
     "name": "Jumbo Bourgondische Mini Krieltjes 600g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1,
     "minimumAmount": 1,

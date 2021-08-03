@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "204122CUP",
     "name": "Jumbo Ongezouten Notenmix Rozijnen 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.75,
     "minimumAmount": 1,

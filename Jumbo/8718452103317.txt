@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "158660PAK",
     "name": "Jumbo Cornets Vanille Ijsjes 16 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.95,
     "minimumAmount": 1,

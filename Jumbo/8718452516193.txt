@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "404021ZK",
     "name": "Jumbo Geschoonde Spruitjes 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.03,
     "minimumAmount": 1,

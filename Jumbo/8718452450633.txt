@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "343942ZK",
     "name": "Jumbo Proven\u00e7aalse Roerbakmix 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.39,
     "minimumAmount": 1,

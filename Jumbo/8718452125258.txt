@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "162855ROL",
     "name": "Jumbo Gevulde Creme Cookies 176g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.96,
     "minimumAmount": 1,

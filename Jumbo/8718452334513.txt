@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "211831BAK",
     "name": "Jumbo Stamppot Prei met Stroganoff Burger 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.24,
     "minimumAmount": 1,

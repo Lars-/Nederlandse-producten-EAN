@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "383442ZK",
     "name": "Jumbo Romige Tomaten Cr\u00e8me Soep 570ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.65,
     "minimumAmount": 1,

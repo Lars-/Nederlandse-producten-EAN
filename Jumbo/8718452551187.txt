@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "420751DS",
     "name": "Jumbo - Merengue Bol Kokos-Chocola - 2 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.99,
     "minimumAmount": 1,

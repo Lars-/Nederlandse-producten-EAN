@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "226941BLK",
     "name": "Jumbo Kikkererwten 410g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.08,
     "minimumAmount": 1,

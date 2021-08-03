@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "64689FLS",
     "name": "Jumbo Bad & Douchegel Sprookjesboom 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.49,
     "minimumAmount": 1,

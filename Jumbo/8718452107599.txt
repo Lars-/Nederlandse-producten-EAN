@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "159561STK",
     "name": "Jumbo Witte Kool Biologisch 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

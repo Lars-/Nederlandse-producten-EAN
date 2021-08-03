@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "270391STK",
     "name": "Jumbo Kruidenmix voor Aardappel 80g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.07,
     "minimumAmount": 1,

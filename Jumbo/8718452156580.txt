@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "168411BLK",
     "name": "Jumbo Ananasschijven op Siroop 10 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.25,
     "minimumAmount": 1,

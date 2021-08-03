@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "269542DSL",
     "name": "Jumbo Huiswijn - Robuust - Australie - Shiraz - 12 x 250ML",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 21.24,
     "minimumAmount": 1,

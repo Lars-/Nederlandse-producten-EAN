@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "31811PAK",
     "name": "Jumbo Dubbel Vla Chocolade- & Vanille Smaak 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.28,
     "minimumAmount": 1,

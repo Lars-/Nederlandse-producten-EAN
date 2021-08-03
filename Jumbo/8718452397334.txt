@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "352539BLK",
     "name": "Fuerza 0% Zero Sugar 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.46,
     "minimumAmount": 1,

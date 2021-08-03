@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "179773DS",
     "name": "Jumbo Ham-Kaas Saus",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.54,
     "minimumAmount": 1,

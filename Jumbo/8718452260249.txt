@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "194887STK",
     "name": "Jumbo Thaise Groene Curry 160g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.13,
     "minimumAmount": 1,

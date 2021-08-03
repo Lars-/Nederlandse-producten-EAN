@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "196113ZK",
     "name": "Jumbo Wortelen 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.85,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "427705DS",
     "name": "Jumbo Chocolade Extra Puur 85% Biologisch 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.44,
     "minimumAmount": 1,

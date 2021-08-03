@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "428926CUP",
     "name": "Jumbo Griekse Yoghurt Biologisch 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.44,
     "minimumAmount": 1,

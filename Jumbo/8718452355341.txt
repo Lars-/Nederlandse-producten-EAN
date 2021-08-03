@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "235538STK",
     "name": "Jumbo Roergemak Tagliatelle Groenteschotel 475g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.69,
     "minimumAmount": 1,

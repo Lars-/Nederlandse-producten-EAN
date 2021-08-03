@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "336329FLS",
     "name": "Jumbo Smoothie Yoghurt Bosvruchten Banaan Appel 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.74,
     "minimumAmount": 1,

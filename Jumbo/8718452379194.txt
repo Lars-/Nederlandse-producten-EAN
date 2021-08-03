@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "248005STK",
     "name": "Jumbo Vegetarische Piri Piri Hamburger 180g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.57,
     "minimumAmount": 1,

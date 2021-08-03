@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "373989BAK",
     "name": "Jumbo Verse Maaltijd Spaghetti Bolognese 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.25,
     "minimumAmount": 1,

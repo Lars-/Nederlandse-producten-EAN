@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "376390FLS",
     "name": "Garden Goods Lily Jasmine Shower Gel 300ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.89,
     "minimumAmount": 1,

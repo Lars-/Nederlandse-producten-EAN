@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "157012FLS",
     "name": "Jumbo Schuurmiddel Bleek 750ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.98,
     "minimumAmount": 1,

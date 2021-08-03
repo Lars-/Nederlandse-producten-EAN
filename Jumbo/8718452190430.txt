@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "383481FLS",
     "name": "Jumbo Vlees & Jus Bewust 400ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.08,
     "minimumAmount": 1,

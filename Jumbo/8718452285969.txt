@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "423903ZK",
     "name": "Jumbo Knapperige Bikkels Blocks 125g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.93,
     "minimumAmount": 1,

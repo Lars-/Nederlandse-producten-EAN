@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "208823STK",
     "name": "Jumbo Kidneybonen 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.58,
     "minimumAmount": 1,

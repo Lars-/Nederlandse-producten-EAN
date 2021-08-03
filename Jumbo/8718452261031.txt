@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "193407STK",
     "name": "Jumbo Gezouten Pinda's Voordeel 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.4,
     "minimumAmount": 1,

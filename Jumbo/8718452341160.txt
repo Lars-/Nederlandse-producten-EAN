@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "219709STK",
     "name": "Jumbo Alle Erbe Pastasaus Kruidig 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

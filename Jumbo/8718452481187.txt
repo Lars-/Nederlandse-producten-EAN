@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "394912PAK",
     "name": "Jumbo - Mini Appel Taartje met Roomboter - 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.59,
     "minimumAmount": 1,

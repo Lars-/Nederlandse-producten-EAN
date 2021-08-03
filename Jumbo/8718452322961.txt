@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "211825FLS",
     "name": "Jumbo Fruitsap Mango Appel Sinaasappel 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.84,
     "minimumAmount": 1,

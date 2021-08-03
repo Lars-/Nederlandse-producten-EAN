@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "443002STK",
     "name": "Jumbo Extra Belegen Kaas 48+ Plakken 190g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 2.69,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "308413BAK",
     "name": "Jumbo Kipgehakt 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.5,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "352245STK",
     "name": "Jumbo Luxe Wener Aardbeienvlaai",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 13.49,
     "minimumAmount": 1,

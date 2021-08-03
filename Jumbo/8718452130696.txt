@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "93000PAK",
     "name": "Jumbo Halfvolle Koffiemelk 10 x 7ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.35,
     "minimumAmount": 1,

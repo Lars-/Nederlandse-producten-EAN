@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "180707STK",
     "name": "Jumbo Cremespoeling Glans 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.89,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "412092CUP",
     "name": "Jumbo Macadamia Noten Ongezouten 140g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.96,
     "minimumAmount": 1,

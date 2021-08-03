@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "405798PAK",
     "name": "Jumbo Aardbei Yoghurtdrink 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.75,
     "minimumAmount": 1,

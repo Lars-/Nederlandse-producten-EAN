@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "203177ZK",
     "name": "Jumbo Choco Mix 3 Smaken 455g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.23,
     "minimumAmount": 1,

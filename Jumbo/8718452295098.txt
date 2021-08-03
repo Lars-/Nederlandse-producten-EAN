@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "300431PAK",
     "name": "Jumbo Aardappelblokjes 600g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.17,
     "minimumAmount": 1,

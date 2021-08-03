@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "420900FLS",
     "name": "Jumbo Hugo Ros\u00e9 Rood Fruit 0.0% 750ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.19,
     "minimumAmount": 1,

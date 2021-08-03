@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "376342FLS",
     "name": "Garden Goods Citrus Bergamot Smoothing Shampoo 300ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.89,
     "minimumAmount": 1,

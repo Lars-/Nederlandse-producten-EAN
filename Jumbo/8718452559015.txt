@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "439288BLK",
     "name": "Jumbo Cola Zero Sugar Strawberry Cream Flavour Special Edition 330ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 0.45,
     "minimumAmount": 1,

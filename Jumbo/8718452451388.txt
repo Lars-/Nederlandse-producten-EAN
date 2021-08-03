@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "185154PAK",
     "name": "Jumbo Flinterdunne Kipfilet 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2,
     "minimumAmount": 1,

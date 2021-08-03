@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "188529STK",
     "name": "Jumbo Snoep Mix Zoet & Fruitig 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.45,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "392237STK",
     "name": "Jumbo Saint Paulin Kaas 45+ 228g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3,
     "minimumAmount": 1,

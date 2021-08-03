@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "187561STK",
     "name": "Jumbo Ontbijtkoek Naturel Ongesneden 550g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.88,
     "minimumAmount": 1,

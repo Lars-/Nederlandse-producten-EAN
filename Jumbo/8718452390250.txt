@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "308448STK",
     "name": "Jumbo Scharrelkip Filet 3 Stuks 585g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 7.69,
     "minimumAmount": 1,

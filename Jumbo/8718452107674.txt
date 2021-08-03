@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "161627PAK",
     "name": "Jumbo Tuinkers Biologisch 20g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

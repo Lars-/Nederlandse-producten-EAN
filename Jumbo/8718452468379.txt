@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "381239STK",
     "name": "Jumbo Stofzuigerzakken met Filter 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.37,
     "minimumAmount": 1,

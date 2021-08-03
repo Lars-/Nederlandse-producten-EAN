@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "163369DS",
     "name": "Jumbo Diepvrieszakken 3 L 25 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1,
     "minimumAmount": 1,

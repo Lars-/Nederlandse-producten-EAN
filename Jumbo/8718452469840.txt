@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "365900PAK",
     "name": "Jumbo Standaard 4 Dreumesmelk van 12-24 Maanden 2 x 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6.1,
     "minimumAmount": 1,

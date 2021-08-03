@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "312088DS",
     "name": "Jumbo Kaasstengels met Oude Kaas 10 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.19,
     "minimumAmount": 1,

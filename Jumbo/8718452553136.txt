@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "425597EM",
     "name": "Jumbo Italiaanse Mozzarella 40+ 193g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.69,
     "minimumAmount": 1,

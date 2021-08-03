@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "200558ZK",
     "name": "Jumbo Wilde Zalmfilet 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.83,
     "minimumAmount": 1,

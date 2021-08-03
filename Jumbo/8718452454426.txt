@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "276400BAK",
     "name": "Jumbo Basis Maaltijdsalade Kip Kerrie 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3,
     "minimumAmount": 1,

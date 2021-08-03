@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "220714PAK",
     "name": "Jumbo Original Mie Nestjes 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.84,
     "minimumAmount": 1,

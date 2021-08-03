@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "297033DS",
     "name": "Jumbo 10 Vrije Uitloopeieren L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.3,
     "minimumAmount": 1,

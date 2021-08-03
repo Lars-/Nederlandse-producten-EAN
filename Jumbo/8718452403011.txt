@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "296264KP",
     "name": "Jumbo Plastic Bier Glazen 12 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 0.98,
     "minimumAmount": 1,

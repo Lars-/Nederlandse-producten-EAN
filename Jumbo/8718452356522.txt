@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "364975STK",
     "name": "Jumbo - Wit Tosti Brood - Half",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.79,
     "minimumAmount": 1,

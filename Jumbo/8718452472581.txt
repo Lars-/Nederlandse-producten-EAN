@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "201013BAK",
     "name": "Jumbo Macaroni Ham & Kaas 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.26,
     "minimumAmount": 1,

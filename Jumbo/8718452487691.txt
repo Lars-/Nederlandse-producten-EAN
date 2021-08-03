@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "442444STK",
     "name": "Jumbo Schuimblokjes Vanillesmaak 120g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.35,
     "minimumAmount": 1,

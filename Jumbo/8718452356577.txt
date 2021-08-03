@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "300202STK",
     "name": "Waldkorn - Meergranen Brood",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.05,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "407007BAK",
     "name": "Jumbo Rivierkreeft Salade 125g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.19,
     "minimumAmount": 1,

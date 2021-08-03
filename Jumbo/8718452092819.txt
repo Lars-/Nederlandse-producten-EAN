@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "159534FLS",
     "name": "Jumbo Mondwater Total Care 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.97,
     "minimumAmount": 1,

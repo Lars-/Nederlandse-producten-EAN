@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "194494DSL",
     "name": "JUMBO KAT PATE ZALM ALU",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "376340FLS",
     "name": "Garden Goods Lily Jasmine Hand Wash 300ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.49,
     "minimumAmount": 1,

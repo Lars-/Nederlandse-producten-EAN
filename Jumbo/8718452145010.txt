@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "237676STK",
     "name": "Jumbo Chinese Kippensoep 3 Zakjes",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 0.55,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "348977STK",
     "name": "Jumbo - Dubbel Donker Desem Volkorenbrood",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.55,
     "minimumAmount": 1,

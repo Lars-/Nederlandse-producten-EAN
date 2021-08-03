@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "306262STK",
     "name": "Jumbo - Chocoladetaart",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5,
     "minimumAmount": 1,

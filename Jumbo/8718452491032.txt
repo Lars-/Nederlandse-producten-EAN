@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "187795ZK",
     "name": "Jumbo Choco Classic 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.43,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "449515BLK",
     "name": "Jumbo Kattenbrokjes In Saus met Kip en Kalkoen 405g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.4,
     "minimumAmount": 1,

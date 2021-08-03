@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "208720BAK",
     "name": "Jumbo Nasi Goreng 260g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.93,
     "minimumAmount": 1,

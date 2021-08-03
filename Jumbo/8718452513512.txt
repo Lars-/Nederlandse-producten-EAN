@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "431624PAK",
     "name": "Jumbo Waterdoekjes 63 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.54,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "188552PAK",
     "name": "Jumbo - Saucijzenbrroodjes - 8 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.81,
     "minimumAmount": 1,

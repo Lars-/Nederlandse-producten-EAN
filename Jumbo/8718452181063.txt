@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "175562ZK",
     "name": "Jumbo Konijnenvoer 2, 5kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.03,
     "minimumAmount": 1,

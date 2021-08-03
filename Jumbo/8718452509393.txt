@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "417796ZK",
     "name": "Jumbo Premium Extra Zacht Luiers Maat 3 6-10 kg 26 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.34,
     "minimumAmount": 1,

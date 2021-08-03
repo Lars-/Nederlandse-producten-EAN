@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "181322BLK",
     "name": "Jumbo Fruitcocktail op Siroop 410g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.78,
     "minimumAmount": 1,

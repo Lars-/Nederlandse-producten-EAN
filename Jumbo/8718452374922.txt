@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "231562BAK",
     "name": "Jumbo Broccoli Rijst 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.95,
     "minimumAmount": 1,

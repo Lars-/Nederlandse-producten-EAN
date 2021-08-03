@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "177967FLS",
     "name": "Jumbo Vaatwasmachine Reiniger Citroen 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "319718ZK",
     "name": "Jumbo 07 Espresso Forte 36 Koffiecups",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 3.82,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "212955ZK",
     "name": "Jumbo Bosvruchten 750g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.99,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "283623STK",
     "name": "Jumbo Provencaalse Groenteschotel Mix 60g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "270394STK",
     "name": "Jumbo Kruidenmix voor Braad, Grill & BBQ 70g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.13,
     "minimumAmount": 1,

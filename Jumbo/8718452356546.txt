@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "304655STK",
     "name": "Goudeerlijk - Rozijnenbrood - Half",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "355077TRA",
     "name": "Jumbo Varken Beenham Medaillons Zeezout 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.79,
     "minimumAmount": 1,

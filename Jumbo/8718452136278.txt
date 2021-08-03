@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "305425PAK",
     "name": "Jumbo Houdbare Halfvolle Melk Voordeelverpakking 6 x 1",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.78,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "345337BAK",
     "name": "Jumbo Verse Maaltijd Roti Kip Massala met Haricots Verts en Aardappel 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5,
     "minimumAmount": 1,

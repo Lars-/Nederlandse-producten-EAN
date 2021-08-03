@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "358263ZK",
     "name": "Jumbo Munten Drop 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.04,
     "minimumAmount": 1,

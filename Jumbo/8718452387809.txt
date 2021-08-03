@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "42779PAK",
     "name": "Jumbo Aardbeien Gebakjes met Vulling 6 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.29,
     "minimumAmount": 1,

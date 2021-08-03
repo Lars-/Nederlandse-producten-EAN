@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "198455FLS",
     "name": "Jumbo Ecologische WC Reiniger 750ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.44,
     "minimumAmount": 1,

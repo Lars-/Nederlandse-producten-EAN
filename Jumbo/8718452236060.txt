@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "192124STK",
     "name": "Jumbo Ongebrande Walnoten 110g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.28,
     "minimumAmount": 1,

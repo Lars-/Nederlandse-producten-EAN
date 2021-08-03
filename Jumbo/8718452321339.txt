@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "305683ZK",
     "name": "Jumbo Salade Mix Zonnebloempitten, Geroosterde Pijnboompitten & Croutons Naturel 25g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

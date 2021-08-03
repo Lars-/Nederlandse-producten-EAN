@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "319463POT",
     "name": "Jumbo Decaf Oploskoffie 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.44,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "211829BAK",
     "name": "Jumbo Stamppot Boerenkool met Rookworst 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.5,
     "minimumAmount": 1,

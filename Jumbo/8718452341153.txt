@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "219708STK",
     "name": "Jumbo Classico Pastasaus 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

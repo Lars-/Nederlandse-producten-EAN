@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "245972DS",
     "name": "Jumbo Appel en Rozijn Krokante Muesli 900 g - Voordeelverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.24,
     "minimumAmount": 1,

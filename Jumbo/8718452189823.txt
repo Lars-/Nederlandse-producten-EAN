@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "177375DS",
     "name": "Jumbo Biologische Earl Grey 20 Theezakjes 35g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.06,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "443797BAK",
     "name": "Jumbo Wrap Pulled Chicken 320g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.99,
     "minimumAmount": 1,

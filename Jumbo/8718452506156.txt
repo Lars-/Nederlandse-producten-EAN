@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "405820PAK",
     "name": "Jumbo Framboos Yoghurtdrink 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.76,
     "minimumAmount": 1,

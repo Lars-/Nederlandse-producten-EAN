@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "235186PAK",
     "name": "Jumbo Volle Yoghurt Beter Leven Keurmerk 1 Ster 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

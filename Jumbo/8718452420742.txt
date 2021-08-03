@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "332285ZK",
     "name": "Jumbo Cashewnoten Ongebrand Biologisch 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.57,
     "minimumAmount": 1,

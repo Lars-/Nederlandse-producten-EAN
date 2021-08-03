@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "352247STK",
     "name": "Jumbo - Puntenvlaai - 10 Punten",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 7.79,
     "minimumAmount": 1,

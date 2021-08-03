@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "163368ROL",
     "name": "Jumbo Pedaalemmerzakken Hoog 30 Liter 20 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.65,
     "minimumAmount": 1,

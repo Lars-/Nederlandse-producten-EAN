@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "212163STK",
     "name": "Jumbo Geschrapte Wortelen 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1,
     "minimumAmount": 1,

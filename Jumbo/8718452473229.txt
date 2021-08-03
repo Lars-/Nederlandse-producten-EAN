@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "373744CUP",
     "name": "Jumbo Amandelen Gebrand Ongezouten 160g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.6,
     "minimumAmount": 1,

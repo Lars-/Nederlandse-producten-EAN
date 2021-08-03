@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "424016STK",
     "name": "Jumbo - Hamburgerbroodjes Brioche - 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.5,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "273285STK",
     "name": "Jumbo Gepunte Sperziebonen 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.84,
     "minimumAmount": 1,

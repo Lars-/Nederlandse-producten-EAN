@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "192117STK",
     "name": "Jumbo Ongebrande Paranoten 175g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.62,
     "minimumAmount": 1,

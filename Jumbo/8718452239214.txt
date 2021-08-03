@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "384057CUP",
     "name": "Jumbo Amandelschaafsel 55g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.97,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "370404STK",
     "name": "Jumbo Premium All in One Vaatwastabs 25 x 15g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.19,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "430785STK",
     "name": "Jumbo C'est La Room Brie 60+ 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.61,
     "minimumAmount": 1,

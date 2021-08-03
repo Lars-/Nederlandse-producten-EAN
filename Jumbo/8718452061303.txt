@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "151700PAK",
     "name": "Jumbo Pizza 4 Kazen 340g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.97,
     "minimumAmount": 1,

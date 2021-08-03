@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "147544BLK",
     "name": "Jumbo Hondenbrokken In Gelei Rund en Kip 415g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.53,
     "minimumAmount": 1,

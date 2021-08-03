@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "162637KSL",
     "name": "Jumbo Hygiene Reinigende Handzeep 6 x 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.94,
     "minimumAmount": 1,

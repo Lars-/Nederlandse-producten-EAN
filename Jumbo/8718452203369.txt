@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "417824STK",
     "name": "Goudeerlijk - Spelt Brood - Half - Vriesvers",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.3,
     "minimumAmount": 1,

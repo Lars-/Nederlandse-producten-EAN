@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "271425DSL",
     "name": "Jumbo Huiswijn - Robuust - Chili - Carm\u00e9n\u00e8re - 12 x 250ML",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 21.24,
     "minimumAmount": 1,

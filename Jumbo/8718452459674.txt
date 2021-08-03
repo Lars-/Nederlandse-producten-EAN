@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "302244STK",
     "name": "Jumbo Paprika Groen",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

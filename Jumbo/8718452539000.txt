@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "418991POT",
     "name": "Jumbo Bosvruchten Extra Jam 440g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.97,
     "minimumAmount": 1,

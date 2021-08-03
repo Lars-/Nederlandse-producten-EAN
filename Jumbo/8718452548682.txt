@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "305706STK",
     "name": "Jumbo - Bossche Bollen - 2 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.99,
     "minimumAmount": 1,

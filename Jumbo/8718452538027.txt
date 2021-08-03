@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "428008FLS",
     "name": "Jumbo Citroen & Cactus 1,5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.98,
     "minimumAmount": 1,

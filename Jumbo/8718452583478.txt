@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "444041BAK",
     "name": "Jumbo Kersen 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2,
     "minimumAmount": 1,

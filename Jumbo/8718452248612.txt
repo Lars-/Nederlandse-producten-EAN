@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "412062BAK",
     "name": "Jumbo Rundergehakt Mager 850g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6.95,
     "minimumAmount": 1,

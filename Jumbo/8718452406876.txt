@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "319714ZK",
     "name": "Jumbo 10 Superlativo Espresso 36 Koffiecups",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.4,
     "minimumAmount": 1,

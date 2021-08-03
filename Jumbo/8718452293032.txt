@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "197024STK",
     "name": "Jumbo Currywurst Varken 3 Stuks 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.09,
     "minimumAmount": 1,

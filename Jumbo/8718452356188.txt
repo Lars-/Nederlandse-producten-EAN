@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "300162STK",
     "name": "Jumbo - Wit Tijgerbrood - Half",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.55,
     "minimumAmount": 1,

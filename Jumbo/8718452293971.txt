@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "202182POT",
     "name": "Jumbo Bieten Fijne Schijfjes Biologisch 340g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.03,
     "minimumAmount": 1,

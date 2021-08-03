@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "186072STK",
     "name": "Jumbo Bladerdeeg met Bakpapier 270g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.92,
     "minimumAmount": 1,

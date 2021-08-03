@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "223840STK",
     "name": "Jumbo Kattenbakvulling 2 in 1  8L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6.29,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "200745ZK",
     "name": "Jumbo Biologische Gesneden Witte Kool 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.97,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "352299DS",
     "name": "Jumbo Cornets Unicorn Vanille & Framboos 4 Stuks 540ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.25,
     "minimumAmount": 1,

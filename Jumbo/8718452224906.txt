@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "151912PAK",
     "name": "Jumbo Fijne Kristalsuiker 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.31,
     "minimumAmount": 1,

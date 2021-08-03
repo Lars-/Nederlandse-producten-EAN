@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195203ZK",
     "name": "Jumbo Wegwerpscheermesjes Heren 5 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.93,
     "minimumAmount": 1,

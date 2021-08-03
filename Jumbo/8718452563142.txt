@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "437292BAK",
     "name": "Jumbo Linguine Aglio Olio 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4,
     "minimumAmount": 1,

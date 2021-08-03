@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "387201ZK",
     "name": "Jumbo Luier Zakjes Licht Geparfumeerd 100 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.28,
     "minimumAmount": 1,

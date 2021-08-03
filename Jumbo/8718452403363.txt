@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "276486ZK",
     "name": "Jumbo Mini Krieltjes Gyroskruiden 600g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1,
     "minimumAmount": 1,

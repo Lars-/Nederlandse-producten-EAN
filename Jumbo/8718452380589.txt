@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "269544FLS",
     "name": "Jumbo Huiswijn - Fruitig - Zuid-Afrika - Cinsault - Ruby Cabernet - 250ML",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.77,
     "minimumAmount": 1,

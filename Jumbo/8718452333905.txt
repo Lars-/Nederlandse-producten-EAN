@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "357957STK",
     "name": "Jumbo Kaasblokjes Kruiden 48+ 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "385898FLS",
     "name": "Jumbo Groenteshot Biet Appel Avocado Venkel 125ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.95,
     "minimumAmount": 1,

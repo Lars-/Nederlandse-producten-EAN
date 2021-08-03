@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "377348ZK",
     "name": "Jumbo Zongedroogde Sultana Rozijnen Biologisch 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.3,
     "minimumAmount": 1,

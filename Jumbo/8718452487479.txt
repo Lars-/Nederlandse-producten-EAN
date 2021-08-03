@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "373856CUP",
     "name": "Jumbo Aioli Dip 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1,
     "minimumAmount": 1,

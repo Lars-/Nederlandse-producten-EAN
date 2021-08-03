@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "247986FLS",
     "name": "Jumbo Kruidige Curry Saus 800ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.37,
     "minimumAmount": 1,

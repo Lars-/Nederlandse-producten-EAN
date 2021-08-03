@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "445695STK",
     "name": "Jumbo Schwarzwalder 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.3,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "420635POT",
     "name": "Jumbo Aardbei Extra Jam 440g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 0.87,
     "minimumAmount": 1,

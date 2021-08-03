@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "331284RP",
     "name": "Jumbo Knapperige Melk Hazelnoot Chocolade 40g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.74,
     "minimumAmount": 1,

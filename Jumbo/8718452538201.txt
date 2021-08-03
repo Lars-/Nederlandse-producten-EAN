@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "428013FLS",
     "name": "Jumbo Mineraalwater met Koolzuur 1,5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.39,
     "minimumAmount": 1,

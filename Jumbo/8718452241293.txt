@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "190545FLS",
     "name": "Jumbo Mild Olijfolie 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.89,
     "minimumAmount": 1,

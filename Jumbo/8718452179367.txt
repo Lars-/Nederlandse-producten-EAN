@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "172692PAK",
     "name": "Jumbo Verse Maaltijd Pasta Carbonara met Gerookte Spekjes 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.25,
     "minimumAmount": 1,

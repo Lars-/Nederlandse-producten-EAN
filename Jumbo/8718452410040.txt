@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "295214TRA",
     "name": "Jumbo Lekker Vrij van Gluten Speculaas 125g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.77,
     "minimumAmount": 1,

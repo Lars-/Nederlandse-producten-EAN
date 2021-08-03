@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "437855PAK",
     "name": "Jumbo Ice Tea Peach Koolzuurvrij 6 x 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

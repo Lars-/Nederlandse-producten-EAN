@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "173270FLS",
     "name": "Jumbo - Castillo de Albai - Rioja - Tempranillo - 750ML",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.49,
     "minimumAmount": 1,

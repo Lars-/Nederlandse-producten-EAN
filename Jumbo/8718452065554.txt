@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "383776ZK",
     "name": "Jumbo Brokkenmix met Vis Rijst & Groenten Katten Volwassen 1,5kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.27,
     "minimumAmount": 1,

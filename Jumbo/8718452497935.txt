@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "387266PAK",
     "name": "Jumbo Krokante Kermis met Kokos 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.15,
     "minimumAmount": 1,

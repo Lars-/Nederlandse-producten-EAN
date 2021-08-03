@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "190332STK",
     "name": "Jumbo Ontbijtkoek Volkoren 5 stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.25,
     "minimumAmount": 1,

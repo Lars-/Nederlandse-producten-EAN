@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "435481FLS",
     "name": "Jumbo - Merlot - Biologisch - 750ML",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.25,
     "minimumAmount": 1,

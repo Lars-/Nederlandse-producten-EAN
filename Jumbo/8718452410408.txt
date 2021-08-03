@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "291323BAK",
     "name": "Jumbo American Pancakes Naturel 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.89,
     "minimumAmount": 1,

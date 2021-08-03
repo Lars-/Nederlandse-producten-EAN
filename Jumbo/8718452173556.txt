@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "206496STK",
     "name": "Jumbo Normal Inlegkruisjes 30 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.01,
     "minimumAmount": 1,

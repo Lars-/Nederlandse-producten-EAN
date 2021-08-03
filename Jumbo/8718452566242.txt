@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "446647DS",
     "name": "Jumbo Munt Voordeelverpakking 85g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2,
     "minimumAmount": 1,

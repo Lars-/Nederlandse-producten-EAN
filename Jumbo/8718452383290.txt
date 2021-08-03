@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "276663STK",
     "name": "Jumbo Burrito Mix 28g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.68,
     "minimumAmount": 1,

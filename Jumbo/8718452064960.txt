@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "147047DSL",
     "name": "JUMBO BLADERDEEG",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6.3,
     "minimumAmount": 1,

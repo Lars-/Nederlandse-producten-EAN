@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "380641POT",
     "name": "Jumbo Carbonara Pastasaus 330g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.44,
     "minimumAmount": 1,

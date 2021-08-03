@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "437720PAK",
     "name": "Jumbo Ice Tea Green 6 x 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.99,
     "minimumAmount": 1,

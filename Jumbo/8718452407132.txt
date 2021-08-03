@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "323847ZK",
     "name": "La Place Koffiebonen Lungo Dark 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 11.02,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "54521STK",
     "name": "Jumbo Filet Americain Light 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.65,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "375441ZK",
     "name": "Jumbo Bacon-Kaassmaak Borrelnoten 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.44,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "296231STK",
     "name": "Jumbo Volle Melk Opschuimmelk 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.18,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "270116STK",
     "name": "Jumbo Kruidenmix voor Rundvlees 20g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.77,
     "minimumAmount": 1,

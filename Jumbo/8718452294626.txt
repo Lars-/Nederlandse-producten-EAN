@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "207163STK",
     "name": "La Place Caesar Dressing 120ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.86,
     "minimumAmount": 1,

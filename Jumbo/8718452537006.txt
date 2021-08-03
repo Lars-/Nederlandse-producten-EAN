@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "419031DS",
     "name": "Jumbo Cornets Citroen 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

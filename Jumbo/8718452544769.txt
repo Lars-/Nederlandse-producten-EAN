@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "427819TRA",
     "name": "Jumbo Lemon Cheesecake Koekjes 175g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.35,
     "minimumAmount": 1,

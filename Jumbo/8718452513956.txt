@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "388059STK",
     "name": "Jumbo - Luxe Mokka Schnitte",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.29,
     "minimumAmount": 1,

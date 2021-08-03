@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "212608STK",
     "name": "Jumbo Ijsbergsla Fijngesneden 100 g - Kleinverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.78,
     "minimumAmount": 1,

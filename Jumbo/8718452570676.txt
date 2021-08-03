@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "446565STK",
     "name": "Jumbo Roombotercake 410g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.62,
     "minimumAmount": 1,

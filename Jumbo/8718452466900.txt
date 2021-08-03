@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "427844FLS",
     "name": "Jumbo Fresh Lemon Drink 1, 5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.56,
     "minimumAmount": 1,

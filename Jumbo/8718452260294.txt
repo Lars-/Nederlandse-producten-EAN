@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "194785STK",
     "name": "Jumbo Boemboe Sajoer Boontjes 95g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.8,
     "minimumAmount": 1,

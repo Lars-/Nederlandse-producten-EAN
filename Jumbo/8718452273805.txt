@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "348755POT",
     "name": "Jumbo Pesto Rood 2 x 90g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.8,
     "minimumAmount": 1,

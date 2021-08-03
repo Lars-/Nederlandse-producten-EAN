@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "167228TRL",
     "name": "Jumbo Halfvolle Melk Biologisch 12 x 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 12.48,
     "minimumAmount": 1,

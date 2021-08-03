@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "217227STK",
     "name": "Jumbo Toetendoekjes 40 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.2,
     "minimumAmount": 1,

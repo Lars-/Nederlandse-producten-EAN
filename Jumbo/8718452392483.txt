@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "270392STK",
     "name": "Jumbo Kruidenmix voor Vlees Natriumarm 40g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.67,
     "minimumAmount": 1,

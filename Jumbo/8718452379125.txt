@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "394092ZK",
     "name": "Jumbo Hot Krokantjes 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.61,
     "minimumAmount": 1,

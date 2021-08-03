@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "26977DS",
     "name": "Jumbo Traditionele Oliebollen Mix 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.05,
     "minimumAmount": 1,

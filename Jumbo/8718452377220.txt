@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "270604ZK",
     "name": "Jumbo Salade Mix Dadelstukjes, Croutons, Pompoenpitten, Gedroogde Tomaat & Amandel 35g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

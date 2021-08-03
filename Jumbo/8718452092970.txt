@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "160062FLS",
     "name": "Jumbo Verzorgende Handzeep Amandel 1000ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.56,
     "minimumAmount": 1,

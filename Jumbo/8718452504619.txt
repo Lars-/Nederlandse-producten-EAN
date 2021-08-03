@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "383795ZK",
     "name": "Jumbo Luiers 2 4-8 kg Probeer Verpakking 5 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.45,
     "minimumAmount": 1,

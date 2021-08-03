@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "426929POT",
     "name": "Jumbo Biologisch Aardbeien Fruitspread 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.35,
     "minimumAmount": 1,

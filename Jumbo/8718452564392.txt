@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "437281BAK",
     "name": "Jumbo Zomerse Runderstoof 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5,
     "minimumAmount": 1,

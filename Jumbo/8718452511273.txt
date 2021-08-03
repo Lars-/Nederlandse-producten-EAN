@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "414429BAK",
     "name": "Jumbo Vegetarische Gele Curry Noedels 260g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.79,
     "minimumAmount": 1,

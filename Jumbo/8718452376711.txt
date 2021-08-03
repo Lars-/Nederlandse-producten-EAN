@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "283648STK",
     "name": "Jumbo Kip Tandoori Pakket 4-6 Personen",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.89,
     "minimumAmount": 1,

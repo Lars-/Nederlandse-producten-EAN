@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "197471BLK",
     "name": "Jumbo Varkensleverpastei 3 x 56g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.79,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "182159BLK",
     "name": "Jumbo Indiase Curry Madras 75g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.5,
     "minimumAmount": 1,

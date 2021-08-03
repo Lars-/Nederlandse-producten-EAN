@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "382386BAK",
     "name": "Jumbo Zalm Salade 175g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.27,
     "minimumAmount": 1,

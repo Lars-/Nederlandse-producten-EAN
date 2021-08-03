@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "436704BAK",
     "name": "La Place Gele Cherry Tomaten Burrata Girasoli 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.99,
     "minimumAmount": 1,

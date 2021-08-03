@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "208893DS",
     "name": "Jumbo Hamburgers de Originele 4 Stuks 280g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.07,
     "minimumAmount": 1,

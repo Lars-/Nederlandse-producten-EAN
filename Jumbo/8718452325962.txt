@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "218403STK",
     "name": "Jumbo Honden Snackstrips met Kip Mini 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.3,
     "minimumAmount": 1,

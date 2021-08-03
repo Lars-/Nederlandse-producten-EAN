@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "186973TRA",
     "name": "Jumbo Hamburger Zeezout Peper Rund 2 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.99,
     "minimumAmount": 1,

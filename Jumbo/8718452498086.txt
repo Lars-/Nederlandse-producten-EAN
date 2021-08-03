@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "398358ZK",
     "name": "Jumbo Ribbel Naturel Chips 335g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.13,
     "minimumAmount": 1,

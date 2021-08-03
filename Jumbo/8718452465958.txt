@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "349001STK",
     "name": "Jumbo - Volkoren Rustiek Spelt Brood",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.79,
     "minimumAmount": 1,

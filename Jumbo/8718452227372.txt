@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "179697BAK",
     "name": "Jumbo Gerookte Zalm met Roomkaas 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 3.25,
     "minimumAmount": 1,

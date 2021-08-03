@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "213853STK",
     "name": "Jumbo Mini Camembert 45+ Kleinverpakking 73g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1,
     "minimumAmount": 1,

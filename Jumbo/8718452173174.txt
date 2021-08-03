@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "394104CUP",
     "name": "Jumbo Witte Rijst 1 Minuut 2 x 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.07,
     "minimumAmount": 1,

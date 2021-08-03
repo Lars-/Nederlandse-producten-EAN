@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "203031PAK",
     "name": "Jumbo Hamburgers a la Minute 4 Stuks 360g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.29,
     "minimumAmount": 1,

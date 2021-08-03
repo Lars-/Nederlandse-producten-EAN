@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "209939DS",
     "name": "Jumbo Blauwe Bessen Biologisch 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.95,
     "minimumAmount": 1,

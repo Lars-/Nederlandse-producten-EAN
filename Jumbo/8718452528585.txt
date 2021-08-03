@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "428574EM",
     "name": "Jumbo Griekse Yoghurt Biologisch 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 2.75,
     "minimumAmount": 1,

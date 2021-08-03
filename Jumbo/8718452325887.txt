@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "218406STK",
     "name": "Jumbo Hondensnack Sushi met Kip 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.77,
     "minimumAmount": 1,

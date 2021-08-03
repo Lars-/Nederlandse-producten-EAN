@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "439039ZK",
     "name": "Jumbo Vruchten Hartjes Zoet & Hard 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.82,
     "minimumAmount": 1,

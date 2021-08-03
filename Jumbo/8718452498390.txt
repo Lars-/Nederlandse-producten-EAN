@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "385555STK",
     "name": "Jumbo Zalm Carpaccio met Kaassnippers & Mosterd-Dilledressing 120g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.69,
     "minimumAmount": 1,

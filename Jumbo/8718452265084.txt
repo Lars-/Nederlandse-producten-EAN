@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "194530CUP",
     "name": "Jumbo Pat\u00e9 met Rund 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.59,
     "minimumAmount": 1,

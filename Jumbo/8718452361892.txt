@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "315587ZK",
     "name": "Jumbo Vegetarische Kroepoek 75g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 0.99,
     "minimumAmount": 1,

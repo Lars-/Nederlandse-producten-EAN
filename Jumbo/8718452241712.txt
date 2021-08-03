@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "380013ZK",
     "name": "Jumbo Zongedroogde Sultana Rozijnen 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.09,
     "minimumAmount": 1,

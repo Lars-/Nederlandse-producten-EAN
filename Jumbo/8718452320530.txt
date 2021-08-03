@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "205695PAK",
     "name": "Jumbo Houdbare Lactosevrije Halfvolle Melk 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.18,
     "minimumAmount": 1,

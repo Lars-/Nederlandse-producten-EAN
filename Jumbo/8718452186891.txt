@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "203774STK",
     "name": "Jumbo Jonge Kaas 48+ Plakken 400 g - Voordeelverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.67,
     "minimumAmount": 1,

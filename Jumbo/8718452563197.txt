@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "437294BAK",
     "name": "Jumbo Geroosterde Krieltjes 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.5,
     "minimumAmount": 1,

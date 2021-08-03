@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "380644POT",
     "name": "Jumbo Bolognese Pastasaus 340g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.04,
     "minimumAmount": 1,

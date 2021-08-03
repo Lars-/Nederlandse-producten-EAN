@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "313788PAK",
     "name": "Jumbo TintelFris Framboos & Cranberry 1, 5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.94,
     "minimumAmount": 1,

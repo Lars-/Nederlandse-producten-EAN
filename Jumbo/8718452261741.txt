@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "196718STK",
     "name": "Jumbo Ketjap Asin 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.78,
     "minimumAmount": 1,

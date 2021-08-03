@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "434463FLS",
     "name": "Jumbo Isotone Orange Sportdrink 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.45,
     "minimumAmount": 1,

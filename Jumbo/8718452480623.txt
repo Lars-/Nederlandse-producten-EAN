@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "368193STK",
     "name": "Jumbo Roombrie 60+ 172g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.19,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "143972TRA",
     "name": "Jumbo Rundersaucijs 4 Stuks 380g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.84,
     "minimumAmount": 1,

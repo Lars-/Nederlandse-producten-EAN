@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "180898PAK",
     "name": "Jumbo Spelt Maaltijd Pita's 5 Stuks  400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.11,
     "minimumAmount": 1,

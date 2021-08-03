@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "417486ZK",
     "name": "Jumbo Premium Luiers Maat 4 9-14 kg 24 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.41,
     "minimumAmount": 1,

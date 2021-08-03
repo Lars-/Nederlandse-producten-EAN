@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "320374PAK",
     "name": "Jumbo Corned Beef 115g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.22,
     "minimumAmount": 1,

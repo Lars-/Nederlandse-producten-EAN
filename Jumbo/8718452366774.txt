@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "202201TRA",
     "name": "Jumbo Gemarineerde Slavinken 4 Stuks 440g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.69,
     "minimumAmount": 1,

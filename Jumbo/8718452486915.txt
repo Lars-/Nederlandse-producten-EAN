@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "242443DS",
     "name": "Jumbo Vegetarische Oven Kroketten 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.8,
     "minimumAmount": 1,

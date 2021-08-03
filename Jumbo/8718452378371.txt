@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "226588DS",
     "name": "Jumbo Fusion Waterijsjes 8 x 50ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.71,
     "minimumAmount": 1,

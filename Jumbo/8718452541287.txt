@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "436055BAK",
     "name": "La Place Lasagne Full of Veggies 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6,
     "minimumAmount": 1,

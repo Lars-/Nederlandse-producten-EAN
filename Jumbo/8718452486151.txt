@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "270260POT",
     "name": "Jumbo Zoete Aardappel Linzen & Pasta 8+ Maanden 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

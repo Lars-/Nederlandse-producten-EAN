@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "164881POT",
     "name": "Jumbo Basilicum Plantje",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.59,
     "minimumAmount": 1,

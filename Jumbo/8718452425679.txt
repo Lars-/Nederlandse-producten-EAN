@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "406324ZK",
     "name": "Jumbo Rijstwafels Melkchocolade & Gezouten Karamel 140g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.48,
     "minimumAmount": 1,

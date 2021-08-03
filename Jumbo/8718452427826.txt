@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "332322PAK",
     "name": "Jumbo Zeeuwse Rondjes met Roomboter 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.91,
     "minimumAmount": 1,

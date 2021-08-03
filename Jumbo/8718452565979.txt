@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "435402DS",
     "name": "Jumbo Verse Ovenmaaltijd Burrito Pulled Pork 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.29,
     "minimumAmount": 1,

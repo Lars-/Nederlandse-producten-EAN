@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "427786FLS",
     "name": "Jumbo Ice Tea 1,5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.94,
     "minimumAmount": 1,

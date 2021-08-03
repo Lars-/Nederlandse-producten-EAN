@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "180672PAK",
     "name": "Jumbo Tomatenblokjes Ui en Knoflook 390g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 0.96,
     "minimumAmount": 1,

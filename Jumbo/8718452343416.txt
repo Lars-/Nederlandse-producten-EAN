@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "213015NET",
     "name": "Jumbo Rode Uien 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.15,
     "minimumAmount": 1,

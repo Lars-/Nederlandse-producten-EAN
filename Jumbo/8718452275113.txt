@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "193566FLS",
     "name": "Jumbo Fruitsap Sinaasappel Aardbei 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.18,
     "minimumAmount": 1,

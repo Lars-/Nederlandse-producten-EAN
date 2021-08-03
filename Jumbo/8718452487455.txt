@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "442775BAK",
     "name": "Jumbo Groene Olijf Knoflook 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1,
     "minimumAmount": 1,

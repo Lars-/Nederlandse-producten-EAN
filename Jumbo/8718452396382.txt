@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "42450KP",
     "name": "Jumbo Plantaardige Kruidencr\u00e8me 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.09,
     "minimumAmount": 1,

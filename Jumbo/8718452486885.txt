@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "270772TRA",
     "name": "Jumbo Lekker Veggie Champignonburger Vegetarisch 160g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.62,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "196920POT",
     "name": "Jumbo Zoete Pepers Gevuld met Zachte Kaas 230g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.16,
     "minimumAmount": 1,

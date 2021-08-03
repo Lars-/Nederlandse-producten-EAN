@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "425805ZK",
     "name": "Jumbo Choco Pinda's 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.75,
     "minimumAmount": 1,

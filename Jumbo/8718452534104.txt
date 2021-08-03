@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "224505STK",
     "name": "Jumbo Gemengde Drop Mix 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.18,
     "minimumAmount": 1,

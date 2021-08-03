@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "198440PAK",
     "name": "Jumbo Keukenpapier Ecologisch 3 Laags 2 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.89,
     "minimumAmount": 1,

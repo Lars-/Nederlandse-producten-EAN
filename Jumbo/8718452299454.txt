@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "138625POT",
     "name": "Jumbo Vlaatje  Yoghurt met Vanille & Aardbeienpuree 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

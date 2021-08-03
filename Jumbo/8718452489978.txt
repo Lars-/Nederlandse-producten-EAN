@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "378546STK",
     "name": "Jumbo Geitenkaas 48+ Spek 80g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.29,
     "minimumAmount": 1,

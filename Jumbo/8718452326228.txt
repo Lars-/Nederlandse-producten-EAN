@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "213389TRL",
     "name": "Jumbo Naturel Haverdrink 6 x 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 9.72,
     "minimumAmount": 1,

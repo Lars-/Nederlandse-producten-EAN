@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "295230RP",
     "name": "Jumbo Wit Chocolade Reep 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.91,
     "minimumAmount": 1,

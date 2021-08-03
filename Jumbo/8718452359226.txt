@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "370403DS",
     "name": "Jumbo All in One Vaatwastabletten 40 x 16g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.69,
     "minimumAmount": 1,

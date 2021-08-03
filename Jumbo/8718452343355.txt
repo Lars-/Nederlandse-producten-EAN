@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "438327NET",
     "name": "Jumbo Uien 2 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.59,
     "minimumAmount": 1,

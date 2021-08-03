@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "436667FLS",
     "name": "Jumbo - Cabernet Sauvignon - Biologisch - 375ML",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.79,
     "minimumAmount": 1,

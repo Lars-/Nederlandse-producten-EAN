@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "405695ZK",
     "name": "Jumbo Texas BBQ Aardappelpartjes met Schil 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.39,
     "minimumAmount": 1,

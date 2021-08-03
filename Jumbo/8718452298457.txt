@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "205806DS",
     "name": "Jumbo Appelmoes Kuipjes 4 x 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.65,
     "minimumAmount": 1,

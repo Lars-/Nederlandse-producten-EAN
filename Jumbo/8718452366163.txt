@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "276416ZK",
     "name": "Jumbo Ongezouten Gebrande Cashewnoten 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.61,
     "minimumAmount": 1,

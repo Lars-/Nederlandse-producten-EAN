@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "202741STK",
     "name": "Jumbo Blauw Water WC Blok Ocean 2 x 48g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.17,
     "minimumAmount": 1,

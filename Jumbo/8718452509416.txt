@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "417487ZK",
     "name": "Jumbo Premium Luiers Maat 5 11-16 kg 22 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.66,
     "minimumAmount": 1,

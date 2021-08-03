@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "430585DS",
     "name": "Jumbo Extra Vierge Olijfolie 3L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 13.94,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "277844POT",
     "name": "Jumbo Mayonaise met Geroosterde Knoflook 180ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.19,
     "minimumAmount": 1,

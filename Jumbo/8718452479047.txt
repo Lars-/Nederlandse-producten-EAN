@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "385708ZK",
     "name": "Jumbo Champignonsoep 570ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.87,
     "minimumAmount": 1,

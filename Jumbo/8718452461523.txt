@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "383437ZK",
     "name": "Jumbo Verfijnde Courgettesoep Biologisch 570ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.37,
     "minimumAmount": 1,

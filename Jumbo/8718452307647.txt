@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "211038DS",
     "name": "La Place Bonbons Truffels 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.78,
     "minimumAmount": 1,

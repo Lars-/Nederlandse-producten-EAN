@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "164048DS",
     "name": "Jumbo Vershoudfolie 50 Meter",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.79,
     "minimumAmount": 1,

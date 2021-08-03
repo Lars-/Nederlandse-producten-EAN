@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "213806FLS",
     "name": "Jumbo Smoothie Avocado Spinazie Banaan Appel Peterselie 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.4,
     "minimumAmount": 1,

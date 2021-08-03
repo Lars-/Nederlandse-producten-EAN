@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "392236STK",
     "name": "Jumbo Fourme d'Ambert 50+ Kaas 208g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3,
     "minimumAmount": 1,

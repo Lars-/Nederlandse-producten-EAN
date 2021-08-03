@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "226787KML",
     "name": "Jumbo Lekkerbekjes 6 x 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 9.9,
     "minimumAmount": 1,

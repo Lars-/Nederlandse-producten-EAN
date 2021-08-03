@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "151950ZK",
     "name": "Jumbo Kabeljauwfilet 540g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.75,
     "minimumAmount": 1,

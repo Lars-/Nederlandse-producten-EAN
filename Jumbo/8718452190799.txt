@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "207491EM",
     "name": "Jumbo Yoghurt Aardbei 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.49,
     "minimumAmount": 1,

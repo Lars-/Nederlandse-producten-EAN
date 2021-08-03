@@ -9,5 +9,5 @@
     "minimumAmount": 1,
     "maximumAmount": 100,
     "image": "https:\/\/syndy-content.azureedge.net\/media\/products\/354c0000-ff41-0003-6902-08d3bb64b476\/images\/AW0HA3GItENDpZ-NPK0ohvI.\/AABbUCf-AwCyvwjYLfTuDw.670x670.jpg",
-    "source": "Jumbo.com"
+    "source": "Coop.nl"
 }

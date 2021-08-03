@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "405797PAK",
     "name": "Jumbo Framboos Yoghurtdrink 6 x 200ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.53,
     "minimumAmount": 1,

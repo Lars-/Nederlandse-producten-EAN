@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "259363BAK",
     "name": "Jumbo Jong Belegen Kaas 48+ Stuk 930 g - Voordeelverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 7.84,
     "minimumAmount": 1,

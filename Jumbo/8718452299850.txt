@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "204503STK",
     "name": "Jumbo Koriander Vers 15g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "417234DS",
     "name": "Jumbo Yoghurt Tops IJsjes 10 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 2.25,
     "minimumAmount": 1,

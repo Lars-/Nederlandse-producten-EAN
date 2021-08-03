@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "427781FLS",
     "name": "Jumbo Mineraalwater Bloedsinaasappelsmaak 1, 5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 0.62,
     "minimumAmount": 1,

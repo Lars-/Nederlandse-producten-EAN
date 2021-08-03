@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "196034POT",
     "name": "Jumbo Zwarte Olijven Tapenade 140g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.91,
     "minimumAmount": 1,

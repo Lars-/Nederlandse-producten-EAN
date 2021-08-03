@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "317336ZK",
     "name": "Jumbo Reepjes in Saus met Vis 4 x 85g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.79,
     "minimumAmount": 1,

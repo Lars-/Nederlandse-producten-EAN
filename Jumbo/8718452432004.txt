@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "310722ZK",
     "name": "Jumbo Aardappelwedges Mild Gekruid met Schil 600g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.59,
     "minimumAmount": 1,

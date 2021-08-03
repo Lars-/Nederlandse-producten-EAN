@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "162840PAK",
     "name": "Jumbo Helder Water Framboos Bosbes 1, 5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.17,
     "minimumAmount": 1,

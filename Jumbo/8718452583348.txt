@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "443995BAK",
     "name": "Jumbo Roodfruit Mix 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2,
     "minimumAmount": 1,

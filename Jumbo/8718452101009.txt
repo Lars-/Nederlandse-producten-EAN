@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "306146STK",
     "name": "Jumbo - Vanille-roomvlaai - 2 Punten",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.29,
     "minimumAmount": 1,

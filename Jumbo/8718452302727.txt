@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "206605STK",
     "name": "Jumbo Classic Inlegkruisjes 45 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.09,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "163367DS",
     "name": "Jumbo IJsklont Zakken Zelfsluitend 10 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.29,
     "minimumAmount": 1,

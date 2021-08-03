@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "173713DS",
     "name": "Jumbo Zalm in Bladerdeeg Diepvries 2 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.76,
     "minimumAmount": 1,

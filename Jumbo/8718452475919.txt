@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "380600PAK",
     "name": "Jumbo Amandeldrink Naturel 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.43,
     "minimumAmount": 1,

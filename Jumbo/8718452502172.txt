@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "383936CUP",
     "name": "Jumbo Trio Houmous 180g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.19,
     "minimumAmount": 1,

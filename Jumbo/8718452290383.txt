@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "202919TUB",
     "name": "Jumbo USA Fritessaus 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.98,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "427787FLS",
     "name": "Jumbo Zwarte Bessen Cassis 1,5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 0.78,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "177324DSL",
     "name": "Jumbo Biologische Groene Thee 6 x 20 Theezakjes",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 7.38,
     "minimumAmount": 1,

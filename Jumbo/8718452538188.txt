@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "452338FLS",
     "name": "Jumbo Mineraal Water 500ML",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.72,
     "minimumAmount": 1,

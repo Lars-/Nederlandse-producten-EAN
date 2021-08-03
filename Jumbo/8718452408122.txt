@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "427706DS",
     "name": "Jumbo Karamel Zeezout Pure Chocolade Biologisch 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.38,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "204145CUP",
     "name": "Jumbo Ongezouten Pistache Noten 140g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.06,
     "minimumAmount": 1,

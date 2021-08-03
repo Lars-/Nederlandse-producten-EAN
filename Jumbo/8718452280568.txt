@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "208806BAK",
     "name": "Jumbo Grillburger Rund 5 Stuks 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.5,
     "minimumAmount": 1,

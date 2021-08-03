@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "283558STK",
     "name": "Jumbo Nasi Speciaal Mix 39g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.51,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "164091BLK",
     "name": "Jumbo Gepelde Tomaten Biologische 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.88,
     "minimumAmount": 1,

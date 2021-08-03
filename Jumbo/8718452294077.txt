@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "235530BLK",
     "name": "Jumbo Kidneybonen 420g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.66,
     "minimumAmount": 1,

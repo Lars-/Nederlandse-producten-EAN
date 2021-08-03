@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "380599TRL",
     "name": "Jumbo Sojadrink Ongezoet 8 x 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6.96,
     "minimumAmount": 1,

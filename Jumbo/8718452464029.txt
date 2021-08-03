@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "99454PAK",
     "name": "Jumbo Pita Shoarma 140g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.08,
     "minimumAmount": 1,

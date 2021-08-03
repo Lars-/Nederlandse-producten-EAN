@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "202945TUB",
     "name": "Jumbo Halfvol Fritessaus 750ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.12,
     "minimumAmount": 1,

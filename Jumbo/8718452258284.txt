@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "191947DS",
     "name": "Jumbo Luchtige Kruidenboter 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.79,
     "minimumAmount": 1,

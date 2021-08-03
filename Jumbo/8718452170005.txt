@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "176150ZK",
     "name": "Jumbo Roergemak Hollandse Bami Speciaal 475g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.4,
     "minimumAmount": 1,

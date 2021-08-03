@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "190960PAK",
     "name": "Jumbo Filetlapjes Varken Paprika Peper 4 Stuks 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.69,
     "minimumAmount": 1,

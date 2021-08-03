@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "376101STK",
     "name": "Wapenaer Kaas Blokjes Jong Belegen 48+ 60g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1,
     "minimumAmount": 1,

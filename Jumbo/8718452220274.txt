@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "329779PAK",
     "name": "Jumbo Zakdoekjes 9 Pakjes Balsem",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.89,
     "minimumAmount": 1,

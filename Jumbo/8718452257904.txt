@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "192626STK",
     "name": "Jumbo Maiswafels Lijnzaad 4 x 32, 5g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.8,
     "minimumAmount": 1,

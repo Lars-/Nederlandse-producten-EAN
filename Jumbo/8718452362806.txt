@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "234846STK",
     "name": "Jumbo Ongebrande en Ongezouten Cashewnoten 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.36,
     "minimumAmount": 1,

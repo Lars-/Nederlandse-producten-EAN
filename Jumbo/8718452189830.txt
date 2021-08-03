@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "177324DS",
     "name": "Jumbo Biologische Groene Thee 20 Theezakjes 30g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.23,
     "minimumAmount": 1,

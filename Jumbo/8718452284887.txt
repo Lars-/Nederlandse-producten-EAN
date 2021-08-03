@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "386175ZK",
     "name": "Jumbo Thaise Tom Kha Kai 570ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.32,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "191824FLS",
     "name": "Jumbo Extra Vierge Olijfolie 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.14,
     "minimumAmount": 1,

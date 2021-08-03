@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "428861STK",
     "name": "Jumbo Kipfilet Voordeelverpakking 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.4,
     "minimumAmount": 1,

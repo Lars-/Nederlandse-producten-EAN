@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "190556PAK",
     "name": "Jumbo Kattensnoepjes Kip & Cranberry 60g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.61,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "367905BLK",
     "name": "Jumbo Cola Cinnamon Zero Sugar 330ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.45,
     "minimumAmount": 1,

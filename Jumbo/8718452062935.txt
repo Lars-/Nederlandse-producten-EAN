@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "193406ZK",
     "name": "Jumbo Ongezouten Pinda's 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.86,
     "minimumAmount": 1,

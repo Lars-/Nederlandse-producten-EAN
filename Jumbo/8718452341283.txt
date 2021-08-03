@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "213304DS",
     "name": "Jumbo - American Cookievlaai - Half",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6,
     "minimumAmount": 1,

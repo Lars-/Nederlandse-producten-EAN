@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "362369PAK",
     "name": "Jumbo Verse Zalmblokjes 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5,
     "minimumAmount": 1,

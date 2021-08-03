@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "317475ZK",
     "name": "Jumbo Belegen Kaas 48+ Geraspt 3 x 50g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.08,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "224993TRA",
     "name": "Jumbo Spekreepjes Drooggezouten 180g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.96,
     "minimumAmount": 1,

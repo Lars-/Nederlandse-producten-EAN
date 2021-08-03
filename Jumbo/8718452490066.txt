@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "387637ZK",
     "name": "Jumbo Fijne Wortelen 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

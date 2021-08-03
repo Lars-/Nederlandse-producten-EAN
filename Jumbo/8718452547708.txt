@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "434084CUP",
     "name": "Jumbo Direct van de Boerderij Ongezouten Roomboter 180g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.75,
     "minimumAmount": 1,

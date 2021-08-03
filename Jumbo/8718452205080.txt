@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "182220POT",
     "name": "Jumbo Basilicum Gedroogd 60g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.49,
     "minimumAmount": 1,

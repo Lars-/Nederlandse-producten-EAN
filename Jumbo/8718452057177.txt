@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "147545TRL",
     "name": "Jumbo Hondenbrokken in Saus Kip en Groenen 6 x 830g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.7,
     "minimumAmount": 1,

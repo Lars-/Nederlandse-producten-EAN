@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "383970DSL",
     "name": "Jumbo Luierbroekjes 6 15+ kg - 2 x 34 Stuks - Voordeelverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 16.46,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "336292ZK",
     "name": "Jumbo Bami en Nasi Groente 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.85,
     "minimumAmount": 1,

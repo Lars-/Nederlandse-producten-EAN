@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "129391STK",
     "name": "Jumbo IJsbergsla",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.85,
     "minimumAmount": 1,

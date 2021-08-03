@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "442918PAK",
     "name": "Jumbo Green Ice Tea Pure 200ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.69,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "235531BLK",
     "name": "Jumbo Cannellini Bonen 420g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.94,
     "minimumAmount": 1,

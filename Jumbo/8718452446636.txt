@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "63023PAK",
     "name": "Jumbo Gebraden Gehakt 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.23,
     "minimumAmount": 1,

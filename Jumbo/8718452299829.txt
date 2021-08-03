@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "204493STK",
     "name": "Jumbo Bieslook Vers 20g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.91,
     "minimumAmount": 1,

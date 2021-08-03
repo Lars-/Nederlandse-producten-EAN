@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "95119DS",
     "name": "Jumbo Koffieboontjes\/Chocoladeboontjes 125g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.06,
     "minimumAmount": 1,

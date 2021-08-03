@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "226106STK",
     "name": "Jumbo Zoute Sticks 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.37,
     "minimumAmount": 1,

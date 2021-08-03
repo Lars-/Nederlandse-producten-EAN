@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "297035DS",
     "name": "Jumbo 15 Kakel Verse Vrije Uitloopeieren M",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.52,
     "minimumAmount": 1,

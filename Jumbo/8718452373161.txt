@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "278430STK",
     "name": "Jumbo Rode Kool met Appel Blokjes 750g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.25,
     "minimumAmount": 1,

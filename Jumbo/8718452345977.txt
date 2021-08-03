@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "393570DS",
     "name": "Jumbo Ovenheerlijke Pastei Bakjes 4 Stuks 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.73,
     "minimumAmount": 1,

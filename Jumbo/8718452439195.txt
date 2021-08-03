@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "350700PAK",
     "name": "Jumbo Blauwe Bes Framboos met Appel 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.67,
     "minimumAmount": 1,

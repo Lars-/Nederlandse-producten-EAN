@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "213537DS",
     "name": "Jumbo Mix voor Boerencake 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.86,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "426971KRT",
     "name": "Jumbo Heek Gemarineerd 230g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.5,
     "minimumAmount": 1,

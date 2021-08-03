@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "432568STK",
     "name": "Jumbo Brokken met Lam & Rijst 10kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 7.89,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "230555ZK",
     "name": "Jumbo Geschoonde Spruitjes 150 g - Kleinverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.26,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "332653PAK",
     "name": "Jumbo Ice Tea Mint 1, 5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.42,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "189200FLS",
     "name": "Jumbo Groentesap Avocado Spinazie Boerenkool Broccoli Komkommer Appel 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.83,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "206845BAK",
     "name": "JUMBO Bramen 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.39,
     "minimumAmount": 1,

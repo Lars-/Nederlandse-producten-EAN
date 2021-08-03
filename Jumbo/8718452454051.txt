@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "340360POT",
     "name": "Jumbo Hollandse Bruine Bonen 190g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.6,
     "minimumAmount": 1,

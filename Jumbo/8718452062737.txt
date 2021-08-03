@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "176191DS",
     "name": "Jumbo Kattenbrokjes in Saus Variatie 12 x 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.71,
     "minimumAmount": 1,

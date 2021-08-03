@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "175125STK",
     "name": "Jumbo Biologisch Speltmeel 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.21,
     "minimumAmount": 1,

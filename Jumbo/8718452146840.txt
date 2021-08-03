@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "167228PAK",
     "name": "Jumbo Biologische Houdbare Halfvolle Melk 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.04,
     "minimumAmount": 1,

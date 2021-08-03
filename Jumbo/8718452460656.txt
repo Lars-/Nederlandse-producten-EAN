@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "270739STK",
     "name": "Jumbo Salami 140g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.02,
     "minimumAmount": 1,

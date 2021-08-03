@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "201514ZK",
     "name": "Jumbo Marokkaanse Groenteschotel 475g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.09,
     "minimumAmount": 1,

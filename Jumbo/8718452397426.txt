@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "352544TRA",
     "name": "Fuerza Energy Drink met Taurine & Cafe\u00efne Original 24 x 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 9.89,
     "minimumAmount": 1,

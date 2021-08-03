@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "230552ZK",
     "name": "Jumbo Italiaanse Roerbakmix Zonder Ui 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "392597DS",
     "name": "Jumbo Fruitreep Appelsmaak 6 x 27g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.08,
     "minimumAmount": 1,

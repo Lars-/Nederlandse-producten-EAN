@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "153756PAK",
     "name": "Jumbo Eierkoeken met Chocolade 8 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.56,
     "minimumAmount": 1,

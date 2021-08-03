@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "324076PAK",
     "name": "Jumbo Ontbijtkoek 4 stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.75,
     "minimumAmount": 1,

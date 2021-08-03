@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "269155POT",
     "name": "Jumbo Bouillon met Soepballen 340ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.59,
     "minimumAmount": 1,

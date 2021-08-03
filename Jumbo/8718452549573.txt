@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "420970TRA",
     "name": "Jumbo Procureurlapjes Oosterse Stijl 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.95,
     "minimumAmount": 1,

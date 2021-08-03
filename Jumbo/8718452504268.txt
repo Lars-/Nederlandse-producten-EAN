@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "208688BAK",
     "name": "La Place Verse Pasta Triangoli Truffel, Champignon 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.99,
     "minimumAmount": 1,

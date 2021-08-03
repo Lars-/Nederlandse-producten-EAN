@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "389806DS",
     "name": "Jumbo Muesli Reep Hazelnoot 5 x 25g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.08,
     "minimumAmount": 1,

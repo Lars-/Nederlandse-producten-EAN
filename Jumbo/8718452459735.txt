@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "383155ZK",
     "name": "Jumbo Aardappelen Zoet 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.79,
     "minimumAmount": 1,

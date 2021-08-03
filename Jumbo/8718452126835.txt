@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "164446POT",
     "name": "Jumbo Mais Biologisch 340g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.83,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "381985ZK",
     "name": "Jumbo Luiers 4+ 10-15 kg 38 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.25,
     "minimumAmount": 1,

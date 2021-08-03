@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "439024ZK",
     "name": "Jumbo Gummi & Foam Mixzakjes Zoet & Zacht 14 x 20g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.37,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "230432BAK",
     "name": "Jumbo Maaltijdsalade Warme Kip-Pesto 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.99,
     "minimumAmount": 1,

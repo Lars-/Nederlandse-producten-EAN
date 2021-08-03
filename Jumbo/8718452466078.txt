@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "350319DS",
     "name": "Jumbo Extra Zoete Tros Cherry Tomaten Geel 220g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.49,
     "minimumAmount": 1,

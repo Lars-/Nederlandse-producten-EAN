@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "189102STK",
     "name": "Jumbo Kookroom 20% Vet 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.64,
     "minimumAmount": 1,

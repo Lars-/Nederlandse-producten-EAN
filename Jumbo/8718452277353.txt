@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "197470ZK",
     "name": "Jumbo Mix voor Pinda Sat\u00e9saus 68g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.74,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "223076STK",
     "name": "Jumbo Incontinentie Ondergoed Large 10 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.99,
     "minimumAmount": 1,

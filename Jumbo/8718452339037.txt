@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "232278STK",
     "name": "Jumbo Oude Kaas 48+ Plakken 190g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.79,
     "minimumAmount": 1,

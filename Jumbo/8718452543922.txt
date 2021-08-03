@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "421509PAK",
     "name": "Jumbo Maaltijdpakket Gele Curry 1160g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.99,
     "minimumAmount": 1,

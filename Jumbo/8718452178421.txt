@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "47671PAK",
     "name": "Jumbo Rainbow Colors 8 x 40g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.95,
     "minimumAmount": 1,

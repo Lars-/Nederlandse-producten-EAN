@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "194300ZK",
     "name": "Jumbo Pijnboompitten 30g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.66,
     "minimumAmount": 1,

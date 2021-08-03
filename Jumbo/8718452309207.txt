@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "211760ZK",
     "name": "Jumbo Aardappelblokjes 600g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.1,
     "minimumAmount": 1,

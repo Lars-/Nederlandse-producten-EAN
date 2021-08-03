@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "236873DS",
     "name": "Jumbo Ecologisch Vaatwastabletten All-in-One 30 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.05,
     "minimumAmount": 1,

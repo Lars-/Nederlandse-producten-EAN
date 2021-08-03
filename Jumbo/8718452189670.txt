@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "350694PAK",
     "name": "Jumbo Aardbei Sinaasappel met Appel 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.33,
     "minimumAmount": 1,

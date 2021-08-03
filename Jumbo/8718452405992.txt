@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "291747STK",
     "name": "Jumbo - Panini Pulled Chicken met Barbecuesaus",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.39,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "340550DS",
     "name": "Jumbo Goulash Kroketten 4 Stuks 280g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

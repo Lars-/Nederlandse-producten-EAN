@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "215236BAK",
     "name": "Jumbo Kipknakworst Gerookt 320g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.99,
     "minimumAmount": 1,

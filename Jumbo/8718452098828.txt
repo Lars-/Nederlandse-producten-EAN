@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "295227RP",
     "name": "Jumbo Melk Chocolade Reep 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.77,
     "minimumAmount": 1,

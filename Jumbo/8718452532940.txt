@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "407208KRT",
     "name": "Goudeerlijk - Stevig Volkoren Zonnepit Brood - Vriesvers",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.19,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "416590ZK",
     "name": "Jumbo Mexicaanse Chili con Carne 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.5,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "302704DS",
     "name": "Jumbo Ice Cream Lovers Strawberry Cheesecake 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.49,
     "minimumAmount": 1,

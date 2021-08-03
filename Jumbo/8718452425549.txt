@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "364026BAK",
     "name": "Jumbo Indonesische Rijsttafel met Tumis Boontjes, Kip Sat\u00e9 en Kip Ritjah 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.25,
     "minimumAmount": 1,

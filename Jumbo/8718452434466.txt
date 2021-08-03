@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "305740ZK",
     "name": "Jumbo Salade Mix Zonnebloempitten, Geroosterde Pijnboompitten & Croutons Knoflook en Kruiden 25g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.25,
     "minimumAmount": 1,

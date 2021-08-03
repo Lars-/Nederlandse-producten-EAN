@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "373599BLK",
     "name": "Jumbo Pat\u00e9 Gevogelte met Topping van Bacon, Ei en Tomaat 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.8,
     "minimumAmount": 1,

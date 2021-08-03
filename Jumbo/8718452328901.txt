@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "213017STK",
     "name": "Jumbo Opbakaardappelen met Schil 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.38,
     "minimumAmount": 1,

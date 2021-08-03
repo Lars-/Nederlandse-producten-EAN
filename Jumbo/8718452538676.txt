@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "420244BLK",
     "name": "Dors - Sterk - Blik - 500ML",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.89,
     "minimumAmount": 1,

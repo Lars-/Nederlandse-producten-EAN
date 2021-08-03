@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "283550STK",
     "name": "Jumbo Taco's Tomatensalsa Pakket",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.69,
     "minimumAmount": 1,

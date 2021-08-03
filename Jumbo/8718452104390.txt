@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "428485FLS",
     "name": "Jumbo Sinas Zero Sugar 1,5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.57,
     "minimumAmount": 1,

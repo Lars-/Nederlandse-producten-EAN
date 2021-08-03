@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "227452DS",
     "name": "Jumbo Vlokken Puur 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

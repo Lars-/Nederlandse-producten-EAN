@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "340071ZK",
     "name": "Jumbo - Roomboter Croissants - 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.4,
     "minimumAmount": 1,

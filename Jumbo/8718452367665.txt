@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "269333STK",
     "name": "Jumbo Indiase Kip Tikka Masala 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.5,
     "minimumAmount": 1,

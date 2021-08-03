@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "296419FLS",
     "name": "Repower Shake Strawberry Flavour Protein 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

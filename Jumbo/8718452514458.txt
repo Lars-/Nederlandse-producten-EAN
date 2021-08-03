@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "391715ZK",
     "name": "Jumbo Zwarte Rijst 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.09,
     "minimumAmount": 1,

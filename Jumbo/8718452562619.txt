@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "430675STK",
     "name": "Goudeerlijk - Boeren Pompoenbrood - Vriesvers",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.19,
     "minimumAmount": 1,

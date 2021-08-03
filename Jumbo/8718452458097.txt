@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "393281CUP",
     "name": "Jumbo Carpaccio Rolletje 75g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.95,
     "minimumAmount": 1,

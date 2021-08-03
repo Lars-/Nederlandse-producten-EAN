@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "230679ZK",
     "name": "Jumbo Gekruide Opbakaardappelen met Schil 200 g - Kleinverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.59,
     "minimumAmount": 1,

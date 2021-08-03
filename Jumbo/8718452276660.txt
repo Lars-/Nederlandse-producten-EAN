@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "202568DS",
     "name": "Jumbo Pizza Mini Salami 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.62,
     "minimumAmount": 1,

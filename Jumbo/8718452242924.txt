@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "188610PAK",
     "name": "Jumbo - Witte Petit Pains - 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.98,
     "minimumAmount": 1,

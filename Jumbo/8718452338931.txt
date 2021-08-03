@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "399452STK",
     "name": "Jumbo Jong Belegen Komijn Kaas 30+ Plakken 190g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.49,
     "minimumAmount": 1,

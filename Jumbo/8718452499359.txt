@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "364504DS",
     "name": "Jumbo Kakel Verse Vrije Uitloop Eieren M 12 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.65,
     "minimumAmount": 1,

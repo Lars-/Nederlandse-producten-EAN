@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "306029DS",
     "name": "Jumbo Bessen Blauw 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 3.99,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "383908STK",
     "name": "Jumbo NH Belegen Komijn Kaas 3 Plakken ca. 75g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.5,
     "minimumAmount": 1,

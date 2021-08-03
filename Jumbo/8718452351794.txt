@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "223073BAK",
     "name": "Jumbo Biologisch Runder Chipolata 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.84,
     "minimumAmount": 1,

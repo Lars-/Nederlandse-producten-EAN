@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "359673POT",
     "name": "Jumbo Zoetstof Sucralose 75g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.87,
     "minimumAmount": 1,

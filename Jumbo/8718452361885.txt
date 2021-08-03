@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "220632ZK",
     "name": "Jumbo Kroepoek Lange Plak 60g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.7,
     "minimumAmount": 1,

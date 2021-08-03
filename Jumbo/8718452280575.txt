@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "180843BAK",
     "name": "Jumbo Gemengd Gehakt Rund & Varken 980g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.89,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "435480FLS",
     "name": "Jumbo - Pinot Grigio - Ros\u00e9 - Biologisch - 750ML",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.25,
     "minimumAmount": 1,

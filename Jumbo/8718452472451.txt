@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "376475ZK",
     "name": "Jumbo Basmatirijst 4, 5kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6.99,
     "minimumAmount": 1,

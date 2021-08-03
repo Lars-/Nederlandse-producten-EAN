@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "323759EM",
     "name": "Jumbo Roomboter Zandkoekjes Deeg 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.49,
     "minimumAmount": 1,

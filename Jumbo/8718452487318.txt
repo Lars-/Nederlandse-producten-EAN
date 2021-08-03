@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "378528PAK",
     "name": "Dors Premium Radler 0.0 Blikken 6 x 330ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

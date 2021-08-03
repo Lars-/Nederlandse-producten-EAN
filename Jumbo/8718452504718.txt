@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "391602POT",
     "name": "Jumbo Pastasaus Pompoen 340g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.49,
     "minimumAmount": 1,

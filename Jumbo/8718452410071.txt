@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "295217ZK",
     "name": "Jumbo Lekker Vrij van Gluten Spaghetti 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.12,
     "minimumAmount": 1,

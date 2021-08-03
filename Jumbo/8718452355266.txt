@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "371354STK",
     "name": "Jumbo Gekookte Hamreepjes 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.59,
     "minimumAmount": 1,

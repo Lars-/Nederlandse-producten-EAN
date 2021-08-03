@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "278026ZK",
     "name": "Jumbo Nacho Chips 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.41,
     "minimumAmount": 1,

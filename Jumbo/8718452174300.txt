@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "194307PAK",
     "name": "Jumbo Jus Naturel 3 x 29g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.1,
     "minimumAmount": 1,

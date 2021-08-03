@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "276662STK",
     "name": "Jumbo Taco Mix 28g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.58,
     "minimumAmount": 1,

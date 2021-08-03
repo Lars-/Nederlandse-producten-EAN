@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "408536ZK",
     "name": "Jumbo Gezouten Cashews 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.35,
     "minimumAmount": 1,

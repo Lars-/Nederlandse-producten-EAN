@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "171985ZK",
     "name": "Jumbo Rozijnen Eierkoeken 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.93,
     "minimumAmount": 1,

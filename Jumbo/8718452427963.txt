@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "42794PAK",
     "name": "Jumbo Chocolade Spritsen 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.29,
     "minimumAmount": 1,

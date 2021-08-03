@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "270127STK",
     "name": "Jumbo Kruidenmix voor Gehakt Slagersrecept 40g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.83,
     "minimumAmount": 1,

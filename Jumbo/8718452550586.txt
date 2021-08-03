@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "421649BAK",
     "name": "Jumbo Verse Maaltijd Pasta Arrabiata 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "213091ZK",
     "name": "Jumbo Champignon Roerbakmix 600 g - Voordeelverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.69,
     "minimumAmount": 1,

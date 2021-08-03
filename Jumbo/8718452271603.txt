@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "201323STK",
     "name": "Jumbo Maiswafels 12 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.82,
     "minimumAmount": 1,

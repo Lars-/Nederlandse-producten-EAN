@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "212623STK",
     "name": "Jumbo Tauge 125g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "214501BAK",
     "name": "La Place Buffelmozzarella 225g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.08,
     "minimumAmount": 1,

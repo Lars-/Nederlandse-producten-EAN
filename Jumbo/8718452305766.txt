@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "203377DSL",
     "name": "Jumbo Houdbare Karnemelk 6 x 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6.84,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195856BLK",
     "name": "Jumbo Kippensoep Rijkelijk Gevuld met Kip 800ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.1,
     "minimumAmount": 1,

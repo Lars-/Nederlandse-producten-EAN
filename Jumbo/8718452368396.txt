@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "318568STK",
     "name": "Jumbo Stro 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.75,
     "minimumAmount": 1,

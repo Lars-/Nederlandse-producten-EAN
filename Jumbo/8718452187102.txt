@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "212184STK",
     "name": "Jumbo Snijbonen Kleinverpakking 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.48,
     "minimumAmount": 1,

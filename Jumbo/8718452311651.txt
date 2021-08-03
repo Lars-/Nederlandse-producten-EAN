@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "211726STK",
     "name": "Jumbo Hollandse Roerbakmix 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.05,
     "minimumAmount": 1,

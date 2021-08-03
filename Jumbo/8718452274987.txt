@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "294103BLK",
     "name": "Jumbo Fruitsiroop Grenadine 750ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

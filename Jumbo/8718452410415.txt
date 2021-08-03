@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "428509BAK",
     "name": "Jumbo Volkoren American Pancake Banaan 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

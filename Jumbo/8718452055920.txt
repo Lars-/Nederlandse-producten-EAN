@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "140911KRT",
     "name": "Jumbo Scharreleieren 6 Stuks M\/L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.05,
     "minimumAmount": 1,

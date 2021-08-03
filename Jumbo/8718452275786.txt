@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "218376DS",
     "name": "Jumbo Tomatenblokjes 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.45,
     "minimumAmount": 1,

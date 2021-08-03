@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "175842PAK",
     "name": "Jumbo Kalkoenfilet 125g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.18,
     "minimumAmount": 1,

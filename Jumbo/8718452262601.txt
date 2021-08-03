@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "302281POT",
     "name": "Jumbo Hollandse Snijbonen 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.11,
     "minimumAmount": 1,

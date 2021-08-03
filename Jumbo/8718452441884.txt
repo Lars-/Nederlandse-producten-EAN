@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "303017STK",
     "name": "Jumbo Tafelkleed 138 x 220cm",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.99,
     "minimumAmount": 1,

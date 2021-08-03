@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "207493EM",
     "name": "Jumbo Yoghurt Stracciatella 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.49,
     "minimumAmount": 1,

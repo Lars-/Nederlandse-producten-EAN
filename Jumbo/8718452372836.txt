@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "257245STK",
     "name": "Jumbo 100% Appelmoes 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.94,
     "minimumAmount": 1,

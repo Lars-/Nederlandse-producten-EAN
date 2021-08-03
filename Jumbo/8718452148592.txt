@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "198428FLS",
     "name": "Jumbo Geconcentreerd Vloeibaar Wasmiddel Wit 28 Wasbeurten 980ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.75,
     "minimumAmount": 1,

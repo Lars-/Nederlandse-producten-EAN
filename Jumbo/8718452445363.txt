@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "423363ZK",
     "name": "Jumbo Veldsla Gewassen 85g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.89,
     "minimumAmount": 1,

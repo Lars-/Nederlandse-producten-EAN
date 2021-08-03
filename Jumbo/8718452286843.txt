@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "198578DS",
     "name": "Jumbo Smoothiemix Ananas, Papaja & Mango 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.62,
     "minimumAmount": 1,

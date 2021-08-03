@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "221152BAK",
     "name": "Jumbo Roomboterkoekje met Fondant 110g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.89,
     "minimumAmount": 1,

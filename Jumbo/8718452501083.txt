@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "226704ZK",
     "name": "Jumbo Mini Krieltjes Roti 600g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1,
     "minimumAmount": 1,

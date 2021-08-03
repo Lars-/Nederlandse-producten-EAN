@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "280894CUP",
     "name": "Jumbo IJskoffie Macchiato Vanilla Flavour 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.98,
     "minimumAmount": 1,

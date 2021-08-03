@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "302275DS",
     "name": "Jumbo Paneermeel Kruiden 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.48,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "226785DS",
     "name": "Jumbo Kibbeling 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.92,
     "minimumAmount": 1,

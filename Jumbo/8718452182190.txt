@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "174356POT",
     "name": "Jumbo Groene Olijven Plakjes 220g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.6,
     "minimumAmount": 1,

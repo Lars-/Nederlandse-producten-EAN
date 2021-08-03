@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "388218BAK",
     "name": "Jumbo - Stokbrood met Rundvlees, Gerookt Runderspek en Oude Kaas",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.99,
     "minimumAmount": 1,

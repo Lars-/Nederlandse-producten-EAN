@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "337892STK",
     "name": "Jumbo Jong Belegen Komijn Kaas 48+ 75 g - kleinverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.5,
     "minimumAmount": 1,

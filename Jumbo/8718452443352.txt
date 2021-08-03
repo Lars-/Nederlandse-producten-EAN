@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "358478DSL",
     "name": "JUMBO SMEERKAAS KIDS",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 16,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "201633ZK",
     "name": "Jumbo La Dolce Vita Fusilli 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 0.79,
     "minimumAmount": 1,

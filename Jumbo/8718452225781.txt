@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "185548STK",
     "name": "Jumbo Cr\u00e8me Mergpijpjes Zacht & Zoet 210g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.49,
     "minimumAmount": 1,

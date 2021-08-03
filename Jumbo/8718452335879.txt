@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "352186BAK",
     "name": "Jumbo Hamburger met Stroganoffsaus en Haricots Verts 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.64,
     "minimumAmount": 1,

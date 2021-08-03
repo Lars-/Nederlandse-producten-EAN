@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "438798ZK",
     "name": "Jumbo Spinazie Blokjes Diepvries 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.5,
     "minimumAmount": 1,

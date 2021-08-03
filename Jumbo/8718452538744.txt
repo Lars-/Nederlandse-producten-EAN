@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "427843PAK",
     "name": "Jumbo Sinas Zero Sugar 6 x 1,5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.39,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "317407DS",
     "name": "Jumbo Koffiefilters No. 2 Ongebleekt 100 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.49,
     "minimumAmount": 1,

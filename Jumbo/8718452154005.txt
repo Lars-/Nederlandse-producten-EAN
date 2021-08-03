@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "273080ZK",
     "name": "Jumbo Bloemkool Roosjes 750g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.3,
     "minimumAmount": 1,

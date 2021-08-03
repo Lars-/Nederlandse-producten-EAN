@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "242442DS",
     "name": "Jumbo Vegetarische Oven Bitterballen 12 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.8,
     "minimumAmount": 1,

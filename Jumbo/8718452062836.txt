@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "188503PAK",
     "name": "Jumbo - Roomboter Croissants Voorgebakken - 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

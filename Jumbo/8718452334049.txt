@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "208848STK",
     "name": "Jumbo Chilibonen 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.84,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "336298ZK",
     "name": "Jumbo Gemengde IJsbergsla 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1,
     "minimumAmount": 1,

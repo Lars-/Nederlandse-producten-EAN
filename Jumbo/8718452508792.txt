@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "431431ZK",
     "name": "Jumbo Zachte Brokken met Kip & Wortel 1, 5kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.79,
     "minimumAmount": 1,

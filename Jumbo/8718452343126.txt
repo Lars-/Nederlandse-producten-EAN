@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "87975BAK",
     "name": "Jumbo Grove Saucijs Kruidnagel Varken 4 Stuks 380g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.25,
     "minimumAmount": 1,

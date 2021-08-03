@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "306326PAK",
     "name": "Jumbo Zoete Punt Paprika 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.19,
     "minimumAmount": 1,

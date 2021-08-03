@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "443860ZK",
     "name": "Jumbo Gegrilde Groente Sous-Vide 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.61,
     "minimumAmount": 1,

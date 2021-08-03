@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "271426FLS",
     "name": "Jumbo Huiswijn - Droog & Fris - Chili - Sauvignon Blanc - 250ML",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.77,
     "minimumAmount": 1,

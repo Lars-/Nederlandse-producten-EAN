@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "304574PAK",
     "name": "Jumbo Perzik Yoghurt <1% Vet 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.22,
     "minimumAmount": 1,

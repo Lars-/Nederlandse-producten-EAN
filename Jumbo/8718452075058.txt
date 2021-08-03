@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "153866PAK",
     "name": "Jumbo Honden Vleesstrips Rund 20 stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.74,
     "minimumAmount": 1,

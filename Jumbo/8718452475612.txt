@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "376344TUB",
     "name": "Garden Goods Lily Jasmine Hand Cream 75ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.19,
     "minimumAmount": 1,

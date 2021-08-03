@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "383909STK",
     "name": "Wapenaer Portieverpakking Jong Belegen Kaas 48+ 3 Plakken 75g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.5,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "188594PAK",
     "name": "Jumbo - Meergranen Desem Baguette - 2 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.52,
     "minimumAmount": 1,

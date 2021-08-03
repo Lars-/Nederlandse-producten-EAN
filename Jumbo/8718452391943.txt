@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "269148BAK",
     "name": "Jumbo Thaise Kipsalade 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

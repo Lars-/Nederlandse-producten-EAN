@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "302282POT",
     "name": "Jumbo Doperwten Extra Fijn 680g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "159429STK",
     "name": "Jumbo Komkommer Biologisch",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.09,
     "minimumAmount": 1,

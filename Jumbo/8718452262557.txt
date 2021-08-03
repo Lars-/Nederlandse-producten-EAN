@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "302277POT",
     "name": "Jumbo Extra Fijne Doperwten 180g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.78,
     "minimumAmount": 1,

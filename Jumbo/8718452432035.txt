@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "168148ZK",
     "name": "Jumbo - Tarwe Roggebrood Oberlander",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.27,
     "minimumAmount": 1,

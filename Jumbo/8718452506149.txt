@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "405796PAK",
     "name": "Jumbo Drinkyoghurt Perzik 6 x 200ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.53,
     "minimumAmount": 1,

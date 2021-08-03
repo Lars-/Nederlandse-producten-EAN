@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "302291POT",
     "name": "Jumbo Sperziebonen Witte Bonen 680g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.74,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "414961BAK",
     "name": "Jumbo Pastasalade Fusili Pesto 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.39,
     "minimumAmount": 1,

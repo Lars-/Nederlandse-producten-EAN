@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "305349ZK",
     "name": "Jumbo Kip Ham Loempia 175g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.31,
     "minimumAmount": 1,

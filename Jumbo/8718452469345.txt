@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "377344ZK",
     "name": "Jumbo Gedroogde Pruimen Zonder Pit 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 3.74,
     "minimumAmount": 1,

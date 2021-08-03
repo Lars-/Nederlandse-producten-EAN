@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "372634BAK",
     "name": "La Place Verse Pasta Geitenkaas, Zongedroogde Tomaat Ravioli 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.99,
     "minimumAmount": 1,

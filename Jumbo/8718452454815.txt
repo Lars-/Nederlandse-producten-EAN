@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "371355STK",
     "name": "Jumbo Zuivel Spread Naturel 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.84,
     "minimumAmount": 1,

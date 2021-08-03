@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "169469TRA",
     "name": "Jumbo Roomboter Spritsen 175g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.29,
     "minimumAmount": 1,

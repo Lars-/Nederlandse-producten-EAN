@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "163366ROL",
     "name": "Jumbo Prullenbakzakken 20 Liter 40 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.68,
     "minimumAmount": 1,

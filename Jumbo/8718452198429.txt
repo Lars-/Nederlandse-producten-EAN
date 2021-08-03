@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "180554BLK",
     "name": "Jumbo Pate met Pens Navoer Hond 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.85,
     "minimumAmount": 1,

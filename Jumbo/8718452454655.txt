@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "230508BAK",
     "name": "Jumbo Lunchsalade Gerookte Kip Honing-Mosterd 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.05,
     "minimumAmount": 1,

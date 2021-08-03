@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195750FLS",
     "name": "Jumbo Woksaus Sweet Chili 200ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.86,
     "minimumAmount": 1,

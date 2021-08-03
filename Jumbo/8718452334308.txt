@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "208707BAK",
     "name": "Jumbo Ori\u00ebntaalse Noedels 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.39,
     "minimumAmount": 1,

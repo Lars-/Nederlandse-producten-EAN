@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "386702CUP",
     "name": "Westland Rundvleessalade 4 x 140g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.76,
     "minimumAmount": 1,

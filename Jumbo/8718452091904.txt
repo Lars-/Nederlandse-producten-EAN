@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "257662POT",
     "name": "Jumbo Appelmoes 355g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.87,
     "minimumAmount": 1,

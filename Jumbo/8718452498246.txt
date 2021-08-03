@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "388396POT",
     "name": "Jumbo Romige Kwark Aardbei 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.62,
     "minimumAmount": 1,

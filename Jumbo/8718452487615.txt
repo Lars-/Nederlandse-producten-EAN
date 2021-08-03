@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "375661DS",
     "name": "Jumbo Steenoven Gebakken Pizza Margherita 426g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.25,
     "minimumAmount": 1,

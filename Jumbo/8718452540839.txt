@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "410509BAK",
     "name": "Jumbo Maaltijdsalade Kip Mexicaanse Fajita 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.29,
     "minimumAmount": 1,

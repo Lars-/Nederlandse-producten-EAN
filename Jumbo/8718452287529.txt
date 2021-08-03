@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "200833FLS",
     "name": "Jumbo Wasverzachter Jungle Passion 30 Wasbeurten 750ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.17,
     "minimumAmount": 1,

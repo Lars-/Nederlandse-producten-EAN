@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "440010DS",
     "name": "Jumbo Groene Olijven Basilicum 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

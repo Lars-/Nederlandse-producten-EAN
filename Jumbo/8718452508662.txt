@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "385807BAK",
     "name": "Jumbo Gebraden Gehaktbal Varken 8 Stuks 640g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.29,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "154913STK",
     "name": "Jumbo Mix voor Biscuit Bodem voor Taarten 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.08,
     "minimumAmount": 1,

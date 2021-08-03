@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "371357DSL",
     "name": "Jumbo Zuivel Spread Light Naturel 10 x 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 12.4,
     "minimumAmount": 1,

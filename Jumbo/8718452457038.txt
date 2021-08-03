@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "342756DS",
     "name": "Jumbo Knijpfruit Appel Aardbei 4 x 90g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.28,
     "minimumAmount": 1,

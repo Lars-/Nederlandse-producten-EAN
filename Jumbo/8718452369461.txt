@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "235537BLK",
     "name": "Jumbo Linzen 420g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.98,
     "minimumAmount": 1,

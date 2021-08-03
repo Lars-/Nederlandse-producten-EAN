@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "311727BAK",
     "name": "Jumbo Gyrosreepjes 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4,
     "minimumAmount": 1,

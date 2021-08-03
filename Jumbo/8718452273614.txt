@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "212175STK",
     "name": "Jumbo Spinazie Gewassen 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.29,
     "minimumAmount": 1,

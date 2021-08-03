@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "362351PAK",
     "name": "Jumbo Koffiekoeken 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.85,
     "minimumAmount": 1,

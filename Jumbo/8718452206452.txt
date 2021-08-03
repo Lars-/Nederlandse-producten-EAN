@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "183553FLS",
     "name": "Jumbo Schuurmiddel Citroen 750ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.68,
     "minimumAmount": 1,

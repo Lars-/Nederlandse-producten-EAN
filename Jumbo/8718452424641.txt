@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "292063STK",
     "name": "Jumbo Mini Coulommiers Kaas 50+ Kleinverpakking 81g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "443838ZK",
     "name": "Jumbo Groentemix Kerrie Sous-vide Gegaard 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.49,
     "minimumAmount": 1,

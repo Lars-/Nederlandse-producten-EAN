@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "441829BAK",
     "name": "Jumbo Borrelquiche Ham \/ Prei 160g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.99,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "352863DS",
     "name": "Jumbo Lungo 30 Koffiecups 210g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.61,
     "minimumAmount": 1,

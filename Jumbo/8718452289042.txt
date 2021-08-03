@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "54453STK",
     "name": "Jumbo Kalfsfilet Uitjes 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.49,
     "minimumAmount": 1,

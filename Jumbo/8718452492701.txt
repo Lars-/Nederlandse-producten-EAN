@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "395334PAK",
     "name": "Jumbo Verrassende Speculaascrisps Wit 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.59,
     "minimumAmount": 1,

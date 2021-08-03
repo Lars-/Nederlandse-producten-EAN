@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "164692ROL",
     "name": "Jumbo Containerzakken 120 L 10 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.29,
     "minimumAmount": 1,

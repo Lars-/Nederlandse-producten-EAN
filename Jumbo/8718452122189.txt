@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "164584STK",
     "name": "Jumbo Dental Care Tandenborstels Flexibel & Zacht 2 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.04,
     "minimumAmount": 1,

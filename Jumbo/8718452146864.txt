@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "167175TRL",
     "name": "Jumbo Biologische Volle Melk 12 x 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 14.88,
     "minimumAmount": 1,

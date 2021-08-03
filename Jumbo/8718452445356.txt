@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "362329ZK",
     "name": "Jumbo Veldsla Gewassen 125 g - Voordeelverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.24,
     "minimumAmount": 1,

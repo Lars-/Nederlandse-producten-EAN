@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "284490EM",
     "name": "Jumbo Gegrilde Kip Wings Krokant 600g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5,
     "minimumAmount": 1,

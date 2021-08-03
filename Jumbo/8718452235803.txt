@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "192658DS",
     "name": "Jumbo Hagelslag XXL Puur 380g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.87,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "435168STK",
     "name": "Jumbo - Aardbei Profiterol Taart",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5,
     "minimumAmount": 1,

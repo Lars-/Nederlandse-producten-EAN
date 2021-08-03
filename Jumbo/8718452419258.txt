@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "427919ZK",
     "name": "Jumbo - Croissants Ham Kaas - 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.84,
     "minimumAmount": 1,

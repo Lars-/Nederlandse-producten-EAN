@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "283795FLS",
     "name": "La Place Tomatenketchup 525g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.71,
     "minimumAmount": 1,

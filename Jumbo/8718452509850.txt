@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "387180PAK",
     "name": "Jumbo Frites met Schil Super Krokant 750g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.69,
     "minimumAmount": 1,

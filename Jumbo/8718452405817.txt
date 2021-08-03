@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "291988STK",
     "name": "Jumbo - Sandwich Kip Pikant",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.54,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "439291FLS",
     "name": "Jumbo Helder Bruisend Watermeloen Smaak 1, 5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.75,
     "minimumAmount": 1,

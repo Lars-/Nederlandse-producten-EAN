@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "87863BAK",
     "name": "Jumbo Gemengd Gehakt Fries Rund & Varken 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.29,
     "minimumAmount": 1,

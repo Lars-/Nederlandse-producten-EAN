@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "301187FLS",
     "name": "La Place Olijfolie Extra Vierge Arbequina 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.62,
     "minimumAmount": 1,

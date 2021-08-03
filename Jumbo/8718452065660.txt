@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "191144FLS",
     "name": "Jumbo Fruitsiroop Reine Claude 750ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.31,
     "minimumAmount": 1,

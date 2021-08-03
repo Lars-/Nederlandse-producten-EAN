@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "224529FLS",
     "name": "La Place Verse Sap Citroen Appel Gember 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.85,
     "minimumAmount": 1,

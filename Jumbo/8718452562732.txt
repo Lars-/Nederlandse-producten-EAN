@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "430614STK",
     "name": "Goudeerlijk - Wit Brood - Vriesvers",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.14,
     "minimumAmount": 1,

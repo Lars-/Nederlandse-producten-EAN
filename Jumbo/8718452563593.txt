@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "444203ZK",
     "name": "La Place koffiebonen Lungo Intenso 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 10.25,
     "minimumAmount": 1,

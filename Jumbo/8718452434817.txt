@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "386275STK",
     "name": "Jumbo - Kersen-kruimelvlaai Vegan",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6,
     "minimumAmount": 1,

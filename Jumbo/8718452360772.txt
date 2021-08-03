@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "246232DS",
     "name": "Jumbo Oven Vissticks 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.56,
     "minimumAmount": 1,

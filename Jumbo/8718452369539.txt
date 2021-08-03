@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "232163STK",
     "name": "Jumbo Limabonen 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.94,
     "minimumAmount": 1,

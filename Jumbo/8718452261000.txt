@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "297021DS",
     "name": "Jumbo Verse Scharreleieren 10 Stuks L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.22,
     "minimumAmount": 1,

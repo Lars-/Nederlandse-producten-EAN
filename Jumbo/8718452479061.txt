@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "383438ZK",
     "name": "Jumbo Erwtensoep 570ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.73,
     "minimumAmount": 1,

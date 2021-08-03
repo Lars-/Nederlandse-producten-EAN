@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "430617STK",
     "name": "Goudeerlijk - Grof Volkoren Brood - Half - Vriesvers",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.15,
     "minimumAmount": 1,

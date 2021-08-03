@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "177803ZK",
     "name": "Jumbo Street Mix Mild Gekruid Chips 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.08,
     "minimumAmount": 1,

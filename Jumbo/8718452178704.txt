@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "180802STK",
     "name": "Jumbo Dry Deodorant 150ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.72,
     "minimumAmount": 1,

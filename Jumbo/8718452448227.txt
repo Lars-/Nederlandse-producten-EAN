@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "328328BAK",
     "name": "Jumbo - Stokbrood met Gehakt en Brie",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.99,
     "minimumAmount": 1,

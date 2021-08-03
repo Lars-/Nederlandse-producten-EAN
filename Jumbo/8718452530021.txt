@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "305814BAK",
     "name": "Jumbo Rivierkreeftenvlees Naturel 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.66,
     "minimumAmount": 1,

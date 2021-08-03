@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "393567STK",
     "name": "Jumbo Wasmiddel Sport Wit & Kleur 980 ml 28 Wasbeurten",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.79,
     "minimumAmount": 1,

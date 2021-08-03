@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "352541BLK",
     "name": "Fuerza Original Energy Drink 330ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.73,
     "minimumAmount": 1,

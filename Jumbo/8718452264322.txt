@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "387106BAK",
     "name": "Jumbo Biologisch Veggie Falafel 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.77,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "259365BAK",
     "name": "Jumbo Jonge Kaas 48+ Stuk 960 g - Voordeelverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 8.08,
     "minimumAmount": 1,

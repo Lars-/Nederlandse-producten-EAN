@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "191309ZK",
     "name": "Jumbo Pita Jalapeno Kaas 120g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.32,
     "minimumAmount": 1,

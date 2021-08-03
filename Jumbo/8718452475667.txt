@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "376392TUB",
     "name": "Garden Goods Mandarin Mimosa Body Scrub 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.99,
     "minimumAmount": 1,

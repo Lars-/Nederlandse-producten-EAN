@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "306043SC",
     "name": "Jumbo Framboos & Bessen Blauw 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.79,
     "minimumAmount": 1,

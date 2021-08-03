@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "226000PAK",
     "name": "Jumbo Suikervrije Kauwgom Extramint 3 Pakjes",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.75,
     "minimumAmount": 1,

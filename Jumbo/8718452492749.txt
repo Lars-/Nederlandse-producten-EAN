@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "174894STK",
     "name": "Jumbo Biologisch Boekweitmeel 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.97,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "228620BAK",
     "name": "Jumbo Cantharellen 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.15,
     "minimumAmount": 1,

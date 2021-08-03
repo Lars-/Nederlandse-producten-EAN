@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "300208STK",
     "name": "Jumbo - Volkoren Bollen - 12 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.79,
     "minimumAmount": 1,

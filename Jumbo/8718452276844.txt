@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "193677BAK",
     "name": "Jumbo Duitse Biefstuk Biologisch 2 Stuks 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.59,
     "minimumAmount": 1,

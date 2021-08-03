@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "330936CUP",
     "name": "Jumbo Lekker Vrij van Lactose Magere Kwark met Yoghurt 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.38,
     "minimumAmount": 1,

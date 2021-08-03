@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "136433PAK",
     "name": "Jumbo Dikke Plak Boterhamworst 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.26,
     "minimumAmount": 1,

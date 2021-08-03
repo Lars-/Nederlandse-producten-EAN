@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "190558PAK",
     "name": "Jumbo Katten Kauwsticks Zalm 5 stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.6,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "164092BLK",
     "name": "Jumbo Biologisch Tomatenblokjes 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.48,
     "minimumAmount": 1,

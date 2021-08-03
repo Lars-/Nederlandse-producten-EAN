@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "214395STK",
     "name": "La Place Melkchocolade Karamel & Zeezout 180g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.86,
     "minimumAmount": 1,

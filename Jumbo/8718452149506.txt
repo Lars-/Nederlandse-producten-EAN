@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "323835ZK",
     "name": "Jumbo Mild Roast Voordeelverpakking 56 Koffiepads 389g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.62,
     "minimumAmount": 1,

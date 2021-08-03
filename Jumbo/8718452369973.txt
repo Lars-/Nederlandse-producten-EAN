@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "245974DS",
     "name": "Jumbo Appel en Rozijn Krokante Muesli 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.91,
     "minimumAmount": 1,

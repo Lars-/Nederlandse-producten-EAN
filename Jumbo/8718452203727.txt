@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "183631POT",
     "name": "Jumbo Zeezout 370g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.42,
     "minimumAmount": 1,

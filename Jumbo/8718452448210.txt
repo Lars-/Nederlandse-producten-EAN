@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "328329BAK",
     "name": "Jumbo - Stokbrood met Gehakt en Kaas",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.99,
     "minimumAmount": 1,

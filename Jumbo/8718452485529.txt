@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "385894BKR",
     "name": "Jumbo Pepersaus 240ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 2.29,
     "minimumAmount": 1,

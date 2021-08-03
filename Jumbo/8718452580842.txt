@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "443795BAK",
     "name": "Jumbo Broodje Hotdog Tokyo Stijl 290g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.99,
     "minimumAmount": 1,

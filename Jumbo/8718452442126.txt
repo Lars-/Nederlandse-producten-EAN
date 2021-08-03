@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "336757FLS",
     "name": "Jumbo Fruitsap Sinaasappel Mandarijn Bloedsinaasappel 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.23,
     "minimumAmount": 1,

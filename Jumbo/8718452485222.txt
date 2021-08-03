@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "385897FLS",
     "name": "Jumbo Groenteshot Wortel Pompoen Mango Pastinaak 125ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.95,
     "minimumAmount": 1,

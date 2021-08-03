@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "188656ZK",
     "name": "Jumbo - Witte Bagels - 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.28,
     "minimumAmount": 1,

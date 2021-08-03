@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "362307ZK",
     "name": "Jumbo Krulsla Melange Gewassen 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.08,
     "minimumAmount": 1,

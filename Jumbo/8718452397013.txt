@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "173438BAK",
     "name": "Jumbo Soepballetjes Biologisch Rund 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.4,
     "minimumAmount": 1,

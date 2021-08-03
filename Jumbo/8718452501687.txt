@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "396482STK",
     "name": "Jumbo Vanilla White 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.29,
     "minimumAmount": 1,

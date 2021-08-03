@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "303743DS",
     "name": "Jumbo Choco Chips Ontbijtgranen 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.32,
     "minimumAmount": 1,

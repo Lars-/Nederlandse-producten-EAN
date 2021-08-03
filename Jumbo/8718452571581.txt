@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "443102BAK",
     "name": "Jumbo Kip Kebabsticks 210g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.05,
     "minimumAmount": 1,

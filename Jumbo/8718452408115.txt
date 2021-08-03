@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "427701DS",
     "name": "Jumbo Blauwe Bes Pure Chocolade Biologisch 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.57,
     "minimumAmount": 1,

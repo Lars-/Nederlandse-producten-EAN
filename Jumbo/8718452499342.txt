@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "382959DS",
     "name": "Jumbo Verse Scharrel Eieren 1 Ster M 12 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.49,
     "minimumAmount": 1,

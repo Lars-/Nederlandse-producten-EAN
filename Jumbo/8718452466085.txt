@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "350320DS",
     "name": "Jumbo Extra Zoete Tros Cherry Tomaten Rood 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 2.49,
     "minimumAmount": 1,

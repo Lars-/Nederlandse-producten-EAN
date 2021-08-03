@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "386261FLS",
     "name": "Jumbo Mambo Cocktail Saus 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.71,
     "minimumAmount": 1,

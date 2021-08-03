@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "172424PAK",
     "name": "Jumbo Volle Yoghurt 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.95,
     "minimumAmount": 1,

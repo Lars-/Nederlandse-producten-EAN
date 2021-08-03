@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "211815ZK",
     "name": "Jumbo Aardappelpartjes Texas BBQ 600g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.81,
     "minimumAmount": 1,

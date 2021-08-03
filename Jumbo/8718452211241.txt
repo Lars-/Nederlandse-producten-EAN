@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "224503STK",
     "name": "Jumbo Zoete Drop Mix 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.68,
     "minimumAmount": 1,

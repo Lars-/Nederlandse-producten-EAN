@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "163134FLS",
     "name": "Jumbo Bad & Douchegel met Lavendel 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.06,
     "minimumAmount": 1,

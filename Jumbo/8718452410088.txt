@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "295218ZK",
     "name": "Jumbo Lekker Vrij van Gluten Havermout 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.87,
     "minimumAmount": 1,

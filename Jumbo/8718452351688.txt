@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "224784TRL",
     "name": "Jumbo Cola Zero Sugar 4 x 6 x 330ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.96,
     "minimumAmount": 1,

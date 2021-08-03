@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "174141ZK",
     "name": "Jumbo Premium Konijnenvoer 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.42,
     "minimumAmount": 1,

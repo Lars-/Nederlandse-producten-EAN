@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "237674POT",
     "name": "Jumbo Wildfond 350ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.59,
     "minimumAmount": 1,

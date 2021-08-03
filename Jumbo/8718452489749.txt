@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "393563STK",
     "name": "Jumbo Kleur Geconcentreerd Wasmiddel 20 Wasbeurten 1L, 0% Parfum",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.39,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "283609STK",
     "name": "Jumbo Macaroni Spaghetti Mix 55g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.89,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "438315DS",
     "name": "Jumbo 08 Lungo Intenso Koffiecups 40 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.49,
     "minimumAmount": 1,

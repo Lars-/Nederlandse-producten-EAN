@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "168291DS",
     "name": "Jumbo Steenoven Pizza Mozzarella Tomaat & Basilicum Biologisch 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.87,
     "minimumAmount": 1,

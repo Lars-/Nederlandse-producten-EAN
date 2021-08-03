@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "437288BAK",
     "name": "Jumbo Braadkip Proven\u00e7aals 330g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5,
     "minimumAmount": 1,

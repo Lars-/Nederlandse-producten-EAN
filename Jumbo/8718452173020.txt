@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "47108PAK",
     "name": "Jumbo Vezelrijke Zilvervliesrijst 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.69,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "423403FLS",
     "name": "Jumbo Baby Olie 150ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.49,
     "minimumAmount": 1,

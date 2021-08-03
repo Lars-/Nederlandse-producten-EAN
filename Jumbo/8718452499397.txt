@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "303815STK",
     "name": "Jumbo - Appeltaartjes - 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.99,
     "minimumAmount": 1,

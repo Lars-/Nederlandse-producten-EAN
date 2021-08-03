@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "72408STK",
     "name": "Jumbo Varken Verse Knakworst 320g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.62,
     "minimumAmount": 1,

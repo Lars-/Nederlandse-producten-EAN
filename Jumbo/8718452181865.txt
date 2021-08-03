@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "173273FLS",
     "name": "Jumbo - Bordeaux - Merlot - Cabernet Sauvignon - 750ML",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.99,
     "minimumAmount": 1,

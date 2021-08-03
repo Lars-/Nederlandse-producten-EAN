@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "169860ZK",
     "name": "Jumbo Fruit en Zaden Muesli 750g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.51,
     "minimumAmount": 1,

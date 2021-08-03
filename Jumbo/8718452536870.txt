@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "427845FLS",
     "name": "Jumbo Bitter Lemon 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.57,
     "minimumAmount": 1,

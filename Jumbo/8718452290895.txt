@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "283836CUP",
     "name": "Jumbo Milkshake Aardbei 230ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.93,
     "minimumAmount": 1,

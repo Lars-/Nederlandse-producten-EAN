@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "192612STK",
     "name": "Jumbo Foelie Gedroogd 5g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.24,
     "minimumAmount": 1,

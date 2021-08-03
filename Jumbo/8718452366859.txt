@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "235184DSL",
     "name": "Jumbo Halfvolle Melk met Beter Leven Keurmerk 1 Ster 6 x 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6,
     "minimumAmount": 1,

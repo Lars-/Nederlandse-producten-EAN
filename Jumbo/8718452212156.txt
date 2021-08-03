@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "193695FLS",
     "name": "Jumbo Smoothie Yoghurt Tropisch Fruit Banaan 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.74,
     "minimumAmount": 1,

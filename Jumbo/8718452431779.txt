@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "307719PAK",
     "name": "Jumbo Zoete Aardappelfrites 600g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.33,
     "minimumAmount": 1,

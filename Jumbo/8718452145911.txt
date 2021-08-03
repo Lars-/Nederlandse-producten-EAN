@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "323845EM",
     "name": "Jumbo Sat\u00e9 Pikant Saus 400ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.96,
     "minimumAmount": 1,

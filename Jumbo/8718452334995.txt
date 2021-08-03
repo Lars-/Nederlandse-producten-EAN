@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "226723BAK",
     "name": "Jumbo Babi Pangang 260g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.73,
     "minimumAmount": 1,

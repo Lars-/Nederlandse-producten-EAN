@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "183554FLS",
     "name": "Jumbo Glansspoelmiddel 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.89,
     "minimumAmount": 1,

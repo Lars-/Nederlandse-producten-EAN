@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "278023STK",
     "name": "Jumbo Kip Taco Mix 28g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.85,
     "minimumAmount": 1,

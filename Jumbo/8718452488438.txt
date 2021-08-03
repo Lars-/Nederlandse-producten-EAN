@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "391171ZK",
     "name": "Jumbo Tarwe Gepoft 160g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.39,
     "minimumAmount": 1,

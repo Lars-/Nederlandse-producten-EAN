@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "428507FLS",
     "name": "Jumbo Lemon Drink Zero 1,5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.57,
     "minimumAmount": 1,

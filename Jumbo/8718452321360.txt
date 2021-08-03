@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "207272ZK",
     "name": "Jumbo Salade Mix Pompoen-, Zonnebloem-, & Pijnboompitten 50g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.25,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "211852BAK",
     "name": "Jumbo Stoofperen met Aardappelpuree en een Runderlap 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.67,
     "minimumAmount": 1,

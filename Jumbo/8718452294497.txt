@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "226942POT",
     "name": "Jumbo Bruine Bonen 340g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.64,
     "minimumAmount": 1,

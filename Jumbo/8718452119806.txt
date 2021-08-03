@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "164044DS",
     "name": "Jumbo Bakpapier 30 Losse Vellen",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.89,
     "minimumAmount": 1,

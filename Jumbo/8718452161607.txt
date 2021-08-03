@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "212589ZK",
     "name": "Jumbo IJsbergsla 400 g - Voordeelverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.89,
     "minimumAmount": 1,

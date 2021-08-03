@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "323825DS",
     "name": "Jumbo Lungo 16 Koffiecups",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.99,
     "minimumAmount": 1,

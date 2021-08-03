@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "435985BAK",
     "name": "Jumbo Bolognese Tortelloni 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "387969DS",
     "name": "Jumbo Mini Snacks 1,728kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.75,
     "minimumAmount": 1,

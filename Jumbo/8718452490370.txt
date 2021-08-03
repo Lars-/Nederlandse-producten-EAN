@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "395045ZK",
     "name": "Jumbo Geraspt Belegen Kaas 30+ 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.79,
     "minimumAmount": 1,

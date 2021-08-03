@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "283607STK",
     "name": "Jumbo Spaghetti & Macaroni Mix 4 x 40 g - Voordeelverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.19,
     "minimumAmount": 1,

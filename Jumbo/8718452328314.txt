@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "215346STK",
     "name": "Jumbo Cream Crackers Naturel 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.39,
     "minimumAmount": 1,

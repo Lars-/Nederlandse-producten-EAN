@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "437282BAK",
     "name": "Jumbo Bloemkool Vadouvan 335g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4,
     "minimumAmount": 1,

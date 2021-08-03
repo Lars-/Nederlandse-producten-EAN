@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "160184DS",
     "name": "Jumbo Rietsuikerklontjes Biologisch 144 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.84,
     "minimumAmount": 1,

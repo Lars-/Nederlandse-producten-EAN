@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "361181STK",
     "name": "Jumbo EK Luierbroekjes Maat 4 - 22 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.89,
     "minimumAmount": 1,

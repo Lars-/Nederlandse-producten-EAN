@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "425054STK",
     "name": "Jumbo Bananen Tros",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

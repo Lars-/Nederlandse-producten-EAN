@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195209STK",
     "name": "Jumbo Fudge Cake Lemon 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.79,
     "minimumAmount": 1,

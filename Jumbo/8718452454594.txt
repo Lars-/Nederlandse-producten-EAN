@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "230576BAK",
     "name": "Jumbo Caesar Groene Salade 285g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.26,
     "minimumAmount": 1,

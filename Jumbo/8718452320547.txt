@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "205694DSL",
     "name": "JUMBO LACTOSE VRIJ VOL",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 8.04,
     "minimumAmount": 1,

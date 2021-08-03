@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "396481STK",
     "name": "Jumbo Extreme Puur 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.49,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "206623ZK",
     "name": "La Place Meringue met Citroensmaak 55g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.5,
     "minimumAmount": 1,

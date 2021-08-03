@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "302270ROL",
     "name": "Jumbo Meergranen Beschuit 13 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.79,
     "minimumAmount": 1,

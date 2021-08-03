@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "273086ZK",
     "name": "Jumbo Gemengde Groente 750g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.48,
     "minimumAmount": 1,

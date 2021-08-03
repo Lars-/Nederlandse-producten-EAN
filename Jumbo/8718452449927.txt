@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "93754POT",
     "name": "Jumbo Hazelnoot Chocopasta 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.8,
     "minimumAmount": 1,

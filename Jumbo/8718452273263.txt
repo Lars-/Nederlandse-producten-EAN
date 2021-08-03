@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195858TRL",
     "name": "Jumbo Tomatensoep met Vermicelli & Soepballetjes 6 x 800ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6.66,
     "minimumAmount": 1,

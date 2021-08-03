@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "381981STK",
     "name": "Jumbo Luierbroekjes 5 12-17 kg 20 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.89,
     "minimumAmount": 1,

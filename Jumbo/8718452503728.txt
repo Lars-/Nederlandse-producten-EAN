@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "295166FLS",
     "name": "Jumbo Arachide Olie 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.05,
     "minimumAmount": 1,

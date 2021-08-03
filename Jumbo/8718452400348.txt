@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "312259BLK",
     "name": "Jumbo Bruine Bonensoep Rookworst en Wortel 300ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

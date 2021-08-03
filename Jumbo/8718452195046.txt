@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "76931STK",
     "name": "Jumbo Zalm Snippers Houtgerookt 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.45,
     "minimumAmount": 1,

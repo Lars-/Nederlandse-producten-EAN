@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "188715DS",
     "name": "Jumbo Havermout Grove Vlokken 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.54,
     "minimumAmount": 1,

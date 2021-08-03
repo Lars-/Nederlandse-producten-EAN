@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "290514STK",
     "name": "Jumbo Naturel Beschuit 13 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.35,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "424052STK",
     "name": "Jumbo - Mango Framboosvlaai - Half",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6,
     "minimumAmount": 1,

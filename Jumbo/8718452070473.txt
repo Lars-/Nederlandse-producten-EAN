@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "147990POT",
     "name": "Jumbo Smooth Mild Nacho Dipper 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.08,
     "minimumAmount": 1,

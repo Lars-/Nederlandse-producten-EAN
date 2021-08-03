@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "234847STK",
     "name": "Jumbo Ongebrande en Ongezouten Amandelen 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "226725BAK",
     "name": "Jumbo Asian Food Festival Sat\u00e9 Ajam 260g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.82,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "412143CUP",
     "name": "Jumbo Cashewnoten met Honingsmaak Zoet 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.19,
     "minimumAmount": 1,

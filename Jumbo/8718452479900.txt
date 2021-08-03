@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "368429PAK",
     "name": "Jumbo Halfvolle Melk 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.69,
     "minimumAmount": 1,

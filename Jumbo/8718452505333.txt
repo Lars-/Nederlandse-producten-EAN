@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "387858BAK",
     "name": "Jumbo Verse Stoommaaltijd Kip Tikka Masala 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.19,
     "minimumAmount": 1,

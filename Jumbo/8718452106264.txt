@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "159532TUB",
     "name": "Jumbo Peuter Tandpasta 0-5 Jaar sprookjesboom 75ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.93,
     "minimumAmount": 1,

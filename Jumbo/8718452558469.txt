@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "428754POT",
     "name": "Jumbo Vegan Mayo 180g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.1,
     "minimumAmount": 1,

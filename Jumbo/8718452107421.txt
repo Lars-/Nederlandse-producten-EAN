@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "159388PAK",
     "name": "Jumbo Citroenen Biologisch 2 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.39,
     "minimumAmount": 1,

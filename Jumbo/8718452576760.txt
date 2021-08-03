@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "363932ZK",
     "name": "De Ruiter's Banket Ambachtelijke Speculaas Molens 380g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

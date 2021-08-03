@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "207279ZK",
     "name": "Jumbo Kalamata Olijven 50g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.22,
     "minimumAmount": 1,

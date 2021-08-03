@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "167426POT",
     "name": "Jumbo Groene Olijven Biologisch 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.18,
     "minimumAmount": 1,

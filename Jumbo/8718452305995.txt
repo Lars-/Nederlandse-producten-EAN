@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "308424BAK",
     "name": "Jumbo Gekruide Kipspies 225g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.5,
     "minimumAmount": 1,

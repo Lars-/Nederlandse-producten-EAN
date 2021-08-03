@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "306036BAK",
     "name": "JUMBO Aardbeien Hollands 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 2.39,
     "minimumAmount": 1,

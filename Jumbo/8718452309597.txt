@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "177323DS",
     "name": "Jumbo Biologische Rooibos Thee 20 Zakjes",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.34,
     "minimumAmount": 1,

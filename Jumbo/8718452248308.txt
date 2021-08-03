@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "310478DS",
     "name": "Jumbo Groene Thee Guarana 15 Stuks 30g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.01,
     "minimumAmount": 1,

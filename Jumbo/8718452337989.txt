@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "224790ZK",
     "name": "Jumbo Havervlokken Biologisch 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.23,
     "minimumAmount": 1,

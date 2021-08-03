@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "213587PAK",
     "name": "Jumbo Slagroom Houdbaar 200ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.81,
     "minimumAmount": 1,

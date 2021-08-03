@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "302278POT",
     "name": "Jumbo Bladspinazie 185g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.18,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "87910BAK",
     "name": "Jumbo Hamburger Rund 4 stuks 440g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.96,
     "minimumAmount": 1,

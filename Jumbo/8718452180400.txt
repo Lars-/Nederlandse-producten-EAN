@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "203132STK",
     "name": "Gehaktstaaf Pikant 4 x 125g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.59,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "278024ZK",
     "name": "Jumbo Carnitas Mix 28g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.89,
     "minimumAmount": 1,

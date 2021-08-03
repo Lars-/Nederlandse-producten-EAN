@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "394300ZK",
     "name": "Jumbo Borrelzoutjes Sesam 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.03,
     "minimumAmount": 1,

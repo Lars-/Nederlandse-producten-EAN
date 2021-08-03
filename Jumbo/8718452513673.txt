@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "394225CUP",
     "name": "Jumbo Franse Kwark Mager 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.72,
     "minimumAmount": 1,

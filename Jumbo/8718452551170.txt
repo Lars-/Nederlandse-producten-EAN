@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "420639STK",
     "name": "Jumbo - Cuptaart Red Velvet",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.79,
     "minimumAmount": 1,

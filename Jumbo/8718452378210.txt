@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "105028POT",
     "name": "Jumbo Pindakaas XXL Naturel 850g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.81,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "398516DS",
     "name": "La Place Chocoladestukjes Hagelsteentjes Melk 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.19,
     "minimumAmount": 1,

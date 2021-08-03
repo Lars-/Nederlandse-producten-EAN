@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "430589STK",
     "name": "Goudeerlijk - Meergranen Bruin Brood - Vriesvers",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.25,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "273140ZK",
     "name": "Jumbo Hollandse Snijbonen 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.21,
     "minimumAmount": 1,

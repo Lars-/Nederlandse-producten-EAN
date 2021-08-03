@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "376474ZK",
     "name": "Jumbo Pandanrijst 4, 5kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.65,
     "minimumAmount": 1,

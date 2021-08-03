@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "429757STK",
     "name": "Jumbo Houtskool 2, 5kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.89,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "213713STK",
     "name": "Jumbo Middel Augurk Zoetzuur 670g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.85,
     "minimumAmount": 1,

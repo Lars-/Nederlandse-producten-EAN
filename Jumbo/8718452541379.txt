@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "436054BAK",
     "name": "La Place Classic Lasagne Bolognese 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6,
     "minimumAmount": 1,

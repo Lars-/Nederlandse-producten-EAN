@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "270650STK",
     "name": "Jumbo Volkoren Biscuit 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.62,
     "minimumAmount": 1,

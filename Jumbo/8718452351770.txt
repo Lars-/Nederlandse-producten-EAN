@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "175122KST",
     "name": "Jumbo Biologische Pannenkoeken Mix 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.21,
     "minimumAmount": 1,

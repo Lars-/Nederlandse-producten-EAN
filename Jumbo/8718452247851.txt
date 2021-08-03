@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "194910FLS",
     "name": "Jumbo Reinigingstonic voor het Gezicht 200ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.67,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "296332STK",
     "name": "Jumbo Lasagne Bolognese 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.69,
     "minimumAmount": 1,

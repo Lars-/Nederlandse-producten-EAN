@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "168251FLS",
     "name": "Jumbo Appelcider Biologisch 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.97,
     "minimumAmount": 1,

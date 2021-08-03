@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "18629FLS",
     "name": "Jumbo Koffieroom 185ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.14,
     "minimumAmount": 1,

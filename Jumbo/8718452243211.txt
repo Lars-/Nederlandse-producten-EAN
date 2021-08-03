@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "188349ZK",
     "name": "Jumbo - Breekbrood Kaas-Ui",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.57,
     "minimumAmount": 1,

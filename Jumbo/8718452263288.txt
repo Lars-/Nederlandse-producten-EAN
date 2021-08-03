@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "194309BAK",
     "name": "Jumbo Chocolade Mix Rozijnen 225g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.24,
     "minimumAmount": 1,

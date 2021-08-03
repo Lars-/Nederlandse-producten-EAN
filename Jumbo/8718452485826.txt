@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "381968PAK",
     "name": "Jumbo Vochtige Toeten Doekjes voor Onderweg 20 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.73,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "213396BLK",
     "name": "Jumbo Cola Coconut Zero Sugar 330ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.39,
     "minimumAmount": 1,

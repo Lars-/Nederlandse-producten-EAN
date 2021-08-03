@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "154916STK",
     "name": "Jumbo Mix voor Botercr\u00e8me 105g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.42,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "443991DS",
     "name": "Jumbo Mango Stukjes 120g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.75,
     "minimumAmount": 1,

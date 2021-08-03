@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "357865DS",
     "name": "Jumbo Oven Bamischijven 4 Stuks 320g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.21,
     "minimumAmount": 1,

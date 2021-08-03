@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "215453POT",
     "name": "La Place Mayonaise 375ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.35,
     "minimumAmount": 1,

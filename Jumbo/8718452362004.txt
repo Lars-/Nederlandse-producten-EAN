@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "163948BAK",
     "name": "Jumbo Gebraden Gehaktbal met Ui Varken 2 Stuks 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2,
     "minimumAmount": 1,

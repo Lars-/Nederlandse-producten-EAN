@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "157791BLK",
     "name": "Jumbo Cola Vanille 330ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 0.57,
     "minimumAmount": 1,

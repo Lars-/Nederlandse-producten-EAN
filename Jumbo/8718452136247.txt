@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "49607STK",
     "name": "Jumbo Houdbare Magere Melk 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.94,
     "minimumAmount": 1,

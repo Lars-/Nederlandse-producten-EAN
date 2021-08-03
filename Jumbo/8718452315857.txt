@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "212641STK",
     "name": "Jumbo Kiemgroente Alfalfa 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.46,
     "minimumAmount": 1,

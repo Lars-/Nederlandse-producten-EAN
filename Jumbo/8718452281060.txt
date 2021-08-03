@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "323799ZK",
     "name": "La Place Koffiebonen Espresso 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 10.25,
     "minimumAmount": 1,

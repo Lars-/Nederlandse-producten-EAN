@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "202107BAK",
     "name": "Jumbo Roerbakgarnalen met Knoflook 175g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.5,
     "minimumAmount": 1,

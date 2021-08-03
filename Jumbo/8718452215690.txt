@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "189712PAK",
     "name": "Jumbo Kn\u00e4ckebr\u00f6d Volkoren 4 x 5 Stuks 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.79,
     "minimumAmount": 1,

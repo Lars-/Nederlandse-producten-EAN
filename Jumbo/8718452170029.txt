@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "176155ZK",
     "name": "Jumbo Roergemak Pasta Hollandse Groenten 475g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.79,
     "minimumAmount": 1,

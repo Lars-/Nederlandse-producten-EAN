@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "221363POT",
     "name": "Jumbo Funghi Pastasaus 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.05,
     "minimumAmount": 1,

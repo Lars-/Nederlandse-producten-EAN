@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "205084DS",
     "name": "Jumbo Gekookte Eieren 2 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

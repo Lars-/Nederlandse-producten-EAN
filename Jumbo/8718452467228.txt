@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "437858FLS",
     "name": "Jumbo Cola Fles 6 x 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 0.25,
     "minimumAmount": 1,

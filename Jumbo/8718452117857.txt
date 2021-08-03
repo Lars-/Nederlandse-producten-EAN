@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "160955PAK",
     "name": "Jumbo Mix voor Ouderwets Lekkere Fijne Cake 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.68,
     "minimumAmount": 1,

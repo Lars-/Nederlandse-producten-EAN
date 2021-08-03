@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "395075POT",
     "name": "Jumbo Filled Fresh Mint Suikervrije Kauwgom 50 Stuks 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.97,
     "minimumAmount": 1,

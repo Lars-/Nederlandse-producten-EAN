@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "291880BAK",
     "name": "Jumbo Filet Americain Ui 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 2.49,
     "minimumAmount": 1,

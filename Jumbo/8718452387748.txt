@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "42732PAK",
     "name": "Jumbo Eierkoeken 10 stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.82,
     "minimumAmount": 1,

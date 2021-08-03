@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "441635EM",
     "name": "Jumbo Brabantse Stijl Borrelmix 275g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.49,
     "minimumAmount": 1,

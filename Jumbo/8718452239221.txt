@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "385978CUP",
     "name": "Jumbo Hazelnoten 95g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.65,
     "minimumAmount": 1,

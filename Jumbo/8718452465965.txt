@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "349002STK",
     "name": "La Place - Rustiek Olijfbrood",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.79,
     "minimumAmount": 1,

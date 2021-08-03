@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "166864ZK",
     "name": "Jumbo Kattenbakvulling Silicagel 3, 8L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.58,
     "minimumAmount": 1,

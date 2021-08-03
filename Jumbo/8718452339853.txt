@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "225564DSL",
     "name": "La Place Groene Thee Jasmijn 6 x 15 Theezakjes",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 10.14,
     "minimumAmount": 1,

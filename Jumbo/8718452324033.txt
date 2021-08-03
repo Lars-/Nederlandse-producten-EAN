@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "208157DSL",
     "name": "JUMBO PARTY TOAST SESAM",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 14.6,
     "minimumAmount": 1,

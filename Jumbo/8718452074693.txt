@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "305815BAK",
     "name": "Jumbo Grote Garnalen Naturel 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.85,
     "minimumAmount": 1,

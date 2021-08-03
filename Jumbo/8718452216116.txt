@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "181527STK",
     "name": "Jumbo Kip Noten Salade 125g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

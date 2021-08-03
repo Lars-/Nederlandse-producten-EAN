@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "26293POT",
     "name": "Jumbo Pindakaas Naturel 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.82,
     "minimumAmount": 1,

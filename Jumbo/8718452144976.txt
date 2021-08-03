@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "167044DS",
     "name": "Jumbo Stevige Rundvlees Soep 3 Zakjes",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.4,
     "minimumAmount": 1,

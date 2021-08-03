@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "190171DS",
     "name": "Jumbo Granola Rozijnen, Pitten, Kokoschips, Noten 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.74,
     "minimumAmount": 1,

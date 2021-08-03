@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "415070BAK",
     "name": "Jumbo Buddha Bowl Kip met Koolsalade, Rode Rijst, Houmous en Cherrytomaten 275g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.19,
     "minimumAmount": 1,

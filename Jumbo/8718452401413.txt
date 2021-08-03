@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "282887CUP",
     "name": "La Place Dessert Advocaat Vanille Mousse met Chocoladesaus 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.19,
     "minimumAmount": 1,

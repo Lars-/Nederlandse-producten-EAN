@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "386260FLS",
     "name": "Jumbo Knoflook Saus 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.71,
     "minimumAmount": 1,

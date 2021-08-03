@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "184213SC",
     "name": "JUMBO Mild Peper Mix 50g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

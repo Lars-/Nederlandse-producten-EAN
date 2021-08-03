@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "179261STK",
     "name": "Jumbo Verse Pizzabodems 2 x 265g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.82,
     "minimumAmount": 1,

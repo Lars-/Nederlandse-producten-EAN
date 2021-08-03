@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "166532FLS",
     "name": "Jumbo Hair & Body 2 in 1 Man 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.26,
     "minimumAmount": 1,

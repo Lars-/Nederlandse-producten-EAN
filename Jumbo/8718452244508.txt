@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "190392DS",
     "name": "Jumbo Koffiefilters nr.4 100 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 0.48,
     "minimumAmount": 1,

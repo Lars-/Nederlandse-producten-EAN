@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "186924DS",
     "name": "Jumbo WC Blok Lavendel Navulling 2 x 40g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.98,
     "minimumAmount": 1,

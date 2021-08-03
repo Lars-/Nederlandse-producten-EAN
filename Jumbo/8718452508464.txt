@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "383158ZK",
     "name": "La Place Assortiment van Chocolade 180g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.89,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "292066STK",
     "name": "Jumbo Cheddar Kaas Kleinverpakking 50+ 72g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1,
     "minimumAmount": 1,

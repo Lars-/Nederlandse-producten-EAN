@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "302242STK",
     "name": "Jumbo Paprika Geel",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

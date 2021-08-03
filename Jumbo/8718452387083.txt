@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "305379FLS",
     "name": "La Place Aceto Balsamico di Modena IGP 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.47,
     "minimumAmount": 1,

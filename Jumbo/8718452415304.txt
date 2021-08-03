@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "315328FLS",
     "name": "Jumbo Handzeep Coconut Foam 300ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.29,
     "minimumAmount": 1,

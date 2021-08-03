@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "424012STK",
     "name": "Jumbo - Hamburgerbroodjes Bruin 4 stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.5,
     "minimumAmount": 1,

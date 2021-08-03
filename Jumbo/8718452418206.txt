@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "291450BAK",
     "name": "Jumbo Asian Food Festival Vega Nasi 260g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.72,
     "minimumAmount": 1,

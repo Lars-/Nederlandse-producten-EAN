@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "192209STK",
     "name": "Jumbo Keukenreiniger 750ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.67,
     "minimumAmount": 1,

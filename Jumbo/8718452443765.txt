@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "348750FLS",
     "name": "Jumbo Sojasaus 41% Minder Zout 150ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.49,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "304146BLK",
     "name": "Jumbo Ragout Rund 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.38,
     "minimumAmount": 1,

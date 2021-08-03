@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "165240POT",
     "name": "Jumbo Chocopasta Puur Biologisch 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.15,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "439022ZK",
     "name": "Jumbo Gom Ballen Zoet & Zacht 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.38,
     "minimumAmount": 1,

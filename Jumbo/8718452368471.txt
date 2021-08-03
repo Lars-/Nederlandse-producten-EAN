@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "262853FLS",
     "name": "Jumbo Schoonmaak Ammonia 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.59,
     "minimumAmount": 1,

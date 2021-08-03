@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "159586FLS",
     "name": "Jumbo Allesreiniger Hibiscus & Cranberry 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.79,
     "minimumAmount": 1,

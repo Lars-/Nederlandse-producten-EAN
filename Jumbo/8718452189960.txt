@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "56775STK",
     "name": "Jumbo Blauw Water Stortbakblokken Ocean 2 x 50g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.17,
     "minimumAmount": 1,

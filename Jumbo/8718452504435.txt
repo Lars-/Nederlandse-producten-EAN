@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "422548PAK",
     "name": "Jumbo Tomaten Gezeefd Passata 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.49,
     "minimumAmount": 1,

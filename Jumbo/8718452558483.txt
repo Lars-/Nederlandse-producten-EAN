@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "428985TUB",
     "name": "Jumbo Barbecue Sauce Original American Style 240ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.39,
     "minimumAmount": 1,

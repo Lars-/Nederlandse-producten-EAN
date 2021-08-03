@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "221367POT",
     "name": "Jumbo Tomaat Mascarpone Pastasaus 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.21,
     "minimumAmount": 1,

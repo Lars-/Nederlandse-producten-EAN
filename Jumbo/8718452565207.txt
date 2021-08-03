@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "174185ZK",
     "name": "Jumbo Spelt Volkoren Penne Biologisch 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.16,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "213589BAK",
     "name": "Jumbo Rund & Varken Slagersgehaktbal 4 Stuks 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.29,
     "minimumAmount": 1,

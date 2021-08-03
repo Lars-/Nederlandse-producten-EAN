@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "427730CUP",
     "name": "Jumbo Kipdijstukjes met Knoflooksaus 90g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.29,
     "minimumAmount": 1,

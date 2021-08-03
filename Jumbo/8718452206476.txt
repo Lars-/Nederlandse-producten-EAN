@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "183558FLS",
     "name": "Jumbo Dikbleek Lavendel 750ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.98,
     "minimumAmount": 1,

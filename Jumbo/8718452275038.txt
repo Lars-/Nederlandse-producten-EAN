@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "193567FLS",
     "name": "Jumbo Fruitsap Appel Peer Framboos 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.41,
     "minimumAmount": 1,

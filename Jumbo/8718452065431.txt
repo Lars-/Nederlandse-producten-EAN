@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "153957ROL",
     "name": "Jumbo Marie Biscuit 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.85,
     "minimumAmount": 1,

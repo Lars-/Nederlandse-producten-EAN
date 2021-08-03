@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "157447DS",
     "name": "Jumbo Cornets Aardbei Ijsjes 6 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.77,
     "minimumAmount": 1,

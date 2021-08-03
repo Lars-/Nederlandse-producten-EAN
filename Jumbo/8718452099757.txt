@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "202940POT",
     "name": "Jumbo Mayonaise 350ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.78,
     "minimumAmount": 1,

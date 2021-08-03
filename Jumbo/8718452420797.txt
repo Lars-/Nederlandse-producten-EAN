@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "317298ZK",
     "name": "Jumbo Gepelde Hazelnoten Ongebrand 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.55,
     "minimumAmount": 1,

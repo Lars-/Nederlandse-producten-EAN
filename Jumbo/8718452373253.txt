@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "283768STK",
     "name": "Jumbo Parijse Wortelen Diepvries 750g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.59,
     "minimumAmount": 1,

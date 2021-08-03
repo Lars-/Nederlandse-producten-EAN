@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "317295ZK",
     "name": "Jumbo Gepelde Pistachenoten Ongebrand 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 7.98,
     "minimumAmount": 1,

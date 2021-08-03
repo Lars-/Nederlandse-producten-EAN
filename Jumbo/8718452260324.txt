@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "194782STK",
     "name": "Jumbo Boemboe Nasi Goreng 95g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.8,
     "minimumAmount": 1,

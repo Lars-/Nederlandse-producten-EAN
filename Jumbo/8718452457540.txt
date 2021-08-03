@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "340705TRA",
     "name": "Jumbo Runderhamburgers Biologisch 2 Stuks 180g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.79,
     "minimumAmount": 1,

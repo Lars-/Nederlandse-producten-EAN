@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "97533STK",
     "name": "JUMBO BOEK OP HETE KOLEN",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 2.99,
     "minimumAmount": 1,

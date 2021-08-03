@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "340472POT",
     "name": "Jumbo Romige Clotted Cream 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.78,
     "minimumAmount": 1,

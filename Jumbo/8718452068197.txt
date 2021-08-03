@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "149199DS",
     "name": "Jumbo Kleurbeschermers Doekjes 12 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.84,
     "minimumAmount": 1,

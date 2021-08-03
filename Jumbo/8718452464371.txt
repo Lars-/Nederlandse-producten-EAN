@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "386923BAK",
     "name": "Jumbo Lekker Veggie Kipstukjes Vegan 175g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.96,
     "minimumAmount": 1,

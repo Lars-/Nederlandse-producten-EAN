@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "220626PAK",
     "name": "Jumbo Tortilla Naturel XL 12 Stuks - Voordeelverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.75,
     "minimumAmount": 1,

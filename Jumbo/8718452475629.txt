@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "376345TUB",
     "name": "Garden Goods Fig Rose Hand Cream 75ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.19,
     "minimumAmount": 1,

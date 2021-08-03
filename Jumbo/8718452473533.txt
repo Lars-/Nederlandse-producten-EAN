@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "360524STK",
     "name": "Jumbo Barbecueworst Pizza 390g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.29,
     "minimumAmount": 1,

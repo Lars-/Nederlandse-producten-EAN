@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "174446ZK",
     "name": "Jumbo Caviavoer 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.41,
     "minimumAmount": 1,

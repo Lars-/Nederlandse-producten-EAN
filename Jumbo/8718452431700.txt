@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "294728STK",
     "name": "Goudeerlijk - Zonnepit Wit - Vriesvers",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.25,
     "minimumAmount": 1,

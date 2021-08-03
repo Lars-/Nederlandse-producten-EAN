@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "379465PAK",
     "name": "Jumbo Sojadrink Ongezoet 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.59,
     "minimumAmount": 1,

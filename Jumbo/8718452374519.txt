@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "224992PAK",
     "name": "Jumbo - Pita Broodjes Griekse Stijl - 5 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.26,
     "minimumAmount": 1,

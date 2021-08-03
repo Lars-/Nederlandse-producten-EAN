@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195727STK",
     "name": "Jumbo Oester Saus 175ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.86,
     "minimumAmount": 1,

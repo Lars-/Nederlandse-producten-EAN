@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "383377CUP",
     "name": "Jumbo Amandelen Bruin 95g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.28,
     "minimumAmount": 1,

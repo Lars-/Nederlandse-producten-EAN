@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "207143STK",
     "name": "Jumbo Rozemarijn Vers 15g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.14,
     "minimumAmount": 1,

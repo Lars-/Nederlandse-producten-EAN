@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "183592DS",
     "name": "Jumbo Kattenbakvulling Ultra Klontvormend 6L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.84,
     "minimumAmount": 1,

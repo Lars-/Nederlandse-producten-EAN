@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "329514ZK",
     "name": "Jumbo Fijne Soepgroente 400 g - Voordeelverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.36,
     "minimumAmount": 1,

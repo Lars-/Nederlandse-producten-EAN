@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "442811STK",
     "name": "Jumbo Rainbow Layercake",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 6.49,
     "minimumAmount": 1,

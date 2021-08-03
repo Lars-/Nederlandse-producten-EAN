@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "167840DS",
     "name": "Jumbo Volkoren Rigatoni Biologisch 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.86,
     "minimumAmount": 1,

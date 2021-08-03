@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "412093CUP",
     "name": "Jumbo Pinda's met Vlies \/ Gebakken Gezouten 175g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.25,
     "minimumAmount": 1,

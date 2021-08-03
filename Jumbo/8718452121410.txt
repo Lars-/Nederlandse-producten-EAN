@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "163621FLS",
     "name": "Jumbo Cremespoeling Moroccan Argan Oil 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.39,
     "minimumAmount": 1,

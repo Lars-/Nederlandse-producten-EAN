@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "47348PAK",
     "name": "Jumbo Mix voor Italiaanse Pizza Bodem 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.71,
     "minimumAmount": 1,

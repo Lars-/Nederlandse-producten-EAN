@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "306818STK",
     "name": "Jumbo Lekker Veggie Notenballetjes Vegetarisch 170g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.96,
     "minimumAmount": 1,

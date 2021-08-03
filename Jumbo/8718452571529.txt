@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "443105BAK",
     "name": "Jumbo Gehaktballetjes Indische Stijl 216g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.7,
     "minimumAmount": 1,

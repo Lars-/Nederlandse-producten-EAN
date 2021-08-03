@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "164570STK",
     "name": "Jumbo Sinaasappelsap  Biologisch 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.18,
     "minimumAmount": 1,

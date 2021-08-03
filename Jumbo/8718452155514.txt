@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "392282DS",
     "name": "Jumbo Zoete Kersen Diepvries 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.54,
     "minimumAmount": 1,

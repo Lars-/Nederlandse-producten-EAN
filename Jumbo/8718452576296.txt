@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "447537CUP",
     "name": "Romige Kippensoep 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.99,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "376385BUS",
     "name": "Garden Goods Lily Jasmine Shower Foam 200ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.69,
     "minimumAmount": 1,

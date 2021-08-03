@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "427846FLS",
     "name": "Jumbo Sinas Fresh & Fruity 1, 5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.58,
     "minimumAmount": 1,

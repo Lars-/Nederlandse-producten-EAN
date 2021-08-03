@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "438295DS",
     "name": "Jumbo 12 Espresso Ultimo Koffiecups 40 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.49,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "270854STK",
     "name": "Jumbo Suikerwafels met Chocolade 7 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.36,
     "minimumAmount": 1,

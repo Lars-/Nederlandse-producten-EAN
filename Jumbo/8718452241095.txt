@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "190169STK",
     "name": "Jumbo Kersen Dessertsaus 260g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.85,
     "minimumAmount": 1,

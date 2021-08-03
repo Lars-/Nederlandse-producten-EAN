@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "378529PAK",
     "name": "Dors Bier 0,0% 6 x 330ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

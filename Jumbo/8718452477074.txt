@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "300467DS",
     "name": "Jumbo Meergranen Biscuits Rozijn Voordeel Verpakking 9 x 37, 5g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.47,
     "minimumAmount": 1,

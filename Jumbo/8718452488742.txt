@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "383469FLS",
     "name": "Jumbo Bakken & Braden 400ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.05,
     "minimumAmount": 1,

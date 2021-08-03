@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "306324ZK",
     "name": "Jumbo - Maaltijd Pita Broodjes - 5 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.69,
     "minimumAmount": 1,

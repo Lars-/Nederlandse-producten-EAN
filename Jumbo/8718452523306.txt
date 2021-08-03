@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "347465PAK",
     "name": "Jumbo - Frikandel Broodjes - 2 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.5,
     "minimumAmount": 1,

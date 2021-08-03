@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "64695PAK",
     "name": "Jumbo Efteling Sprookjesboom Pleisters 18 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.53,
     "minimumAmount": 1,

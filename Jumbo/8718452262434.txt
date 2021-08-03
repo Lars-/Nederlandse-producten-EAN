@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "302175POT",
     "name": "Jumbo Extra Fijne Doperwten Wortelen 340g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

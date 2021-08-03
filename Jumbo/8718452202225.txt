@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "176746PAK",
     "name": "Jumbo Mango 2 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.99,
     "minimumAmount": 1,

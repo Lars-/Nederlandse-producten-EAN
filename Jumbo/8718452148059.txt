@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "394091ZK",
     "name": "Jumbo Feestmix Krokant 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.48,
     "minimumAmount": 1,

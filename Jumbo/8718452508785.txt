@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "431309ZK",
     "name": "Jumbo Zachte Brokken met Gevogelte & Wortel 800g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.39,
     "minimumAmount": 1,

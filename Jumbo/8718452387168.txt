@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "37285PAK",
     "name": "Jumbo Boterkoek Punten 5 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.38,
     "minimumAmount": 1,

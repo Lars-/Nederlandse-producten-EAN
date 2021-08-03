@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "202744STK",
     "name": "Jumbo Bleek WC Blok Ocean 2 x 48g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.98,
     "minimumAmount": 1,

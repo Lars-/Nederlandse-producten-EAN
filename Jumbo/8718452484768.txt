@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "383593PAK",
     "name": "Jumbo Maaltijdpakket Vietnamese Springroll 900g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.49,
     "minimumAmount": 1,

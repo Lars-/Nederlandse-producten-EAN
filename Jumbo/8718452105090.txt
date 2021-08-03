@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "269295FLS",
     "name": "Jumbo Huiswijn - Halfzoet - 250ML",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.87,
     "minimumAmount": 1,

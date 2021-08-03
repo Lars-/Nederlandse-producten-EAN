@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "193591FLS",
     "name": "Jumbo Fruitsap Sinaasappel 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.7,
     "minimumAmount": 1,

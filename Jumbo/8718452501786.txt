@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "398359ZK",
     "name": "Jumbo Sticks Naturel Chips 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.54,
     "minimumAmount": 1,

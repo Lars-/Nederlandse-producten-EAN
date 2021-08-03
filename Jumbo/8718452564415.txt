@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "437283BAK",
     "name": "Jumbo Daging Rendang 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5,
     "minimumAmount": 1,

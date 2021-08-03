@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "445697STK",
     "name": "Jumbo Coburger 130g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.3,
     "minimumAmount": 1,

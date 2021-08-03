@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "382005FLS",
     "name": "Jumbo Baby Shampoo 300ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.64,
     "minimumAmount": 1,

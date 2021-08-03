@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "194763PAK",
     "name": "Jumbo Soeppakket Tomatensoep 4 Personen",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.59,
     "minimumAmount": 1,

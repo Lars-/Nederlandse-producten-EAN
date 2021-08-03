@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "203859PAK",
     "name": "Jumbo Kipfilet 130g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.39,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "305996DS",
     "name": "Jumbo Spices Kaneel 20 Stuks 32g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.78,
     "minimumAmount": 1,

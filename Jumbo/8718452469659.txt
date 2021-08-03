@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "207108BAK",
     "name": "Jumbo Filet Americain Speciaal 175g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 2.37,
     "minimumAmount": 1,

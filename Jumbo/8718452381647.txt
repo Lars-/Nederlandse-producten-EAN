@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "269302FLS",
     "name": "Jumbo Huiswijn - Droog & Fris - Ros\u00e9 - 250ML",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.87,
     "minimumAmount": 1,

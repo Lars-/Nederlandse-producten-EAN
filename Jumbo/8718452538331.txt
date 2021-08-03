@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "422587POT",
     "name": "Jumbo Bosvruchten Fruitspread 290g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.62,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "403743EM",
     "name": "Jumbo Witte Kaas Blokjes 26+ 370g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.29,
     "minimumAmount": 1,

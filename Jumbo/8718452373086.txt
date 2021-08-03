@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "438800ZK",
     "name": "Jumbo Boerenkool Deelblokjes 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.4,
     "minimumAmount": 1,

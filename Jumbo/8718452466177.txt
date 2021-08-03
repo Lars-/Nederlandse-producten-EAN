@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "361182DSL",
     "name": "Jumbo EK Luierbroekjes Maat 5 12-17 kg - 4 x 20 Stuks - Voordeelverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 19.56,
     "minimumAmount": 1,

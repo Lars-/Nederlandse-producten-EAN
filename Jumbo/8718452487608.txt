@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "375639DS",
     "name": "Jumbo Steenoven Gebakken Pizza Prosciutto 40\u0417 g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.25,
     "minimumAmount": 1,

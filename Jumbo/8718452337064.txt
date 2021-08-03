@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "224807DS",
     "name": "Jumbo Gourmet en BBQ Sauzen 5 x 80ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.19,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195813STK",
     "name": "Jumbo Sambal Brandal 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.55,
     "minimumAmount": 1,

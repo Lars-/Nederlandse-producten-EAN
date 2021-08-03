@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "438604STK",
     "name": "Jumbo Munster en Kletzz Cranberry 160g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4,
     "minimumAmount": 1,

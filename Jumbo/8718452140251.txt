@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "340348BLK",
     "name": "Jumbo Hotdog 560g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.83,
     "minimumAmount": 1,

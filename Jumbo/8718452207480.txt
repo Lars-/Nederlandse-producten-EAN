@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "181324TRL",
     "name": "Jumbo Fruitcocktail op Siroop 6 x 820g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 7.8,
     "minimumAmount": 1,

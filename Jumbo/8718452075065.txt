@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "153864PAK",
     "name": "Jumbo Honden Snackstick Bacon 85g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.19,
     "minimumAmount": 1,

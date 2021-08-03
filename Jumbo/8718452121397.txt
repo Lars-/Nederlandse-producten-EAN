@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "163625FLS",
     "name": "Jumbo Repair Shampoo 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.58,
     "minimumAmount": 1,

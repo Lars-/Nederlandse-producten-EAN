@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "226838FLS",
     "name": "Jumbo Wasmiddel Color Charming Magnolia 28 Wasbeurten 980ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.19,
     "minimumAmount": 1,

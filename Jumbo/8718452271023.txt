@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "88320STK",
     "name": "Jumbo Sereh \/ Citroengras 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.15,
     "minimumAmount": 1,

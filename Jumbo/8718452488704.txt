@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "381012BAK",
     "name": "Jumbo Filet Americain Spicy Speciaal 175g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.37,
     "minimumAmount": 1,

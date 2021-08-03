@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "159314STK",
     "name": "Jumbo Opzetborstels Elektrische Tandenborstel 2 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 3.85,
     "minimumAmount": 1,

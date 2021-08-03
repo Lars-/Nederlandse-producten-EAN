@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "283628STK",
     "name": "Jumbo Mexicaanse Saus Salsa Taco",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.09,
     "minimumAmount": 1,

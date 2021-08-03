@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "276967FLS",
     "name": "La Place Azijn Witte Balsamico 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.61,
     "minimumAmount": 1,

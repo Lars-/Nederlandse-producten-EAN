@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "423744ZK",
     "name": "Jumbo Snack Mix Uitdeelzakjes 15 Stuks 291g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 2.69,
     "minimumAmount": 1,

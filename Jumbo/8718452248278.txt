@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "305990DS",
     "name": "Jumbo Kruidenthee Munt 15 Stuks 22, 5g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.86,
     "minimumAmount": 1,

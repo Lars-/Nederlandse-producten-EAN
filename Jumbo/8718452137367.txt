@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "216784POT",
     "name": "Jumbo Tomaten Sugo met Italiaanse Kruiden 690g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.09,
     "minimumAmount": 1,

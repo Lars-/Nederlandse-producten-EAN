@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "308452BAK",
     "name": "Jumbo Scharrel Kiphaasjes 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.89,
     "minimumAmount": 1,

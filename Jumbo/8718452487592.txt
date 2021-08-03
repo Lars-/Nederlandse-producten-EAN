@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "393125DS",
     "name": "Jumbo Premium Pizza Salami 438g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.25,
     "minimumAmount": 1,

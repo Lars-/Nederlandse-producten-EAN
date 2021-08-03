@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "426982KRT",
     "name": "Jumbo Gemarineerde Garnalen met Groene Aspergetips 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.5,
     "minimumAmount": 1,

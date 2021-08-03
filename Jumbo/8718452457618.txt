@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "426144STK",
     "name": "Jumbo Briketten 3kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.18,
     "minimumAmount": 1,

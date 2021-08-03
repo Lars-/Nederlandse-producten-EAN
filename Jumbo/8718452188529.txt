@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "246250ZK",
     "name": "Jumbo Koffiebroodjes met Rozijnen & Bakkersroom 6 stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.89,
     "minimumAmount": 1,

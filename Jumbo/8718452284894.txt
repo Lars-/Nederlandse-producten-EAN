@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "386317ZK",
     "name": "Jumbo Harira Soep Marokkaanse Stijl 570ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.03,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "425598EM",
     "name": "Jumbo Italiaanse Burrata 50+ 193g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.02,
     "minimumAmount": 1,

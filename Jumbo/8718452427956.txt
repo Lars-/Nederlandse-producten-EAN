@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "338075PAK",
     "name": "Jumbo Bakkers Krakelingen met Roomboter 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.09,
     "minimumAmount": 1,

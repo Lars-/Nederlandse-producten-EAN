@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "342031BAK",
     "name": "Goudse Kaas 48+ Extra Belegen Stuk 935 g - Voordeelverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 7,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "208231BAK",
     "name": "Jumbo Varken Slavink 4 Stuks 420g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3,
     "minimumAmount": 1,

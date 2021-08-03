@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "424286TRA",
     "name": "Jumbo Burger Mexicaans 2 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.5,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "380106ZK",
     "name": "Jumbo Aardappelen Vastkokend 3kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.09,
     "minimumAmount": 1,

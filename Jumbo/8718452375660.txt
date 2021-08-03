@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "243698STK",
     "name": "Jumbo Geitenkaas Schijfjes 50+ 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.19,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "349895DS",
     "name": "Jumbo Ananas 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.24,
     "minimumAmount": 1,

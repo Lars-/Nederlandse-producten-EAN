@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "294721FLS",
     "name": "Jumbo - Chianti Riserva - Sangiovese - Canaiolo - 750ML",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6.49,
     "minimumAmount": 1,

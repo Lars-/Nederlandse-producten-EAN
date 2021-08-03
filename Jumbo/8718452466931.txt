@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "389703PAK",
     "name": "Jumbo Cola Zero Sugar 6 x 1, 5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 3.85,
     "minimumAmount": 1,

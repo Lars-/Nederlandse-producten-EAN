@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "394226PKL",
     "name": "Jumbo Franse Kwark Halfvol 6 x 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 7.08,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "300200STK",
     "name": "Jumbo - Wit Brood met Melk - Half",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.71,
     "minimumAmount": 1,

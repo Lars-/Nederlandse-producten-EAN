@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "338860BLK",
     "name": "Jumbo Ma\u00efskorrels 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.28,
     "minimumAmount": 1,

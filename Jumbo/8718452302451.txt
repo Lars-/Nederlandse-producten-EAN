@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "201410BAK",
     "name": "Jumbo Stracciatella Roomijs 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.16,
     "minimumAmount": 1,

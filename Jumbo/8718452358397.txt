@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "392571DS",
     "name": "Jumbo Melk Biscuits Aardbeiensmaak 9 x 2 Stuks 41g - Voordeelverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.84,
     "minimumAmount": 1,

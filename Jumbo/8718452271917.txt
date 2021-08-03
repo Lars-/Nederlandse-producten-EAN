@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "308764BAK",
     "name": "Jumbo Kippendij Sat\u00e9 zonder Stokjes 180g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.68,
     "minimumAmount": 1,

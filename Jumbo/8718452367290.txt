@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "224389PAK",
     "name": "Jumbo Kokosmelk Romig 200ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.83,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "161687BKR",
     "name": "Jumbo Magere Kwark met Yoghurt Vanille 0% Vet 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.58,
     "minimumAmount": 1,

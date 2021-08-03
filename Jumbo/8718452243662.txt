@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "188538PAK",
     "name": "Jumbo - Mini Worstenbroodjes - 12 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.23,
     "minimumAmount": 1,

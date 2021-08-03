@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "38946PAK",
     "name": "Jumbo Tonnies met Sinaasappelvulling en Chocolade 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.68,
     "minimumAmount": 1,

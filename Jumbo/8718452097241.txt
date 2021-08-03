@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "156195PAK",
     "name": "Dors Cerveza Flessen 6 x 330ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.87,
     "minimumAmount": 1,

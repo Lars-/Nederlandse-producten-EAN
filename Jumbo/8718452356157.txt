@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "300158STK",
     "name": "Jumbo - Wit Boeren Brood - Half",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.74,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "278433DS",
     "name": "Jumbo Taco Shells 12 Stuks 135g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.38,
     "minimumAmount": 1,

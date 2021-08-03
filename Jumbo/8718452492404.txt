@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "294614BAK",
     "name": "Jumbo Gegrilde Spareribs BBQ 600g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "194764PAK",
     "name": "Jumbo Groentesoep 4-6 Personen",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.99,
     "minimumAmount": 1,

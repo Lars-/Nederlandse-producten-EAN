@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "421580BUS",
     "name": "Jumbo Plantaardige Topping 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.57,
     "minimumAmount": 1,

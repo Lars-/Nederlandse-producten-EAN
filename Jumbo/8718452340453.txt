@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "213807FLS",
     "name": "Jumbo Groentesap Avocado Spinazie Komkommer Appel Peer 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.47,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "204672BAK",
     "name": "Jumbo Kipburger 4 Stuks 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.59,
     "minimumAmount": 1,

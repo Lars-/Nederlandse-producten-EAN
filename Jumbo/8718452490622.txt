@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "385802BAK",
     "name": "Jumbo Huzaren Salade 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.37,
     "minimumAmount": 1,

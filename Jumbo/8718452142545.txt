@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "170385TUB",
     "name": "Jumbo Nagellakremover 125ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.98,
     "minimumAmount": 1,

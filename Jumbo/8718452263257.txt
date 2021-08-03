@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "194304BAK",
     "name": "Jumbo Ongezouten Studenten Haver 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.97,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "300441PAK",
     "name": "Jumbo Vlaamse Frites 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.56,
     "minimumAmount": 1,

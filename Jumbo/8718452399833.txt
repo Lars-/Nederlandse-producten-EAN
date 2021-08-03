@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "283684PAK",
     "name": "Jumbo Vochtig Toiletpapier 0% Parfum 40 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.5,
     "minimumAmount": 1,

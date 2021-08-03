@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "300140STK",
     "name": "Jumbo - Wit Brood",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1,
     "minimumAmount": 1,

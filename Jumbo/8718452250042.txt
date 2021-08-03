@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "187471BAK",
     "name": "Jumbo Varken Chipolataworst 5 Stuks 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.65,
     "minimumAmount": 1,

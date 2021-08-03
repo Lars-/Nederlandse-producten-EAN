@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "211790BAK",
     "name": "Jumbo Stamppot Andijvie met Gehaktbal 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.5,
     "minimumAmount": 1,

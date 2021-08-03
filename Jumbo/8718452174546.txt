@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "74986DS",
     "name": "Jumbo Chocolade Amandel Ijsjes 4 stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.33,
     "minimumAmount": 1,

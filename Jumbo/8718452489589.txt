@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "371002DS",
     "name": "Jumbo Oven Bladerdeeg Hapjes 16 Stuks 192g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.5,
     "minimumAmount": 1,

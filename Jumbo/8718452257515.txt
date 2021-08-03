@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "235449FLS",
     "name": "Jumbo Ecologisch Wasmiddel Wit 23 Wasbeurten 1, 5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 4,
     "minimumAmount": 1,

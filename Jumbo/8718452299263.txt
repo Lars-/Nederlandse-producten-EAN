@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "223152BAK",
     "name": "Jumbo Jong Belegen Kaas 30+ Stuk 455g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.31,
     "minimumAmount": 1,

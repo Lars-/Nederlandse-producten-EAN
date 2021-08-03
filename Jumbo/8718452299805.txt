@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "204492STK",
     "name": "Jumbo Peterselie Vers 30g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.88,
     "minimumAmount": 1,

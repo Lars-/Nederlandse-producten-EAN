@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "200906ZK",
     "name": "Jumbo Gebroken Sperziebonen 600g - Voordeelverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.95,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "442485STK",
     "name": "Jumbo Vegan Nuggets Krokant 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.5,
     "minimumAmount": 1,

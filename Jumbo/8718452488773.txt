@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "383286PAK",
     "name": "Jumbo Bakken & Braden 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.42,
     "minimumAmount": 1,

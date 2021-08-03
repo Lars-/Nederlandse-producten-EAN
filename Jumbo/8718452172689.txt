@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "194306BAK",
     "name": "Jumbo Melk Chocolade Pinda's 210g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.27,
     "minimumAmount": 1,

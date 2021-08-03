@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "398355ZK",
     "name": "Jumbo Knapperige Naturel Chips 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.78,
     "minimumAmount": 1,

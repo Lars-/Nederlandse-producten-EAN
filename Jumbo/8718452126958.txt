@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "164444POT",
     "name": "Jumbo Frisse Zoete Appelpuree Biologisch 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.83,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "210073FLS",
     "name": "Orbea - Prosecco - 750ML",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.99,
     "minimumAmount": 1,

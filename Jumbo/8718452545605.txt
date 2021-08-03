@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "432702BAK",
     "name": "Jumbo Kastanje Champignons Klasse Apart 300g\u2019",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.49,
     "minimumAmount": 1,

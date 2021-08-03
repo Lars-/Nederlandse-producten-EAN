@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "147637BLK",
     "name": "Jumbo Hondenbrokken In Saus Rund en Groenten 830g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.95,
     "minimumAmount": 1,

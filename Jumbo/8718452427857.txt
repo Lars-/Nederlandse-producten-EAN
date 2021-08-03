@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "332326PAK",
     "name": "Jumbo Variatie Koekjes met Roomboter 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.44,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "424038STK",
     "name": "Jumbo Luxe Mini Gebakjes 6 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6,
     "minimumAmount": 1,

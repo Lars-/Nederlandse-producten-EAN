@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "271146BAK",
     "name": "Jumbo Koriander Vers 40 g - Voordeelverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.18,
     "minimumAmount": 1,

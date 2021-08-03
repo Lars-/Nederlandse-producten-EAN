@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195433STK",
     "name": "Jumbo Woksaus 5 Spices 200ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.82,
     "minimumAmount": 1,

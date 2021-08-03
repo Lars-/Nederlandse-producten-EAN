@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "365315ZK",
     "name": "Jumbo Aardappel Schotel Bourgondisch 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.74,
     "minimumAmount": 1,

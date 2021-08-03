@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "317474ZK",
     "name": "Jumbo Geraspt Kaas 45+ Pasta 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.83,
     "minimumAmount": 1,

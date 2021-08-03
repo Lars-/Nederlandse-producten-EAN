@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "153794ZK",
     "name": "Jumbo Haardblok 1 Stuk",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.19,
     "minimumAmount": 1,

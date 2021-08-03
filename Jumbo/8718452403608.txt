@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "380242STK",
     "name": "Jumbo Mini Stol met Amandelspijs 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.69,
     "minimumAmount": 1,

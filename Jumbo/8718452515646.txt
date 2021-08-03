@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "399773STK",
     "name": "Jumbo Koolvishaasjes Naturel 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3,
     "minimumAmount": 1,

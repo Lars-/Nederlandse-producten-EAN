@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "218408STK",
     "name": "Jumbo Honden Kauwbot Rund 80g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.84,
     "minimumAmount": 1,

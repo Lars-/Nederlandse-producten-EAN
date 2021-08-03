@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "432220FLS",
     "name": "Jumbo Helder Bruisend Water Perzik 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.5,
     "minimumAmount": 1,

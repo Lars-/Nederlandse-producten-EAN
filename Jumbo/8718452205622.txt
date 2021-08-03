@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "183222PAK",
     "name": "Jumbo Water & Fruit Light Appel & Kers Koolzuurvrij 1, 5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.89,
     "minimumAmount": 1,

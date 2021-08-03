@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "181395STK",
     "name": "Jumbo Blauw Water WC Blok 40g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.31,
     "minimumAmount": 1,

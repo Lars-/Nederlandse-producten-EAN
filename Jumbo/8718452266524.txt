@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "197648DS",
     "name": "Jumbo Porties Havermout Honing 5 Zakjes",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.89,
     "minimumAmount": 1,

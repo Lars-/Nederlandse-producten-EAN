@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "294522EM",
     "name": "Jumbo Sorbetijs Citroen 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.06,
     "minimumAmount": 1,

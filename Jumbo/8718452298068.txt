@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "202961DS",
     "name": "Jumbo Witte Chocolade & Framboos Ijsjes 3 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.02,
     "minimumAmount": 1,

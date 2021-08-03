@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "202960DS",
     "name": "Jumbo Mini Chocolade Amandel Ijsjes 8 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.67,
     "minimumAmount": 1,

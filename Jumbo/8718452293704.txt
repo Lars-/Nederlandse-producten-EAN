@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "194862PAK",
     "name": "Jumbo Maaltijdpakket Marokkaanse Couscous 1250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.94,
     "minimumAmount": 1,

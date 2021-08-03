@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "392061PAK",
     "name": "Jumbo Margarine 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.74,
     "minimumAmount": 1,

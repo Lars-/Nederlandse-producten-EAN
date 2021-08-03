@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "428549PAK",
     "name": "Jumbo Cola Light 6 x 1,5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.85,
     "minimumAmount": 1,

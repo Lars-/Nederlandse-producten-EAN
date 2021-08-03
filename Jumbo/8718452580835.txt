@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "443794BAK",
     "name": "Jumbo Broodje Hotdog New York Stijl 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.99,
     "minimumAmount": 1,

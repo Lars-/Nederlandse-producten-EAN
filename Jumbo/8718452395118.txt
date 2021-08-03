@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "442448STK",
     "name": "Jumbo Spekjes Mix met Vanillesmaak 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.92,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "164326PAK",
     "name": "Jumbo Spekreepjes Biologisch 2 x 75g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.16,
     "minimumAmount": 1,

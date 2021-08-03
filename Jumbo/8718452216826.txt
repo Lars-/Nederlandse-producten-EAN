@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "183735FLS",
     "name": "Jumbo Boomgaard Perensap 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.28,
     "minimumAmount": 1,

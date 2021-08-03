@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "208748DS",
     "name": "Jumbo Sweet Chili Spareribs 830g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6.03,
     "minimumAmount": 1,

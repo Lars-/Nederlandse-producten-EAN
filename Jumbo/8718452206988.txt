@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "188486BLK",
     "name": "Jumbo Cola Cherry 330ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.35,
     "minimumAmount": 1,

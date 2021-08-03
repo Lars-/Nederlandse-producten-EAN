@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "379870BAK",
     "name": "Jumbo Hartige Koekjes met Kaas 80g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

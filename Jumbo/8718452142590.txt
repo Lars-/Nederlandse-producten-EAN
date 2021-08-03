@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "169216ZK",
     "name": "Jumbo Spaghetti Naturel Biologisch 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.63,
     "minimumAmount": 1,

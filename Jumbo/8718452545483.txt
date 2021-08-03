@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "428309FLS",
     "name": "Jumbo Fresh Frizzante Mango Passionfruit Flavour 750ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.19,
     "minimumAmount": 1,

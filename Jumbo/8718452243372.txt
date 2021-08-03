@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "70840STK",
     "name": "Best Choice Groene Asperges 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.09,
     "minimumAmount": 1,

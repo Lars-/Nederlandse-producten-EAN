@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "204494STK",
     "name": "Jumbo Verse Italiaanse Kruidenmix 20g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

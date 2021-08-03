@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195808STK",
     "name": "Jumbo Sweet Chilisaus 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 0.63,
     "minimumAmount": 1,

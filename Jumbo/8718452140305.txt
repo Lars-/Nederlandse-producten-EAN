@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "340349BLK",
     "name": "Jumbo Knakworst Kip 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.2,
     "minimumAmount": 1,

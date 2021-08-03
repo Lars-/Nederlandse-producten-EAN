@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "390666BAK",
     "name": "Jumbo Rijkgevulde Nasi met Runder Stoofvlees 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.69,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "386278STK",
     "name": "Jumbo - Emoji Taart Hartjesoog",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 14.99,
     "minimumAmount": 1,

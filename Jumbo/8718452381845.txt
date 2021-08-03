@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "269299DSL",
     "name": "Jumbo Selection - Tempranillo - 6 x 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 22.74,
     "minimumAmount": 1,

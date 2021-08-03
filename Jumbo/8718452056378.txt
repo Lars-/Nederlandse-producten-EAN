@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "183557FLS",
     "name": "Jumbo Dikbleek Original 750ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.79,
     "minimumAmount": 1,

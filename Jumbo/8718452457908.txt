@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "385746BAK",
     "name": "Jumbo Rundvlees Salade 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.53,
     "minimumAmount": 1,

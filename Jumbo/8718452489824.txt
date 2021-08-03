@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "393436DS",
     "name": "Jumbo All-in-One Vaatwastabletten 80 x 16g - Voordeelverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.11,
     "minimumAmount": 1,

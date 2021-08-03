@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "435559FLS",
     "name": "Jumbo - Sauvignon Blanc - Biologisch - 375ML",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.79,
     "minimumAmount": 1,

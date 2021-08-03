@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "317400STK",
     "name": "Jumbo Appelcakejes 6 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.74,
     "minimumAmount": 1,

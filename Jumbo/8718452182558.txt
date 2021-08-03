@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "180842BAK",
     "name": "Jumbo Rundergehakt 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.5,
     "minimumAmount": 1,

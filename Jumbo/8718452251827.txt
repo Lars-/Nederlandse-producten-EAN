@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "211742PAK",
     "name": "Jumbo Aardappelgratin met Kaas 425g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.92,
     "minimumAmount": 1,

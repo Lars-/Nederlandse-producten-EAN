@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "206499STK",
     "name": "Jumbo Extra Large Inlegkruisjes 22 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.23,
     "minimumAmount": 1,

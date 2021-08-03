@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "383154ZK",
     "name": "Jumbo Aardappelen Friet 3kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.99,
     "minimumAmount": 1,

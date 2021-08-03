@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "387444STK",
     "name": "Jumbo - Vruchten Wener Gebakje - 2 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.79,
     "minimumAmount": 1,

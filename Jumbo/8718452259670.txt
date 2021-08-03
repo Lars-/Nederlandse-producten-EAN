@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "191036DS",
     "name": "Jumbo Gebak en Banket Halloweentaart",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 6.99,
     "minimumAmount": 1,

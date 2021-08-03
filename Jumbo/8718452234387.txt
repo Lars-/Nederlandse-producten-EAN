@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "192024PAK",
     "name": "Jumbo Boerenmetworst Kruidnagel 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.16,
     "minimumAmount": 1,

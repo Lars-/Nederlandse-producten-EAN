@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "259364BAK",
     "name": "Jumbo Gouda Holland Belegen Kaas 48+ Stuk Voordeelverpakking 910g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 8.38,
     "minimumAmount": 1,

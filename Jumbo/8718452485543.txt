@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "385896BKR",
     "name": "Jumbo Hollandaisesaus 240ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.29,
     "minimumAmount": 1,

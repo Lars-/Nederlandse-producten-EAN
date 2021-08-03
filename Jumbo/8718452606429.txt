@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "31810PAK",
     "name": "Jumbo Dubbelvla Aardbei & Vanille 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.39,
     "minimumAmount": 1,

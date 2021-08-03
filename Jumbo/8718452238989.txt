@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "385979CUP",
     "name": "Jumbo Pompoenpitten 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.37,
     "minimumAmount": 1,

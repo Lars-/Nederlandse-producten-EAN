@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "262125FLS",
     "name": "La Dolce Vita Basilicum Pastasaus 620g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.58,
     "minimumAmount": 1,

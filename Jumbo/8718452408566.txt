@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "26136PAK",
     "name": "Jumbo Confettini Cakejes 6 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.48,
     "minimumAmount": 1,

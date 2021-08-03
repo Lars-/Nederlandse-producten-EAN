@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195722PAK",
     "name": "Jumbo Maaltijdmix Nasi Speciaal 32, 4g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.49,
     "minimumAmount": 1,

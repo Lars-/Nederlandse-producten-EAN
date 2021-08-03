@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "393564STK",
     "name": "Jumbo Wit Geconcentreerd Vloeibaar Wasmiddel 20 Wasbeurten 1L, 0% Parfum",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.39,
     "minimumAmount": 1,

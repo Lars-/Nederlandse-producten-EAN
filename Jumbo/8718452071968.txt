@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "283556STK",
     "name": "Jumbo Mix Spaghetti Bolognese 59g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "72979PAK",
     "name": "Jumbo Space Shuttles 9 x 55g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.82,
     "minimumAmount": 1,

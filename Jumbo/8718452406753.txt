@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "319483ZK",
     "name": "Jumbo Extra Dark Voordeelverpakking 56 Koffie Pads 389g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.62,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "157591FLS",
     "name": "Jumbo Schimmel Aanslag Verwijderaar 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.93,
     "minimumAmount": 1,

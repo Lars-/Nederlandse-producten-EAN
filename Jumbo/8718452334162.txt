@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "223077STK",
     "name": "Jumbo Unixes Incontinentie Ondergoed Medium 12 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.29,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "230418BAK",
     "name": "Jumbo Maaltijdsalade Gerookte Kip Guacamole 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.46,
     "minimumAmount": 1,

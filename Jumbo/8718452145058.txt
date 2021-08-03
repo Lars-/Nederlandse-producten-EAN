@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "167064DS",
     "name": "Jumbo Hollandse Tomaten Soep 3 Zakjes 46",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.4,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "393855PAK",
     "name": "Jumbo Runderrookvlees Licht Gezouten Kleinverpakking 60g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.5,
     "minimumAmount": 1,

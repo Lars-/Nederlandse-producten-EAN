@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "396491BKR",
     "name": "Jumbo Witte Kaasblokjes 45+ 340g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

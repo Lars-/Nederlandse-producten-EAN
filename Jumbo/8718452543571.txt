@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "428129PAK",
     "name": "Jumbo Fruit Biscuits Bosvruchtensmaak 5 x 3 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

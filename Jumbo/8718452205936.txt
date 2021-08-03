@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "185808PAK",
     "name": "Jumbo Mini Crackers Olijfolie en Oregano 8 x 5 Crackers 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.41,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "213719POT",
     "name": "Jumbo Piccalilly Zoetzuur 375ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.64,
     "minimumAmount": 1,

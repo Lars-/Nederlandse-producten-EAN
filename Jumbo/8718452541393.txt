@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "373291BLK",
     "name": "Jumbo MSC Tonijnstukken met Groenten in Pikante Tomatensaus 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.48,
     "minimumAmount": 1,

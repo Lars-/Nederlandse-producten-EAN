@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "174715POT",
     "name": "Jumbo Gel Wax 75ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.29,
     "minimumAmount": 1,

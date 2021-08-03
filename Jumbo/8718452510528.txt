@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "386105STK",
     "name": "Jumbo Petrus Abdijkaas 45+ 138g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2,
     "minimumAmount": 1,

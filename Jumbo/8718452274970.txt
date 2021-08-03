@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "294182BLK",
     "name": "Jumbo Fruitsiroop Bosvruchten met Appel 750ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.29,
     "minimumAmount": 1,

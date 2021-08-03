@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "363319PAK",
     "name": "Jumbo Kaas met Cheddar 8 Plakken 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.68,
     "minimumAmount": 1,

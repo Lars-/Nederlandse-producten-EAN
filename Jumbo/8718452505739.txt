@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "387078BAK",
     "name": "Jumbo Paddenstoelenmix met Tijm ca. 175g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.49,
     "minimumAmount": 1,

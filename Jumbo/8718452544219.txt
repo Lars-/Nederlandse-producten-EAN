@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "417916POT",
     "name": "Jumbo Zoetzuur Blokjes Augurk 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.97,
     "minimumAmount": 1,

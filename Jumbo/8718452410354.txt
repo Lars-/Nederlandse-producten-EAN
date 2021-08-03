@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "215516BAK",
     "name": "Jumbo Pannenkoeken Naturel 8 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.09,
     "minimumAmount": 1,

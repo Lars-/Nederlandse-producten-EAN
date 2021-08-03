@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "227459POT",
     "name": "Jumbo Champignons Gesneden 280g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.57,
     "minimumAmount": 1,

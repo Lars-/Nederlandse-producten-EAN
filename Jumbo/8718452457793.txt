@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "213005NET",
     "name": "Jumbo Rode Uien 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.79,
     "minimumAmount": 1,

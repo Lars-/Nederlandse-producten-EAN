@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "368698DS",
     "name": "La Place Zoutje Kaaskoekjes Cheddar & Uienchutney met Roomboter 75g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.89,
     "minimumAmount": 1,

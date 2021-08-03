@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "412378STK",
     "name": "Jumbo Barbecue \/ Ontbijt Worst Pittig 7 Stuks 230g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.75,
     "minimumAmount": 1,

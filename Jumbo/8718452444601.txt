@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "340519DS",
     "name": "Jumbo Bitterballen 600g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.5,
     "minimumAmount": 1,

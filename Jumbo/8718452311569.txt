@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "211731STK",
     "name": "Jumbo Mexicaanse Roerbakmix 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.17,
     "minimumAmount": 1,

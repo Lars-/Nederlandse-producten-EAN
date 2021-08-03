@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "347006STK",
     "name": "Goudeerlijk - Kaas-Tomaat Bollen - 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "189883PAK",
     "name": "Jumbo Cake Plakjes 4 stuks x 60 g Verpakt",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.41,
     "minimumAmount": 1,

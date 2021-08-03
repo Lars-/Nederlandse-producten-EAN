@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "163081DSL",
     "name": "Jumbo Macaroni Ham & Kaas 8+ Maanden 6 x 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.64,
     "minimumAmount": 1,

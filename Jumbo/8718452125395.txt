@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "162462DSL",
     "name": "Jumbo Gelderse Rookworst 12 x 275g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 14.28,
     "minimumAmount": 1,

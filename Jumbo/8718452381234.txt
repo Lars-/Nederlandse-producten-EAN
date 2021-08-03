@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "294697STK",
     "name": "La Place - Bruin Pain Levain",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.65,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "437295BAK",
     "name": "Jumbo Groene Groenten met Groene Kruidenolie 325g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.5,
     "minimumAmount": 1,

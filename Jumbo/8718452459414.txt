@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "385800BAK",
     "name": "Jumbo Russisch Ei Schotel 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.67,
     "minimumAmount": 1,

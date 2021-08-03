@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "428547FLS",
     "name": "Jumbo Sparkling Ice Tea Zero Sugar 1, 5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.92,
     "minimumAmount": 1,

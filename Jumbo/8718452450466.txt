@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "342528BAK",
     "name": "Jumbo Verse Maaltijd Thaise Gele Curry met Kip, Zoete Aardappel en Pandanrijst 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "169597DS",
     "name": "Jumbo Brilpoetsdoekjes 30 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.95,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "226767TRA",
     "name": "Jumbo Varkensfiletsteak Gemarineerd 3 Stuks 240g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.5,
     "minimumAmount": 1,

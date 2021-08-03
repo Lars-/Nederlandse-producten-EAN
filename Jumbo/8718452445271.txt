@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "350695CAN",
     "name": "Jumbo Tropisch Fruit 2L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.57,
     "minimumAmount": 1,

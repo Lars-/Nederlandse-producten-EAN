@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "161437STK",
     "name": "Jumbo Houmous 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.89,
     "minimumAmount": 1,

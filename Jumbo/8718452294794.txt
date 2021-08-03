@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "212959ZK",
     "name": "Jumbo Blauwe Bessen 750g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.49,
     "minimumAmount": 1,

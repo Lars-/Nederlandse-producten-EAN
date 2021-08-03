@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "432089DS",
     "name": "Jumbo Chocolicious Granola 325g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.99,
     "minimumAmount": 1,

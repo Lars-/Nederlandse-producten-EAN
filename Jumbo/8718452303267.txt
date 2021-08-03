@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "200747STK",
     "name": "Jumbo Eikenbladsla Melange met Rode Ui & Rucola 200 g - Voordeelverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.27,
     "minimumAmount": 1,

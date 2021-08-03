@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "438290DS",
     "name": "La Place Koffiecups Brazili\u00eb 10 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.89,
     "minimumAmount": 1,

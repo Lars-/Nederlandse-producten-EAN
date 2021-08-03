@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195756DS",
     "name": "Jumbo Groene Thee Variatie Mix 20 Zakjes 30g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.45,
     "minimumAmount": 1,

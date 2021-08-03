@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "163623FLS",
     "name": "Jumbo Volume Shampoo 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.67,
     "minimumAmount": 1,

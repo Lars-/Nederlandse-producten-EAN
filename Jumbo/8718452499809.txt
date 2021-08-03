@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "399752ZK",
     "name": "Jumbo Chips Uitdeelzakjes Paprika & Naturel 15 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.99,
     "minimumAmount": 1,

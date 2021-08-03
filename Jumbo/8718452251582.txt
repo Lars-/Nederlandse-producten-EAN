@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "404606STK",
     "name": "Wapenaer Kaas 50+ Oud 200 g - Roem Noord Hollandse",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.41,
     "minimumAmount": 1,

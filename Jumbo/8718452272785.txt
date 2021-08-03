@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "208505PAK",
     "name": "Jumbo Chocolade Melk Light 6 x 200ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.53,
     "minimumAmount": 1,

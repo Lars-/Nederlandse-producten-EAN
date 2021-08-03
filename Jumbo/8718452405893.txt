@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "291749STK",
     "name": "Jumbo Wrap Kip Caesar met Gegrilde Paprika en Spitskool 158g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.61,
     "minimumAmount": 1,

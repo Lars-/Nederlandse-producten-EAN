@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "178635ROL",
     "name": "Jumbo Biologische Speltwafels 13 Stuks 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.72,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "378822BAK",
     "name": "Jumbo Smoked BBQ Saus 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1,
     "minimumAmount": 1,

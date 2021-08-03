@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "378809BAK",
     "name": "Jumbo Pulled Chicken met BBQ Saus 185g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.5,
     "minimumAmount": 1,

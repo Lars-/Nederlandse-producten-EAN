@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "158969TRA",
     "name": "Jumbo Cola Light 6 x 330ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.49,
     "minimumAmount": 1,

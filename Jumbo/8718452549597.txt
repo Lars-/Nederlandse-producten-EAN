@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "432703ZK",
     "name": "Jumbo Aardappelen Krieltjes 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.79,
     "minimumAmount": 1,

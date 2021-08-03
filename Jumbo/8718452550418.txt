@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "425871DS",
     "name": "Jumbo Slow Cooked Pulled Chicken 410g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "308423BAK",
     "name": "Jumbo Kippenreepjes 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.5,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "181405STK",
     "name": "Jumbo Ocean WC Blok Vloeibaar met Navulling 2 x 55ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.97,
     "minimumAmount": 1,

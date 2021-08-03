@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "224006PAK",
     "name": "Jumbo Ice Tea Sparkling 6 x 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.58,
     "minimumAmount": 1,

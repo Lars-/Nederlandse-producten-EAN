@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "306426ZK",
     "name": "Jumbo Rozijntjes Uitdeel 14 Doosjes",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.16,
     "minimumAmount": 1,

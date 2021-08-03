@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "186186DS",
     "name": "Jumbo Durum Couscous 275g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.85,
     "minimumAmount": 1,

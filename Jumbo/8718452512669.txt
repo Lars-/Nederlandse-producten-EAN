@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "449513DS",
     "name": "Jumbo Mini Snacks Oven 32 x 20g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.71,
     "minimumAmount": 1,

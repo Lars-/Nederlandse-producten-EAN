@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "394301ZK",
     "name": "Jumbo Kerrie Mix 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.89,
     "minimumAmount": 1,

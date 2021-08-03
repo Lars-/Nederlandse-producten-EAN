@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "310325DS",
     "name": "La Place Kruidenzakjes Kruidenthee Rooibos 15 Stuks 30g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.69,
     "minimumAmount": 1,

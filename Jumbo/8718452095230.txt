@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "126037ZK",
     "name": "Jumbo Stroopwafels Zeeuwse Babbelaar 315g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.51,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195410CUP",
     "name": "Jumbo Pistache Gezouten Noten  140g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.71,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "378264PAK",
     "name": "Jumbo Sinas Zero Sugar 6 x 330ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.1,
     "minimumAmount": 1,

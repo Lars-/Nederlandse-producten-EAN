@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "300865EM",
     "name": "Jumbo Verse Pompoensoep 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.14,
     "minimumAmount": 1,

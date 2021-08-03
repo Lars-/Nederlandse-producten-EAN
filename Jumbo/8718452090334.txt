@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195726STK",
     "name": "Jumbo Vissaus 175ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.8,
     "minimumAmount": 1,

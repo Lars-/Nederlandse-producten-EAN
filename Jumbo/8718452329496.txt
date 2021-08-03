@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "213664STK",
     "name": "Jumbo Fijne Augurk Zoetzuur 670g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.85,
     "minimumAmount": 1,

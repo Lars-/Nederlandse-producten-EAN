@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "162461ZK",
     "name": "Jumbo Gelderse Rookworst 375g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.61,
     "minimumAmount": 1,

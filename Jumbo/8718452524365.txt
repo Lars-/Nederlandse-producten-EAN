@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "411248TRA",
     "name": "Jumbo Verse Maaltijd Stamppot Andijvie met Spek en Kaas 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.99,
     "minimumAmount": 1,

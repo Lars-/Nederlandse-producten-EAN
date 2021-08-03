@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "218380BLK",
     "name": "Jumbo Tomaten Puree 140g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.39,
     "minimumAmount": 1,

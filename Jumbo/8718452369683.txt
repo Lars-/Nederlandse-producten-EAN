@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "270815ZK",
     "name": "Jumbo Gezouten Noten Mix 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.47,
     "minimumAmount": 1,

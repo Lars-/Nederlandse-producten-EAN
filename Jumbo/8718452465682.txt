@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "306157STK",
     "name": "Jumbo - Macarons - 12 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.39,
     "minimumAmount": 1,

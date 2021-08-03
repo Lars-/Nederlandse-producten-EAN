@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "197047BLK",
     "name": "Jumbo Tomaten Groentesoep met Vermicelli & Soepballetjes 800ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.25,
     "minimumAmount": 1,

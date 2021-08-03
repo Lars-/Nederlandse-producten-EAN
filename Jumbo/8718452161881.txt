@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "207304ZK",
     "name": "Jumbo Rauwe Reuze Garnalen 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.74,
     "minimumAmount": 1,

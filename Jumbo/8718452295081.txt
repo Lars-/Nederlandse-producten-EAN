@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "300432PAK",
     "name": "Jumbo Aardappelpartjes 600g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.74,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "207278ZK",
     "name": "Jumbo Salade Mix Witte Hazelnoten, Amandelschaafsel, Pompoenpitten & Tomaatvlokken 40g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.05,
     "minimumAmount": 1,

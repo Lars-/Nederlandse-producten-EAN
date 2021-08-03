@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "439657STK",
     "name": "Jumbo Zomer Shopper Tas Divers",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.5,
     "minimumAmount": 1,

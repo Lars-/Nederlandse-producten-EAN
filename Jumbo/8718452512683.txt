@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "407009BAK",
     "name": "Jumbo Tonijnsalade met Rode Ui 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

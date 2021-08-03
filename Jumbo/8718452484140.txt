@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "374035BAK",
     "name": "Jumbo Kip Teriyaki 260g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.82,
     "minimumAmount": 1,

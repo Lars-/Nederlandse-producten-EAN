@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "302176POT",
     "name": "Jumbo Extra Fijne Wortelen 680g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.85,
     "minimumAmount": 1,

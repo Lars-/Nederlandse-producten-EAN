@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "283001CUP",
     "name": "La Place Dessert Witte Chocomousse met Chocolade Krullen 75g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.19,
     "minimumAmount": 1,

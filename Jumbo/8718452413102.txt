@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "418705PAK",
     "name": "Jumbo Tortilla Volkoren 8 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.39,
     "minimumAmount": 1,

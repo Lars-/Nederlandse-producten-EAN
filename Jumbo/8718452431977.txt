@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "317405STK",
     "name": "Jumbo Eierwafels met Hazelnootsmaak 8 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.6,
     "minimumAmount": 1,

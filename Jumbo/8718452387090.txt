@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "305378FLS",
     "name": "La Place Crema di Balsamico 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 3.03,
     "minimumAmount": 1,

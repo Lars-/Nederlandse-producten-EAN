@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "190540PAK",
     "name": "Jumbo Badkamerdoekjes Blinkend 30 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.17,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "307430STK",
     "name": "Jumbo Lekker Veggie Notenburger Vegetarisch 120g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.47,
     "minimumAmount": 1,

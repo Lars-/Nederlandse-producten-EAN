@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "418990POT",
     "name": "Jumbo Abrikoos Extra Jam 440g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.97,
     "minimumAmount": 1,

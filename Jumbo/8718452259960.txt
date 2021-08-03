@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195414TRL",
     "name": "Jumbo Goulashsoep 6 x 800ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 8.34,
     "minimumAmount": 1,

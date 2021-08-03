@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "305998POT",
     "name": "Jumbo Belgische Mayo met Citroen 530ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.45,
     "minimumAmount": 1,

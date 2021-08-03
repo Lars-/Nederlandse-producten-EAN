@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "352242STK",
     "name": "Jumbo - Frambozen-kruimelvlaai - Half",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.69,
     "minimumAmount": 1,

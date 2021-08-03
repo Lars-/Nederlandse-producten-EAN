@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "443524FLS",
     "name": "Jumbo Sap Appel\/Perzik 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.19,
     "minimumAmount": 1,

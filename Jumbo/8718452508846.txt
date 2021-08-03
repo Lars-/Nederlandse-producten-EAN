@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "421530ZK",
     "name": "Jumbo Hondenbrokken Junior Kip & Rijst 1, 5kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.99,
     "minimumAmount": 1,

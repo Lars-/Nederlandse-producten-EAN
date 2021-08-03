@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "202633PAK",
     "name": "Jumbo Maaltijdpakket Burrito 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 4.89,
     "minimumAmount": 1,

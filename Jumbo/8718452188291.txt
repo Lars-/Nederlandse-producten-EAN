@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "178378STK",
     "name": "Jumbo Geraspt Geitenkaas 50+ 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.83,
     "minimumAmount": 1,

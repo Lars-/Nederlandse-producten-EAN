@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "383777ZK",
     "name": "Jumbo Volledig Diervoeder Adult Kip & Rijst 800g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.35,
     "minimumAmount": 1,

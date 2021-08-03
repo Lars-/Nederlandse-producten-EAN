@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "410537EM",
     "name": "Jumbo Verse Kippensoep 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.89,
     "minimumAmount": 1,

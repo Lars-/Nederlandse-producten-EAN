@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "431759ZK",
     "name": "Jumbo Dessert Borden 20 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1,
     "minimumAmount": 1,

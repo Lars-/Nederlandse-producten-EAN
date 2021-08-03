@@ -9,5 +9,5 @@
     "minimumAmount": 1,
     "maximumAmount": 0,
     "image": null,
-    "source": "Jumbo.com"
+    "source": "Coop.nl"
 }

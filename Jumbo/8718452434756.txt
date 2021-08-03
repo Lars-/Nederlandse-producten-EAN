@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "373234STK",
     "name": "Jumbo - Emoji Taart Geslaagd",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 14.99,
     "minimumAmount": 1,

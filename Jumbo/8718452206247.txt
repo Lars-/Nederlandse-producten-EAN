@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "283683DSL",
     "name": "Jumbo Vochtig Toiletpapier Fresh 12 X 40 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6,
     "minimumAmount": 1,

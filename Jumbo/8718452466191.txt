@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "361180STK",
     "name": "Jumbo EK Luierbroekjes Maat 3 - 24 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 4.99,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "377353ZK",
     "name": "Jumbo Gedroogde Dadels Zonder Pit 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.37,
     "minimumAmount": 1,

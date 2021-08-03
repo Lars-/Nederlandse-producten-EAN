@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "163622FLS",
     "name": "Jumbo Moroccan Argan Oil Shampoo 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.99,
     "minimumAmount": 1,

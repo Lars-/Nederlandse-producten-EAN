@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "211824FLS",
     "name": "Jumbo Fruitsap Blauwe Bes Appel Limoen 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.74,
     "minimumAmount": 1,

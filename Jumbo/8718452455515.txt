@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "354760FLS",
     "name": "Jumbo Zonnebloemolie Biologisch 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.56,
     "minimumAmount": 1,

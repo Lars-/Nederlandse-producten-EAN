@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "317268ZK",
     "name": "Jumbo Witte Amandelen Ongebrand 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.11,
     "minimumAmount": 1,

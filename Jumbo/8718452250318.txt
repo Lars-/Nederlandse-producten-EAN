@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195759DS",
     "name": "Jumbo Vruchten Thee Aardbei 20 Zakjes 30g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.14,
     "minimumAmount": 1,

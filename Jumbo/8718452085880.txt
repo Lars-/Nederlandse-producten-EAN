@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "164286STK",
     "name": "Jumbo Vanille Suiker 10 x 8g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.18,
     "minimumAmount": 1,

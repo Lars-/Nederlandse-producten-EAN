@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "193587FLS",
     "name": "Jumbo Fruitsap Sinaasappel Banaan 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.74,
     "minimumAmount": 1,

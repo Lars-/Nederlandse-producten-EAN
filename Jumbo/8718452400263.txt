@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "197048BLK",
     "name": "Jumbo Groentesoep met Soepballen en Vermicelli 800ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.2,
     "minimumAmount": 1,

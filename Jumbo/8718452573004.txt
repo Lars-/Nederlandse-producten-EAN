@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "438600STK",
     "name": "Jumbo Seizoensplateau 386g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 8.99,
     "minimumAmount": 1,

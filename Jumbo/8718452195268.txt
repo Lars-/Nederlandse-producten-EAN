@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "174354POT",
     "name": "Jumbo Knoflook Olijven Zonder Pit 220g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.83,
     "minimumAmount": 1,

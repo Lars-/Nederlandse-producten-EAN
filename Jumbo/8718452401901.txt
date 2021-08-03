@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "291626PAK",
     "name": "Jumbo Roomboter Gezouten 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.95,
     "minimumAmount": 1,

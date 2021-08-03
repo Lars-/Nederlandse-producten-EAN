@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "161446STK",
     "name": "Jumbo Tapenade Tricolore 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

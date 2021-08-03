@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "323798ZK",
     "name": "La Place Koffiebonen Originale 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 10.25,
     "minimumAmount": 1,

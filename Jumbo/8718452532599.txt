@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "413236ZK",
     "name": "Jumbo Thaise Stijl Massaman Curry 160g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.88,
     "minimumAmount": 1,

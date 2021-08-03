@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "438578STK",
     "name": "Jumbo Jong Kaas 48+ Plakken Kleinverpakking 95g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

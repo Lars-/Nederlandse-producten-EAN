@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "446717BAK",
     "name": "Jumbo Noedelsalade Kip Soja - Gember 230g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.19,
     "minimumAmount": 1,

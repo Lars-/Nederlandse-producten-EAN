@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "387049BAK",
     "name": "Jumbo Lekker Veggie Schijf Javaanse Stijl Vegan 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.42,
     "minimumAmount": 1,

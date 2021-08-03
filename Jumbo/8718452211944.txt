@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "193711FLS",
     "name": "Jumbo Groentesap Wortel Gember Appel Sinaasappel 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.61,
     "minimumAmount": 1,

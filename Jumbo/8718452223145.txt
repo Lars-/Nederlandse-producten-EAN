@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "187560STK",
     "name": "Jumbo Ontbijtkoek Naturel Gesneden 275g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.67,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "296440SC",
     "name": "Jumbo Extra Zoete Perzik Pavias 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.99,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "204207PAK",
     "name": "Jumbo Sinaasappel met Vruchtvlees 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.27,
     "minimumAmount": 1,

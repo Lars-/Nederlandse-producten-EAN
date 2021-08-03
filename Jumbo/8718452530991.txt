@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "417233DS",
     "name": "Jumbo Disco Mix Vanille, Aardbei en Chocolade 8 x 32g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.25,
     "minimumAmount": 1,

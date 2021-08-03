@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "216512FLS",
     "name": "Jumbo Wok Olie 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.46,
     "minimumAmount": 1,

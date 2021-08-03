@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "189163FLS",
     "name": "Jumbo Smoothie Ananas Kokos Banaan 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.52,
     "minimumAmount": 1,

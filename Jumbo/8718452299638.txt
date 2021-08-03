@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "313771BAK",
     "name": "Jumbo Hollandse Garnalen Naturel 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.22,
     "minimumAmount": 1,

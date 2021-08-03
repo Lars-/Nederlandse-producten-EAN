@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "202621DS",
     "name": "Jumbo Groene Thee Munt 20 Stuks 30g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.18,
     "minimumAmount": 1,

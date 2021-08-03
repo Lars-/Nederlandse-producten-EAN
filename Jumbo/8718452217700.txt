@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "137400KML",
     "name": "Jumbo Witte Natuurazijn 6 x 1,5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.24,
     "minimumAmount": 1,

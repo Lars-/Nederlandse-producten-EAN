@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "329781PAK",
     "name": "Jumbo Tissues Balsem 3 Laags 80 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.7,
     "minimumAmount": 1,

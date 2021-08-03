@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "439287BLK",
     "name": "Jumbo Cola Zero Sugar Coffee Smaak 330ML",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 0.45,
     "minimumAmount": 1,

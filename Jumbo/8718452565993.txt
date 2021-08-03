@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "446567EM",
     "name": "Jumbo Gazpacho",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.89,
     "minimumAmount": 1,

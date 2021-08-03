@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "182166BLK",
     "name": "Jumbo Chinese 5-Spices 60g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.6,
     "minimumAmount": 1,

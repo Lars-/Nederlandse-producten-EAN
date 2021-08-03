@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "170261FLS",
     "name": "Jumbo Cremespoeling Repair 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.91,
     "minimumAmount": 1,

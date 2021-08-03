@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "383703ZK",
     "name": "Jumbo Chinese Tomatensoep 570ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.81,
     "minimumAmount": 1,

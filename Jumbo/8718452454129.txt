@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "352662PAK",
     "name": "Jumbo Drinkyoghurt Limoen 0% 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.95,
     "minimumAmount": 1,

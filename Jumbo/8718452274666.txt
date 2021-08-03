@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "423902ZK",
     "name": "Jumbo Knapperige Amigo's Nacho Cheese Smaak 125g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.82,
     "minimumAmount": 1,

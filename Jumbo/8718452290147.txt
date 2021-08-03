@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "200846FLS",
     "name": "Jumbo Wasverzachter Oceaan Bries 30 Wasbeurten 750ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.15,
     "minimumAmount": 1,

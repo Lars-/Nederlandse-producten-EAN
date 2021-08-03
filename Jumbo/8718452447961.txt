@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "330858BAK",
     "name": "Jumbo Pulled Pork Spread 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.29,
     "minimumAmount": 1,

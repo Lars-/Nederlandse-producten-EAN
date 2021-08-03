@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "426978KRT",
     "name": "Jumbo Verse Pangasiusfilet 460g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.85,
     "minimumAmount": 1,

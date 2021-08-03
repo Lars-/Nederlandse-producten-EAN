@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "416527STK",
     "name": "Jumbo Ongezouten Pistachenoten 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.64,
     "minimumAmount": 1,

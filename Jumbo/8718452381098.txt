@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "83810STK",
     "name": "Jumbo Roze Koeken 4 stuks Los Verpakt",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.64,
     "minimumAmount": 1,

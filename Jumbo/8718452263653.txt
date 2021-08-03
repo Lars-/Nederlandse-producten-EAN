@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "194320DSL",
     "name": "JUMBO KINGSIZE SUIKERPIND",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 23.88,
     "minimumAmount": 1,

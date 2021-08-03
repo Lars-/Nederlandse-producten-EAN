@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "175725BLK",
     "name": "Jumbo Ananasschijven op Siroop 4 stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.86,
     "minimumAmount": 1,

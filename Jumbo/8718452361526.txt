@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "269950POT",
     "name": "Jumbo Appel Abrikozen Compote met Stukjes 360g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.71,
     "minimumAmount": 1,

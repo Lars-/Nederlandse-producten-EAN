@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "193675BAK",
     "name": "Jumbo Runderchipolata Biologisch Tomaat Basilicum 4 Stuks 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.99,
     "minimumAmount": 1,

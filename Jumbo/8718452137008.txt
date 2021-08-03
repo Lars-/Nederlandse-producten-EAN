@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "220629ZK",
     "name": "Jumbo Kroepoek Bali Pikant Gekruid 75g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.83,
     "minimumAmount": 1,

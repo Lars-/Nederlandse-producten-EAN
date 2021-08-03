@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "230389BAK",
     "name": "Jumbo Maaltijdsalade Mozzarella 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.66,
     "minimumAmount": 1,

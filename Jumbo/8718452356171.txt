@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "300153STK",
     "name": "Jumbo - Wit Tijgerbrood",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

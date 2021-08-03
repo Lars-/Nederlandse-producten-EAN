@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "188595PAK",
     "name": "Jumbo - Wit Desem Baguette",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.63,
     "minimumAmount": 1,

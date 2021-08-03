@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "269489FLS",
     "name": "Jumbo Huiswijn - Droog & Vol - Australi\u00eb - Chardonnay - 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.95,
     "minimumAmount": 1,

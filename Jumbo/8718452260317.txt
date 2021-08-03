@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "194783STK",
     "name": "Jumbo Boemboe Bami Goreng 95g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.98,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "226787DS",
     "name": "Jumbo Lekkerbekjes 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.65,
     "minimumAmount": 1,

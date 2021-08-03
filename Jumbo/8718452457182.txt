@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "201488BAK",
     "name": "Jumbo Gourmetschotel 750g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 9,
     "minimumAmount": 1,

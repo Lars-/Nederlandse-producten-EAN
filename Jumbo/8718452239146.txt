@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "191374DS",
     "name": "Jumbo Vissticks 15 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.69,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "185551STK",
     "name": "Jumbo Caisse Cakejes Chocolade 6 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.23,
     "minimumAmount": 1,

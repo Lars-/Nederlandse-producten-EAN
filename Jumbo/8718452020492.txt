@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "87880BAK",
     "name": "Jumbo Grove Braadworst Kruidnagel Varken 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.59,
     "minimumAmount": 1,

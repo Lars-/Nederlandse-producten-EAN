@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "197646DS",
     "name": "Jumbo Porties Havermout Original 5 Sachets 135g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.76,
     "minimumAmount": 1,

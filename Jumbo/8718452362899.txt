@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "226721BAK",
     "name": "Jumbo Asian Food Festival Kip Zoetzuur 260g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.95,
     "minimumAmount": 1,

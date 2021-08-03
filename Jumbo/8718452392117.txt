@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "292504STK",
     "name": "Jumbo Digestive Biscuit Pure Chocolade 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.88,
     "minimumAmount": 1,

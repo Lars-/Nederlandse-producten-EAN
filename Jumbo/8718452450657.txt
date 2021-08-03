@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "343912ZK",
     "name": "Jumbo Oosterse Wokgroente 600 g - Voordeelverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.16,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "306152STK",
     "name": "Jumbo - Mini Roombroodjes - 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.79,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "420136BAK",
     "name": "Jumbo Verse Ovenschotel Lasagne Bolognese met Gehakt en Tomaat 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "170193POT",
     "name": "Jumbo Rinse Appelstroop Biologisch 330g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.11,
     "minimumAmount": 1,

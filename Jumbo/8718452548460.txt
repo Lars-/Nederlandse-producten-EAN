@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "135036DS",
     "name": "Jumbo Soepstengels Volkoren 125g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.98,
     "minimumAmount": 1,

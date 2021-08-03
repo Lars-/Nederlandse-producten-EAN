@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "93001PAK",
     "name": "Jumbo Volle Koffiemelk 10 x 7ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.57,
     "minimumAmount": 1,

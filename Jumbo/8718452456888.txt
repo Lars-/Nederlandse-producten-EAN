@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "285593STK",
     "name": "Jumbo Chinese Kool",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.39,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "387216ZK",
     "name": "Jumbo Zoete Aardappel & Spruit Ovengroente 600g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.39,
     "minimumAmount": 1,

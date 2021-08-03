@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "177063STK",
     "name": "Jumbo Peper-Roomsaus",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.45,
     "minimumAmount": 1,

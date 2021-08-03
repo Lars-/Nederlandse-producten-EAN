@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "207368DS",
     "name": "La Dolce Vita Penne Rigate Volkoren 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.8,
     "minimumAmount": 1,

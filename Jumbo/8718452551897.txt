@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "419892POT",
     "name": "Jumbo Jalape\u00f1o Peper Plakjes 225g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.29,
     "minimumAmount": 1,

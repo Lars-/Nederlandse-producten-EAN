@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "429878DS",
     "name": "Pit Master Home Instantgrill",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.99,
     "minimumAmount": 1,

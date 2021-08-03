@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "424291TRA",
     "name": "Jumbo Kipribs Gemarineerd 420g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3,
     "minimumAmount": 1,

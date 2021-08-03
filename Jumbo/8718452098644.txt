@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "187790ZK",
     "name": "Jumbo Choco Crispies 210g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.58,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "367892PAK",
     "name": "Jumbo Volle Melk 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.82,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "151963PAK",
     "name": "Jumbo Tomatenbasis voor Pasta of Soep 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.69,
     "minimumAmount": 1,

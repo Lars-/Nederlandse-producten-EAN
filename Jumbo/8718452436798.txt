@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "317250STK",
     "name": "Jumbo Crackers Volkoren Spelt 140g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.99,
     "minimumAmount": 1,

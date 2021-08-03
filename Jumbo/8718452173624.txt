@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "206510STK",
     "name": "Jumbo Ultra Mini Incontinentie Inlegkruisjes 28 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.05,
     "minimumAmount": 1,

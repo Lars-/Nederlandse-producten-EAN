@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "300599DS",
     "name": "Jumbo Kaneel Schepijs met Gesuikerde Kaneelstukjes 446g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.18,
     "minimumAmount": 1,

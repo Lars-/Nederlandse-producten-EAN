@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "383968DSL",
     "name": "Jumbo Luierbroekjes 5 12-17 kg - 2 x 38 Stuks - Voordeelverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 18.38,
     "minimumAmount": 1,

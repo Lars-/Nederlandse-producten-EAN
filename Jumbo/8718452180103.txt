@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "187710PAK",
     "name": "Jumbo Stroopwafel 8 x 29g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.29,
     "minimumAmount": 1,

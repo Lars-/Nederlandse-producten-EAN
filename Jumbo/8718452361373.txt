@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "230328POT",
     "name": "Jumbo Rabarbercompote 360g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.03,
     "minimumAmount": 1,

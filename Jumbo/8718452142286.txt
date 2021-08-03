@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "82513FLS",
     "name": "Jumbo Bloemenhoning 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.79,
     "minimumAmount": 1,

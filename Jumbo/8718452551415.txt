@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "443426BAK",
     "name": "Mosselen 1KG",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6.99,
     "minimumAmount": 1,

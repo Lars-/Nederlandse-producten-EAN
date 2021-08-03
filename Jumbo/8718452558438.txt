@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "439299PAK",
     "name": "Jumbo Bruisend Water Watermeloen-Munt 6 x 500ML",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 2.19,
     "minimumAmount": 1,

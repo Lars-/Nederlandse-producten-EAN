@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "306150STK",
     "name": "Jumbo - Abrikozen-slagroomvlaai",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 8.99,
     "minimumAmount": 1,

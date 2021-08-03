@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "323839ZK",
     "name": "La Place Koffiebonen Ristretto 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 9.49,
     "minimumAmount": 1,

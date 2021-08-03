@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "381989FLS",
     "name": "Jumbo Baby Badschuim 300ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.13,
     "minimumAmount": 1,

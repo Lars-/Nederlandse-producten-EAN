@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "288046STK",
     "name": "Jumbo Veghelse Vechtertjes Melkchocolade Koekjes 12 Stuks 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.83,
     "minimumAmount": 1,

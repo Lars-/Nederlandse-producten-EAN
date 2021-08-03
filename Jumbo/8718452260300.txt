@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "194786STK",
     "name": "Jumbo Boemboe Ajam Paniki 95g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.98,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195811STK",
     "name": "Jumbo Sambal Manis 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.45,
     "minimumAmount": 1,

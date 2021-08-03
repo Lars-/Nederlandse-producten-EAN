@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "358476STK",
     "name": "Jumbo Sambal Smeerkaas 48+ 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.36,
     "minimumAmount": 1,

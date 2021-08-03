@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "205807DS",
     "name": "Jumbo Appelmoes 12 Cups x 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.97,
     "minimumAmount": 1,

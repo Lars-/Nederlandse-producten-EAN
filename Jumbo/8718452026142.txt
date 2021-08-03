@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "163322TRA",
     "name": "Jumbo Varken Saucijs 10 Stuks 800g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.5,
     "minimumAmount": 1,

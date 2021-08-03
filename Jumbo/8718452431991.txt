@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "310721ZK",
     "name": "Jumbo Krulfriet Mild Gekruid 750g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.89,
     "minimumAmount": 1,

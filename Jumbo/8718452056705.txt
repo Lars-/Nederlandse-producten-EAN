@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "185022ZK",
     "name": "Jumbo Bamboe BBQ Prikker 100 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

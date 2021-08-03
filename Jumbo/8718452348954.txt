@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "218727STK",
     "name": "Jumbo Magere Kwark met Yoghurt Blauwe Bes 0% Vet 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.15,
     "minimumAmount": 1,

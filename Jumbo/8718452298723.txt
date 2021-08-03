@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "230388BAK",
     "name": "Jumbo Maaltijdsalade Kip Sweet Chili 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.67,
     "minimumAmount": 1,

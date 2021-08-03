@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "439771PAK",
     "name": "Jumbo Zero Framboos & Granaatappel Smaak Vitamine Drink 6 x 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.99,
     "minimumAmount": 1,

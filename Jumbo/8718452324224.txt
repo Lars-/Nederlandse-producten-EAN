@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "304622STK",
     "name": "Goudeerlijk - Zonnebloempit Bollen - 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

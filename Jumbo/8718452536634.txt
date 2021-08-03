@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "420133BAK",
     "name": "Jumbo DanDan Sichu Noodle 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5,
     "minimumAmount": 1,

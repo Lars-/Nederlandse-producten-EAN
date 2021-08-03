@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195688PAK",
     "name": "Jumbo Maaltijdmix Babi Ketjap 73g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.64,
     "minimumAmount": 1,

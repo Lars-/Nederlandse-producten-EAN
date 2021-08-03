@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "418628DS",
     "name": "Jumbo - Roomboter-appeltaart -  Klein",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.29,
     "minimumAmount": 1,

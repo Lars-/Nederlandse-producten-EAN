@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "379859BAK",
     "name": "Jumbo Hartige Koekjes met Kaas en Rode Pestosmaak 80g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

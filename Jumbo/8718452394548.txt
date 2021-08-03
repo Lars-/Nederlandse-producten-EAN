@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "303050TRL",
     "name": "JUMBO KNAKWORSTEN 10ST",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 11.4,
     "minimumAmount": 1,

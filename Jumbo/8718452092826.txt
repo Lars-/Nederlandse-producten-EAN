@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "159533FLS",
     "name": "Jumbo Mondwater Zonder Alcohol 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.97,
     "minimumAmount": 1,

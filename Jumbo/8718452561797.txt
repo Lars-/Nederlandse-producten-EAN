@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "436706BAK",
     "name": "La Place Pancetta Kip Ravioli 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.99,
     "minimumAmount": 1,

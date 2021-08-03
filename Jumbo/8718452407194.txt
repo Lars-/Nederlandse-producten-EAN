@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "311923BKR",
     "name": "Jumbo Verse Cr\u00e8me Fra\u00eeche 125g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.98,
     "minimumAmount": 1,

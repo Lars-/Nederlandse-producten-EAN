@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "381960STK",
     "name": "Jumbo Luierbroekjes 6 15+ kg 18 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.59,
     "minimumAmount": 1,

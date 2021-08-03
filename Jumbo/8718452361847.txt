@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "220628ZK",
     "name": "Jumbo Kroepoek Cassave 75g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.91,
     "minimumAmount": 1,

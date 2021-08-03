@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "361180DSL",
     "name": "Jumbo EK Luierbroekjes Maat 3 - 4 x 24 Stuks - Voordeelverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 19.96,
     "minimumAmount": 1,

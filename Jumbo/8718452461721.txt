@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "163475PAK",
     "name": "Jumbo Zuurkool Wijn 520g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

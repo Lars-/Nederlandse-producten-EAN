@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "388318DS",
     "name": "Jumbo Mix voor No Bake Cheesecake Naturel 365g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.29,
     "minimumAmount": 1,

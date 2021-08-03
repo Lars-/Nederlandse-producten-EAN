@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "362301ZK",
     "name": "Jumbo Mesclun Melange Gewassen 125g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.8,
     "minimumAmount": 1,

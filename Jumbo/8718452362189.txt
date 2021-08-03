@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "273885STK",
     "name": "Jumbo Mexicaanse Bonen Soep 570ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.53,
     "minimumAmount": 1,

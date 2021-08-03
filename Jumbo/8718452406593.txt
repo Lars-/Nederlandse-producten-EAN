@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "318541STK",
     "name": "Jumbo Espresso Espressomaling 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.5,
     "minimumAmount": 1,

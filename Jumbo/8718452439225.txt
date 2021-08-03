@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "350691PAK",
     "name": "Jumbo Sinaasappel 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.35,
     "minimumAmount": 1,

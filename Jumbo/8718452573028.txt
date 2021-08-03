@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "438602STK",
     "name": "Jumbo Camembert en Kweepeergelei 175g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3,
     "minimumAmount": 1,

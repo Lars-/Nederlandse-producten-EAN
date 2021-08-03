@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "273089ZK",
     "name": "Jumbo Fijne Broccoli Roosjes 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.14,
     "minimumAmount": 1,

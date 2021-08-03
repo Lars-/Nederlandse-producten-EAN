@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "293976STK",
     "name": "Jumbo Brabantse Quukskes Koekjes met Anijssmaak 140g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.39,
     "minimumAmount": 1,

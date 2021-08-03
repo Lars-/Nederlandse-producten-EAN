@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "401367ZK",
     "name": "Jumbo Fornaccini Toast Rozemarijn 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.5,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "207267STK",
     "name": "Jumbo Dressing Honing Appel 70ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.06,
     "minimumAmount": 1,

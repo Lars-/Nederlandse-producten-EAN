@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "225568TUB",
     "name": "La Place Groene Thee Jasmijn & Mandarijn 60g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.59,
     "minimumAmount": 1,

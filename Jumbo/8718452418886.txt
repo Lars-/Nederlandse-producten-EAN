@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "438575STK",
     "name": "Jumbo Goudse Kaas 48+ Belegen 258g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2,
     "minimumAmount": 1,

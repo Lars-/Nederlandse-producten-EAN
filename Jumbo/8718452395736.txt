@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "282092PAK",
     "name": "Jumbo Kefir Blauwe Bes 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.95,
     "minimumAmount": 1,

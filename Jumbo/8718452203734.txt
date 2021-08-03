@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "182209POT",
     "name": "Jumbo Peper Zwart 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.87,
     "minimumAmount": 1,

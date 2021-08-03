@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "28423BAK",
     "name": "Jumbo Roomijs Vanille 330g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.29,
     "minimumAmount": 1,

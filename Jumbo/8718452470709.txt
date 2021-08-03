@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "362581BAK",
     "name": "Jumbo Verse Maaltijd Kip Teriyaki met Witte Rijst 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5,
     "minimumAmount": 1,

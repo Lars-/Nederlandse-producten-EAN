@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "201053BAK",
     "name": "Jumbo Penne Carbonara 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.68,
     "minimumAmount": 1,

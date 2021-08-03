@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "230410BAK",
     "name": "Jumbo Maaltijdsalade Garnalen 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.98,
     "minimumAmount": 1,

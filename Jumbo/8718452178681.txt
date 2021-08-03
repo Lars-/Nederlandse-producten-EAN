@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "180721STK",
     "name": "Jumbo Deodorant Rol Care 50ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

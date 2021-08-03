@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "392598PAK",
     "name": "Jumbo Hartige Biscuits Italiaanse Kruiden & Tomaat 4 x 3 Stuks 166g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.61,
     "minimumAmount": 1,

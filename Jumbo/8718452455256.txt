@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "343940ZK",
     "name": "Jumbo Indonesische Wokgroente 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.75,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "208685BAK",
     "name": "La Place Verse Pasta Girasoli Pesto, Parmigiano Reggiano 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.99,
     "minimumAmount": 1,

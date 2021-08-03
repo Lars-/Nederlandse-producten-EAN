@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "130160PAK",
     "name": "Jumbo Chocolate Cookies Melk & Wit 8 Stuks 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.91,
     "minimumAmount": 1,

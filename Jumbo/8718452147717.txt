@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "192659DS",
     "name": "Jumbo Hagelslag XXL Melk & Wit 380g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.1,
     "minimumAmount": 1,

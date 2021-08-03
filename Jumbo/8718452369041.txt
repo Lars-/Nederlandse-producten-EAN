@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "282632DS",
     "name": "Jumbo Chili Garnalen 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.76,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "226768BAK",
     "name": "Jumbo Speklap Cool Summer 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.59,
     "minimumAmount": 1,

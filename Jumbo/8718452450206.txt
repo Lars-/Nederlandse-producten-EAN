@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "331242FLS",
     "name": "Jumbo Zonnebloemolie 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.59,
     "minimumAmount": 1,

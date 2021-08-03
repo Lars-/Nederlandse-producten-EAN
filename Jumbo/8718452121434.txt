@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "163610FLS",
     "name": "Jumbo Elke Dag Shampoo Heren 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.89,
     "minimumAmount": 1,

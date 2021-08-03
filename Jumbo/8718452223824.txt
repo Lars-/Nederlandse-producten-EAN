@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "420591PAK",
     "name": "Jumbo Biologisch Verse Karnemelk 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

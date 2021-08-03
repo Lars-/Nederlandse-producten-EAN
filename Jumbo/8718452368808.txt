@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "297030DS",
     "name": "Jumbo Eieren Biologisch 4 Stuks S\/M\/L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.66,
     "minimumAmount": 1,

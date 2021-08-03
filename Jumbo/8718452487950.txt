@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "374194BAK",
     "name": "Jumbo Tonijnsalade 80g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.29,
     "minimumAmount": 1,

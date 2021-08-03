@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "380925POT",
     "name": "Jumbo Biologisch Dille Plantje",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.59,
     "minimumAmount": 1,

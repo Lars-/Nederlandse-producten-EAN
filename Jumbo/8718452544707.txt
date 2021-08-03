@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "426928POT",
     "name": "Jumbo Biologisch Bosvruchten Fruitspread 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.35,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "214400STK",
     "name": "La Place Pure Chocolade Peer & Anijs 180g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.76,
     "minimumAmount": 1,

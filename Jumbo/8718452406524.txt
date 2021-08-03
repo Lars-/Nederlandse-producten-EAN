@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "319487STK",
     "name": "Jumbo Snelfiltermaling Cafe\u00efnevrij 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.99,
     "minimumAmount": 1,

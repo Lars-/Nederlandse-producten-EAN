@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "163462ROL",
     "name": "Jumbo Containerzakken 140 L 10 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.78,
     "minimumAmount": 1,

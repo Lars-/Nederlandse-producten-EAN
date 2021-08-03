@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "197728PAK",
     "name": "Jumbo Maaltijdpakket Lasagne 1, 2kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.99,
     "minimumAmount": 1,

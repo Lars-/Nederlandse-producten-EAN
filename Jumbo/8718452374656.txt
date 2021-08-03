@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "230558ZK",
     "name": "Jumbo Bloemkool & Broccoli 150g - Kleinverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.48,
     "minimumAmount": 1,

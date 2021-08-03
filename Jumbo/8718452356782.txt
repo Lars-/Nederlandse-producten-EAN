@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "305903STK",
     "name": "Jumbo - Witte Puntjes - 12 Stuks - Voordeelverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.5,
     "minimumAmount": 1,

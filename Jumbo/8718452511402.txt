@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "387253TRA",
     "name": "Jumbo Stroopwafels Melkchocolade 219g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.09,
     "minimumAmount": 1,

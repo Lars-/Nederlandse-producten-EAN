@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "257246ROL",
     "name": "Jumbo Geitenkaas 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.76,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "201608PAK",
     "name": "Jumbo Kiplapjes Gemarineerd 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.19,
     "minimumAmount": 1,

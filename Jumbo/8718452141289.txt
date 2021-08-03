@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "169330DS",
     "name": "Jumbo Rode Kool in Blokjes met Appel Biologisch 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.12,
     "minimumAmount": 1,

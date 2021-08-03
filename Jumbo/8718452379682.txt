@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "250570PAK",
     "name": "Jumbo Ecologisch Tissues 100 Stuksr",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.39,
     "minimumAmount": 1,

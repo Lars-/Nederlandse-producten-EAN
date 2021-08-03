@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "386238DS",
     "name": "Jumbo Wiener Melange 8 Stuks 144g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.3,
     "minimumAmount": 1,

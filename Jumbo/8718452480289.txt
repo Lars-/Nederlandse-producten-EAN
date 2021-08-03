@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "364841ZK",
     "name": "Jumbo Salademix Cheesepop & Gerookte Paprika Croutons 30g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

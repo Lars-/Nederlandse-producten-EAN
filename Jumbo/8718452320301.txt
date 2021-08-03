@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "285595STK",
     "name": "Jumbo Bleekselderij",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.09,
     "minimumAmount": 1,

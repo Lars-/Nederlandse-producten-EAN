@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "203679STK",
     "name": "Jumbo Magere Melk Biologisch 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.08,
     "minimumAmount": 1,

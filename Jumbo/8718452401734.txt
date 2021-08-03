@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "288332FLS",
     "name": "Jumbo Biologische Extra Vierge Olijfolie 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6.79,
     "minimumAmount": 1,

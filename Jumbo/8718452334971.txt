@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "208727BAK",
     "name": "Jumbo Bami Goreng 260g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.96,
     "minimumAmount": 1,

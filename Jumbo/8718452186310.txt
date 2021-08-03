@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "203127STK",
     "name": "Ambachtelijke Snacks Loempia Vietnamees 6 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6.59,
     "minimumAmount": 1,

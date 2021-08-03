@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "306000DS",
     "name": "Jumbo Spices Zoethout 20 Theezakjes 40g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.78,
     "minimumAmount": 1,

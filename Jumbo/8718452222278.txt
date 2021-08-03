@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "183181FLS",
     "name": "Jumbo Aftersun Spray Cool met Alo\u00eb Vera 200ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.29,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "163432ROL",
     "name": "Jumbo Boterhamzakken XL 2L 70 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.51,
     "minimumAmount": 1,

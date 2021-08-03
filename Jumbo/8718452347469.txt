@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "366951PAK",
     "name": "Jumbo Standaard 3 Opvolgmelk vanaf 10+ Maanden 2 x 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6,
     "minimumAmount": 1,

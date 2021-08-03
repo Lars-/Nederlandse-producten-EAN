@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "391170ZK",
     "name": "Jumbo Verse Friet Voorgebakken 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.27,
     "minimumAmount": 1,

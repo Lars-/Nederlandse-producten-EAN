@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "211729ZK",
     "name": "Jumbo Mini Krieltjes 200 g - Kleinverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.48,
     "minimumAmount": 1,

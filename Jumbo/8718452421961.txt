@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "302706CUP",
     "name": "Jumbo Icecream Lovers Chocolate Fudge Brownie 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.49,
     "minimumAmount": 1,

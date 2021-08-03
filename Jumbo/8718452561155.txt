@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "186970TRA",
     "name": "Jumbo Fijnproevers Black Angus Burgers 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.59,
     "minimumAmount": 1,

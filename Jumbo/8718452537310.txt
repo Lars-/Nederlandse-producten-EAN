@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "449964FLS",
     "name": "Jumbo Cola Zero Sugar 500ML",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.25,
     "minimumAmount": 1,

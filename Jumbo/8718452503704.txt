@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "269995FLS",
     "name": "Jumbo Olie Bewust 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.2,
     "minimumAmount": 1,

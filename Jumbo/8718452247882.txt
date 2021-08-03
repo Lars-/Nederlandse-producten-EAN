@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "188398TUB",
     "name": "Jumbo Gezicht Nachtcreme 50ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.89,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "306025STK",
     "name": "Jumbo Zachtfruit Mix 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.99,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "308525PAK",
     "name": "Jumbo Sinaasappelsap Nectar 6 x 1, 5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.88,
     "minimumAmount": 1,

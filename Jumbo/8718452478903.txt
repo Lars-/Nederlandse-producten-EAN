@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "379873FLS",
     "name": "Dors - Tripel - Fles 300ML",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.89,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "202607BLK",
     "name": "Jumbo Bruine Linzen Biologisch 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.33,
     "minimumAmount": 1,

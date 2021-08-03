@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "388584STK",
     "name": "Jumbo - Appeltaart Punten Glutenvrij",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.99,
     "minimumAmount": 1,

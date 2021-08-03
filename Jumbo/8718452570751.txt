@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "350195STK",
     "name": "Jumbo Gesneden Roomboter Cake 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.45,
     "minimumAmount": 1,

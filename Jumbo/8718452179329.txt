@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "391995FLS",
     "name": "Jumbo Culinair voor Bakken, Koken en Roerbakken 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.91,
     "minimumAmount": 1,

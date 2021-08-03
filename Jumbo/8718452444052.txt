@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "352784DS",
     "name": "Jumbo Choco Sticks 12 x 60ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.04,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "427767FLS",
     "name": "Jumbo Mineraal Muntwater 1, 5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.62,
     "minimumAmount": 1,

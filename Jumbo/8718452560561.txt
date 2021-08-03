@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "438299DS",
     "name": "La Place Koffiecups Espresso Intenso 10 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.3,
     "minimumAmount": 1,

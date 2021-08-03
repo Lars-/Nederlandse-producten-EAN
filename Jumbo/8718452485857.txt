@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "371163BAK",
     "name": "Jumbo Houmous Basilicum 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

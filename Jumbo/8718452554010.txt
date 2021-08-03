@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "424288TRA",
     "name": "Jumbo Kipburger Gemarineerd 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.5,
     "minimumAmount": 1,

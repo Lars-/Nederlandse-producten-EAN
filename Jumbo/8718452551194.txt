@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "420752DS",
     "name": "Jumbo - Rainbow Layer Surprise Cake",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6.49,
     "minimumAmount": 1,

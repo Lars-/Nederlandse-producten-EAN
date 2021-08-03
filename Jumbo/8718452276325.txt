@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "197055TRL",
     "name": "Jumbo Erwtensoep 6 x 800ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6.18,
     "minimumAmount": 1,

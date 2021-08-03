@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "218796POT",
     "name": "Jumbo Maiskorrels 180g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.83,
     "minimumAmount": 1,

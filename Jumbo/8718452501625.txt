@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "407375PAK",
     "name": "Jumbo Charming Magnolia Wasbuiltjes Color 16 x 24, 5g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.49,
     "minimumAmount": 1,

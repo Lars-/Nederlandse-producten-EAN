@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "156976FLS",
     "name": "Jumbo Allesreiniger Waterlelie & Katoen 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.86,
     "minimumAmount": 1,

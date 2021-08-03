@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "417794ZK",
     "name": "Jumbo Premium Luiers Maat 1 2-5 kg 34 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.17,
     "minimumAmount": 1,

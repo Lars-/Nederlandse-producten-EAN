@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "338124STK",
     "name": "Jumbo Snelfiltermaling Mokka 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.26,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "300887PAK",
     "name": "Jumbo Appelronde Koeken 6 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.02,
     "minimumAmount": 1,

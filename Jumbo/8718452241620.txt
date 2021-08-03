@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "189693DSL",
     "name": "Jumbo Luchtige Crackers Volkoren met Rijstebloem 12 pack",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 9.36,
     "minimumAmount": 1,

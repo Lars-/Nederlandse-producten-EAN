@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "362366BAK",
     "name": "Jumbo Oven & Gemak Zalm 265g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6,
     "minimumAmount": 1,

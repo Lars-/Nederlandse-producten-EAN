@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "435166STK",
     "name": "Jumbo Bolcourgette",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.99,
     "minimumAmount": 1,

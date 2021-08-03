@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "293423BLK",
     "name": "Jumbo Limonadesiroop Aardbei met Appel 0% Suiker Toegevoegd 750ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.99,
     "minimumAmount": 1,

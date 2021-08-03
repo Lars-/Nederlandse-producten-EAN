@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "300448BAK",
     "name": "Jumbo Oven & Gemak Pangasius Filet 240g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.99,
     "minimumAmount": 1,

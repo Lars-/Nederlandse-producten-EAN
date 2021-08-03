@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "433903PAK",
     "name": "Jumbo Plantaardige Kokos Drink 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.85,
     "minimumAmount": 1,

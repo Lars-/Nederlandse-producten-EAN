@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "310821ZK",
     "name": "Jumbo Biologische Gebrande Pinda's Ongezouten 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.29,
     "minimumAmount": 1,

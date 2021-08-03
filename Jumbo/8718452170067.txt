@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "201511ZK",
     "name": "Jumbo Penne Spinazie & Kruidenkaas 475g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3,
     "minimumAmount": 1,

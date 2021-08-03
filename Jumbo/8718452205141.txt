@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "180673PAK",
     "name": "Jumbo Tomatenblokjes Basilicum en Oregano 390g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.06,
     "minimumAmount": 1,

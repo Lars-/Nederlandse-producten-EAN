@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "427789BKR",
     "name": "Jumbo Direct van de Boerderij Biologische Volle Kwark 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.89,
     "minimumAmount": 1,

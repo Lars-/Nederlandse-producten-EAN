@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "147549ZK",
     "name": "Jumbo Visfilet Bordelaise 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.27,
     "minimumAmount": 1,

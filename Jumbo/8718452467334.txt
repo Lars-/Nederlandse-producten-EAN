@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "440110TRA",
     "name": "Jumbo Zwarte Bessen Cassis 6 x 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.66,
     "minimumAmount": 1,

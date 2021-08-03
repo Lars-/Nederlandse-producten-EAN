@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "188355SC",
     "name": "Jumbo Rucola Sla 125g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.29,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "222819FLS",
     "name": "Jumbo Tomatenketchup 300ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.71,
     "minimumAmount": 1,

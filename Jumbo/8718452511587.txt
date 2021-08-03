@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "346719BAK",
     "name": "Jumbo Verse Maaltijd Stamppot Witlof met Hamreepjes en Kaasblokjes 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5,
     "minimumAmount": 1,

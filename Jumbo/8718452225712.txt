@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "186362ZK",
     "name": "Jumbo Stroopkoeken met Roomboter 375g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.21,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "437297BAK",
     "name": "Jumbo Geroosterde Bietenmix 320g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4,
     "minimumAmount": 1,

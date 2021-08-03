@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "371911STK",
     "name": "Jumbo Marcaires Gewassen Korstkaas 50+ 76g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "189807DS",
     "name": "Jumbo Cornets Luxe Roomijs 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.87,
     "minimumAmount": 1,

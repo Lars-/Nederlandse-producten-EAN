@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "373238DSL",
     "name": "Jumbo MSC Tonijnstukken in Water 24 x 160g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 35.76,
     "minimumAmount": 1,

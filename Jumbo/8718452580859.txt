@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "443796BAK",
     "name": "Jumbo Wrap Kaas Rundergehakt 320g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.99,
     "minimumAmount": 1,

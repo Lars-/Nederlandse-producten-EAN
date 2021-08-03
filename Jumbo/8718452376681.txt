@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "283554STK",
     "name": "Jumbo Kip Siam Pakket",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

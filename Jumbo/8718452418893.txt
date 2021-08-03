@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "438572STK",
     "name": "Jumbo Jong Goudse Kaas 48+ 325g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2,
     "minimumAmount": 1,

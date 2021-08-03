@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "387051BAK",
     "name": "Jumbo Lekker Veggie Schnitzel Vegan 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.77,
     "minimumAmount": 1,

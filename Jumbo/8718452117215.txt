@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "163436ROL",
     "name": "Jumbo Containerzakken Biologisch 140 L 3 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.97,
     "minimumAmount": 1,

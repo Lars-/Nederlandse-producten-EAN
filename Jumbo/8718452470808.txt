@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "382546STK",
     "name": "Jumbo - Stokbrood Knoflookboter",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.27,
     "minimumAmount": 1,

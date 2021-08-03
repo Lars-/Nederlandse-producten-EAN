@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "95541TRA",
     "name": "Jumbo Duitse Biefstuk Rund 2 Stuks 205g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.12,
     "minimumAmount": 1,

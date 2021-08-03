@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "197048TRL",
     "name": "Jumbo Groentesoep met Soepballen en Vermicelle 6 x 800ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 7.2,
     "minimumAmount": 1,

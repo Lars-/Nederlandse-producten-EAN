@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "191081POT",
     "name": "Jumbo Bieslook Plantje",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.59,
     "minimumAmount": 1,

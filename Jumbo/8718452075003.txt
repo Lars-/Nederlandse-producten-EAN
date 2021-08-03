@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "153063DS",
     "name": "Jumbo Honden Kauwsticks Denta 4 stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.92,
     "minimumAmount": 1,

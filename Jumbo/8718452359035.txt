@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "428004FLS",
     "name": "Jumbo Helder Bruisend Water Citroen 1,5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.62,
     "minimumAmount": 1,

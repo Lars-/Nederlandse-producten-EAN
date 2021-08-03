@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "393186CUP",
     "name": "Jumbo Groene Pesto 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.59,
     "minimumAmount": 1,

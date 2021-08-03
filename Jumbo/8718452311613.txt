@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "336294ZK",
     "name": "Jumbo Chinese Roerbakmix 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.87,
     "minimumAmount": 1,

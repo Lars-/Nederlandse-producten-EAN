@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "308390BAK",
     "name": "Jumbo Kip Boomstam 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.39,
     "minimumAmount": 1,

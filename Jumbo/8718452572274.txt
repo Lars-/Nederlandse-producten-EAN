@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "426979BAK",
     "name": "Jumbo Visschnitzels 180g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.5,
     "minimumAmount": 1,

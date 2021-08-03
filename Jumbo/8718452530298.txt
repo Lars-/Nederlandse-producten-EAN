@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "181534STK",
     "name": "Jumbo Hout Gerookte Zalm Blokjes 140g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.09,
     "minimumAmount": 1,

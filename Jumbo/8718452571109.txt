@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "438573STK",
     "name": "Jumbo Goudse Kaas 48+ Jong Belegen 305g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2,
     "minimumAmount": 1,

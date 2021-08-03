@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195709PAK",
     "name": "Jumbo Maaltijdmix Sate Marinade 36g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.46,
     "minimumAmount": 1,

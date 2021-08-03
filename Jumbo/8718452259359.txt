@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "313966PAK",
     "name": "Jumbo TintelFris Sinaasappel & Citroen met Appel 1, 5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.69,
     "minimumAmount": 1,

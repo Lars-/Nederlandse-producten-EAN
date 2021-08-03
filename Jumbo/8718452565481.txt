@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "435308BAK",
     "name": "Jumbo Kipsalade met Rozemarijn en Citroen 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.19,
     "minimumAmount": 1,

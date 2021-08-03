@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "381237ZK",
     "name": "Jumbo Blauwe Rozijnen 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.55,
     "minimumAmount": 1,

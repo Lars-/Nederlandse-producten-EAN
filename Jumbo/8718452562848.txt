@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "429296BAK",
     "name": "Jumbo Coleslaw met Wortel 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.69,
     "minimumAmount": 1,

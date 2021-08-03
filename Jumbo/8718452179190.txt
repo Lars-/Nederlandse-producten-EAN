@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "182826DSL",
     "name": "Jumbo Fresh Man Deodorant 6 x 150ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 8.94,
     "minimumAmount": 1,

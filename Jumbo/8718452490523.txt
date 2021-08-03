@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "373295BLK",
     "name": "Jumbo Haringfilets in Tomatensaus 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.59,
     "minimumAmount": 1,

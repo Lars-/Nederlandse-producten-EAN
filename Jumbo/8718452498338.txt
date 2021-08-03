@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "398279ZK",
     "name": "Jumbo Sperziebonen Biologisch 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.49,
     "minimumAmount": 1,

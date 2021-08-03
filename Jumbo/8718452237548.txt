@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "430751EM",
     "name": "Jumbo Yoghurt Griekse Stijl Perzik Passievrucht 1kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

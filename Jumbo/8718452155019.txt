@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "172602FLS",
     "name": "Jumbo Waslotion Sensitive 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.8,
     "minimumAmount": 1,

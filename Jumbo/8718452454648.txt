@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "230540BAK",
     "name": "Jumbo Lunchsalade Witte Kaas Houmous 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.65,
     "minimumAmount": 1,

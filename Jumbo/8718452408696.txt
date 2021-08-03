@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "329780PAK",
     "name": "Jumbo Zakdoekjes Zacht & Sterk 4 Laags 9 x 10 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.59,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "211786BAK",
     "name": "Jumbo Rode Kool met Aardappelpuree en Hachee 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.15,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "319849STK",
     "name": "Jumbo Kruidenkaas Italiaanse Kruiden 50+ ca. 200 g - Noord-Holland",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.98,
     "minimumAmount": 1,

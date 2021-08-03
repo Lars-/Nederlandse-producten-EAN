@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "270126STK",
     "name": "Jumbo Kruidenmix voor Gehakt met Uitjes 80g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.61,
     "minimumAmount": 1,

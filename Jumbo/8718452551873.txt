@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "434485POT",
     "name": "Jumbo Gegrilde Artisjok in Olie 230g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.49,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "394312ZK",
     "name": "Jumbo Mexicaantjes Kaassmaak 90g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.43,
     "minimumAmount": 1,

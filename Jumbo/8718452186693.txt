@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "183816STK",
     "name": "Jumbo Amandel Vijgenrol 180g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.59,
     "minimumAmount": 1,

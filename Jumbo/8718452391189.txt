@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "188525STK",
     "name": "Jumbo Winegums 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.25,
     "minimumAmount": 1,

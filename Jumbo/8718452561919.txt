@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "426682STK",
     "name": "Jumbo Aubergine Graffiti",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.29,
     "minimumAmount": 1,

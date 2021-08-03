@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "386262FLS",
     "name": "Jumbo Kerrie Ananas Saus 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.88,
     "minimumAmount": 1,

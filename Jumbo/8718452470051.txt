@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "357243STK",
     "name": "Jumbo Vegetarisch BBQ Pakket 235g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.29,
     "minimumAmount": 1,

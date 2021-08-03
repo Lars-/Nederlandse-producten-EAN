@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "383705ZK",
     "name": "Jumbo Tomaat-Paprikasoep Biologisch 570ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

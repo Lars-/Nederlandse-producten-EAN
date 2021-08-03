@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "282959ZK",
     "name": "La Place Melkchocolade met Karamel en Zeezout 180g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.28,
     "minimumAmount": 1,

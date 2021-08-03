@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "376049STK",
     "name": "Jumbo Zoete Punt Paprika Mix 3 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.99,
     "minimumAmount": 1,

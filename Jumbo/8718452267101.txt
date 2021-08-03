@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "192822PAK",
     "name": "Jumbo Crackers Volkoren met Tarwebloem 18 Stuks 315g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.04,
     "minimumAmount": 1,

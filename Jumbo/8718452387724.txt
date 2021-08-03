@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "26056PAK",
     "name": "Jumbo Creme Dubbels met Cremevulling 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.18,
     "minimumAmount": 1,

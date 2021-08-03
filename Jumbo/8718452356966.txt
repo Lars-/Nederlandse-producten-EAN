@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "365021STK",
     "name": "Jumbo - Chocolade Broodjes - 9 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.13,
     "minimumAmount": 1,

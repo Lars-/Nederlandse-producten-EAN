@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "189895STK",
     "name": "Jumbo Biologisch Kokosmeel 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3,
     "minimumAmount": 1,

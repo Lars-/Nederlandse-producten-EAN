@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "374039BAK",
     "name": "Jumbo Kip Tikka Masala 260g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.82,
     "minimumAmount": 1,

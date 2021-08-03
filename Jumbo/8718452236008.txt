@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "192126STK",
     "name": "Jumbo Ongebrande Cashews 175g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.96,
     "minimumAmount": 1,

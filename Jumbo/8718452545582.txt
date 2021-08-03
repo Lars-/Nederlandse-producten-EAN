@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "413767TRA",
     "name": "Jumbo Boeren Kipovenschotel 515g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5,
     "minimumAmount": 1,

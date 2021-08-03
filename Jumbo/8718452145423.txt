@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "208735DS",
     "name": "Jumbo Kip Sticks 5 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.08,
     "minimumAmount": 1,

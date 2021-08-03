@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "389805DS",
     "name": "Jumbo Mueslireep Chocolade 5 x 25g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.25,
     "minimumAmount": 1,

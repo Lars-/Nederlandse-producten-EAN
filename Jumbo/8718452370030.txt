@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "246048DS",
     "name": "Jumbo 4 Noten Krokante Muesli 900 g - Voordeelverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.98,
     "minimumAmount": 1,

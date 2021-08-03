@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "224516STK",
     "name": "Wapenaer Blokjes Extra Belegen Kaas 48+ 145g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.29,
     "minimumAmount": 1,

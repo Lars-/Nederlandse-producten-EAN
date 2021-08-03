@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "153269BAK",
     "name": "Jumbo Mager Rundergehakt Biologisch 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.3,
     "minimumAmount": 1,

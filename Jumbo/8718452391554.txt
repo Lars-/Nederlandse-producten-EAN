@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "295233RP",
     "name": "Jumbo Chocolade Wit 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.6,
     "minimumAmount": 1,

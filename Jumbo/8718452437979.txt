@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "423360PAK",
     "name": "Jumbo Kattenmelk met Omega 3 250ML",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.61,
     "minimumAmount": 1,

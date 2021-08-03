@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "308397BAK",
     "name": "Jumbo Kipdijfilet Zongedroogde Tomaat 430g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4,
     "minimumAmount": 1,

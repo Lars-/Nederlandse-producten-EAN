@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "215763STK",
     "name": "Jumbo - Wit Rustiek Stokbrood",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.79,
     "minimumAmount": 1,

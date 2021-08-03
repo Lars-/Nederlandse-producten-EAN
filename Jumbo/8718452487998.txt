@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "374147BAK",
     "name": "Jumbo Kaas-Grove Mosterd Salade 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.19,
     "minimumAmount": 1,

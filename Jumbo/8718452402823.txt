@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "306002DS",
     "name": "Jumbo Spices Chai 20 Theezakjes 40g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1,
     "minimumAmount": 1,

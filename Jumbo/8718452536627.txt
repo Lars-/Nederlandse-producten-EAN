@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "420134BAK",
     "name": "Jumbo Kra Pao Thai Chicken 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 5,
     "minimumAmount": 1,

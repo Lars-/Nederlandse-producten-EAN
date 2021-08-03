@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "231358ZK",
     "name": "Jumbo Snijbonen 150g - Kleinverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.33,
     "minimumAmount": 1,

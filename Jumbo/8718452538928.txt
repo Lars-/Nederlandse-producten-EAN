@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "426884DS",
     "name": "Jumbo Cookies & Cream 6 Stuks 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.29,
     "minimumAmount": 1,

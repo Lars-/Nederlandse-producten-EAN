@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "173253KST",
     "name": "Jumbo Pannenkoekenmix Naturel 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.49,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "393327DS",
     "name": "Jumbo Vezelreep Haver & Rood Fruit 3 Stuks 90g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.49,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "246252ZK",
     "name": "Jumbo Melkbroodjes met Chocoladestukjes 10 Stuks 350g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.77,
     "minimumAmount": 1,

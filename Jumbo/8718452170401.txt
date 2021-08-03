@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "245780ZK",
     "name": "Jumbo Wattenschijfjes 140 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.58,
     "minimumAmount": 1,

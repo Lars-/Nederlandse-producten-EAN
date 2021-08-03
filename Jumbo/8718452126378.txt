@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "162839PAK",
     "name": "Jumbo Helder Water Appel Peer 1, 5L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.3,
     "minimumAmount": 1,

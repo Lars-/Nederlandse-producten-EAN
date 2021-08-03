@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "189231TRA",
     "name": "Jumbo Cr\u00e8me Br\u00fbl\u00e9e 202g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.48,
     "minimumAmount": 1,

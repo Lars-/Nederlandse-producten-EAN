@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "230579BAK",
     "name": "Jumbo Groene Salade Italiaans 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.26,
     "minimumAmount": 1,

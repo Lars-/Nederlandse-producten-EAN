@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "305424PAK",
     "name": "Jumbo Houdbare Magere Melk 6 x 1 L - Voordeelverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.54,
     "minimumAmount": 1,

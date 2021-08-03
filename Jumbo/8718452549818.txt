@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "442916PAK",
     "name": "Jumbo Fruitdrink Tropisch met Appel 10 x 200ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.89,
     "minimumAmount": 1,

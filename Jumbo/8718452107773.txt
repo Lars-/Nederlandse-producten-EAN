@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "386859ZK",
     "name": "Jumbo Biologisch Aardappelen Vastkokend 2kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.99,
     "minimumAmount": 1,

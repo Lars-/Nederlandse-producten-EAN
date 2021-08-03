@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "201484TRA",
     "name": "Jumbo Slavink Varken 5 Stuks 525g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.74,
     "minimumAmount": 1,

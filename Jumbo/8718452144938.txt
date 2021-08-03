@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "172026DSL",
     "name": "Jumbo Verse Karnemelk 12 x 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 9.48,
     "minimumAmount": 1,

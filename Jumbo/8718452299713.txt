@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "208407DSL",
     "name": "Jumbo Chocolademelk Vol 12 x 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 11.88,
     "minimumAmount": 1,

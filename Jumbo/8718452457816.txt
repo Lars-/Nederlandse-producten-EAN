@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "359213PAK",
     "name": "Jumbo Kookroom 20% Vet 200ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.74,
     "minimumAmount": 1,

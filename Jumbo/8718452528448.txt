@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "425904STK",
     "name": "Jumbo Briketten Kokos 3kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.89,
     "minimumAmount": 1,

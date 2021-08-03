@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "362368BAK",
     "name": "Jumbo Verse Roerbak Pangasius 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.5,
     "minimumAmount": 1,

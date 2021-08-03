@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "188357PAK",
     "name": "Jumbo Grapefruits Biologisch 4 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.98,
     "minimumAmount": 1,

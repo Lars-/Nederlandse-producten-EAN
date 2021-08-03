@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "392559STK",
     "name": "Jumbo Melk Biscuits Chocosmaak 6 x 2 Stuks 41g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.29,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "421508ZK",
     "name": "Jumbo Hondenvoer Mini Senior Kip & Rijst 1,5kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.99,
     "minimumAmount": 1,

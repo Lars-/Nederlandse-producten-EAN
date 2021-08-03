@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "197055BLK",
     "name": "Jumbo Erwtensoep Rijk Gevuld met Rookworst 800ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.03,
     "minimumAmount": 1,

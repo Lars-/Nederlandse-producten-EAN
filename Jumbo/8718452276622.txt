@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "196402POT",
     "name": "Jumbo Gele Paprika Gegrild 280g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.21,
     "minimumAmount": 1,

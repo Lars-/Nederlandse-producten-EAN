@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "208681ZK",
     "name": "Jumbo Paddenstoelen Girasoli 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.05,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "371536DS",
     "name": "Jumbo Biologische Rozenbottel & Appel Smaak Thee Infusie 15 Zakjes 24g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.39,
     "minimumAmount": 1,

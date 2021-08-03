@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "391425ZK",
     "name": "Jumbo Frites Mild Gekruid met Schil Super Krokant 750g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.49,
     "minimumAmount": 1,

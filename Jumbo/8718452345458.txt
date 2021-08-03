@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "213989PAK",
     "name": "Jumbo Soeppakket Tom Kha Kai Soep 900g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.79,
     "minimumAmount": 1,

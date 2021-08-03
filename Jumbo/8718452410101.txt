@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "295220ZK",
     "name": "Jumbo Lekker Vrij van Gluten Pannenkoekenmix 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.97,
     "minimumAmount": 1,

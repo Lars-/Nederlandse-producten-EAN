@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "431308STK",
     "name": "Jumbo Brokkenmix met Kip, Rund Groenten & Rijst 4kg",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6.44,
     "minimumAmount": 1,

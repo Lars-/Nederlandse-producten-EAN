@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "47732PAK",
     "name": "Jumbo Hollandse Nieuwe met Uitjes 3 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.69,
     "minimumAmount": 1,

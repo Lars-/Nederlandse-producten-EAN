@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "297032DS",
     "name": "Jumbo Verse Scharreleieren 6 Stuks M",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.93,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "198495BAK",
     "name": "Jumbo Rundervink 5 Stuks 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.15,
     "minimumAmount": 1,

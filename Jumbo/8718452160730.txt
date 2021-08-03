@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "174685DS",
     "name": "Jumbo Pleisters 10 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 0.98,
     "minimumAmount": 1,

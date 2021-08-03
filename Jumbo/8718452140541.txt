@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "166356PAK",
     "name": "Jumbo Brownie Mix 360g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.59,
     "minimumAmount": 1,

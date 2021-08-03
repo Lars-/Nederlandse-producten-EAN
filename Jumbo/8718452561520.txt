@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "441721PAK",
     "name": "Jumbo Appelsap 10 x 200ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.8,
     "minimumAmount": 1,

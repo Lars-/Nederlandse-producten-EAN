@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "197647DS",
     "name": "Jumbo Porties Havermout Banaan Smaak 5 Zakjes",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.77,
     "minimumAmount": 1,

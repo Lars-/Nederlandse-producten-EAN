@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "204092BAK",
     "name": "Jumbo Kipdijsatespies 225g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.5,
     "minimumAmount": 1,

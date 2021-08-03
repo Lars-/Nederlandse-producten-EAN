@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "196038POT",
     "name": "Jumbo Kruiden Aioli Knoflook Dip 130g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.57,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "386441FLS",
     "name": "Jumbo Barbecue Saus 250ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.71,
     "minimumAmount": 1,

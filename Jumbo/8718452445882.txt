@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "164309KRT",
     "name": "Jumbo - Focaccia Paprika & Olijf -  2 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.94,
     "minimumAmount": 1,

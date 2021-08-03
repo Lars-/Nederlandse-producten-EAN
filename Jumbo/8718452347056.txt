@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "222817DS",
     "name": "Jumbo Special Flakes Chocolade 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.12,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "407188KRT",
     "name": "Goudeerlijk - Stevig Volkoren Pompoenbrood - Vriesvers",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.59,
     "minimumAmount": 1,

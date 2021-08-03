@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "215310FLS",
     "name": "La Place Ahornsiroop 189ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.95,
     "minimumAmount": 1,

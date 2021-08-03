@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "276772ZK",
     "name": "Jumbo Chicken Wings 750g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.45,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "145324PAK",
     "name": "Jumbo Verse Slagroom 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.65,
     "minimumAmount": 1,

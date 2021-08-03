@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "443108BAK",
     "name": "Jumbo Gehaktballetjes in Ketjapsaus 296g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.7,
     "minimumAmount": 1,

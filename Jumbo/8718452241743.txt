@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "379954ZK",
     "name": "Jumbo Krenten 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.09,
     "minimumAmount": 1,

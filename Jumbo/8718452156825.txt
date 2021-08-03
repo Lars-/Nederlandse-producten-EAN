@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "170198DS",
     "name": "Jumbo Aardbei Schepijs 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.77,
     "minimumAmount": 1,

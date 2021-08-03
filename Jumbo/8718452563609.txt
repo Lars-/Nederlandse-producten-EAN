@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "444201ZK",
     "name": "La Place koffiebonen Lungo Decaffeinato 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5.59,
     "minimumAmount": 1,

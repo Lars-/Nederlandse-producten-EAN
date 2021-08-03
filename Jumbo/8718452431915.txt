@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "206613DS",
     "name": "Jumbo Zoetjes Sucralose Navulverpakking 5 x 100 Stuks 25g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.39,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "303720DS",
     "name": "Jumbo Vershoudzakken 3 L 30 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.89,
     "minimumAmount": 1,

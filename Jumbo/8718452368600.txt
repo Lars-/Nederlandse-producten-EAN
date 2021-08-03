@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "228090DS",
     "name": "Jumbo Kipfiletplakjes Mexicaanse Stijl 135g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2,
     "minimumAmount": 1,

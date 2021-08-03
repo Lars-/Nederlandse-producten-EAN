@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "230559BAK",
     "name": "Jumbo Groene Salade Boeren 295g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.36,
     "minimumAmount": 1,

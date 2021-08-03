@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "212152STK",
     "name": "Jumbo Spitskool 400g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.67,
     "minimumAmount": 1,

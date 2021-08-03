@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "295219DS",
     "name": "Jumbo Lekker Vrij van Gluten Lasagnebladen 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.15,
     "minimumAmount": 1,

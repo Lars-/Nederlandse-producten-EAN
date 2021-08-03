@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "392134POT",
     "name": "Jumbo Verdura Pastasaus 340g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.49,
     "minimumAmount": 1,

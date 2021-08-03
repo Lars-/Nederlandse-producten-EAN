@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "131570ZK",
     "name": "Jumbo Zoute Popcorn 100g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.98,
     "minimumAmount": 1,

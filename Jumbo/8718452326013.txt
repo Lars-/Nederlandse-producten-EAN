@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "218384STK",
     "name": "Jumbo Katten Snackstrips Kip Mini 50g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.49,
     "minimumAmount": 1,

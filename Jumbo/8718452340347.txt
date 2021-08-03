@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "381988ZK",
     "name": "Jumbo Luiers 4+ 10-15 kg 72 Stuks - Voordeelverpakking",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 9.38,
     "minimumAmount": 1,

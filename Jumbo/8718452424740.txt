@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "292110STK",
     "name": "Jumbo Amandelvijgenschijfjes 75g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.09,
     "minimumAmount": 1,

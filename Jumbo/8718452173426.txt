@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "135745PAK",
     "name": "Jumbo Duo Drank Aardbei Sinaasappel 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.3,
     "minimumAmount": 1,

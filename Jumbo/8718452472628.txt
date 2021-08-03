@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "139852BAK",
     "name": "Jumbo Spaghetti Balletjes in Tomatensaus 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.94,
     "minimumAmount": 1,

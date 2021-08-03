@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "297504BAK",
     "name": "Jumbo Garnalen met Staart 140g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 4.9,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "186036ZK",
     "name": "Jumbo Stroopwafels met Roomboter 468g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.65,
     "minimumAmount": 1,

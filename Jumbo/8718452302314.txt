@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "212151STK",
     "name": "Jumbo Uien Gesneden 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.97,
     "minimumAmount": 1,

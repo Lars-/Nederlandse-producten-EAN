@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "166409DS",
     "name": "Jumbo Lente Topper Lente Cupcakes Bakmix 240g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.69,
     "minimumAmount": 1,

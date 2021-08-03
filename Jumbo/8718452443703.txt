@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "375669ZK",
     "name": "Jumbo Oven Zoutjes 125g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.53,
     "minimumAmount": 1,

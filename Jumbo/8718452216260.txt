@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "201581BAK",
     "name": "Jumbo Speklap Varken 2 Stuks 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.55,
     "minimumAmount": 1,

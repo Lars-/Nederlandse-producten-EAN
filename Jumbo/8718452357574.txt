@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "226720BAK",
     "name": "Jumbo Saladetopper Grieks 225g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.27,
     "minimumAmount": 1,

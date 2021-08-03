@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "391877ZK",
     "name": "Jumbo Mini Krieltjes 600g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.89,
     "minimumAmount": 1,

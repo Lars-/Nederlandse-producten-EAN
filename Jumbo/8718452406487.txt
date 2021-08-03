@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "386265ZK",
     "name": "Jumbo Cappucino 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.58,
     "minimumAmount": 1,

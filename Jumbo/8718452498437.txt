@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "195077RP",
     "name": "Jumbo Hazelnoot Puur Chocolade Tablet 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 1.49,
     "minimumAmount": 1,

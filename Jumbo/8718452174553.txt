@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "74426DS",
     "name": "Jumbo Melkchocolade Ijsjes 4 stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.77,
     "minimumAmount": 1,

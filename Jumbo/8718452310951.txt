@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "204574STK",
     "name": "Jumbo Vakantiekaas Wapenaer Belegen 48+ 600g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 5,
     "minimumAmount": 1,

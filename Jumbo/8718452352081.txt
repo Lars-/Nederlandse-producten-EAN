@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "234876STK",
     "name": "Jumbo Melkchocolade Biscuits 9 Stuks 125g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.68,
     "minimumAmount": 1,

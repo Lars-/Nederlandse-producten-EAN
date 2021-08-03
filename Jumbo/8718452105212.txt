@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "270264PAK",
     "name": "Jumbo Huiswijn - Soepel - 3L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 9.89,
     "minimumAmount": 1,

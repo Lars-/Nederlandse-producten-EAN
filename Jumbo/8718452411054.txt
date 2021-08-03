@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "300445DS",
     "name": "Jumbo Kip Curry 450g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.5,
     "minimumAmount": 1,

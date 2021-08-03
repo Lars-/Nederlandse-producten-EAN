@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "391996FLS",
     "name": "Jumbo Bewust Culinair voor Bakken, Koken en Roerbakken 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.15,
     "minimumAmount": 1,

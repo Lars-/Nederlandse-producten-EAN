@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "166174BAK",
     "name": "Jumbo Gebraden Gehaktbal Rund 2 Stuks 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.58,
     "minimumAmount": 1,

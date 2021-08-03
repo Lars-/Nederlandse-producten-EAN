@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "211830BAK",
     "name": "Jumbo Stamppot Hutspot met Gehaktbal 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.44,
     "minimumAmount": 1,

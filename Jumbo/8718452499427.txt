@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "49609STK",
     "name": "Jumbo Houdbare Halfvolle Melk 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.98,
     "minimumAmount": 1,

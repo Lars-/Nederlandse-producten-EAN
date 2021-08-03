@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "194308BAK",
     "name": "Jumbo Melk Chocolade Rozijnen 225g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.96,
     "minimumAmount": 1,

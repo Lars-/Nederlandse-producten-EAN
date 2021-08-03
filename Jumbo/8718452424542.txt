@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "308389TRA",
     "name": "Jumbo Kip Boomstam 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2,
     "minimumAmount": 1,

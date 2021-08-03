@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "423753ZK",
     "name": "Jumbo Chips Paprika Biologisch 125g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.39,
     "minimumAmount": 1,

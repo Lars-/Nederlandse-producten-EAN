@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "292459STK",
     "name": "Jumbo Oosterse Roerbakmix 600g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.52,
     "minimumAmount": 1,

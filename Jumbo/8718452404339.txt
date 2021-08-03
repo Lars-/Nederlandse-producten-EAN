@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "276546BAK",
     "name": "Jumbo Paddenstoelen Wok Mix Pakket 280g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.99,
     "minimumAmount": 1,

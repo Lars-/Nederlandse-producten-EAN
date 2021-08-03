@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "202094DS",
     "name": "Jumbo Groene Thee Gember 20 Stuks 34g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.3,
     "minimumAmount": 1,

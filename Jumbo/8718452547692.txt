@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "433908PAK",
     "name": "Jumbo Direct van de Boerderij Karnemelk 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.23,
     "minimumAmount": 1,

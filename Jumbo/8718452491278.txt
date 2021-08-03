@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "63109PAK",
     "name": "Jumbo Ardenner Boterhamworst 150g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.16,
     "minimumAmount": 1,

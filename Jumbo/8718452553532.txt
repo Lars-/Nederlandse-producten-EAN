@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "422087STK",
     "name": "Jumbo - Fijn Volkoren - Vriesvers",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1,
     "minimumAmount": 1,

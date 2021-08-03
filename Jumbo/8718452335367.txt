@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "213651POT",
     "name": "Jumbo Snack Augurk Zoetzuur 360g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.92,
     "minimumAmount": 1,

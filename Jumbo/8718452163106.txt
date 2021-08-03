@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "173277KST",
     "name": "Jumbo Broodmix Wit Kant & Klaar 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.03,
     "minimumAmount": 1,

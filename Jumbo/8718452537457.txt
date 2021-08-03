@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "432223FLS",
     "name": "Jumbo Helder Bruisend Watermeloen 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.5,
     "minimumAmount": 1,

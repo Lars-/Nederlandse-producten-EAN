@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "387203BAK",
     "name": "Jumbo Lekker Veggie Sat\u00e9 Schnitzel Vegan 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.49,
     "minimumAmount": 1,

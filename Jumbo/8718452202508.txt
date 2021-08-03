@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "183481PAK",
     "name": "Jumbo Belegen Kaas Biologisch 48+ Plakken 190g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.92,
     "minimumAmount": 1,

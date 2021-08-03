@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "302292POT",
     "name": "Jumbo Room Spinazie 330g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.56,
     "minimumAmount": 1,

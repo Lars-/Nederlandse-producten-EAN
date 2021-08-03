@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "381983DSL",
     "name": "Jumbo Luiers 3 6-10 kg 3 x 48 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 17.46,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "214286DS",
     "name": "Jumbo Hygienische Handdoekjes 20 Stuks \u2013 Max. 2 per order",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.49,
     "minimumAmount": 1,

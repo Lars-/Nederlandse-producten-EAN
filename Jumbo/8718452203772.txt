@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "182223POT",
     "name": "Jumbo Peper Wit 180g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6.97,
     "minimumAmount": 1,

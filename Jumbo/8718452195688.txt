@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "222615CUP",
     "name": "Ei-Bieslook Salade 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.12,
     "minimumAmount": 1,

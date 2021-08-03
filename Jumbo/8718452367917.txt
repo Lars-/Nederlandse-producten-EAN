@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "236884DSL",
     "name": "Jumbo Vanillevla 6 x 1L",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 6.84,
     "minimumAmount": 1,

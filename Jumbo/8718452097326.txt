@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "156783FLS",
     "name": "Jumbo Afwasmiddel Citroen 500ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.6,
     "minimumAmount": 1,

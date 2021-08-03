@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "292460STK",
     "name": "Jumbo Italiaanse Roerbakmix 600g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.63,
     "minimumAmount": 1,

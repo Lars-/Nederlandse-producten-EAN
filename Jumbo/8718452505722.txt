@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "387109BAK",
     "name": "Jumbo Gesneden Paddenstoelenmix met Paprika 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.3,
     "minimumAmount": 1,

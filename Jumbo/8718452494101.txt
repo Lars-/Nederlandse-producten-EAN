@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "304662PAK",
     "name": "Jumbo Champignons 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": false,
     "price": 0.99,
     "minimumAmount": 1,

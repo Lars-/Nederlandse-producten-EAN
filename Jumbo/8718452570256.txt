@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "143404POT",
     "name": "Jumbo Rode Paprika Gegrild 290g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.7,
     "minimumAmount": 1,

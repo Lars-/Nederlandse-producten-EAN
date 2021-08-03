@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "300866EM",
     "name": "Jumbo Verse Soep Erwtensoep met Rookworst 500g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.89,
     "minimumAmount": 1,

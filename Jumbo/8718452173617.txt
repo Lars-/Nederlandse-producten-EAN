@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "206620STK",
     "name": "Jumbo Super Tampons 32 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "295093RP",
     "name": "Jumbo Wit Crispy Chocolade Reep 80g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.79,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "187324STK",
     "name": "Jumbo Groentjes Menthol 300g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.83,
     "minimumAmount": 1,

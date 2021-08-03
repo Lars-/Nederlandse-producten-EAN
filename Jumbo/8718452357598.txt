@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "226726BAK",
     "name": "Jumbo Saladetopper Biet & Geitenkaas 225g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 3.27,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "229310BAK",
     "name": "Jumbo Lekker Veggie Tempehblokjes Gemarineerd Vegan 170g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 2.99,
     "minimumAmount": 1,

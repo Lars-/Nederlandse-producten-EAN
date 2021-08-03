@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "407878DS",
     "name": "Jumbo Extra Jam Kleintjes 8 x 25g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.49,
     "minimumAmount": 1,

@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "385975BLS",
     "name": "Jumbo Tandpasta Sprookjesboom 5 - 12 Jaar 75ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.81,
     "minimumAmount": 1,

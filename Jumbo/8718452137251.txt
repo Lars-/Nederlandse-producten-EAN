@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "18628FLS",
     "name": "Jumbo Volle Koffiemelk 188ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.68,
     "minimumAmount": 1,

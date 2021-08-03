@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "130161PAK",
     "name": "Chocolate Cookies 8 Stuks 200g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.24,
     "minimumAmount": 1,

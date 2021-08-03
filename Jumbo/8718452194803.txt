@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "302241PAK",
     "name": "Jumbo Paprika Mix 3 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.89,
     "minimumAmount": 1,

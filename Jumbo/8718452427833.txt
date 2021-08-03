@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "332325PAK",
     "name": "Jumbo Koekjes Jan Hagel met Pindaschaafsel 250g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.81,
     "minimumAmount": 1,

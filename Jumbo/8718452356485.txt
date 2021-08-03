@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "304657STK",
     "name": "Goudeerlijk - Muesli Noten Brood Sneetjes - 5 Stuks",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1,
     "minimumAmount": 1,

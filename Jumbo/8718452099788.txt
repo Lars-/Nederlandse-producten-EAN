@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "203772POT",
     "name": "Jumbo Halvanaise 350ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.96,
     "minimumAmount": 1,

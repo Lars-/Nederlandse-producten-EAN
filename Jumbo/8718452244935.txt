@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "189406PAK",
     "name": "Jumbo - Ciabatta",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 0.81,
     "minimumAmount": 1,

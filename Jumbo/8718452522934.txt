@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "412095CUP",
     "name": "Jumbo Ma\u00efssnack met Chilismaak Gezouten 125g",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.85,
     "minimumAmount": 1,

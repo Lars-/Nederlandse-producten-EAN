@@ -1,6 +1,9 @@
 {
     "type": "Product",
+    "sku": "383733ZK",
     "name": "Jumbo Biologische Kruidige Tomatensoep 300ml",
+    "description": null,
+    "manufacturer": "Jumbo B.V.",
     "available": true,
     "price": 1.35,
     "minimumAmount": 1,
